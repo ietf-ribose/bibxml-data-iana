@@ -1,0 +1,8 @@
+<reference anchor="IANA.babel" target="http://www.iana.org/assignments/babel">
+  <front>
+    <title>Babel Routing Protocol</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.vcard-elements" target="http://www.iana.org/assignments/vcard-elements">
+  <front>
+    <title>vCard Elements</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

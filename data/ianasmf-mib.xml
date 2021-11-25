@@ -1,0 +1,8 @@
+<reference anchor="IANA.ianasmf-mib" target="http://www.iana.org/assignments/ianasmf-mib">
+  <front>
+    <title>IANA-SMF-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

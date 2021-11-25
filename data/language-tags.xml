@@ -1,0 +1,8 @@
+<reference anchor="IANA.language-tags" target="http://www.iana.org/assignments/language-tags">
+  <front>
+    <title>Language Tags - OBSOLETE</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

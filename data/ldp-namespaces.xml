@@ -1,0 +1,8 @@
+<reference anchor="IANA.ldp-namespaces" target="http://www.iana.org/assignments/ldp-namespaces">
+  <front>
+    <title>Label Distribution Protocol (LDP) Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

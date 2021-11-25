@@ -1,0 +1,8 @@
+<reference anchor="IANA.building-blocks" target="http://www.iana.org/assignments/building-blocks">
+  <front>
+    <title>Building Blocks</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

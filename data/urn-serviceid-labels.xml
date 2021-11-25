@@ -1,0 +1,8 @@
+<reference anchor="IANA.urn-serviceid-labels" target="http://www.iana.org/assignments/urn-serviceid-labels">
+  <front>
+    <title>Service URN Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

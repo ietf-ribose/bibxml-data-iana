@@ -1,0 +1,8 @@
+<reference anchor="IANA.ospf-sig-alg" target="http://www.iana.org/assignments/ospf-sig-alg">
+  <front>
+    <title>Open Shortest Path First (OSPF) Signature Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

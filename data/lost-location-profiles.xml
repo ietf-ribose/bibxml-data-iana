@@ -1,0 +1,8 @@
+<reference anchor="IANA.lost-location-profiles" target="http://www.iana.org/assignments/lost-location-profiles">
+  <front>
+    <title>Location-to-Service Translation (LoST) Location Profiles</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

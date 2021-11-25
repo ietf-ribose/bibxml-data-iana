@@ -1,0 +1,8 @@
+<reference anchor="IANA.eap-pax" target="http://www.iana.org/assignments/eap-pax">
+  <front>
+    <title>Extensible Authentication Protocol - Password Authenticated Exchange (EAP-PAX)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

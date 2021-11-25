@@ -1,0 +1,8 @@
+<reference anchor="IANA.iana-bfd-types" target="http://www.iana.org/assignments/iana-bfd-types">
+  <front>
+    <title>iana-bfd-types YANG Module</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.jscalendar" target="http://www.iana.org/assignments/jscalendar">
+  <front>
+    <title>JSCalendar</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

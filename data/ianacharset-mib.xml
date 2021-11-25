@@ -1,0 +1,8 @@
+<reference anchor="IANA.ianacharset-mib" target="http://www.iana.org/assignments/ianacharset-mib">
+  <front>
+    <title>IANA-CHARSET-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

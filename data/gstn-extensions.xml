@@ -1,0 +1,8 @@
+<reference anchor="IANA.gstn-extensions" target="http://www.iana.org/assignments/gstn-extensions">
+  <front>
+    <title>Global Switched Telephone Network (GSTN) Address Element Extensions in Email Services</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

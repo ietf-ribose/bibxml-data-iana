@@ -1,0 +1,8 @@
+<reference anchor="IANA.ospfv3-authentication-trailer-options" target="http://www.iana.org/assignments/ospfv3-authentication-trailer-options">
+  <front>
+    <title>Open Shortest Path First v3 (OSPFv3) Authentication Trailer Options</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

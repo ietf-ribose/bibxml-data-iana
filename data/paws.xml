@@ -1,0 +1,8 @@
+<reference anchor="IANA.paws" target="http://www.iana.org/assignments/paws">
+  <front>
+    <title>Protocol to Access White-Space (PAWS)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

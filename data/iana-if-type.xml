@@ -1,0 +1,8 @@
+<reference anchor="IANA.iana-if-type" target="http://www.iana.org/assignments/iana-if-type">
+  <front>
+    <title>iana-if-type YANG Module</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

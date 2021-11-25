@@ -1,0 +1,8 @@
+<reference anchor="IANA.battery-technologies" target="http://www.iana.org/assignments/battery-technologies">
+  <front>
+    <title>Battery Technologies</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

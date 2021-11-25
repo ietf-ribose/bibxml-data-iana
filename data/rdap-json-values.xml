@@ -1,0 +1,8 @@
+<reference anchor="IANA.rdap-json-values" target="http://www.iana.org/assignments/rdap-json-values">
+  <front>
+    <title>RDAP JSON Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

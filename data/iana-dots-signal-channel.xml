@@ -1,0 +1,8 @@
+<reference anchor="IANA.iana-dots-signal-channel" target="http://www.iana.org/assignments/iana-dots-signal-channel">
+  <front>
+    <title>iana-dots-signal-channel YANG Module</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
