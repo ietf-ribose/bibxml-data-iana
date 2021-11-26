@@ -6,13 +6,18 @@ def fetch(page = 1)
   # headers = { 'Authorization' => "token #{ENV['GITHUB_TOKEN']}" }
   req = Net::HTTP::Get.new uri
   req['authorization'] = "Bearer #{ENV['GITHUB_TOKEN']}" if ENV['GITHUB_TOKEN']
-  resp = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
-    http.request req
+  attempt = 0
+  json = {}
+  until attempt > 3 || json['items']
+    sleep 1 if attempt > 0
+    attempt += 1
+    resp = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
+      http.request req
+    end
+    json = JSON.parse resp.body
+    puts "Retry-After: #{resp['Retry-After']}" if resp['Retry-After']
+    puts "Page: #{page}; message: #{json['message']}; documentation_url: #{json['documentation_url']}"
   end
-  json = JSON.parse resp.body
-  puts "Retry-After: #{resp['Retry-After']}" if resp['Retry-After']
-  puts resp.to_hash
-  puts "Page: #{page}; message: #{json['message']}; documentation_url: #{json['documentation_url']}"
   # puts json.keys
   # puts "items_number: #{json['items'].size}"
   # puts "total_count: #{json['total_count']}"
