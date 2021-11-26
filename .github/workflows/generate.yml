@@ -20,9 +20,9 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: ruby search_files.rb
-        with:
-          AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       #   run: relaton fetch-data iana-registries -f bibxml
       # - name: Push data
       #   run: |
