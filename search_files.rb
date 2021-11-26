@@ -19,7 +19,10 @@ def fetch(page = 1)
   # json['items'].each do |item|
   #   puts item['name']
   # end
-  fetch(page + 1) if (json['total_count'].to_i - (page * 30)).positive?
+  if (json['total_count'].to_i - (page * 30)).positive?
+    sleep 1
+    fetch(page + 1)
+  end
 end
 
 puts "Token: #{ENV['GITHUB_TOKEN']}"
