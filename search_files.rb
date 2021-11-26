@@ -5,7 +5,7 @@ def fetch(page = 1)
   uri = URI "https://api.github.com/search/code?q=<registry+repo:ietf-ribose/iana-registries+extension:xml&page=#{page}"
   # headers = { 'Authorization' => "token #{ENV['GITHUB_TOKEN']}" }
   req = Net::HTTP::Get.new uri
-  req['Authorization'] = "token #{ENV['GITHUB_TOKEN']}" if ENV['GITHUB_TOKEN']
+  req['Authorization'] = "token #{ENV['GITHUB_TOKEN']}"
   resp = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
     http.request req
   end
