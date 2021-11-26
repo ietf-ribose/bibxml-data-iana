@@ -32,4 +32,12 @@ def fetch(page = 1)
   end
 end
 
+uri_lim = URI "https://api.github.com/rate_limit"
+req_lim = Net::HTTP::Get.new uri_lim
+req_lim['authorization'] = "Bearer #{ENV['GITHUB_TOKEN']}" if ENV['GITHUB_TOKEN']
+resp_lim = Net::HTTP.start(uri_lim.host, uri_lim.port, :use_ssl => uri_lim.scheme == 'https') do |http|
+  http.request(req_lim)
+end
+puts "Rate limit: #{resp_lim.body}"
+
 fetch
