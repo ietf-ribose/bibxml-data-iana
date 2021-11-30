@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-data-collection-communities-std/bgp-data-collection-communities-std-1" target="http://www.iana.org/assignments/bgp-data-collection-communities-std">
+  <front>
+    <title>BGP Data Collection Standard Communities</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

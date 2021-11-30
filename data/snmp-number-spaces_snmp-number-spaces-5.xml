@@ -1,0 +1,8 @@
+<reference anchor="IANA.snmp-number-spaces/snmp-number-spaces-5" target="http://www.iana.org/assignments/snmp-number-spaces">
+  <front>
+    <title>SnmpAuthProtocols</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.trill-parameters/trill-ver-capability" target="http://www.iana.org/assignments/trill-parameters">
+  <front>
+    <title>TRILL-VER Sub-TLV Capability Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

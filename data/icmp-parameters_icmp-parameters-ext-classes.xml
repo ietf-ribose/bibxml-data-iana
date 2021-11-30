@@ -1,0 +1,8 @@
+<reference anchor="IANA.icmp-parameters/icmp-parameters-ext-classes" target="http://www.iana.org/assignments/icmp-parameters">
+  <front>
+    <title>ICMP Extension Object Classes and Class Sub-types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

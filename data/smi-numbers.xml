@@ -1,0 +1,8 @@
+<reference anchor="IANA.smi-numbers" target="http://www.iana.org/assignments/smi-numbers">
+  <front>
+    <title>Structure of Management Information (SMI) Numbers (MIB Module Registrations)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

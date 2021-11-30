@@ -1,0 +1,8 @@
+<reference anchor="IANA.jose/web-encryption-compression-algorithms" target="http://www.iana.org/assignments/jose">
+  <front>
+    <title>JSON Web Encryption Compression Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

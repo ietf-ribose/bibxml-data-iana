@@ -1,0 +1,8 @@
+<reference anchor="IANA.hip-parameters/hip-cipher-id" target="http://www.iana.org/assignments/hip-parameters">
+  <front>
+    <title>HIP Cipher ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

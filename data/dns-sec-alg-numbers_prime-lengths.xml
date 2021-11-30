@@ -1,0 +1,8 @@
+<reference anchor="IANA.dns-sec-alg-numbers/prime-lengths" target="http://www.iana.org/assignments/dns-sec-alg-numbers">
+  <front>
+    <title>DNS KEY Record Diffie-Hellman Prime Lengths</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

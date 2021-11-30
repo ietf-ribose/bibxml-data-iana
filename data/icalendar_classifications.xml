@@ -1,0 +1,8 @@
+<reference anchor="IANA.icalendar/classifications" target="http://www.iana.org/assignments/icalendar">
+  <front>
+    <title>Classifications</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

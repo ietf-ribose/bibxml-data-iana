@@ -1,0 +1,8 @@
+<reference anchor="IANA.multicast-addresses/glop" target="http://www.iana.org/assignments/multicast-addresses">
+  <front>
+    <title>GLOP Block</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.trans/trans-hash-algorithms" target="http://www.iana.org/assignments/trans">
+  <front>
+    <title>Hash Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

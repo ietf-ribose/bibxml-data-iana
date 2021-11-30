@@ -1,0 +1,8 @@
+<reference anchor="IANA.icmpv6-parameters/icmpv6-parameters-7" target="http://www.iana.org/assignments/icmpv6-parameters">
+  <front>
+    <title>Certificate option  (Type 16) Cert Type field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

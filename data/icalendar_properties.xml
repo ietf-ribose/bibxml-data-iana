@@ -1,0 +1,8 @@
+<reference anchor="IANA.icalendar/properties" target="http://www.iana.org/assignments/icalendar">
+  <front>
+    <title>Properties</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

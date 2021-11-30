@@ -1,0 +1,8 @@
+<reference anchor="IANA.cisco-sla-protocol/authenticator-modes" target="http://www.iana.org/assignments/cisco-sla-protocol">
+  <front>
+    <title>Cisco SLA Protocol Authenticator Modes Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

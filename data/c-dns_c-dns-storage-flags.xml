@@ -1,0 +1,8 @@
+<reference anchor="IANA.c-dns/c-dns-storage-flags" target="http://www.iana.org/assignments/c-dns">
+  <front>
+    <title>C-DNS Storage Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

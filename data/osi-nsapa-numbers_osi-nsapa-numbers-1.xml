@@ -1,0 +1,8 @@
+<reference anchor="IANA.osi-nsapa-numbers/osi-nsapa-numbers-1" target="http://www.iana.org/assignments/osi-nsapa-numbers">
+  <front>
+    <title>OSI NSAPA Internet Code Points for AFI 35</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

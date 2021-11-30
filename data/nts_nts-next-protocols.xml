@@ -1,0 +1,8 @@
+<reference anchor="IANA.nts/nts-next-protocols" target="http://www.iana.org/assignments/nts">
+  <front>
+    <title>Network Time Security Next Protocols</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

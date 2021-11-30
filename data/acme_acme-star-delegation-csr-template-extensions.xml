@@ -1,0 +1,8 @@
+<reference anchor="IANA.acme/acme-star-delegation-csr-template-extensions" target="http://www.iana.org/assignments/acme">
+  <front>
+    <title>STAR Delegation CSR Template Extensions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

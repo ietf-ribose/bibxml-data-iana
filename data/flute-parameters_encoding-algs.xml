@@ -1,0 +1,8 @@
+<reference anchor="IANA.flute-parameters/encoding-algs" target="http://www.iana.org/assignments/flute-parameters">
+  <front>
+    <title>FLUTE Content Encoding Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

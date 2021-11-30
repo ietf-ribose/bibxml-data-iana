@@ -1,0 +1,8 @@
+<reference anchor="IANA.cose/elliptic-curves" target="http://www.iana.org/assignments/cose">
+  <front>
+    <title>COSE Elliptic Curves</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

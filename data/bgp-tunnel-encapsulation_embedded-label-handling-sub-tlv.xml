@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+  <front>
+    <title>Embedded Label Handling Sub-TLVs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

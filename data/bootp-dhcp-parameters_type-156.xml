@@ -1,0 +1,8 @@
+<reference anchor="IANA.bootp-dhcp-parameters/type-156" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+  <front>
+    <title>DHCP State Type 156 Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

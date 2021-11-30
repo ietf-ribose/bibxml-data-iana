@@ -1,0 +1,8 @@
+<reference anchor="IANA.captive-portals/api-keys" target="http://www.iana.org/assignments/captive-portals">
+  <front>
+    <title>Captive Portal API Keys</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

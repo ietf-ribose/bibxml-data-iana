@@ -1,0 +1,8 @@
+<reference anchor="IANA.trans/trans-versionedtranstype" target="http://www.iana.org/assignments/trans">
+  <front>
+    <title>VersionedTransTypes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

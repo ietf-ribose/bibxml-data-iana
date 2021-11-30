@@ -1,0 +1,8 @@
+<reference anchor="IANA.forces/message-types" target="http://www.iana.org/assignments/forces">
+  <front>
+    <title>Message Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.bmp-parameters/peer-flags-loc-rib" target="http://www.iana.org/assignments/bmp-parameters">
+  <front>
+    <title>BMP Peer Flags for Loc-RIB Instance Peer Type 3</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

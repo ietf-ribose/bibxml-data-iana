@@ -1,0 +1,8 @@
+<reference anchor="IANA.restconf-capability-urns/restconf-index-urns" target="http://www.iana.org/assignments/restconf-capability-urns">
+  <front>
+    <title>RESTCONF Capability URNs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

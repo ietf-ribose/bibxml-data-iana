@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-extended-communities/generic-transitive-experimental-part2" target="http://www.iana.org/assignments/bgp-extended-communities">
+  <front>
+    <title>Generic Transitive Experimental Use Extended Community Part 2 Sub-Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

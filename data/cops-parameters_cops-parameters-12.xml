@@ -1,0 +1,8 @@
+<reference anchor="IANA.cops-parameters/cops-parameters-12" target="http://www.iana.org/assignments/cops-parameters">
+  <front>
+    <title>M-Types, Reason Sub-Codes, and Error Sub-codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

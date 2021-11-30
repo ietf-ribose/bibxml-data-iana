@@ -1,0 +1,8 @@
+<reference anchor="IANA.iodef2/noderole-category" target="http://www.iana.org/assignments/iodef2">
+  <front>
+    <title>NodeRole-category</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

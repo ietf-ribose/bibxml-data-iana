@@ -1,0 +1,8 @@
+<reference anchor="IANA.bmp-parameters/peer-types" target="http://www.iana.org/assignments/bmp-parameters">
+  <front>
+    <title>BMP Peer Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

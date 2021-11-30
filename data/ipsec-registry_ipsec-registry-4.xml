@@ -1,0 +1,8 @@
+<reference anchor="IANA.ipsec-registry/ipsec-registry-4" target="http://www.iana.org/assignments/ipsec-registry">
+  <front>
+    <title>Encryption Algorithm Class Values (Value 1)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

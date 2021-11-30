@@ -1,0 +1,8 @@
+<reference anchor="IANA.gsmpv3-failure/gsmpv3-failure-2" target="http://www.iana.org/assignments/gsmpv3-failure">
+  <front>
+    <title>Failure Response Message Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

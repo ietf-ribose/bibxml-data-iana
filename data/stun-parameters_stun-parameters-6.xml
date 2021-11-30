@@ -1,0 +1,8 @@
+<reference anchor="IANA.stun-parameters/stun-parameters-6" target="http://www.iana.org/assignments/stun-parameters">
+  <front>
+    <title>STUN Error Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-parameters/bfd-mode" target="http://www.iana.org/assignments/bgp-parameters">
+  <front>
+    <title>BFD Mode</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

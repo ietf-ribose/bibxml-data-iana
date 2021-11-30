@@ -1,0 +1,8 @@
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-32" target="http://www.iana.org/assignments/mobileip-numbers">
+  <front>
+    <title>PMIPv4 Subscriber ID Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

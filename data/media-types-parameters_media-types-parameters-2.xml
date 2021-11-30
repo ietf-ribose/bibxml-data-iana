@@ -1,0 +1,8 @@
+<reference anchor="IANA.media-types-parameters/media-types-parameters-2" target="http://www.iana.org/assignments/media-types-parameters">
+  <front>
+    <title>X.400 to MIME Table - Basic Body Parts</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

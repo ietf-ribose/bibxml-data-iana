@@ -1,0 +1,8 @@
+<reference anchor="IANA.kerberos-parameters/pre-authentication" target="http://www.iana.org/assignments/kerberos-parameters">
+  <front>
+    <title>Pre-authentication and Typed Data</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

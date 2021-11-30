@@ -1,0 +1,8 @@
+<reference anchor="IANA.media-type-sub-parameters/media-type-sub-parameters-17" target="http://www.iana.org/assignments/media-type-sub-parameters">
+  <front>
+    <title>Sub-parameter Registry for application/mbox</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

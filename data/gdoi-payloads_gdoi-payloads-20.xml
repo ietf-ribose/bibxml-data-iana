@@ -1,0 +1,8 @@
+<reference anchor="IANA.gdoi-payloads/gdoi-payloads-20" target="http://www.iana.org/assignments/gdoi-payloads">
+  <front>
+    <title>GAP Payload Policy Attributes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
