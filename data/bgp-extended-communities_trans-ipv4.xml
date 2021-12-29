@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities/trans-ipv4" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA bgp-extended-communities/trans-ipv4" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Transitive IPv4-Address-Specific Extended Community Sub-Types</title>
     <author>

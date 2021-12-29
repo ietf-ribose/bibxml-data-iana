@@ -1,4 +1,4 @@
-<reference anchor="IANA.keytable/algid" target="http://www.iana.org/assignments/keytable">
+<reference anchor="IANA keytable/algid" target="http://www.iana.org/assignments/keytable">
   <front>
     <title>KeyTable AlgIDs</title>
     <author>

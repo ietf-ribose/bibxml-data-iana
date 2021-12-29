@@ -1,4 +1,4 @@
-<reference anchor="IANA.pvds/additional-information-pvd-keys" target="http://www.iana.org/assignments/pvds">
+<reference anchor="IANA pvds/additional-information-pvd-keys" target="http://www.iana.org/assignments/pvds">
   <front>
     <title>Additional Information PvD Keys</title>
     <author>

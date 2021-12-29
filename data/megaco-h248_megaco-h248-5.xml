@@ -1,4 +1,4 @@
-<reference anchor="IANA.megaco-h248/megaco-h248-5" target="http://www.iana.org/assignments/megaco-h248">
+<reference anchor="IANA megaco-h248/megaco-h248-5" target="http://www.iana.org/assignments/megaco-h248">
   <front>
     <title>ServiceChange Reasons</title>
     <author>

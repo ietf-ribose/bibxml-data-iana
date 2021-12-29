@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki/bgpsec-path-flags" target="http://www.iana.org/assignments/rpki">
+<reference anchor="IANA rpki/bgpsec-path-flags" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>BGPsec_Path Flags</title>
     <author>

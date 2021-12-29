@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospfv3-parameters/ospfv3-parameters-9" target="http://www.iana.org/assignments/ospfv3-parameters">
+<reference anchor="IANA ospfv3-parameters/ospfv3-parameters-9" target="http://www.iana.org/assignments/ospfv3-parameters">
   <front>
     <title>OSPFv3 Instance ID Address Family Values</title>
     <author>

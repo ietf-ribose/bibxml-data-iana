@@ -1,4 +1,4 @@
-<reference anchor="IANA.cisco-sla-protocol/version-numbers" target="http://www.iana.org/assignments/cisco-sla-protocol">
+<reference anchor="IANA cisco-sla-protocol/version-numbers" target="http://www.iana.org/assignments/cisco-sla-protocol">
   <front>
     <title>Cisco SLA Protocol Version Number Registry</title>
     <author>

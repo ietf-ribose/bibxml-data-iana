@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-parameters/dns-parameters-13" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA dns-parameters/dns-parameters-13" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>EDNS Header Flags (16 bits)</title>
     <author>

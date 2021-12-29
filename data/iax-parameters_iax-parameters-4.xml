@@ -1,4 +1,4 @@
-<reference anchor="IANA.iax-parameters/iax-parameters-4" target="http://www.iana.org/assignments/iax-parameters">
+<reference anchor="IANA iax-parameters/iax-parameters-4" target="http://www.iana.org/assignments/iax-parameters">
   <front>
     <title>IAX Control Frames</title>
     <author>

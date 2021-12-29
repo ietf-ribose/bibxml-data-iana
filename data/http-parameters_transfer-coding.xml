@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-parameters/transfer-coding" target="http://www.iana.org/assignments/http-parameters">
+<reference anchor="IANA http-parameters/transfer-coding" target="http://www.iana.org/assignments/http-parameters">
   <front>
     <title>HTTP Transfer Coding Registry</title>
     <author>

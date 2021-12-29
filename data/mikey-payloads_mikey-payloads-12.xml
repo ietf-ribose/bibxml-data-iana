@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-12" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="IANA mikey-payloads/mikey-payloads-12" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>DH Data Payload Field Names</title>
     <author>

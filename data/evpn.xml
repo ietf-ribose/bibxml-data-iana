@@ -1,4 +1,4 @@
-<reference anchor="IANA.evpn" target="http://www.iana.org/assignments/evpn">
+<reference anchor="IANA evpn" target="http://www.iana.org/assignments/evpn">
   <front>
     <title>Ethernet VPN (EVPN)</title>
     <author>

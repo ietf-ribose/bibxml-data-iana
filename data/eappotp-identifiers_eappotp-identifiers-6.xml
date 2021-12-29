@@ -1,4 +1,4 @@
-<reference anchor="IANA.eappotp-identifiers/eappotp-identifiers-6" target="http://www.iana.org/assignments/eappotp-identifiers">
+<reference anchor="IANA eappotp-identifiers/eappotp-identifiers-6" target="http://www.iana.org/assignments/eappotp-identifiers">
   <front>
     <title>MAC Algorithms</title>
     <author>

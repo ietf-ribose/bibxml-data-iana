@@ -1,4 +1,4 @@
-<reference anchor="IANA.isakmp-registry/isakmp-registry-13" target="http://www.iana.org/assignments/isakmp-registry">
+<reference anchor="IANA isakmp-registry/isakmp-registry-13" target="http://www.iana.org/assignments/isakmp-registry">
   <front>
     <title>IPSEC Security Association Attributes</title>
     <author>

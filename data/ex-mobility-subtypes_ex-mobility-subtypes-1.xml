@@ -1,4 +1,4 @@
-<reference anchor="IANA.ex-mobility-subtypes/ex-mobility-subtypes-1" target="http://www.iana.org/assignments/ex-mobility-subtypes">
+<reference anchor="IANA ex-mobility-subtypes/ex-mobility-subtypes-1" target="http://www.iana.org/assignments/ex-mobility-subtypes">
   <front>
     <title>Experimental Mobility Protocol Subtype Registry</title>
     <author>

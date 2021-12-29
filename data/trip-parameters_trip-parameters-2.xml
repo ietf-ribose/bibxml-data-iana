@@ -1,4 +1,4 @@
-<reference anchor="IANA.trip-parameters/trip-parameters-2" target="http://www.iana.org/assignments/trip-parameters">
+<reference anchor="IANA trip-parameters/trip-parameters-2" target="http://www.iana.org/assignments/trip-parameters">
   <front>
     <title>TRIP Attributes</title>
     <author>

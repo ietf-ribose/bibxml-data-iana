@@ -1,4 +1,4 @@
-<reference anchor="IANA.acap-registrations/acap-registrations-4" target="http://www.iana.org/assignments/acap-registrations">
+<reference anchor="IANA acap-registrations/acap-registrations-4" target="http://www.iana.org/assignments/acap-registrations">
   <front>
     <title>Vendor Subtrees</title>
     <author>

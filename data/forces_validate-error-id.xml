@@ -1,4 +1,4 @@
-<reference anchor="IANA.forces/validate-error-id" target="http://www.iana.org/assignments/forces">
+<reference anchor="IANA forces/validate-error-id" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Validate Error ID</title>
     <author>

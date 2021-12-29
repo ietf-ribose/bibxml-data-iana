@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki/bgpsec-algorithm-suite" target="http://www.iana.org/assignments/rpki">
+<reference anchor="IANA rpki/bgpsec-algorithm-suite" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>BGPsec Algorithm Suites</title>
     <author>

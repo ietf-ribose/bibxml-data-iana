@@ -1,4 +1,4 @@
-<reference anchor="IANA.nntp-parameters/compression-algorithms" target="http://www.iana.org/assignments/nntp-parameters">
+<reference anchor="IANA nntp-parameters/compression-algorithms" target="http://www.iana.org/assignments/nntp-parameters">
   <front>
     <title>NNTP Compression Algorithms</title>
     <author>

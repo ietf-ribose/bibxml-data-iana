@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA bgp-parameters" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>Border Gateway Protocol (BGP) Parameters</title>
     <author>

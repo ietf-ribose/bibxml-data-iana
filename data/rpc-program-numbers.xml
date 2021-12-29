@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpc-program-numbers" target="http://www.iana.org/assignments/rpc-program-numbers">
+<reference anchor="IANA rpc-program-numbers" target="http://www.iana.org/assignments/rpc-program-numbers">
   <front>
     <title>Remote Procedure Call (RPC) Program Numbers</title>
     <author>

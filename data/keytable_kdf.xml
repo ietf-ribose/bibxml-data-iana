@@ -1,4 +1,4 @@
-<reference anchor="IANA.keytable/kdf" target="http://www.iana.org/assignments/keytable">
+<reference anchor="IANA keytable/kdf" target="http://www.iana.org/assignments/keytable">
   <front>
     <title>KeyTable KDFs</title>
     <author>

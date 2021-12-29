@@ -1,4 +1,4 @@
-<reference anchor="IANA.senml/secondary-units" target="http://www.iana.org/assignments/senml">
+<reference anchor="IANA senml/secondary-units" target="http://www.iana.org/assignments/senml">
   <front>
     <title>Secondary Units</title>
     <author>

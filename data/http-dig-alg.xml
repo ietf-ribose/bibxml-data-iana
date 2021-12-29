@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-dig-alg" target="http://www.iana.org/assignments/http-dig-alg">
+<reference anchor="IANA http-dig-alg" target="http://www.iana.org/assignments/http-dig-alg">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Digest Algorithm Values</title>
     <author>

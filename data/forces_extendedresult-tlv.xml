@@ -1,4 +1,4 @@
-<reference anchor="IANA.forces/extendedresult-tlv" target="http://www.iana.org/assignments/forces">
+<reference anchor="IANA forces/extendedresult-tlv" target="http://www.iana.org/assignments/forces">
   <front>
     <title>EXTENDEDRESULT-TLV Result Values</title>
     <author>

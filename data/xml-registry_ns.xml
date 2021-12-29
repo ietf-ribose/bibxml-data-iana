@@ -1,4 +1,4 @@
-<reference anchor="IANA.xml-registry/ns" target="http://www.iana.org/assignments/xml-registry">
+<reference anchor="IANA xml-registry/ns" target="http://www.iana.org/assignments/xml-registry">
   <front>
     <title>ns</title>
     <author>

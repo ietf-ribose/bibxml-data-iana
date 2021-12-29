@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/open-object-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/open-object-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Open Object Flag Field</title>
     <author>

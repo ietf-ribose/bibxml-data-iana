@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-28" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA mobileip-numbers/mobileip-numbers-28" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>PMIPv4 Skippable Extension (Value 147)</title>
     <author>

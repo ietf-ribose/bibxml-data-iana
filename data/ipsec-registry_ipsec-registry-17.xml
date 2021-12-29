@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-17" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA ipsec-registry/ipsec-registry-17" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Exchange Type</title>
     <author>

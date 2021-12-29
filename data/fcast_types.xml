@@ -1,4 +1,4 @@
-<reference anchor="IANA.fcast/types" target="http://www.iana.org/assignments/fcast">
+<reference anchor="IANA fcast/types" target="http://www.iana.org/assignments/fcast">
   <front>
     <title>FCAST Object Metadata Types</title>
     <author>

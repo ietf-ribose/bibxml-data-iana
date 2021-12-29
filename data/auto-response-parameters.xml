@@ -1,4 +1,4 @@
-<reference anchor="IANA.auto-response-parameters" target="http://www.iana.org/assignments/auto-response-parameters">
+<reference anchor="IANA auto-response-parameters" target="http://www.iana.org/assignments/auto-response-parameters">
   <front>
     <title>Automatic Responses to Electronic Mail Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.authentication-method-reference-values/amr-values" target="http://www.iana.org/assignments/authentication-method-reference-values">
+<reference anchor="IANA authentication-method-reference-values/amr-values" target="http://www.iana.org/assignments/authentication-method-reference-values">
   <front>
     <title>Authentication Method Reference Values</title>
     <author>

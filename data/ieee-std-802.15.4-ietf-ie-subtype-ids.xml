@@ -1,4 +1,4 @@
-<reference anchor="IANA.ieee-std-802.15.4-ietf-ie-subtype-ids" target="http://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids">
+<reference anchor="IANA ieee-std-802.15.4-ietf-ie-subtype-ids" target="http://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids">
   <front>
     <title>IEEE Std 802.15.4 IETF IE Subtype IDs</title>
     <author>

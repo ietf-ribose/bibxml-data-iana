@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/bulkobservable-type" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IANA iodef2/bulkobservable-type" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>BulkObservable-type</title>
     <author>

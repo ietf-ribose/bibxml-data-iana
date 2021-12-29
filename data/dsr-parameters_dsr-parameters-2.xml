@@ -1,4 +1,4 @@
-<reference anchor="IANA.dsr-parameters/dsr-parameters-2" target="http://www.iana.org/assignments/dsr-parameters">
+<reference anchor="IANA dsr-parameters/dsr-parameters-2" target="http://www.iana.org/assignments/dsr-parameters">
   <front>
     <title>Dynamic Source Routing (DSR) Protocol Route Error Types</title>
     <author>

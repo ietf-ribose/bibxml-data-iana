@@ -1,4 +1,4 @@
-<reference anchor="IANA.mdn" target="http://www.iana.org/assignments/mdn">
+<reference anchor="IANA mdn" target="http://www.iana.org/assignments/mdn">
   <front>
     <title>Message Disposition Notification (MDN) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/generalized-endpoint-type" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/generalized-endpoint-type" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Generalized Endpoint Types</title>
     <author>

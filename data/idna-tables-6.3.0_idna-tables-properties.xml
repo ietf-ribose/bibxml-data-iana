@@ -1,4 +1,4 @@
-<reference anchor="IANA.idna-tables-6.3.0/idna-tables-properties" target="http://www.iana.org/assignments/idna-tables-6.3.0">
+<reference anchor="IANA idna-tables-6.3.0/idna-tables-properties" target="http://www.iana.org/assignments/idna-tables-6.3.0">
   <front>
     <title>IDNA Derived Properties</title>
     <author>

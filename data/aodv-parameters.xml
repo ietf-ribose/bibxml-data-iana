@@ -1,4 +1,4 @@
-<reference anchor="IANA.aodv-parameters" target="http://www.iana.org/assignments/aodv-parameters">
+<reference anchor="IANA aodv-parameters" target="http://www.iana.org/assignments/aodv-parameters">
   <front>
     <title>Ad Hoc On Demand Distance Vector (AODV) Parameters</title>
     <author>

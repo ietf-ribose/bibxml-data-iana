@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/cc-cv-mep-id" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="IANA g-ach-parameters/cc-cv-mep-id" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>CC/CV MEP-ID TLV Registry</title>
     <author>

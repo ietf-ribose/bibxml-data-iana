@@ -1,4 +1,4 @@
-<reference anchor="IANA.sun-rpc-numbers/sun-rpc-numbers-1" target="http://www.iana.org/assignments/sun-rpc-numbers">
+<reference anchor="IANA sun-rpc-numbers/sun-rpc-numbers-1" target="http://www.iana.org/assignments/sun-rpc-numbers">
   <front>
     <title>SUN RPC Numbers</title>
     <author>

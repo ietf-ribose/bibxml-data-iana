@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-1" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA sigtran-adapt/sigtran-adapt-1" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Classes</title>
     <author>

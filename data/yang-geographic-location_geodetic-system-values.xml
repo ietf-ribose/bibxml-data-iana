@@ -1,4 +1,4 @@
-<reference anchor="IANA.yang-geographic-location/geodetic-system-values" target="http://www.iana.org/assignments/yang-geographic-location">
+<reference anchor="IANA yang-geographic-location/geodetic-system-values" target="http://www.iana.org/assignments/yang-geographic-location">
   <front>
     <title>Geodetic System Values</title>
     <author>

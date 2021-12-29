@@ -1,4 +1,4 @@
-<reference anchor="IANA.iax-parameters/iax-parameters-14" target="http://www.iana.org/assignments/iax-parameters">
+<reference anchor="IANA iax-parameters/iax-parameters-14" target="http://www.iana.org/assignments/iax-parameters">
   <front>
     <title>IAX Encryption Methods</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.nfsv4-path-variables/nfsv4-path-variables-3" target="http://www.iana.org/assignments/nfsv4-path-variables">
+<reference anchor="IANA nfsv4-path-variables/nfsv4-path-variables-3" target="http://www.iana.org/assignments/nfsv4-path-variables">
   <front>
     <title>NFSv4 ${ietf.org:OS_TYPE} Values</title>
     <author>

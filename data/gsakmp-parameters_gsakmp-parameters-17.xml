@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-17" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="IANA gsakmp-parameters/gsakmp-parameters-17" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Nonce Types</title>
     <author>

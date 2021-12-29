@@ -1,4 +1,4 @@
-<reference anchor="IANA.stamp-tlv-types/stamp-synchronization-sources" target="http://www.iana.org/assignments/stamp-tlv-types">
+<reference anchor="IANA stamp-tlv-types/stamp-synchronization-sources" target="http://www.iana.org/assignments/stamp-tlv-types">
   <front>
     <title>STAMP Synchronization Sources</title>
     <author>

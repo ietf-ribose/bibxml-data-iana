@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl-routing-metric-constraint/common-header-flag" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="IANA rpl-routing-metric-constraint/common-header-flag" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Routing Metric/Constraint Common Header Flag field</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.dkim-parameters/dkim-parameters-5" target="http://www.iana.org/assignments/dkim-parameters">
+<reference anchor="IANA dkim-parameters/dkim-parameters-5" target="http://www.iana.org/assignments/dkim-parameters">
   <front>
     <title>_domainkey DNS TXT Record Tag Specifications</title>
     <author>

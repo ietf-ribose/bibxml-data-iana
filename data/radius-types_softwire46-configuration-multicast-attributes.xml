@@ -1,4 +1,4 @@
-<reference anchor="IANA.radius-types/softwire46-configuration-multicast-attributes" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="IANA radius-types/softwire46-configuration-multicast-attributes" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>RADIUS Softwire46 Configuration and Multicast Attributes</title>
     <author>

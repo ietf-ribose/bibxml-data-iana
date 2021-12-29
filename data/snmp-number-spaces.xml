@@ -1,4 +1,4 @@
-<reference anchor="IANA.snmp-number-spaces" target="http://www.iana.org/assignments/snmp-number-spaces">
+<reference anchor="IANA snmp-number-spaces" target="http://www.iana.org/assignments/snmp-number-spaces">
   <front>
     <title>Simple Network Management Protocol (SNMP) Number Spaces</title>
     <author>

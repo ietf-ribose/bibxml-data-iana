@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-12" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA ipsec-registry/ipsec-registry-12" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Group Type (Value 5)</title>
     <author>

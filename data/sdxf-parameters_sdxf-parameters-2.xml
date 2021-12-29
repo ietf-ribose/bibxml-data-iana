@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdxf-parameters/sdxf-parameters-2" target="http://www.iana.org/assignments/sdxf-parameters">
+<reference anchor="IANA sdxf-parameters/sdxf-parameters-2" target="http://www.iana.org/assignments/sdxf-parameters">
   <front>
     <title>Encryption Methods for SDXF</title>
     <author>

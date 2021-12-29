@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcp-convergence-xfer-refuse-reason" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/tcp-convergence-xfer-refuse-reason" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version 4 XFER_REFUSE Reason Codes</title>
     <author>

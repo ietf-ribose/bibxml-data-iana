@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/validity-time-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA manet-parameters/validity-time-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 1 Message TLV Type Extensions</title>
     <author>

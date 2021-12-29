@@ -1,4 +1,4 @@
-<reference anchor="IANA.iscsi-parameters/iscsi-parameters-7" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="IANA iscsi-parameters/iscsi-parameters-7" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSCSI Asynchronous Events</title>
     <author>

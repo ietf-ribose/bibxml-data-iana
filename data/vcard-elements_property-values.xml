@@ -1,4 +1,4 @@
-<reference anchor="IANA.vcard-elements/property-values" target="http://www.iana.org/assignments/vcard-elements">
+<reference anchor="IANA vcard-elements/property-values" target="http://www.iana.org/assignments/vcard-elements">
   <front>
     <title>vCard Property Values</title>
     <author>

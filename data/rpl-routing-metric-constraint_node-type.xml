@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl-routing-metric-constraint/node-type" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="IANA rpl-routing-metric-constraint/node-type" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Node Type Field</title>
     <author>

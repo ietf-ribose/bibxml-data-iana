@@ -1,4 +1,4 @@
-<reference anchor="IANA.sam-baseline/alm-message-codes" target="http://www.iana.org/assignments/sam-baseline">
+<reference anchor="IANA sam-baseline/alm-message-codes" target="http://www.iana.org/assignments/sam-baseline">
   <front>
     <title>SAM ALM Message Codes</title>
     <author>

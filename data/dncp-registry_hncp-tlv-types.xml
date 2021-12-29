@@ -1,4 +1,4 @@
-<reference anchor="IANA.dncp-registry/hncp-tlv-types" target="http://www.iana.org/assignments/dncp-registry">
+<reference anchor="IANA dncp-registry/hncp-tlv-types" target="http://www.iana.org/assignments/dncp-registry">
   <front>
     <title>HNCP TLV Types</title>
     <author>

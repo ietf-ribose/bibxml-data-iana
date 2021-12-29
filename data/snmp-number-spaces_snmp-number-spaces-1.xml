@@ -1,4 +1,4 @@
-<reference anchor="IANA.snmp-number-spaces/snmp-number-spaces-1" target="http://www.iana.org/assignments/snmp-number-spaces">
+<reference anchor="IANA snmp-number-spaces/snmp-number-spaces-1" target="http://www.iana.org/assignments/snmp-number-spaces">
   <front>
     <title>Security Models</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsip-parameters" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="IANA rsip-parameters" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>Realm Specific IP (RSIP) Parameters</title>
     <author>

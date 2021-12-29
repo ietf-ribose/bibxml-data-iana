@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/rpl-dco-ack-flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA rpl/rpl-dco-ack-flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Destination Cleanup Object Acknowledgment (DCO) Acknowledgment Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.core-parameters" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="IANA core-parameters" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>Constrained RESTful Environments (CoRE) Parameters</title>
     <author>

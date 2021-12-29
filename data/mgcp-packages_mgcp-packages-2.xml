@@ -1,4 +1,4 @@
-<reference anchor="IANA.mgcp-packages/mgcp-packages-2" target="http://www.iana.org/assignments/mgcp-packages">
+<reference anchor="IANA mgcp-packages/mgcp-packages-2" target="http://www.iana.org/assignments/mgcp-packages">
   <front>
     <title>List of Extension Digit Map Letters</title>
     <author>

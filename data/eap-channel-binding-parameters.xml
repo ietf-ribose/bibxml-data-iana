@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-channel-binding-parameters" target="http://www.iana.org/assignments/eap-channel-binding-parameters">
+<reference anchor="IANA eap-channel-binding-parameters" target="http://www.iana.org/assignments/eap-channel-binding-parameters">
   <front>
     <title>Extensible Authentication Protocol (EAP) Channel-Binding Parameters</title>
     <author>

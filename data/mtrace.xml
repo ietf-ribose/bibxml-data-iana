@@ -1,4 +1,4 @@
-<reference anchor="IANA.mtrace" target="http://www.iana.org/assignments/mtrace">
+<reference anchor="IANA mtrace" target="http://www.iana.org/assignments/mtrace">
   <front>
     <title>IP Multicast Traceroute Facility (Mtrace)</title>
     <author>

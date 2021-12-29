@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA rpl/flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Solicited Information Option Flags</title>
     <author>

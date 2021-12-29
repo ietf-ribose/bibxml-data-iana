@@ -1,4 +1,4 @@
-<reference anchor="IANA.dskpp" target="http://www.iana.org/assignments/dskpp">
+<reference anchor="IANA dskpp" target="http://www.iana.org/assignments/dskpp">
   <front>
     <title>Dynamic Symmetric Key Provisioning Protocol (DSKPP)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-failure" target="http://www.iana.org/assignments/gsmpv3-failure">
+<reference anchor="IANA gsmpv3-failure" target="http://www.iana.org/assignments/gsmpv3-failure">
   <front>
     <title>Global Switch Management Protocol version 3 (GSMPv3) Failure Response Message Name Space</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-parameters/dns-parameters-12" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA dns-parameters/dns-parameters-12" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>DNS Header Flags</title>
     <author>

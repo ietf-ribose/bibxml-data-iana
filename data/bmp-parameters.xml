@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="IANA bmp-parameters" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BGP Monitoring Protocol (BMP) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/alternate-tunnel-sub-elements" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="IANA capwap-parameters/alternate-tunnel-sub-elements" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>Alternate Tunnel Sub-elements</title>
     <author>

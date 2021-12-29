@@ -1,4 +1,4 @@
-<reference anchor="IANA.te-link-capabilities/te-node-capabilities" target="http://www.iana.org/assignments/te-link-capabilities">
+<reference anchor="IANA te-link-capabilities/te-node-capabilities" target="http://www.iana.org/assignments/te-link-capabilities">
   <front>
     <title>TE Node Capabilities</title>
     <author>

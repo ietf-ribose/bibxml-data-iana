@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="IANA l2tp-parameters" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Layer Two Tunneling Protocol "L2TP"</title>
     <author>

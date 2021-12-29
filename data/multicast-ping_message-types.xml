@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-ping/message-types" target="http://www.iana.org/assignments/multicast-ping">
+<reference anchor="IANA multicast-ping/message-types" target="http://www.iana.org/assignments/multicast-ping">
   <front>
     <title>Multicast Ping Protocol Message Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.dlep-parameters/hop-control-actions-values" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="IANA dlep-parameters/hop-control-actions-values" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>Hop Control Actions Values</title>
     <author>

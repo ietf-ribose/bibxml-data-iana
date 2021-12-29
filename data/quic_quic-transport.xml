@@ -1,4 +1,4 @@
-<reference anchor="IANA.quic/quic-transport" target="http://www.iana.org/assignments/quic">
+<reference anchor="IANA quic/quic-transport" target="http://www.iana.org/assignments/quic">
   <front>
     <title>QUIC Transport Parameters</title>
     <author>

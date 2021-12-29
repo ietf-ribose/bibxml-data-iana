@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities/layer2-info-extended-community-control-flags-bit-vector" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA bgp-extended-communities/layer2-info-extended-community-control-flags-bit-vector" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Layer2 Info Extended Community Control Flags Bit Vector</title>
     <author>

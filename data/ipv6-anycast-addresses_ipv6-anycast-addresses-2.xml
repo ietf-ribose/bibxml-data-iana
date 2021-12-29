@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-anycast-addresses/ipv6-anycast-addresses-2" target="http://www.iana.org/assignments/ipv6-anycast-addresses">
+<reference anchor="IANA ipv6-anycast-addresses/ipv6-anycast-addresses-2" target="http://www.iana.org/assignments/ipv6-anycast-addresses">
   <front>
     <title>IPv6 Anycast Subnet-Router Anycast Address</title>
     <author>

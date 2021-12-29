@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="IANA gmpls-sig-parameters" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Generalized Multi-Protocol Label Switching (GMPLS) Signaling Parameters</title>
     <author>

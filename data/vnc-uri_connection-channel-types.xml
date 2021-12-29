@@ -1,4 +1,4 @@
-<reference anchor="IANA.vnc-uri/connection-channel-types" target="http://www.iana.org/assignments/vnc-uri">
+<reference anchor="IANA vnc-uri/connection-channel-types" target="http://www.iana.org/assignments/vnc-uri">
   <front>
     <title>VNC URI Connection Channel Types</title>
     <author>

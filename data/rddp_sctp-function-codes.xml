@@ -1,4 +1,4 @@
-<reference anchor="IANA.rddp/sctp-function-codes" target="http://www.iana.org/assignments/rddp">
+<reference anchor="IANA rddp/sctp-function-codes" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>SCTP Function Codes for DDP Stream Session Control</title>
     <author>

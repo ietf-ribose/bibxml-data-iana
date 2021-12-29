@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/stateful-pce-capability-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/stateful-pce-capability-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>STATEFUL-PCE-CAPABILITY TLV Flag Field</title>
     <author>

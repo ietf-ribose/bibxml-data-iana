@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppp-numbers/ppp-numbers-25" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="IANA ppp-numbers/ppp-numbers-25" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP EAP Request/Response Types</title>
     <author>

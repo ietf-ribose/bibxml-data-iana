@@ -1,4 +1,4 @@
-<reference anchor="IANA.iscsi-parameters/iscsi-parameters-15" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="IANA iscsi-parameters/iscsi-parameters-15" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSER Opcodes</title>
     <author>

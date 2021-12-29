@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/hashdata-scope" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IANA iodef2/hashdata-scope" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>HashData-scope</title>
     <author>

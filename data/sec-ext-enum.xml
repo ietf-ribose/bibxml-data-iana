@@ -1,4 +1,4 @@
-<reference anchor="IANA.sec-ext-enum" target="http://www.iana.org/assignments/sec-ext-enum">
+<reference anchor="IANA sec-ext-enum" target="http://www.iana.org/assignments/sec-ext-enum">
   <front>
     <title>Security External Enumeration Registry</title>
     <author>

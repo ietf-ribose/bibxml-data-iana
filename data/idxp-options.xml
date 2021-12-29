@@ -1,4 +1,4 @@
-<reference anchor="IANA.idxp-options" target="http://www.iana.org/assignments/idxp-options">
+<reference anchor="IANA idxp-options" target="http://www.iana.org/assignments/idxp-options">
   <front>
     <title>Intrusion Detection Exchange Protocol (IDXP) Options</title>
     <author>

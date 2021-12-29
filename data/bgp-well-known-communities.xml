@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-well-known-communities" target="http://www.iana.org/assignments/bgp-well-known-communities">
+<reference anchor="IANA bgp-well-known-communities" target="http://www.iana.org/assignments/bgp-well-known-communities">
   <front>
     <title>Border Gateway Protocol (BGP) Well-known Communities</title>
     <author>

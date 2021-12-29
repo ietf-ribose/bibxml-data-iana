@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdp-parameters/cs-correlation-values" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="IANA sdp-parameters/cs-correlation-values" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>"cs-correlation" Attribute Values</title>
     <author>

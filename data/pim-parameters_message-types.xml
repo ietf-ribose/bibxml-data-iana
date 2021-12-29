@@ -1,4 +1,4 @@
-<reference anchor="IANA.pim-parameters/message-types" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="IANA pim-parameters/message-types" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM Message Types</title>
     <author>

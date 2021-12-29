@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-clf-parameters/transport-flag" target="http://www.iana.org/assignments/sip-clf-parameters">
+<reference anchor="IANA sip-clf-parameters/transport-flag" target="http://www.iana.org/assignments/sip-clf-parameters">
   <front>
     <title>SIP CLF Transport Flag Values</title>
     <author>

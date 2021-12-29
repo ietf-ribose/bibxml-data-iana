@@ -1,4 +1,4 @@
-<reference anchor="IANA.ikev2-parameters/hash-algorithms" target="http://www.iana.org/assignments/ikev2-parameters">
+<reference anchor="IANA ikev2-parameters/hash-algorithms" target="http://www.iana.org/assignments/ikev2-parameters">
   <front>
     <title>IKEv2 Hash Algorithms</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.stun-parameters/stun-parameters-2" target="http://www.iana.org/assignments/stun-parameters">
+<reference anchor="IANA stun-parameters/stun-parameters-2" target="http://www.iana.org/assignments/stun-parameters">
   <front>
     <title>STUN Methods</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.nsh/md-types" target="http://www.iana.org/assignments/nsh">
+<reference anchor="IANA nsh/md-types" target="http://www.iana.org/assignments/nsh">
   <front>
     <title>NSH MD Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.quic/quic-frame-types" target="http://www.iana.org/assignments/quic">
+<reference anchor="IANA quic/quic-frame-types" target="http://www.iana.org/assignments/quic">
   <front>
     <title>QUIC Frame Types</title>
     <author>

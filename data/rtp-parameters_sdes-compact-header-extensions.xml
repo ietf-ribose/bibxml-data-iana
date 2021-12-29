@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtp-parameters/sdes-compact-header-extensions" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="IANA rtp-parameters/sdes-compact-header-extensions" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>RTP SDES Compact Header Extensions</title>
     <author>

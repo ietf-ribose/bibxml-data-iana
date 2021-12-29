@@ -1,4 +1,4 @@
-<reference anchor="IANA.lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-register" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="IANA lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-register" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Control Plane Header Bits: Map-Register</title>
     <author>

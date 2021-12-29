@@ -1,4 +1,4 @@
-<reference anchor="IANA.ltp-parameters/cancel-segment-reason-codes" target="http://www.iana.org/assignments/ltp-parameters">
+<reference anchor="IANA ltp-parameters/cancel-segment-reason-codes" target="http://www.iana.org/assignments/ltp-parameters">
   <front>
     <title>LTP Cancel Segment Reason Codes</title>
     <author>

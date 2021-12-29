@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/objects" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA nslp-parameters/objects" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>NSLP Message Objects</title>
     <author>

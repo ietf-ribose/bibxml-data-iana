@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/sfp-association-type" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA bgp-parameters/sfp-association-type" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>SFP Association Type</title>
     <author>

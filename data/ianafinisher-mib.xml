@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianafinisher-mib" target="http://www.iana.org/assignments/ianafinisher-mib">
+<reference anchor="IANA ianafinisher-mib" target="http://www.iana.org/assignments/ianafinisher-mib">
   <front>
     <title>IANA-FINISHER-MIB</title>
     <author>

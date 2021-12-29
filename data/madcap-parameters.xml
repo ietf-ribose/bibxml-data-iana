@@ -1,4 +1,4 @@
-<reference anchor="IANA.madcap-parameters" target="http://www.iana.org/assignments/madcap-parameters">
+<reference anchor="IANA madcap-parameters" target="http://www.iana.org/assignments/madcap-parameters">
   <front>
     <title>Multicast Address Dynamic Client Allocation Protocol (MADCAP) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.notification-capability-parameters/notification-capability-parameters-2" target="http://www.iana.org/assignments/notification-capability-parameters">
+<reference anchor="IANA notification-capability-parameters/notification-capability-parameters-2" target="http://www.iana.org/assignments/notification-capability-parameters">
   <front>
     <title>Notification-Capability Parameters</title>
     <author>

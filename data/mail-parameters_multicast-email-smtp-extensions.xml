@@ -1,4 +1,4 @@
-<reference anchor="IANA.mail-parameters/multicast-email-smtp-extensions" target="http://www.iana.org/assignments/mail-parameters">
+<reference anchor="IANA mail-parameters/multicast-email-smtp-extensions" target="http://www.iana.org/assignments/mail-parameters">
   <front>
     <title>Multicast Email SMTP Extensions</title>
     <author>

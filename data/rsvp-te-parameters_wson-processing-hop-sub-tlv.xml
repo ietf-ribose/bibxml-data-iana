@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-te-parameters/wson-processing-hop-sub-tlv" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="IANA rsvp-te-parameters/wson-processing-hop-sub-tlv" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Sub-TLV Types for WSON Processing Hop Attribute TLV</title>
     <author>

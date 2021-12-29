@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppspp/merkle-hash-tree" target="http://www.iana.org/assignments/ppspp">
+<reference anchor="IANA ppspp/merkle-hash-tree" target="http://www.iana.org/assignments/ppspp">
   <front>
     <title>PPSP Peer Protocol Merkle Hash Tree Function Registry</title>
     <author>

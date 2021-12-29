@@ -1,4 +1,4 @@
-<reference anchor="IANA.dsn-types" target="http://www.iana.org/assignments/dsn-types">
+<reference anchor="IANA dsn-types" target="http://www.iana.org/assignments/dsn-types">
   <front>
     <title>Delivery Status Notification (DSN) Types</title>
     <author>

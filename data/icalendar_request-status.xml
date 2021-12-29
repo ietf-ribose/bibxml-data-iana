@@ -1,4 +1,4 @@
-<reference anchor="IANA.icalendar/request-status" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="IANA icalendar/request-status" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>REQUEST-STATUS Values</title>
     <author>

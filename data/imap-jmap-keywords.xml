@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-jmap-keywords" target="http://www.iana.org/assignments/imap-jmap-keywords">
+<reference anchor="IANA imap-jmap-keywords" target="http://www.iana.org/assignments/imap-jmap-keywords">
   <front>
     <title>IMAP and JMAP Keywords</title>
     <author>

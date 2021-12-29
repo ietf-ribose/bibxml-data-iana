@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-18" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA ipsec-registry/ipsec-registry-18" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Additional Exchanges Defined-- XCHG values</title>
     <author>

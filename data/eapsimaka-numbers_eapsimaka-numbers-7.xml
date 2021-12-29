@@ -1,4 +1,4 @@
-<reference anchor="IANA.eapsimaka-numbers/eapsimaka-numbers-7" target="http://www.iana.org/assignments/eapsimaka-numbers">
+<reference anchor="IANA eapsimaka-numbers/eapsimaka-numbers-7" target="http://www.iana.org/assignments/eapsimaka-numbers">
   <front>
     <title>EAP-AKA' AT_KDF Key Derivation Function Values</title>
     <author>

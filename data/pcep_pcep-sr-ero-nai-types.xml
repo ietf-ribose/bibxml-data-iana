@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/pcep-sr-ero-nai-types" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/pcep-sr-ero-nai-types" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP SR-ERO NAI Types</title>
     <author>

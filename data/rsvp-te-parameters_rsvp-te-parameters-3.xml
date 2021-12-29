@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-te-parameters/rsvp-te-parameters-3" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="IANA rsvp-te-parameters/rsvp-te-parameters-3" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Session Attribute Object Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcp-parameters/result-codes" target="http://www.iana.org/assignments/pcp-parameters">
+<reference anchor="IANA pcp-parameters/result-codes" target="http://www.iana.org/assignments/pcp-parameters">
   <front>
     <title>PCP Result Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.spi-numbers/spi-numbers-1" target="http://www.iana.org/assignments/spi-numbers">
+<reference anchor="IANA spi-numbers/spi-numbers-1" target="http://www.iana.org/assignments/spi-numbers">
   <front>
     <title>Security Parameters Index (SPI)</title>
     <author>

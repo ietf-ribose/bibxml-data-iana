@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA mobileip-numbers" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Mobile IPv4 Numbers</title>
     <author>

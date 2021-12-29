@@ -1,4 +1,4 @@
-<reference anchor="IANA.security-txt-fields/security-txt-fields" target="http://www.iana.org/assignments/security-txt-fields">
+<reference anchor="IANA security-txt-fields/security-txt-fields" target="http://www.iana.org/assignments/security-txt-fields">
   <front>
     <title>security.txt Fields</title>
     <author>

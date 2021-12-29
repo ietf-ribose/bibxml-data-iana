@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-metadata-control-data" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
+<reference anchor="IANA emergency-call-metadata-control-data" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
   <front>
     <title>Emergency Call Metadata/Control Data</title>
     <author>

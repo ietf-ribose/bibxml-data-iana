@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki/rpki-rtr-error" target="http://www.iana.org/assignments/rpki">
+<reference anchor="IANA rpki/rpki-rtr-error" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>rpki-rtr-error</title>
     <author>

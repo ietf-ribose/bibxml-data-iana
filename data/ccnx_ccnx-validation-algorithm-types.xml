@@ -1,4 +1,4 @@
-<reference anchor="IANA.ccnx/ccnx-validation-algorithm-types" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="IANA ccnx/ccnx-validation-algorithm-types" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Validation Algorithm Types</title>
     <author>

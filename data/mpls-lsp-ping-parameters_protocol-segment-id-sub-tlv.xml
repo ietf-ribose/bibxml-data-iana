@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/protocol-segment-id-sub-tlv" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="IANA mpls-lsp-ping-parameters/protocol-segment-id-sub-tlv" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Protocol in the Segment ID sub-TLV</title>
     <author>

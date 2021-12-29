@@ -1,4 +1,4 @@
-<reference anchor="IANA.snmp-number-spaces/snmp-number-spaces-4" target="http://www.iana.org/assignments/snmp-number-spaces">
+<reference anchor="IANA snmp-number-spaces/snmp-number-spaces-4" target="http://www.iana.org/assignments/snmp-number-spaces">
   <front>
     <title>SnmpEngineID Formats</title>
     <author>

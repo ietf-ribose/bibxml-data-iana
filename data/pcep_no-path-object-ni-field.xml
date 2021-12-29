@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/no-path-object-ni-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/no-path-object-ni-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>NO-PATH Object NI Field</title>
     <author>

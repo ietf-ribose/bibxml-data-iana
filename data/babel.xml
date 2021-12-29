@@ -1,4 +1,4 @@
-<reference anchor="IANA.babel" target="http://www.iana.org/assignments/babel">
+<reference anchor="IANA babel" target="http://www.iana.org/assignments/babel">
   <front>
     <title>Babel Routing Protocol</title>
     <author>

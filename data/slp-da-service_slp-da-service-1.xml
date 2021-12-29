@@ -1,4 +1,4 @@
-<reference anchor="IANA.slp-da-service/slp-da-service-1" target="http://www.iana.org/assignments/slp-da-service">
+<reference anchor="IANA slp-da-service/slp-da-service-1" target="http://www.iana.org/assignments/slp-da-service">
   <front>
     <title>SLP Remote Service Discovery</title>
     <author>

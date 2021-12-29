@@ -1,4 +1,4 @@
-<reference anchor="IANA.syslog-parameters" target="http://www.iana.org/assignments/syslog-parameters">
+<reference anchor="IANA syslog-parameters" target="http://www.iana.org/assignments/syslog-parameters">
   <front>
     <title>syslog Parameters</title>
     <author>

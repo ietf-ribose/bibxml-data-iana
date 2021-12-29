@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki/signed-objects" target="http://www.iana.org/assignments/rpki">
+<reference anchor="IANA rpki/signed-objects" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>RPKI Signed Objects</title>
     <author>

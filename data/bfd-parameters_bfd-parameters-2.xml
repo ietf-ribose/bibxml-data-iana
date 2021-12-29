@@ -1,4 +1,4 @@
-<reference anchor="IANA.bfd-parameters/bfd-parameters-2" target="http://www.iana.org/assignments/bfd-parameters">
+<reference anchor="IANA bfd-parameters/bfd-parameters-2" target="http://www.iana.org/assignments/bfd-parameters">
   <front>
     <title>BFD Authentication Types</title>
     <author>

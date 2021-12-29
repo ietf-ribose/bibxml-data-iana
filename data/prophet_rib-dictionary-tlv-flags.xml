@@ -1,4 +1,4 @@
-<reference anchor="IANA.prophet/rib-dictionary-tlv-flags" target="http://www.iana.org/assignments/prophet">
+<reference anchor="IANA prophet/rib-dictionary-tlv-flags" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>RIB Dictionary TLV Flags</title>
     <author>

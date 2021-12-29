@@ -1,4 +1,4 @@
-<reference anchor="IANA.oauth-parameters/authorization-server-metadata" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="IANA oauth-parameters/authorization-server-metadata" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Authorization Server Metadata</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/error-codes" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA nslp-parameters/error-codes" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>QoS Model Error Codes</title>
     <author>

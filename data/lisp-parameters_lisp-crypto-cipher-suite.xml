@@ -1,4 +1,4 @@
-<reference anchor="IANA.lisp-parameters/lisp-crypto-cipher-suite" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="IANA lisp-parameters/lisp-crypto-cipher-suite" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Crypto Cipher Suite</title>
     <author>

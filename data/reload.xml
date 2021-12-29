@@ -1,4 +1,4 @@
-<reference anchor="IANA.reload" target="http://www.iana.org/assignments/reload">
+<reference anchor="IANA reload" target="http://www.iana.org/assignments/reload">
   <front>
     <title>REsource LOcation And Discovery (RELOAD)</title>
     <author>

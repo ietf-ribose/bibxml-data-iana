@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="IANA bootp-dhcp-parameters/options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>BOOTP Vendor Extensions and DHCP Options</title>
     <author>

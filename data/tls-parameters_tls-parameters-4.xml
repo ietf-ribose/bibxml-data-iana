@@ -1,4 +1,4 @@
-<reference anchor="IANA.tls-parameters/tls-parameters-4" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="IANA tls-parameters/tls-parameters-4" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS Cipher Suites</title>
     <author>

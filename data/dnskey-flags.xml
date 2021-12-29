@@ -1,4 +1,4 @@
-<reference anchor="IANA.dnskey-flags" target="http://www.iana.org/assignments/dnskey-flags">
+<reference anchor="IANA dnskey-flags" target="http://www.iana.org/assignments/dnskey-flags">
   <front>
     <title>DNSKEY FLAGS</title>
     <author>

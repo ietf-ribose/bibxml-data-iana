@@ -1,4 +1,4 @@
-<reference anchor="IANA.tunnel-setup-protocol" target="http://www.iana.org/assignments/tunnel-setup-protocol">
+<reference anchor="IANA tunnel-setup-protocol" target="http://www.iana.org/assignments/tunnel-setup-protocol">
   <front>
     <title>Tunnel Setup Protocol (TSP) Parameters</title>
     <author>

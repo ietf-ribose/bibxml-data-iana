@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-eke/failure-code" target="http://www.iana.org/assignments/eap-eke">
+<reference anchor="IANA eap-eke/failure-code" target="http://www.iana.org/assignments/eap-eke">
   <front>
     <title>EAP-EKE Failure-Code Registry</title>
     <author>

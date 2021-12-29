@@ -1,4 +1,4 @@
-<reference anchor="IANA.hoba-key-identifiers" target="http://www.iana.org/assignments/hoba-key-identifiers">
+<reference anchor="IANA hoba-key-identifiers" target="http://www.iana.org/assignments/hoba-key-identifiers">
   <front>
     <title>HTTP Origin-Bound Authentication (HOBA) Key Identifier Types</title>
     <author>

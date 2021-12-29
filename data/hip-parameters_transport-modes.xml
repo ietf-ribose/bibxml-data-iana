@@ -1,4 +1,4 @@
-<reference anchor="IANA.hip-parameters/transport-modes" target="http://www.iana.org/assignments/hip-parameters">
+<reference anchor="IANA hip-parameters/transport-modes" target="http://www.iana.org/assignments/hip-parameters">
   <front>
     <title>HIP Transport Modes</title>
     <author>

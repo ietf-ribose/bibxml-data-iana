@@ -1,4 +1,4 @@
-<reference anchor="IANA.jose/web-signature-encryption-header-parameters" target="http://www.iana.org/assignments/jose">
+<reference anchor="IANA jose/web-signature-encryption-header-parameters" target="http://www.iana.org/assignments/jose">
   <front>
     <title>JSON Web Signature and Encryption Header Parameters</title>
     <author>

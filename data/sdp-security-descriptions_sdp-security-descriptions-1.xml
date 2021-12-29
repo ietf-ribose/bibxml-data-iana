@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdp-security-descriptions/sdp-security-descriptions-1" target="http://www.iana.org/assignments/sdp-security-descriptions">
+<reference anchor="IANA sdp-security-descriptions/sdp-security-descriptions-1" target="http://www.iana.org/assignments/sdp-security-descriptions">
   <front>
     <title>Key Methods</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-6" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA sigtran-adapt/sigtran-adapt-6" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - ASP Traffic Maintenance (ASPTM) Messages (Value 4)</title>
     <author>

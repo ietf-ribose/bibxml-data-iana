@@ -1,4 +1,4 @@
-<reference anchor="IANA.tzdist-identifiers" target="http://www.iana.org/assignments/tzdist-identifiers">
+<reference anchor="IANA tzdist-identifiers" target="http://www.iana.org/assignments/tzdist-identifiers">
   <front>
     <title>Time Zone Data Distribution Service (TZDIST) Identifiers</title>
     <author>

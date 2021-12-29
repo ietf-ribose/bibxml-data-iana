@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpc-authentication-numbers" target="http://www.iana.org/assignments/rpc-authentication-numbers">
+<reference anchor="IANA rpc-authentication-numbers" target="http://www.iana.org/assignments/rpc-authentication-numbers">
   <front>
     <title>Remote Procedure Call (RPC) Authentication Numbers</title>
     <author>

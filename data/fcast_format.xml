@@ -1,4 +1,4 @@
-<reference anchor="IANA.fcast/format" target="http://www.iana.org/assignments/fcast">
+<reference anchor="IANA fcast/format" target="http://www.iana.org/assignments/fcast">
   <front>
     <title>FCAST Object Metadata Format</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/control-message-options" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA rpl/control-message-options" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>RPL Control Message Options</title>
     <author>

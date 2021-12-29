@@ -1,4 +1,4 @@
-<reference anchor="IANA.pwe3-parameters/generic-protocol-flags" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="IANA pwe3-parameters/generic-protocol-flags" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>PW Generic Protocol Flags</title>
     <author>

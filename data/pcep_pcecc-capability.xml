@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/pcecc-capability" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/pcecc-capability" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCECC-CAPABILITY sub-TLV</title>
     <author>

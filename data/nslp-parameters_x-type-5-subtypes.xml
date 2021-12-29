@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/x-type-5-subtypes" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA nslp-parameters/x-type-5-subtypes" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>START_TIME (X-Type 5) SubType values</title>
     <author>

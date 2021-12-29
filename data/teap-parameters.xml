@@ -1,4 +1,4 @@
-<reference anchor="IANA.teap-parameters" target="http://www.iana.org/assignments/teap-parameters">
+<reference anchor="IANA teap-parameters" target="http://www.iana.org/assignments/teap-parameters">
   <front>
     <title>Tunnel Extensible Authentication Protocol (TEAP) Parameters</title>
     <author>

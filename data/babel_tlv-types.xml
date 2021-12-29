@@ -1,4 +1,4 @@
-<reference anchor="IANA.babel/tlv-types" target="http://www.iana.org/assignments/babel">
+<reference anchor="IANA babel/tlv-types" target="http://www.iana.org/assignments/babel">
   <front>
     <title>Babel TLV Types</title>
     <author>

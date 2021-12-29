@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-acquisition/status-code" target="http://www.iana.org/assignments/multicast-acquisition">
+<reference anchor="IANA multicast-acquisition/status-code" target="http://www.iana.org/assignments/multicast-acquisition">
   <front>
     <title>Multicast Acquisition Status Code Space Registry</title>
     <author>

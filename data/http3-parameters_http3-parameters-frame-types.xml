@@ -1,4 +1,4 @@
-<reference anchor="IANA.http3-parameters/http3-parameters-frame-types" target="http://www.iana.org/assignments/http3-parameters">
+<reference anchor="IANA http3-parameters/http3-parameters-frame-types" target="http://www.iana.org/assignments/http3-parameters">
   <front>
     <title>HTTP/3 Frame Types</title>
     <author>

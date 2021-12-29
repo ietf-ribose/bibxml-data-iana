@@ -1,4 +1,4 @@
-<reference anchor="IANA.dncp-registry" target="http://www.iana.org/assignments/dncp-registry">
+<reference anchor="IANA dncp-registry" target="http://www.iana.org/assignments/dncp-registry">
   <front>
     <title>Distributed Node Consensus Protocol (DNCP)</title>
     <author>

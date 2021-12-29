@@ -1,4 +1,4 @@
-<reference anchor="IANA.emsk-parameters/emsk-parameters-1" target="http://www.iana.org/assignments/emsk-parameters">
+<reference anchor="IANA emsk-parameters/emsk-parameters-1" target="http://www.iana.org/assignments/emsk-parameters">
   <front>
     <title>User Specific Root Keys (USRK) Key Labels</title>
     <author>

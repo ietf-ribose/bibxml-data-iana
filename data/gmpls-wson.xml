@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-wson" target="http://www.iana.org/assignments/gmpls-wson">
+<reference anchor="IANA gmpls-wson" target="http://www.iana.org/assignments/gmpls-wson">
   <front>
     <title>GMPLS Routing Parameters for WSON</title>
     <author>

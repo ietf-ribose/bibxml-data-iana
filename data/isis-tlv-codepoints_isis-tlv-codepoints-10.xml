@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-tlv-codepoints/isis-tlv-codepoints-10" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA isis-tlv-codepoints/isis-tlv-codepoints-10" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>IS-IS Authentication Type Codes for TLV 10 (Authentication TLV)</title>
     <author>

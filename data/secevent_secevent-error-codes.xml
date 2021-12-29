@@ -1,4 +1,4 @@
-<reference anchor="IANA.secevent/secevent-error-codes" target="http://www.iana.org/assignments/secevent">
+<reference anchor="IANA secevent/secevent-error-codes" target="http://www.iana.org/assignments/secevent">
   <front>
     <title>Security Event Token Error Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-parameters" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA dns-parameters" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>Domain Name System (DNS) Parameters</title>
     <author>

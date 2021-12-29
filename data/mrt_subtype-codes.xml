@@ -1,4 +1,4 @@
-<reference anchor="IANA.mrt/subtype-codes" target="http://www.iana.org/assignments/mrt">
+<reference anchor="IANA mrt/subtype-codes" target="http://www.iana.org/assignments/mrt">
   <front>
     <title>Subtype Codes</title>
     <author>

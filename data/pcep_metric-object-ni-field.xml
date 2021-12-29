@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/metric-object-ni-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/metric-object-ni-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>METRIC Object T Field</title>
     <author>

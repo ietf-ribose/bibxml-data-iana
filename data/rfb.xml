@@ -1,4 +1,4 @@
-<reference anchor="IANA.rfb" target="http://www.iana.org/assignments/rfb">
+<reference anchor="IANA rfb" target="http://www.iana.org/assignments/rfb">
   <front>
     <title>Remote Framebuffer (RFB)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-2" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA mobileip-numbers/mobileip-numbers-2" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Extensions to Mobile IP Registration Messages</title>
     <author>

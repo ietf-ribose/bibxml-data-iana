@@ -1,4 +1,4 @@
-<reference anchor="IANA.tls-parameters/tls-parameters-18" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="IANA tls-parameters/tls-parameters-18" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS HashAlgorithm</title>
     <author>

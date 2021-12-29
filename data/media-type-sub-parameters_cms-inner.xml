@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-type-sub-parameters/cms-inner" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="IANA media-type-sub-parameters/cms-inner" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>CMS Inner Content Types</title>
     <author>

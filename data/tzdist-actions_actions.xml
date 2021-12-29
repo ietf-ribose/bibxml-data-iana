@@ -1,4 +1,4 @@
-<reference anchor="IANA.tzdist-actions/actions" target="http://www.iana.org/assignments/tzdist-actions">
+<reference anchor="IANA tzdist-actions/actions" target="http://www.iana.org/assignments/tzdist-actions">
   <front>
     <title>TZDIST Service Actions</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-cache-directives" target="http://www.iana.org/assignments/http-cache-directives">
+<reference anchor="IANA http-cache-directives" target="http://www.iana.org/assignments/http-cache-directives">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Cache Directive Registry</title>
     <author>

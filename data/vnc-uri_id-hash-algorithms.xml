@@ -1,4 +1,4 @@
-<reference anchor="IANA.vnc-uri/id-hash-algorithms" target="http://www.iana.org/assignments/vnc-uri">
+<reference anchor="IANA vnc-uri/id-hash-algorithms" target="http://www.iana.org/assignments/vnc-uri">
   <front>
     <title>VNC URI ID Hash Algorithms</title>
     <author>

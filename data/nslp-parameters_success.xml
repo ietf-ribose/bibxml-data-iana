@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/success" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA nslp-parameters/success" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>Success Error Codes</title>
     <author>

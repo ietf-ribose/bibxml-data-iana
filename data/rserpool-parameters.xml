@@ -1,4 +1,4 @@
-<reference anchor="IANA.rserpool-parameters" target="http://www.iana.org/assignments/rserpool-parameters">
+<reference anchor="IANA rserpool-parameters" target="http://www.iana.org/assignments/rserpool-parameters">
   <front>
     <title>Reliable Server Pooling (RSerPool) Parameters</title>
     <author>

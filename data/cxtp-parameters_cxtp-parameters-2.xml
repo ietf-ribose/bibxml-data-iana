@@ -1,4 +1,4 @@
-<reference anchor="IANA.cxtp-parameters/cxtp-parameters-2" target="http://www.iana.org/assignments/cxtp-parameters">
+<reference anchor="IANA cxtp-parameters/cxtp-parameters-2" target="http://www.iana.org/assignments/cxtp-parameters">
   <front>
     <title>Context Transfer Protocol Authorization Token Calculation Algorithms</title>
     <author>

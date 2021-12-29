@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-23" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="IANA l2tp-parameters/l2tp-parameters-23" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>ATM Alarm Status AVP (Attribute Type 88) Values</title>
     <author>

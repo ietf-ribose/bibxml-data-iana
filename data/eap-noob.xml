@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-noob" target="http://www.iana.org/assignments/eap-noob">
+<reference anchor="IANA eap-noob" target="http://www.iana.org/assignments/eap-noob">
   <front>
     <title>Nimble Out-of-Band Authentication for EAP Parameters (EAP-NOOB)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.xmlers" target="http://www.iana.org/assignments/xmlers">
+<reference anchor="IANA xmlers" target="http://www.iana.org/assignments/xmlers">
   <front>
     <title>XML Evidence Record Syntax (XMLERS)</title>
     <author>

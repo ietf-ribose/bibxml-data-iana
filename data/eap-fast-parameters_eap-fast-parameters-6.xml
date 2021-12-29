@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-fast-parameters/eap-fast-parameters-6" target="http://www.iana.org/assignments/eap-fast-parameters">
+<reference anchor="IANA eap-fast-parameters/eap-fast-parameters-6" target="http://www.iana.org/assignments/eap-fast-parameters">
   <front>
     <title>EAP-FAST Server-Trusted-Root Credential Format Types</title>
     <author>

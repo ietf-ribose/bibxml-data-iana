@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsip-parameters/rsip-parameters-8" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="IANA rsip-parameters/rsip-parameters-8" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>RSIP Error Codes</title>
     <author>

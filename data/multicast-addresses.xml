@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-addresses" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="IANA multicast-addresses" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>IPv4 Multicast Address Space Registry</title>
     <author>

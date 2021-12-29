@@ -1,4 +1,4 @@
-<reference anchor="IANA.snmp-number-spaces/snmp-number-spaces-6" target="http://www.iana.org/assignments/snmp-number-spaces">
+<reference anchor="IANA snmp-number-spaces/snmp-number-spaces-6" target="http://www.iana.org/assignments/snmp-number-spaces">
   <front>
     <title>SnmpPrivProtocols</title>
     <author>

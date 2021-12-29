@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-table" target="http://www.iana.org/assignments/sip-table">
+<reference anchor="IANA sip-table" target="http://www.iana.org/assignments/sip-table">
   <front>
     <title>Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record Services Field</title>
     <author>

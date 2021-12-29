@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-dig-alg/hash-alg" target="http://www.iana.org/assignments/http-dig-alg">
+<reference anchor="IANA http-dig-alg/hash-alg" target="http://www.iana.org/assignments/http-dig-alg">
   <front>
     <title>Hash Algorithms for HTTP Digest Authentication</title>
     <author>

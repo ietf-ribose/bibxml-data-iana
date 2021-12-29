@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/dodag-config-option-flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA rpl/dodag-config-option-flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>DODAG Configuration Option Flags for MOP 0..6</title>
     <author>

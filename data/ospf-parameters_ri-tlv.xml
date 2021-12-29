@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-parameters/ri-tlv" target="http://www.iana.org/assignments/ospf-parameters">
+<reference anchor="IANA ospf-parameters/ri-tlv" target="http://www.iana.org/assignments/ospf-parameters">
   <front>
     <title>OSPF Router Information (RI) TLVs</title>
     <author>

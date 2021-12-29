@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA bgp-extended-communities" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Border Gateway Protocol (BGP) Extended Communities</title>
     <author>

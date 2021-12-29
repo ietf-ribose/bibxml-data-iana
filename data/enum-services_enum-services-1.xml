@@ -1,4 +1,4 @@
-<reference anchor="IANA.enum-services/enum-services-1" target="http://www.iana.org/assignments/enum-services">
+<reference anchor="IANA enum-services/enum-services-1" target="http://www.iana.org/assignments/enum-services">
   <front>
     <title>Enumservice Registrations</title>
     <author>

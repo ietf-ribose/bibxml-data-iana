@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/ciphersuite-parameters" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/ciphersuite-parameters" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Ciphersuite Parameters and Results Type Registry</title>
     <author>

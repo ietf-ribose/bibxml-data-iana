@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-parameters/sip-parameters-67" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA sip-parameters/sip-parameters-67" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>SIP Configuration Profile Types</title>
     <author>

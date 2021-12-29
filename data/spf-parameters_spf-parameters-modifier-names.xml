@@ -1,4 +1,4 @@
-<reference anchor="IANA.spf-parameters/spf-parameters-modifier-names" target="http://www.iana.org/assignments/spf-parameters">
+<reference anchor="IANA spf-parameters/spf-parameters-modifier-names" target="http://www.iana.org/assignments/spf-parameters">
   <front>
     <title>Modifier Names</title>
     <author>

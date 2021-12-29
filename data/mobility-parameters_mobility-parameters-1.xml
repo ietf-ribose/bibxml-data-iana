@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters/mobility-parameters-1" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="IANA mobility-parameters/mobility-parameters-1" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Mobility Header Types - for the MH Type field in the Mobility Header</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.websocket/close-code-number" target="http://www.iana.org/assignments/websocket">
+<reference anchor="IANA websocket/close-code-number" target="http://www.iana.org/assignments/websocket">
   <front>
     <title>WebSocket Close Code Number Registry</title>
     <author>

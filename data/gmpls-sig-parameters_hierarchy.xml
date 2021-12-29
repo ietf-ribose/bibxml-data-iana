@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters/hierarchy" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="IANA gmpls-sig-parameters/hierarchy" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Hierarchy Actions</title>
     <author>

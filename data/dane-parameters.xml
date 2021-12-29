@@ -1,4 +1,4 @@
-<reference anchor="IANA.dane-parameters" target="http://www.iana.org/assignments/dane-parameters">
+<reference anchor="IANA dane-parameters" target="http://www.iana.org/assignments/dane-parameters">
   <front>
     <title>DNS-Based Authentication of Named Entities (DANE) Parameters</title>
     <author>

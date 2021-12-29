@@ -1,4 +1,4 @@
-<reference anchor="IANA.pana-parameters" target="http://www.iana.org/assignments/pana-parameters">
+<reference anchor="IANA pana-parameters" target="http://www.iana.org/assignments/pana-parameters">
   <front>
     <title>Protocol for Carrying Authentication for Network Access (PANA) Parameters</title>
     <author>

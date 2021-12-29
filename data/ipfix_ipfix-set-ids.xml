@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipfix/ipfix-set-ids" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IANA ipfix/ipfix-set-ids" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IPFIX Set IDs</title>
     <author>

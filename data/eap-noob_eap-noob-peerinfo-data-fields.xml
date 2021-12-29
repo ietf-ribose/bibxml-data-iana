@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-noob/eap-noob-peerinfo-data-fields" target="http://www.iana.org/assignments/eap-noob">
+<reference anchor="IANA eap-noob/eap-noob-peerinfo-data-fields" target="http://www.iana.org/assignments/eap-noob">
   <front>
     <title>EAP-NOOB PeerInfo Data Fields</title>
     <author>

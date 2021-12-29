@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/fault-tlv" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="IANA g-ach-parameters/fault-tlv" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS Fault OAM TLV Registry</title>
     <author>

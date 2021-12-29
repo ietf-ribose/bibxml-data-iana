@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="IANA ldp-namespaces" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>Label Distribution Protocol (LDP) Parameters</title>
     <author>

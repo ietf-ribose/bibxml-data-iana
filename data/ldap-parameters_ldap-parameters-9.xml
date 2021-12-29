@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldap-parameters/ldap-parameters-9" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="IANA ldap-parameters/ldap-parameters-9" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>LDAP Search Scopes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.version-symbols/version-symbols-2" target="http://www.iana.org/assignments/version-symbols">
+<reference anchor="IANA version-symbols/version-symbols-2" target="http://www.iana.org/assignments/version-symbols">
   <front>
     <title>application/QSIG symbols</title>
     <author>

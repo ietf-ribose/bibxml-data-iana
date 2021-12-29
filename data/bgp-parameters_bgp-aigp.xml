@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/bgp-aigp" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA bgp-parameters/bgp-aigp" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP AIGP Attribute Types</title>
     <author>

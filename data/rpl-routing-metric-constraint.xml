@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl-routing-metric-constraint" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="IANA rpl-routing-metric-constraint" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Routing Protocol for Low Power and Lossy Networks (RPL) Routing Metric/Constraint</title>
     <author>

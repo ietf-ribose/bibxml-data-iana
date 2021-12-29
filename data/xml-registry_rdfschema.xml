@@ -1,4 +1,4 @@
-<reference anchor="IANA.xml-registry/rdfschema" target="http://www.iana.org/assignments/xml-registry">
+<reference anchor="IANA xml-registry/rdfschema" target="http://www.iana.org/assignments/xml-registry">
   <front>
     <title>rdfschema</title>
     <author>

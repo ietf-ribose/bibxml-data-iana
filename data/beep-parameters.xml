@@ -1,4 +1,4 @@
-<reference anchor="IANA.beep-parameters" target="http://www.iana.org/assignments/beep-parameters">
+<reference anchor="IANA beep-parameters" target="http://www.iana.org/assignments/beep-parameters">
   <front>
     <title>Blocks Extensible Exchange Protocol (BEEP) Parameters</title>
     <author>

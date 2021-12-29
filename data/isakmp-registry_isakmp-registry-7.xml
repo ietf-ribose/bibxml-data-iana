@@ -1,4 +1,4 @@
-<reference anchor="IANA.isakmp-registry/isakmp-registry-7" target="http://www.iana.org/assignments/isakmp-registry">
+<reference anchor="IANA isakmp-registry/isakmp-registry-7" target="http://www.iana.org/assignments/isakmp-registry">
   <front>
     <title>IPSEC AH Transform Identifiers</title>
     <author>

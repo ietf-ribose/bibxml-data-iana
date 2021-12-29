@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcim-oids" target="http://www.iana.org/assignments/pcim-oids">
+<reference anchor="IANA pcim-oids" target="http://www.iana.org/assignments/pcim-oids">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) - pcimSchema Descriptors</title>
     <author>

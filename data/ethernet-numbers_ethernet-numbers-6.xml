@@ -1,4 +1,4 @@
-<reference anchor="IANA.ethernet-numbers/ethernet-numbers-6" target="http://www.iana.org/assignments/ethernet-numbers">
+<reference anchor="IANA ethernet-numbers/ethernet-numbers-6" target="http://www.iana.org/assignments/ethernet-numbers">
   <front>
     <title>SNAP Protocol Numbers</title>
     <author>

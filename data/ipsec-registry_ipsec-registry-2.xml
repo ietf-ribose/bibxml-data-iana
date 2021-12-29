@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-2" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA ipsec-registry/ipsec-registry-2" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Attribute Classes</title>
     <author>

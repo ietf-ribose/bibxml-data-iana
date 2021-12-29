@@ -1,4 +1,4 @@
-<reference anchor="IANA.imdn" target="http://www.iana.org/assignments/imdn">
+<reference anchor="IANA imdn" target="http://www.iana.org/assignments/imdn">
   <front>
     <title>Instant Message Disposition Notification (IMDN) Headers</title>
     <author>

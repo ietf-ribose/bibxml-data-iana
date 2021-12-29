@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-types/multipart" target="http://www.iana.org/assignments/media-types">
+<reference anchor="IANA media-types/multipart" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>multipart</title>
     <author>

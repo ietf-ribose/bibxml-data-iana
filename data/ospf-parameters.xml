@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-parameters" target="http://www.iana.org/assignments/ospf-parameters">
+<reference anchor="IANA ospf-parameters" target="http://www.iana.org/assignments/ospf-parameters">
   <front>
     <title>Open Shortest Path First (OSPF) Parameters</title>
     <author>

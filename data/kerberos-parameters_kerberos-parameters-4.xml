@@ -1,4 +1,4 @@
-<reference anchor="IANA.kerberos-parameters/kerberos-parameters-4" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="IANA kerberos-parameters/kerberos-parameters-4" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Kerberos TCP Extensions</title>
     <author>

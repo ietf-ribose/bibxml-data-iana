@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-parameters/rpl-option-tlv" target="http://www.iana.org/assignments/ipv6-parameters">
+<reference anchor="IANA ipv6-parameters/rpl-option-tlv" target="http://www.iana.org/assignments/ipv6-parameters">
   <front>
     <title>RPL-option-TLV</title>
     <author>

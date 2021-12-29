@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-tlv-codepoints/isis-tlv-codepoints-242" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA isis-tlv-codepoints/isis-tlv-codepoints-242" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Sub-TLVs for TLV 242 (IS-IS Router CAPABILITY TLV)</title>
     <author>

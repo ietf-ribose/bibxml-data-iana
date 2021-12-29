@@ -1,4 +1,4 @@
-<reference anchor="IANA.epp-extensions" target="http://www.iana.org/assignments/epp-extensions">
+<reference anchor="IANA epp-extensions" target="http://www.iana.org/assignments/epp-extensions">
   <front>
     <title>Extensions for the Extensible Provisioning Protocol (EPP)</title>
     <author>

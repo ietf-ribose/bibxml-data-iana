@@ -1,4 +1,4 @@
-<reference anchor="IANA.nfsv4-recallable-object-types/nfsv4-recallable-object-types-1" target="http://www.iana.org/assignments/nfsv4-recallable-object-types">
+<reference anchor="IANA nfsv4-recallable-object-types/nfsv4-recallable-object-types-1" target="http://www.iana.org/assignments/nfsv4-recallable-object-types">
   <front>
     <title>NFSv4 Recallable Object Types</title>
     <author>

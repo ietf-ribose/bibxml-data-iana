@@ -1,4 +1,4 @@
-<reference anchor="IANA.pkix-parameters" target="http://www.iana.org/assignments/pkix-parameters">
+<reference anchor="IANA pkix-parameters" target="http://www.iana.org/assignments/pkix-parameters">
   <front>
     <title>Public Key Infrastructure using X.509 (PKIX) Parameters</title>
     <author>

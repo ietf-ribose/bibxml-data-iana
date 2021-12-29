@@ -1,4 +1,4 @@
-<reference anchor="IANA.dlep-parameters/ipv6-address-flags" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="IANA dlep-parameters/ipv6-address-flags" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>IPv6 Address Flags</title>
     <author>

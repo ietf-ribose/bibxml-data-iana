@@ -1,4 +1,4 @@
-<reference anchor="IANA.aead-parameters" target="http://www.iana.org/assignments/aead-parameters">
+<reference anchor="IANA aead-parameters" target="http://www.iana.org/assignments/aead-parameters">
   <front>
     <title>Authenticated Encryption with Associated Data (AEAD) Parameters</title>
     <author>

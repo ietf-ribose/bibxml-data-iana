@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsakmp-parameters" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="IANA gsakmp-parameters" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>Group Secure Association Group Management Protocol (GSAKMP) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ds-rr-types/ds-rr-types-1" target="http://www.iana.org/assignments/ds-rr-types">
+<reference anchor="IANA ds-rr-types/ds-rr-types-1" target="http://www.iana.org/assignments/ds-rr-types">
   <front>
     <title>Digest Algorithms</title>
     <author>

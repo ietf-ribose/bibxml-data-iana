@@ -1,4 +1,4 @@
-<reference anchor="IANA.icalendar/parameters" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="IANA icalendar/parameters" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Parameters</title>
     <author>

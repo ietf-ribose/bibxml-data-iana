@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/loss-delay-control-code-response" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="IANA g-ach-parameters/loss-delay-control-code-response" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>Loss/Delay Measurement Control Code: Response Codes</title>
     <author>

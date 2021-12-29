@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/wavelength-restriction-constraint-tlv-action-values" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/wavelength-restriction-constraint-tlv-action-values" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Wavelength Restriction Constraint TLV Action Values</title>
     <author>

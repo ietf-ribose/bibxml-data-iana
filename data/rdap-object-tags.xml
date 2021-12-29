@@ -1,4 +1,4 @@
-<reference anchor="IANA.rdap-object-tags" target="http://www.iana.org/assignments/rdap-object-tags">
+<reference anchor="IANA rdap-object-tags" target="http://www.iana.org/assignments/rdap-object-tags">
   <front>
     <title>Bootstrap Service Registry for Provider Object Tags</title>
     <author>

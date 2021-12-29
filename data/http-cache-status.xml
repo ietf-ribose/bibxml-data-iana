@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-cache-status" target="http://www.iana.org/assignments/http-cache-status">
+<reference anchor="IANA http-cache-status" target="http://www.iana.org/assignments/http-cache-status">
   <front>
     <title>HTTP Cache-Status</title>
     <author>

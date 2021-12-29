@@ -1,4 +1,4 @@
-<reference anchor="IANA.norm-parameters" target="http://www.iana.org/assignments/norm-parameters">
+<reference anchor="IANA norm-parameters" target="http://www.iana.org/assignments/norm-parameters">
   <front>
     <title>Negative-ACKnowledgment (NACK) Oriented Reliable Multicast (NORM) Parameters</title>
     <author>

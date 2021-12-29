@@ -1,4 +1,4 @@
-<reference anchor="IANA.cose/header-algorithm-parameters" target="http://www.iana.org/assignments/cose">
+<reference anchor="IANA cose/header-algorithm-parameters" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Header Algorithm Parameters</title>
     <author>

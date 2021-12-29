@@ -1,4 +1,4 @@
-<reference anchor="IANA.lang-subtags-templates" target="http://www.iana.org/assignments/lang-subtags-templates">
+<reference anchor="IANA lang-subtags-templates" target="http://www.iana.org/assignments/lang-subtags-templates">
   <front>
     <title>Language Subtag Registry - Registration Templates</title>
     <author>

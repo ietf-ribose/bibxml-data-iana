@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters/gmpls-sig-parameters-5" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="IANA gmpls-sig-parameters/gmpls-sig-parameters-5" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Generalized PIDs (G-PID)</title>
     <author>

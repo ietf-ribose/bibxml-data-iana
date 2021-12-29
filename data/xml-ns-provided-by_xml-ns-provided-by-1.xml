@@ -1,4 +1,4 @@
-<reference anchor="IANA.xml-ns-provided-by/xml-ns-provided-by-1" target="http://www.iana.org/assignments/xml-ns-provided-by">
+<reference anchor="IANA xml-ns-provided-by/xml-ns-provided-by-1" target="http://www.iana.org/assignments/xml-ns-provided-by">
   <front>
     <title>XML Namespaces for 'provided-by' elements for use with PIDF-LO objects</title>
     <author>

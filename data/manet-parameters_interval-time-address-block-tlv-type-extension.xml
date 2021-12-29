@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/interval-time-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA manet-parameters/interval-time-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 0 Address Block TLV Type Extensions</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.twamp-parameters/twamp-parameters-1" target="http://www.iana.org/assignments/twamp-parameters">
+<reference anchor="IANA twamp-parameters/twamp-parameters-1" target="http://www.iana.org/assignments/twamp-parameters">
   <front>
     <title>TWAMP-Control Command Numbers</title>
     <author>

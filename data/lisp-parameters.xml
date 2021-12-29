@@ -1,4 +1,4 @@
-<reference anchor="IANA.lisp-parameters" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="IANA lisp-parameters" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>Locator/ID Separation Protocol (LISP) Parameters</title>
     <author>

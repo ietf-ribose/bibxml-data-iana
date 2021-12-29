@@ -1,4 +1,4 @@
-<reference anchor="IANA.radius-types/radius-types-14" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="IANA radius-types/radius-types-14" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Values for RADIUS Attribute 64, Tunnel-Type</title>
     <author>

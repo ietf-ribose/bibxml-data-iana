@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/ldp-namespaces-11" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="IANA ldp-namespaces/ldp-namespaces-11" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>LDP MP Opaque Value Element basic type</title>
     <author>

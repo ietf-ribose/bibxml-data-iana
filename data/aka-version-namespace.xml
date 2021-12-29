@@ -1,4 +1,4 @@
-<reference anchor="IANA.aka-version-namespace" target="http://www.iana.org/assignments/aka-version-namespace">
+<reference anchor="IANA aka-version-namespace" target="http://www.iana.org/assignments/aka-version-namespace">
   <front>
     <title>AKA-Version Namespace</title>
     <author>

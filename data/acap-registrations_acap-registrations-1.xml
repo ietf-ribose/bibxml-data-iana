@@ -1,4 +1,4 @@
-<reference anchor="IANA.acap-registrations/acap-registrations-1" target="http://www.iana.org/assignments/acap-registrations">
+<reference anchor="IANA acap-registrations/acap-registrations-1" target="http://www.iana.org/assignments/acap-registrations">
   <front>
     <title>ACAP Capabilities</title>
     <author>

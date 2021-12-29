@@ -1,4 +1,4 @@
-<reference anchor="IANA.rohc-sub-ids" target="http://www.iana.org/assignments/rohc-sub-ids">
+<reference anchor="IANA rohc-sub-ids" target="http://www.iana.org/assignments/rohc-sub-ids">
   <front>
     <title>RObust Header Compression (ROHC) Suboption Identifier Values</title>
     <author>

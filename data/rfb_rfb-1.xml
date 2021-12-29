@@ -1,4 +1,4 @@
-<reference anchor="IANA.rfb/rfb-1" target="http://www.iana.org/assignments/rfb">
+<reference anchor="IANA rfb/rfb-1" target="http://www.iana.org/assignments/rfb">
   <front>
     <title>Remote Framebuffer Security Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters/dsmipv6-home-address-option" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="IANA mobility-parameters/dsmipv6-home-address-option" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Dual Stack MIPv6 (DSMIPv6) IPv4 Home Address Option Status Codes</title>
     <author>

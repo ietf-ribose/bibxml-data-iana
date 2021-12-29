@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters/sixlowpan-capability-bits" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="IANA icmpv6-parameters/sixlowpan-capability-bits" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>6LoWPAN Capability Bits</title>
     <author>

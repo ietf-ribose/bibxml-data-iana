@@ -1,4 +1,4 @@
-<reference anchor="IANA.smi-numbers/smi-numbers-10" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="IANA smi-numbers/smi-numbers-10" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>MIB - Remote Network Monitoring</title>
     <author>

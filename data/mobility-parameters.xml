@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="IANA mobility-parameters" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Mobile IPv6 parameters</title>
     <author>

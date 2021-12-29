@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-warn-codes" target="http://www.iana.org/assignments/http-warn-codes">
+<reference anchor="IANA http-warn-codes" target="http://www.iana.org/assignments/http-warn-codes">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Warn Codes</title>
     <author>

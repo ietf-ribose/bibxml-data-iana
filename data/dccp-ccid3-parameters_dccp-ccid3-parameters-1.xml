@@ -1,4 +1,4 @@
-<reference anchor="IANA.dccp-ccid3-parameters/dccp-ccid3-parameters-1" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
+<reference anchor="IANA dccp-ccid3-parameters/dccp-ccid3-parameters-1" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
   <front>
     <title>CCID3-specific Reset codes (128-255)</title>
     <author>

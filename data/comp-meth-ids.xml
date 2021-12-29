@@ -1,4 +1,4 @@
-<reference anchor="IANA.comp-meth-ids" target="http://www.iana.org/assignments/comp-meth-ids">
+<reference anchor="IANA comp-meth-ids" target="http://www.iana.org/assignments/comp-meth-ids">
   <front>
     <title>Transport Layer Security (TLS) Compression Method Identifiers</title>
     <author>

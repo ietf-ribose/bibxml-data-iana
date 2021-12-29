@@ -1,4 +1,4 @@
-<reference anchor="IANA.message-headers" target="http://www.iana.org/assignments/message-headers">
+<reference anchor="IANA message-headers" target="http://www.iana.org/assignments/message-headers">
   <front>
     <title>Message Headers</title>
     <author>

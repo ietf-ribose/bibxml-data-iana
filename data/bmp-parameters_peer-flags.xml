@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters/peer-flags" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="IANA bmp-parameters/peer-flags" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Peer Flags for Peer Types 0 through 2</title>
     <author>

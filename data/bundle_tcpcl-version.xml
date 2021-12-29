@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcpcl-version" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/tcpcl-version" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version Numbers</title>
     <author>

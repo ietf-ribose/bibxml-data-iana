@@ -1,4 +1,4 @@
-<reference anchor="IANA.tls-parameters/tls-parameters-6" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="IANA tls-parameters/tls-parameters-6" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS Alerts</title>
     <author>

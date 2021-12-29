@@ -1,4 +1,4 @@
-<reference anchor="IANA.idmef-parameters/idmef-parameters-values" target="http://www.iana.org/assignments/idmef-parameters">
+<reference anchor="IANA idmef-parameters/idmef-parameters-values" target="http://www.iana.org/assignments/idmef-parameters">
   <front>
     <title>Attribute Values</title>
     <author>

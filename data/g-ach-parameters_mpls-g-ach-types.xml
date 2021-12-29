@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/mpls-g-ach-types" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="IANA g-ach-parameters/mpls-g-ach-types" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS Generalized Associated Channel (G-ACh) Types (including Pseudowire Associated Channel Types)</title>
     <author>

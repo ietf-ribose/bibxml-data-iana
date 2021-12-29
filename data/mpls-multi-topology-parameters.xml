@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-multi-topology-parameters" target="http://www.iana.org/assignments/mpls-multi-topology-parameters">
+<reference anchor="IANA mpls-multi-topology-parameters" target="http://www.iana.org/assignments/mpls-multi-topology-parameters">
   <front>
     <title>MPLS Multi-Topology Identifiers</title>
     <author>

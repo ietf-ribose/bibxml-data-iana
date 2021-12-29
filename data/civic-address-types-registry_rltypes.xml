@@ -1,4 +1,4 @@
-<reference anchor="IANA.civic-address-types-registry/rltypes" target="http://www.iana.org/assignments/civic-address-types-registry">
+<reference anchor="IANA civic-address-types-registry/rltypes" target="http://www.iana.org/assignments/civic-address-types-registry">
   <front>
     <title>Relative Location Parameters</title>
     <author>

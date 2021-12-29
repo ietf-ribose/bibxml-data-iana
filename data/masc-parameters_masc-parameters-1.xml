@@ -1,4 +1,4 @@
-<reference anchor="IANA.masc-parameters/masc-parameters-1" target="http://www.iana.org/assignments/masc-parameters">
+<reference anchor="IANA masc-parameters/masc-parameters-1" target="http://www.iana.org/assignments/masc-parameters">
   <front>
     <title>MASC Message Types</title>
     <author>

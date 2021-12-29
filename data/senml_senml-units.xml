@@ -1,4 +1,4 @@
-<reference anchor="IANA.senml/senml-units" target="http://www.iana.org/assignments/senml">
+<reference anchor="IANA senml/senml-units" target="http://www.iana.org/assignments/senml">
   <front>
     <title>SenML Units</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sgmp-vendor-specific-codes" target="http://www.iana.org/assignments/sgmp-vendor-specific-codes">
+<reference anchor="IANA sgmp-vendor-specific-codes" target="http://www.iana.org/assignments/sgmp-vendor-specific-codes">
   <front>
     <title>Simple Gateway Monitoring Protocol (SGMP) Vendor Specific Codes (Obsolete)</title>
     <author>

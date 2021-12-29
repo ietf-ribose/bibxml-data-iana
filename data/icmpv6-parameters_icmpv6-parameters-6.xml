@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters/icmpv6-parameters-6" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="IANA icmpv6-parameters/icmpv6-parameters-6" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Trust Anchor option (Type 15) Name Type field</title>
     <author>

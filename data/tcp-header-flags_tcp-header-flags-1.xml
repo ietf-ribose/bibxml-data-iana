@@ -1,4 +1,4 @@
-<reference anchor="IANA.tcp-header-flags/tcp-header-flags-1" target="http://www.iana.org/assignments/tcp-header-flags">
+<reference anchor="IANA tcp-header-flags/tcp-header-flags-1" target="http://www.iana.org/assignments/tcp-header-flags">
   <front>
     <title>TCP Header Flags</title>
     <author>

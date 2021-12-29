@@ -1,4 +1,4 @@
-<reference anchor="IANA.evpn/route-types" target="http://www.iana.org/assignments/evpn">
+<reference anchor="IANA evpn/route-types" target="http://www.iana.org/assignments/evpn">
   <front>
     <title>EVPN Route Types</title>
     <author>

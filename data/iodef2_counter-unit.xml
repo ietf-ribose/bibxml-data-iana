@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/counter-unit" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IANA iodef2/counter-unit" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Counter-unit</title>
     <author>

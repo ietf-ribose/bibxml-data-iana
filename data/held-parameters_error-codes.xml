@@ -1,4 +1,4 @@
-<reference anchor="IANA.held-parameters/error-codes" target="http://www.iana.org/assignments/held-parameters">
+<reference anchor="IANA held-parameters/error-codes" target="http://www.iana.org/assignments/held-parameters">
   <front>
     <title>HELD Error Codes</title>
     <author>

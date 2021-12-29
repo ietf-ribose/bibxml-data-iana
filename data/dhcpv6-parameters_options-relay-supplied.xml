@@ -1,4 +1,4 @@
-<reference anchor="IANA.dhcpv6-parameters/options-relay-supplied" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="IANA dhcpv6-parameters/options-relay-supplied" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>Options Permitted in the Relay-Supplied Options Option</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.cdni-parameters/capabilities-redirection-modes" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="IANA cdni-parameters/capabilities-redirection-modes" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Capabilities Redirection Modes</title>
     <author>

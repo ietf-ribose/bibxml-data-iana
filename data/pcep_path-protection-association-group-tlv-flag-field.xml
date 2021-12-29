@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/path-protection-association-group-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/path-protection-association-group-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Path Protection Association Group TLV Flag Field</title>
     <author>

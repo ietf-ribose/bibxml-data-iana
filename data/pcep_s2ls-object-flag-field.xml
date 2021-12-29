@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/s2ls-object-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/s2ls-object-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>S2LS Object Flag Field</title>
     <author>

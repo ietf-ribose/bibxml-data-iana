@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-tlv-codepoints" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA isis-tlv-codepoints" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>IS-IS TLV Codepoints</title>
     <author>

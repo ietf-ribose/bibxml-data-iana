@@ -1,4 +1,4 @@
-<reference anchor="IANA.dccp-parameters/dccp-parameters-12" target="http://www.iana.org/assignments/dccp-parameters">
+<reference anchor="IANA dccp-parameters/dccp-parameters-12" target="http://www.iana.org/assignments/dccp-parameters">
   <front>
     <title>Service Codes</title>
     <author>

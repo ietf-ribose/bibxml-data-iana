@@ -1,4 +1,4 @@
-<reference anchor="IANA.jose/web-key-set-parameters" target="http://www.iana.org/assignments/jose">
+<reference anchor="IANA jose/web-key-set-parameters" target="http://www.iana.org/assignments/jose">
   <front>
     <title>JSON Web Key Set Parameters</title>
     <author>

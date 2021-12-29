@@ -1,4 +1,4 @@
-<reference anchor="IANA.auth-namespaces/auth-namespaces-2" target="http://www.iana.org/assignments/auth-namespaces">
+<reference anchor="IANA auth-namespaces/auth-namespaces-2" target="http://www.iana.org/assignments/auth-namespaces">
   <front>
     <title>Algorithm Name Space Values</title>
     <author>

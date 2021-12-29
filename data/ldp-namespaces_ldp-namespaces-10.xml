@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/ldp-namespaces-10" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="IANA ldp-namespaces/ldp-namespaces-10" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>Experiment ID Name Space</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.flute-parameters" target="http://www.iana.org/assignments/flute-parameters">
+<reference anchor="IANA flute-parameters" target="http://www.iana.org/assignments/flute-parameters">
   <front>
     <title>FLUTE - File Delivery over Unidirectional Transport (FLUTE) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pt-tls-parameters" target="http://www.iana.org/assignments/pt-tls-parameters">
+<reference anchor="IANA pt-tls-parameters" target="http://www.iana.org/assignments/pt-tls-parameters">
   <front>
     <title>TLS-based Posture Transport Protocol (PT-TLS)</title>
     <author>

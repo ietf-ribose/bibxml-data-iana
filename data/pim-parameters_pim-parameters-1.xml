@@ -1,4 +1,4 @@
-<reference anchor="IANA.pim-parameters/pim-parameters-1" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="IANA pim-parameters/pim-parameters-1" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM-Hello Options</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.bfcp-parameters" target="http://www.iana.org/assignments/bfcp-parameters">
+<reference anchor="IANA bfcp-parameters" target="http://www.iana.org/assignments/bfcp-parameters">
   <front>
     <title>The Binary Floor Control Protocol (BFCP) Parameters</title>
     <author>

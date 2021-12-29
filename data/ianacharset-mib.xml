@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianacharset-mib" target="http://www.iana.org/assignments/ianacharset-mib">
+<reference anchor="IANA ianacharset-mib" target="http://www.iana.org/assignments/ianacharset-mib">
   <front>
     <title>IANA-CHARSET-MIB</title>
     <author>

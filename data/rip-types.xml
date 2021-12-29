@@ -1,4 +1,4 @@
-<reference anchor="IANA.rip-types" target="http://www.iana.org/assignments/rip-types">
+<reference anchor="IANA rip-types" target="http://www.iana.org/assignments/rip-types">
   <front>
     <title>Routing Information Protocol (RIP) Parameters</title>
     <author>

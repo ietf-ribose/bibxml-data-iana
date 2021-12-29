@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities/e-tree-flags" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA bgp-extended-communities/e-tree-flags" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>E-Tree Flags</title>
     <author>

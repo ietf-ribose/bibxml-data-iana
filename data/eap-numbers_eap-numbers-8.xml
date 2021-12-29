@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-8" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="IANA eap-numbers/eap-numbers-8" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>Message Types</title>
     <author>

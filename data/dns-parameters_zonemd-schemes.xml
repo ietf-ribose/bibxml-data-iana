@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-parameters/zonemd-schemes" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA dns-parameters/zonemd-schemes" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>ZONEMD Schemes</title>
     <author>

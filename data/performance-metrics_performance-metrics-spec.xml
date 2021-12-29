@@ -1,4 +1,4 @@
-<reference anchor="IANA.performance-metrics/performance-metrics-spec" target="http://www.iana.org/assignments/performance-metrics">
+<reference anchor="IANA performance-metrics/performance-metrics-spec" target="http://www.iana.org/assignments/performance-metrics">
   <front>
     <title>Performance Metric Name Elements - Spec</title>
     <author>

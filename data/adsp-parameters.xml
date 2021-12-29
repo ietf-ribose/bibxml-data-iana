@@ -1,4 +1,4 @@
-<reference anchor="IANA.adsp-parameters" target="http://www.iana.org/assignments/adsp-parameters">
+<reference anchor="IANA adsp-parameters" target="http://www.iana.org/assignments/adsp-parameters">
   <front>
     <title>Author Domain Signing Practices (ADSP) Parameters</title>
     <author>

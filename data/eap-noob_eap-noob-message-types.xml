@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-noob/eap-noob-message-types" target="http://www.iana.org/assignments/eap-noob">
+<reference anchor="IANA eap-noob/eap-noob-message-types" target="http://www.iana.org/assignments/eap-noob">
   <front>
     <title>EAP-NOOB Message Types</title>
     <author>

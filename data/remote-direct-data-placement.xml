@@ -1,4 +1,4 @@
-<reference anchor="IANA.remote-direct-data-placement" target="http://www.iana.org/assignments/remote-direct-data-placement">
+<reference anchor="IANA remote-direct-data-placement" target="http://www.iana.org/assignments/remote-direct-data-placement">
   <front>
     <title>Remote Direct Data Placement</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.svrloc-templates" target="http://www.iana.org/assignments/svrloc-templates">
+<reference anchor="IANA svrloc-templates" target="http://www.iana.org/assignments/svrloc-templates">
   <front>
     <title>Service Location Protocol, Version 2 (SLPv2) Templates</title>
     <author>

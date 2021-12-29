@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-precond-types" target="http://www.iana.org/assignments/sip-precond-types">
+<reference anchor="IANA sip-precond-types" target="http://www.iana.org/assignments/sip-precond-types">
   <front>
     <title>Precondition Types Used with Session Initiation Protocol (SIP)</title>
     <author>

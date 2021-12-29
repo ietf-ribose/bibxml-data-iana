@@ -1,4 +1,4 @@
-<reference anchor="IANA.bier/bier-algorithm" target="http://www.iana.org/assignments/bier">
+<reference anchor="IANA bier/bier-algorithm" target="http://www.iana.org/assignments/bier">
   <front>
     <title>BIER Algorithm</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/incident-purpose" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IANA iodef2/incident-purpose" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Incident-purpose</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA._6tisch/_6tisch-cojp-key-usage" target="http://www.iana.org/assignments/_6tisch">
+<reference anchor="IANA _6tisch/_6tisch-cojp-key-usage" target="http://www.iana.org/assignments/_6tisch">
   <front>
     <title>Constrained Join Protocol (CoJP) Key Usage</title>
     <author>

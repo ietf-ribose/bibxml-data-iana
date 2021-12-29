@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/gateway-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA manet-parameters/gateway-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 10 Address Block TLV Type Extensions</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/pcep-objects" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/pcep-objects" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP Objects</title>
     <author>

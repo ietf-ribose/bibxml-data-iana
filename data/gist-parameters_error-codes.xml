@@ -1,4 +1,4 @@
-<reference anchor="IANA.gist-parameters/error-codes" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="IANA gist-parameters/error-codes" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>GIST Error Codes</title>
     <author>

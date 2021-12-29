@@ -1,4 +1,4 @@
-<reference anchor="IANA.ule-next-headers" target="http://www.iana.org/assignments/ule-next-headers">
+<reference anchor="IANA ule-next-headers" target="http://www.iana.org/assignments/ule-next-headers">
   <front>
     <title>Unidirectional Lightweight Encapsulation (ULE) Next-Header Registry</title>
     <author>

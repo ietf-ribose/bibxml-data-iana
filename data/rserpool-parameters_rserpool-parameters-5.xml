@@ -1,4 +1,4 @@
-<reference anchor="IANA.rserpool-parameters/rserpool-parameters-5" target="http://www.iana.org/assignments/rserpool-parameters">
+<reference anchor="IANA rserpool-parameters/rserpool-parameters-5" target="http://www.iana.org/assignments/rserpool-parameters">
   <front>
     <title>RSerPool Error Causes</title>
     <author>

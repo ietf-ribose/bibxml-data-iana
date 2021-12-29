@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/mpr-willing-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA manet-parameters/mpr-willing-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 7 Message TLV Type Extensions</title>
     <author>

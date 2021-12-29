@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/admin-record-types" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/admin-record-types" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Administrative Record Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-metadata" target="http://www.iana.org/assignments/imap-metadata">
+<reference anchor="IANA imap-metadata" target="http://www.iana.org/assignments/imap-metadata">
   <front>
     <title>IMAP METADATA Entry Registrations</title>
     <author>

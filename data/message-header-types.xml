@@ -1,4 +1,4 @@
-<reference anchor="IANA.message-header-types" target="http://www.iana.org/assignments/message-header-types">
+<reference anchor="IANA message-header-types" target="http://www.iana.org/assignments/message-header-types">
   <front>
     <title>Context labels for Internet Messages</title>
     <author>

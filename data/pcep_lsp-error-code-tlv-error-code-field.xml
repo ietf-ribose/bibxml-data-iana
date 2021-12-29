@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/lsp-error-code-tlv-error-code-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/lsp-error-code-tlv-error-code-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>LSP-ERROR-CODE TLV Error Code Field</title>
     <author>

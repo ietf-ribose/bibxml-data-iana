@@ -1,4 +1,4 @@
-<reference anchor="IANA.lisp-parameters/lisp-address-type-codes-registry" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="IANA lisp-parameters/lisp-address-type-codes-registry" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Address Type Codes (CLOSED)</title>
     <author>

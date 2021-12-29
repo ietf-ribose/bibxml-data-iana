@@ -1,4 +1,4 @@
-<reference anchor="IANA.uaddr-formats" target="http://www.iana.org/assignments/uaddr-formats">
+<reference anchor="IANA uaddr-formats" target="http://www.iana.org/assignments/uaddr-formats">
   <front>
     <title>ONC RPC Universal Address (uaddr) Format Registry</title>
     <author>

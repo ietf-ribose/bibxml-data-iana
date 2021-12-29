@@ -1,4 +1,4 @@
-<reference anchor="IANA.ccnx" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="IANA ccnx" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>Content-Centric Networking (CCNx)</title>
     <author>

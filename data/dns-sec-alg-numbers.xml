@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-sec-alg-numbers" target="http://www.iana.org/assignments/dns-sec-alg-numbers">
+<reference anchor="IANA dns-sec-alg-numbers" target="http://www.iana.org/assignments/dns-sec-alg-numbers">
   <front>
     <title>Domain Name System Security (DNSSEC) Algorithm Numbers</title>
     <author>

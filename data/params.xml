@@ -1,4 +1,4 @@
-<reference anchor="IANA.params" target="http://www.iana.org/assignments/params">
+<reference anchor="IANA params" target="http://www.iana.org/assignments/params">
   <front>
     <title>Uniform Resource Name (URN) Namespace for IETF Use</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.arp-parameters/arp-parameters-2" target="http://www.iana.org/assignments/arp-parameters">
+<reference anchor="IANA arp-parameters/arp-parameters-2" target="http://www.iana.org/assignments/arp-parameters">
   <front>
     <title>Hardware Types</title>
     <author>

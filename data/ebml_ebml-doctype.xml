@@ -1,4 +1,4 @@
-<reference anchor="IANA.ebml/ebml-doctype" target="http://www.iana.org/assignments/ebml">
+<reference anchor="IANA ebml/ebml-doctype" target="http://www.iana.org/assignments/ebml">
   <front>
     <title>EBML DocTypes</title>
     <author>

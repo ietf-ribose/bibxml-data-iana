@@ -1,4 +1,4 @@
-<reference anchor="IANA.dccp-parameters/dccp-parameters-11" target="http://www.iana.org/assignments/dccp-parameters">
+<reference anchor="IANA dccp-parameters/dccp-parameters-11" target="http://www.iana.org/assignments/dccp-parameters">
   <front>
     <title>Drop Codes</title>
     <author>

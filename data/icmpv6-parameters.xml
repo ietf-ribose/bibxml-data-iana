@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="IANA icmpv6-parameters" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Internet Control Message Protocol version 6 (ICMPv6) Parameters</title>
     <author>

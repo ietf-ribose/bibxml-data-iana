@@ -1,4 +1,4 @@
-<reference anchor="IANA.ssh-parameters/ssh-parameters-10" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="IANA ssh-parameters/ssh-parameters-10" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Authentication Method Names</title>
     <author>

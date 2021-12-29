@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-parameters" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="IANA rsvp-parameters" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Resource Reservation Protocol (RSVP) Parameters</title>
     <author>

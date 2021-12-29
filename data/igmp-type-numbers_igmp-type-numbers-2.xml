@@ -1,4 +1,4 @@
-<reference anchor="IANA.igmp-type-numbers/igmp-type-numbers-2" target="http://www.iana.org/assignments/igmp-type-numbers">
+<reference anchor="IANA igmp-type-numbers/igmp-type-numbers-2" target="http://www.iana.org/assignments/igmp-type-numbers">
   <front>
     <title>"Code" Fields</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-acquisition/method" target="http://www.iana.org/assignments/multicast-acquisition">
+<reference anchor="IANA multicast-acquisition/method" target="http://www.iana.org/assignments/multicast-acquisition">
   <front>
     <title>Multicast Acquisition Method Registry</title>
     <author>

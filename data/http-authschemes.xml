@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-authschemes" target="http://www.iana.org/assignments/http-authschemes">
+<reference anchor="IANA http-authschemes" target="http://www.iana.org/assignments/http-authschemes">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry</title>
     <author>

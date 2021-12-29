@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-14" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="IANA mikey-payloads/mikey-payloads-14" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Signature Payload Field Names</title>
     <author>

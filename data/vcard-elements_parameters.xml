@@ -1,4 +1,4 @@
-<reference anchor="IANA.vcard-elements/parameters" target="http://www.iana.org/assignments/vcard-elements">
+<reference anchor="IANA vcard-elements/parameters" target="http://www.iana.org/assignments/vcard-elements">
   <front>
     <title>vCard Parameters</title>
     <author>

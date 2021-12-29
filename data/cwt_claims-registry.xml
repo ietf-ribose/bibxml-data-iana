@@ -1,4 +1,4 @@
-<reference anchor="IANA.cwt/claims-registry" target="http://www.iana.org/assignments/cwt">
+<reference anchor="IANA cwt/claims-registry" target="http://www.iana.org/assignments/cwt">
   <front>
     <title>CBOR Web Token (CWT) Claims</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ips-protocols/ips-protocols-2" target="http://www.iana.org/assignments/ips-protocols">
+<reference anchor="IANA ips-protocols/ips-protocols-2" target="http://www.iana.org/assignments/ips-protocols">
   <front>
     <title>Protocol# (Protocol Number) Field</title>
     <author>

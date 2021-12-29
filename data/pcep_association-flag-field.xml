@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/association-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/association-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>ASSOCIATION Flag Field</title>
     <author>

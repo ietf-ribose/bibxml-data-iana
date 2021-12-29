@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianagmplstc-mib" target="http://www.iana.org/assignments/ianagmplstc-mib">
+<reference anchor="IANA ianagmplstc-mib" target="http://www.iana.org/assignments/ianagmplstc-mib">
   <front>
     <title>IANA-GMPLS-TC-MIB</title>
     <author>

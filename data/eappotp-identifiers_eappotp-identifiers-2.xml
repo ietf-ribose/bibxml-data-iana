@@ -1,4 +1,4 @@
-<reference anchor="IANA.eappotp-identifiers/eappotp-identifiers-2" target="http://www.iana.org/assignments/eappotp-identifiers">
+<reference anchor="IANA eappotp-identifiers/eappotp-identifiers-2" target="http://www.iana.org/assignments/eappotp-identifiers">
   <front>
     <title>Hash Algorithms</title>
     <author>

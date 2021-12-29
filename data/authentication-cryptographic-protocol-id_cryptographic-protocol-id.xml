@@ -1,4 +1,4 @@
-<reference anchor="IANA.authentication-cryptographic-protocol-id/cryptographic-protocol-id" target="http://www.iana.org/assignments/authentication-cryptographic-protocol-id">
+<reference anchor="IANA authentication-cryptographic-protocol-id/cryptographic-protocol-id" target="http://www.iana.org/assignments/authentication-cryptographic-protocol-id">
   <front>
     <title>Cryptographic Protocol ID</title>
     <author>

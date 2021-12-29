@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/reply-modes" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="IANA mpls-lsp-ping-parameters/reply-modes" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Reply Modes</title>
     <author>

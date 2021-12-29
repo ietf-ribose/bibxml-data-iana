@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-11" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA sigtran-adapt/sigtran-adapt-11" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - Routing Key Management (RKM) Messages (Value 9)</title>
     <author>

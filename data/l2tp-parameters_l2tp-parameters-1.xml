@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-1" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="IANA l2tp-parameters/l2tp-parameters-1" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Control Message Attribute Value Pairs</title>
     <author>

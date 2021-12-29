@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/metadata-types" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/metadata-types" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Metadata Type Codes</title>
     <author>

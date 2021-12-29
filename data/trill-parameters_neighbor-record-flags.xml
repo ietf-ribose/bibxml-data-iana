@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/neighbor-record-flags" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="IANA trill-parameters/neighbor-record-flags" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL Neighbor TLV NEIGHBOR RECORD Flags</title>
     <author>

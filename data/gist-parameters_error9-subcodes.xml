@@ -1,4 +1,4 @@
-<reference anchor="IANA.gist-parameters/error9-subcodes" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="IANA gist-parameters/error9-subcodes" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>Error Code 9 Subcodes</title>
     <author>

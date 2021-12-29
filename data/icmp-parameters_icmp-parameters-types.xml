@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmp-parameters/icmp-parameters-types" target="http://www.iana.org/assignments/icmp-parameters">
+<reference anchor="IANA icmp-parameters/icmp-parameters-types" target="http://www.iana.org/assignments/icmp-parameters">
   <front>
     <title>ICMP Type Numbers</title>
     <author>

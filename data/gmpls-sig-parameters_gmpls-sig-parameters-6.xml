@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters/gmpls-sig-parameters-6" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="IANA gmpls-sig-parameters/gmpls-sig-parameters-6" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Actions</title>
     <author>

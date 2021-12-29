@@ -1,4 +1,4 @@
-<reference anchor="IANA.wesp-flags/wesp-flags-1" target="http://www.iana.org/assignments/wesp-flags">
+<reference anchor="IANA wesp-flags/wesp-flags-1" target="http://www.iana.org/assignments/wesp-flags">
   <front>
     <title>WESP Flags</title>
     <author>

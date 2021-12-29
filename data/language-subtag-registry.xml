@@ -1,4 +1,4 @@
-<reference anchor="IANA.language-subtag-registry" target="http://www.iana.org/assignments/language-subtag-registry">
+<reference anchor="IANA language-subtag-registry" target="http://www.iana.org/assignments/language-subtag-registry">
   <front>
     <title>Language Subtag Registry</title>
     <author>

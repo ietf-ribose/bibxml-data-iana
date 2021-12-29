@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/status-reason" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/status-reason" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Status Report Reason Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-20" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="IANA capwap-parameters/capwap-parameters-20" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>WTP Descriptor Type</title>
     <author>

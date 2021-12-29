@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-sake-parameters/eap-sake-parameters-2" target="http://www.iana.org/assignments/eap-sake-parameters">
+<reference anchor="IANA eap-sake-parameters/eap-sake-parameters-2" target="http://www.iana.org/assignments/eap-sake-parameters">
   <front>
     <title>non-skippable attributes</title>
     <author>

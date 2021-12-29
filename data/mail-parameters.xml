@@ -1,4 +1,4 @@
-<reference anchor="IANA.mail-parameters" target="http://www.iana.org/assignments/mail-parameters">
+<reference anchor="IANA mail-parameters" target="http://www.iana.org/assignments/mail-parameters">
   <front>
     <title>MAIL Parameters</title>
     <author>

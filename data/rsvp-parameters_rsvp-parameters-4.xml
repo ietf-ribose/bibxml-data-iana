@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-parameters/rsvp-parameters-4" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="IANA rsvp-parameters/rsvp-parameters-4" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Class Names, Class Numbers, and Class Types</title>
     <author>

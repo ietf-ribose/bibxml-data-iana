@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/type-63-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="IANA bootp-dhcp-parameters/type-63-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>NetWare/IP Option Type 63 Sub-Option Codes</title>
     <author>

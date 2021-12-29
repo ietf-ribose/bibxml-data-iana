@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-over-IEEE1394/ip-over-IEEE1394-1" target="http://www.iana.org/assignments/ip-over-IEEE1394">
+<reference anchor="IANA ip-over-IEEE1394/ip-over-IEEE1394-1" target="http://www.iana.org/assignments/ip-over-IEEE1394">
   <front>
     <title>CSR Protocol Identifiers</title>
     <author>

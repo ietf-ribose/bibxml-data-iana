@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianalanguage-mib" target="http://www.iana.org/assignments/ianalanguage-mib">
+<reference anchor="IANA ianalanguage-mib" target="http://www.iana.org/assignments/ianalanguage-mib">
   <front>
     <title>IANA-LANGUAGE-MIB</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.os-specific-parameters/filetypes" target="http://www.iana.org/assignments/os-specific-parameters">
+<reference anchor="IANA os-specific-parameters/filetypes" target="http://www.iana.org/assignments/os-specific-parameters">
   <front>
     <title>OS Specific Filetypes</title>
     <author>

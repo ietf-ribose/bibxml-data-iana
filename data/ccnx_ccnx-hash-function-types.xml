@@ -1,4 +1,4 @@
-<reference anchor="IANA.ccnx/ccnx-hash-function-types" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="IANA ccnx/ccnx-hash-function-types" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Hash Function Types</title>
     <author>

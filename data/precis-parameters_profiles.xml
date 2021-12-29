@@ -1,4 +1,4 @@
-<reference anchor="IANA.precis-parameters/profiles" target="http://www.iana.org/assignments/precis-parameters">
+<reference anchor="IANA precis-parameters/profiles" target="http://www.iana.org/assignments/precis-parameters">
   <front>
     <title>PRECIS Profiles</title>
     <author>

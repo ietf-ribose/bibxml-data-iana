@@ -1,4 +1,4 @@
-<reference anchor="IANA.xcap-parameters/xcap-parameters-1" target="http://www.iana.org/assignments/xcap-parameters">
+<reference anchor="IANA xcap-parameters/xcap-parameters-1" target="http://www.iana.org/assignments/xcap-parameters">
   <front>
     <title>XCAP Application Unique IDs</title>
     <author>

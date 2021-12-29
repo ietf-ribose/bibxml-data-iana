@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-threading-algorithms" target="http://www.iana.org/assignments/imap-threading-algorithms">
+<reference anchor="IANA imap-threading-algorithms" target="http://www.iana.org/assignments/imap-threading-algorithms">
   <front>
     <title>Internet Message Access Protocol (IMAP) Threading Algorithms</title>
     <author>

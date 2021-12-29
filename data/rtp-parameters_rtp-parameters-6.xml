@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtp-parameters/rtp-parameters-6" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="IANA rtp-parameters/rtp-parameters-6" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>SMT Values for TOKEN Packet Type Registry</title>
     <author>

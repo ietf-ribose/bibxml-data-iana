@@ -1,4 +1,4 @@
-<reference anchor="IANA.paws" target="http://www.iana.org/assignments/paws">
+<reference anchor="IANA paws" target="http://www.iana.org/assignments/paws">
   <front>
     <title>Protocol to Access White-Space (PAWS)</title>
     <author>

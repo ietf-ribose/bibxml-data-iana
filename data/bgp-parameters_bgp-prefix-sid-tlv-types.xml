@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/bgp-prefix-sid-tlv-types" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA bgp-parameters/bgp-prefix-sid-tlv-types" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Prefix-SID TLV Types</title>
     <author>

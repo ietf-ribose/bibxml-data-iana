@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcp-convergence-msg-reject-reason" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/tcp-convergence-msg-reject-reason" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version 4 MSG_REJECT Reason Codes</title>
     <author>

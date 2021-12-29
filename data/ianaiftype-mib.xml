@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianaiftype-mib" target="http://www.iana.org/assignments/ianaiftype-mib">
+<reference anchor="IANA ianaiftype-mib" target="http://www.iana.org/assignments/ianaiftype-mib">
   <front>
     <title>IANAifType-MIB</title>
     <author>

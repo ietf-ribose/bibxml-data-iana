@@ -1,4 +1,4 @@
-<reference anchor="IANA.alto-protocol/endpoint-property-types" target="http://www.iana.org/assignments/alto-protocol">
+<reference anchor="IANA alto-protocol/endpoint-property-types" target="http://www.iana.org/assignments/alto-protocol">
   <front>
     <title>ALTO Endpoint Property Type Registry</title>
     <author>

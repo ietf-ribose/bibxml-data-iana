@@ -1,4 +1,4 @@
-<reference anchor="IANA.ccmp-parameters/response-codes" target="http://www.iana.org/assignments/ccmp-parameters">
+<reference anchor="IANA ccmp-parameters/response-codes" target="http://www.iana.org/assignments/ccmp-parameters">
   <front>
     <title>CCMP Response Codes</title>
     <author>

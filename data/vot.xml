@@ -1,4 +1,4 @@
-<reference anchor="IANA.vot" target="http://www.iana.org/assignments/vot">
+<reference anchor="IANA vot" target="http://www.iana.org/assignments/vot">
   <front>
     <title>Vectors of Trust (VoT)</title>
     <author>

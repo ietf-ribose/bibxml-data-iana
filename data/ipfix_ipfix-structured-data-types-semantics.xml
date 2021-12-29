@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipfix/ipfix-structured-data-types-semantics" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IANA ipfix/ipfix-structured-data-types-semantics" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IPFIX Structured Data Types Semantics</title>
     <author>

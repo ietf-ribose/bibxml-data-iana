@@ -1,4 +1,4 @@
-<reference anchor="IANA.rip-types/rip-types-2" target="http://www.iana.org/assignments/rip-types">
+<reference anchor="IANA rip-types/rip-types-2" target="http://www.iana.org/assignments/rip-types">
   <front>
     <title>RIP Update Headers</title>
     <author>

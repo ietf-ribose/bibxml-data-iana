@@ -1,4 +1,4 @@
-<reference anchor="IANA.gdoi-payloads/gdoi-payloads-15" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="IANA gdoi-payloads/gdoi-payloads-15" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>Key Download Type Values</title>
     <author>

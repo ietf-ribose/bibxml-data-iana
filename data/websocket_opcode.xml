@@ -1,4 +1,4 @@
-<reference anchor="IANA.websocket/opcode" target="http://www.iana.org/assignments/websocket">
+<reference anchor="IANA websocket/opcode" target="http://www.iana.org/assignments/websocket">
   <front>
     <title>WebSocket Opcode Registry</title>
     <author>

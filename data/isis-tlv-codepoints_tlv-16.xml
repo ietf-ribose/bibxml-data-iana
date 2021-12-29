@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-tlv-codepoints/tlv-16" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA isis-tlv-codepoints/tlv-16" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Sub-TLVs for TLV 16 (Reverse Metric TLV)</title>
     <author>

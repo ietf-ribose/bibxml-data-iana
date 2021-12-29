@@ -1,4 +1,4 @@
-<reference anchor="IANA.rddp/rdmap-message-operation" target="http://www.iana.org/assignments/rddp">
+<reference anchor="IANA rddp/rdmap-message-operation" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>RDMAP Message Operation Codes</title>
     <author>

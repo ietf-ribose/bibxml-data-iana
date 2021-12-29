@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-additional-data/device-service-data-type" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="IANA emergency-call-additional-data/device-service-data-type" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Device/Service Data Type</title>
     <author>

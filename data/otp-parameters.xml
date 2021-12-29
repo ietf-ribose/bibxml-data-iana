@@ -1,4 +1,4 @@
-<reference anchor="IANA.otp-parameters" target="http://www.iana.org/assignments/otp-parameters">
+<reference anchor="IANA otp-parameters" target="http://www.iana.org/assignments/otp-parameters">
   <front>
     <title>One Time Password (OTP) Parameters</title>
     <author>

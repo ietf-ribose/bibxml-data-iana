@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-16" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA sigtran-adapt/sigtran-adapt-16" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - V5 Boundary Primitives Transport (V5PTM) Messages (Value 14)</title>
     <author>

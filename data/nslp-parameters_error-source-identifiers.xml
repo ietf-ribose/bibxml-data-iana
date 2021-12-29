@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/error-source-identifiers" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA nslp-parameters/error-source-identifiers" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>QoS NSLP Error Source Identifiers</title>
     <author>

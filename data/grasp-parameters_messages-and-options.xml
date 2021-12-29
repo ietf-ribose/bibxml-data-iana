@@ -1,4 +1,4 @@
-<reference anchor="IANA.grasp-parameters/messages-and-options" target="http://www.iana.org/assignments/grasp-parameters">
+<reference anchor="IANA grasp-parameters/messages-and-options" target="http://www.iana.org/assignments/grasp-parameters">
   <front>
     <title>GRASP Messages and Options</title>
     <author>

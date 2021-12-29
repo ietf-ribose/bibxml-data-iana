@@ -1,4 +1,4 @@
-<reference anchor="IANA.forces/setup" target="http://www.iana.org/assignments/forces">
+<reference anchor="IANA forces/setup" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Association Setup Response</title>
     <author>

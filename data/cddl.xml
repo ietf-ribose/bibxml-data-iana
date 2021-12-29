@@ -1,4 +1,4 @@
-<reference anchor="IANA.cddl" target="http://www.iana.org/assignments/cddl">
+<reference anchor="IANA cddl" target="http://www.iana.org/assignments/cddl">
   <front>
     <title>Concise Data Definition Language (CDDL)</title>
     <author>

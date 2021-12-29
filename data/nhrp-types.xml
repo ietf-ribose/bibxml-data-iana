@@ -1,4 +1,4 @@
-<reference anchor="IANA.nhrp-types" target="http://www.iana.org/assignments/nhrp-types">
+<reference anchor="IANA nhrp-types" target="http://www.iana.org/assignments/nhrp-types">
   <front>
     <title>Next Hop Resolution Protocol (NHRP) Types</title>
     <author>

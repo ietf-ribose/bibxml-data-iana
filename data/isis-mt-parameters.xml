@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-mt-parameters" target="http://www.iana.org/assignments/isis-mt-parameters">
+<reference anchor="IANA isis-mt-parameters" target="http://www.iana.org/assignments/isis-mt-parameters">
   <front>
     <title>IS-IS Multi-Topology Parameters</title>
     <author>

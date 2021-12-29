@@ -1,4 +1,4 @@
-<reference anchor="IANA.security-label-format-selection" target="http://www.iana.org/assignments/security-label-format-selection">
+<reference anchor="IANA security-label-format-selection" target="http://www.iana.org/assignments/security-label-format-selection">
   <front>
     <title>Security Label Format Selection</title>
     <author>

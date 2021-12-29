@@ -1,4 +1,4 @@
-<reference anchor="IANA.senml" target="http://www.iana.org/assignments/senml">
+<reference anchor="IANA senml" target="http://www.iana.org/assignments/senml">
   <front>
     <title>Sensor Measurement Lists (SenML)</title>
     <author>

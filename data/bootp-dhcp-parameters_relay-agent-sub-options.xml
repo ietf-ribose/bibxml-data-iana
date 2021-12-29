@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/relay-agent-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="IANA bootp-dhcp-parameters/relay-agent-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>DHCP Relay Agent Sub-Option Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsip-parameters/rsip-parameters-3" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="IANA rsip-parameters/rsip-parameters-3" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>RSIP Tunnel Types</title>
     <author>

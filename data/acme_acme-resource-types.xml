@@ -1,4 +1,4 @@
-<reference anchor="IANA.acme/acme-resource-types" target="http://www.iana.org/assignments/acme">
+<reference anchor="IANA acme/acme-resource-types" target="http://www.iana.org/assignments/acme">
   <front>
     <title>ACME Resource Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.kerberos-parameters/fast-options" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="IANA kerberos-parameters/fast-options" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>FAST Options</title>
     <author>

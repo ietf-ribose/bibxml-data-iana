@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcpcl-refuse-reason" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA bundle/tcpcl-refuse-reason" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer REFUSE_BUNDLE Reason Codes</title>
     <author>

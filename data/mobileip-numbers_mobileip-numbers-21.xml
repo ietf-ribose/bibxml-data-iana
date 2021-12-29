@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-21" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA mobileip-numbers/mobileip-numbers-21" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Security Parameter Index (SPI) Values for the Mobile IP Reserved SPIs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sieve-environment-items" target="http://www.iana.org/assignments/sieve-environment-items">
+<reference anchor="IANA sieve-environment-items" target="http://www.iana.org/assignments/sieve-environment-items">
   <front>
     <title>Sieve Environment Items</title>
     <author>

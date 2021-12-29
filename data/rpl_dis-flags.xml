@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/dis-flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA rpl/dis-flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>DODAG Informational Solicitation (DIS) Flags</title>
     <author>

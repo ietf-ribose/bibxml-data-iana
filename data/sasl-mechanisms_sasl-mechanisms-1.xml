@@ -1,4 +1,4 @@
-<reference anchor="IANA.sasl-mechanisms/sasl-mechanisms-1" target="http://www.iana.org/assignments/sasl-mechanisms">
+<reference anchor="IANA sasl-mechanisms/sasl-mechanisms-1" target="http://www.iana.org/assignments/sasl-mechanisms">
   <front>
     <title>SASL Mechanisms</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-17" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="IANA l2tp-parameters/l2tp-parameters-17" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Service Category AVP (Attribute Type 42) Flag Field</title>
     <author>

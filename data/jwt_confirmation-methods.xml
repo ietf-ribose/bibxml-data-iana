@@ -1,4 +1,4 @@
-<reference anchor="IANA.jwt/confirmation-methods" target="http://www.iana.org/assignments/jwt">
+<reference anchor="IANA jwt/confirmation-methods" target="http://www.iana.org/assignments/jwt">
   <front>
     <title>JWT Confirmation Methods</title>
     <author>

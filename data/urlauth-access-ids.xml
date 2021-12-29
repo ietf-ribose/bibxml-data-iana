@@ -1,4 +1,4 @@
-<reference anchor="IANA.urlauth-access-ids" target="http://www.iana.org/assignments/urlauth-access-ids">
+<reference anchor="IANA urlauth-access-ids" target="http://www.iana.org/assignments/urlauth-access-ids">
   <front>
     <title>Internet Message Access Protocol (IMAP) URLAUTH Access Identifiers and Prefixes</title>
     <author>

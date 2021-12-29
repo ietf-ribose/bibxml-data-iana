@@ -1,4 +1,4 @@
-<reference anchor="IANA.pnfs-layout-types/pnfs-layout-types-1" target="http://www.iana.org/assignments/pnfs-layout-types">
+<reference anchor="IANA pnfs-layout-types/pnfs-layout-types-1" target="http://www.iana.org/assignments/pnfs-layout-types">
   <front>
     <title>pNFS Layout Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/cont-seq-num-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA manet-parameters/cont-seq-num-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 8 Message TLV Type Extensions</title>
     <author>

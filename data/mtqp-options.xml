@@ -1,4 +1,4 @@
-<reference anchor="IANA.mtqp-options" target="http://www.iana.org/assignments/mtqp-options">
+<reference anchor="IANA mtqp-options" target="http://www.iana.org/assignments/mtqp-options">
   <front>
     <title>Message Tracking Query Protocol (MTQP) Options Registry</title>
     <author>

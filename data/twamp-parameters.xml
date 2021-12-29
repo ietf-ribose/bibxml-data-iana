@@ -1,4 +1,4 @@
-<reference anchor="IANA.twamp-parameters" target="http://www.iana.org/assignments/twamp-parameters">
+<reference anchor="IANA twamp-parameters" target="http://www.iana.org/assignments/twamp-parameters">
   <front>
     <title>Two-way Active Measurement Protocol (TWAMP) Parameters</title>
     <author>

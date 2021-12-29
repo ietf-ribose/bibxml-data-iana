@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-21" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="IANA mikey-payloads/mikey-payloads-21" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Cert Hash Payload Field Names</title>
     <author>

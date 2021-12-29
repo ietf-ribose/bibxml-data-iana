@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/srp-object-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA pcep/srp-object-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>SRP Object Flag Field</title>
     <author>

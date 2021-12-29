@@ -1,4 +1,4 @@
-<reference anchor="IANA.x25-type-numbers/x25-type-numbers-1" target="http://www.iana.org/assignments/x25-type-numbers">
+<reference anchor="IANA x25-type-numbers/x25-type-numbers-1" target="http://www.iana.org/assignments/x25-type-numbers">
   <front>
     <title>X.25 Type Numbers</title>
     <author>
