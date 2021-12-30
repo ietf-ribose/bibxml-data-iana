@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-ikev2-payloads" target="http://www.iana.org/assignments/eap-ikev2-payloads">
+<reference anchor="IANA.eap-ikev2-payloads" target="http://www.iana.org/assignments/eap-ikev2-payloads">
   <front>
     <title>Extensible Authentication Protocol-Internet Key Exchange Version 2 (EAP-IKEv2) Payloads</title>
     <author>

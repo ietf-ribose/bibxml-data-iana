@@ -1,4 +1,4 @@
-<reference anchor="IANA arp-parameters/arp-parameters-3" target="http://www.iana.org/assignments/arp-parameters">
+<reference anchor="IANA.arp-parameters/arp-parameters-3" target="http://www.iana.org/assignments/arp-parameters">
   <front>
     <title>Protocol Type</title>
     <author>

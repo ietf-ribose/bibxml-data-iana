@@ -1,4 +1,4 @@
-<reference anchor="IANA ice/transport-extensions" target="http://www.iana.org/assignments/ice">
+<reference anchor="IANA.ice/transport-extensions" target="http://www.iana.org/assignments/ice">
   <front>
     <title>ICE Transport Protocols</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA mobileip-numbers/mobileip-numbers-24" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-24" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Code Values for Mobile IP Handoff Reply Messages (Value 17)</title>
     <author>

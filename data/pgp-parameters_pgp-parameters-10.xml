@@ -1,4 +1,4 @@
-<reference anchor="IANA pgp-parameters/pgp-parameters-10" target="http://www.iana.org/assignments/pgp-parameters">
+<reference anchor="IANA.pgp-parameters/pgp-parameters-10" target="http://www.iana.org/assignments/pgp-parameters">
   <front>
     <title>New Packet Versions</title>
     <author>

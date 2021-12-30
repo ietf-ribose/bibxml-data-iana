@@ -1,4 +1,4 @@
-<reference anchor="IANA rddp/rdmap-errors" target="http://www.iana.org/assignments/rddp">
+<reference anchor="IANA.rddp/rdmap-errors" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>RDMAP Errors</title>
     <author>

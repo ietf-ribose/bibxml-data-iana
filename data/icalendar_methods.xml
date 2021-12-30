@@ -1,4 +1,4 @@
-<reference anchor="IANA icalendar/methods" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="IANA.icalendar/methods" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Methods</title>
     <author>

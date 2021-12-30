@@ -1,4 +1,4 @@
-<reference anchor="IANA pwe3-parameters/pwe3-parameters-17" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="IANA.pwe3-parameters/pwe3-parameters-17" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>Pseudowire Switching Point PE sub-TLV Type</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA nfsv4-device-id-notifications" target="http://www.iana.org/assignments/nfsv4-device-id-notifications">
+<reference anchor="IANA.nfsv4-device-id-notifications" target="http://www.iana.org/assignments/nfsv4-device-id-notifications">
   <front>
     <title>NFSv4 Device ID Notifications</title>
     <author>

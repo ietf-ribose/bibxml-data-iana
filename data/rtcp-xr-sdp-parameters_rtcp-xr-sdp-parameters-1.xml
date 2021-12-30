@@ -1,4 +1,4 @@
-<reference anchor="IANA rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1" target="http://www.iana.org/assignments/rtcp-xr-sdp-parameters">
+<reference anchor="IANA.rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1" target="http://www.iana.org/assignments/rtcp-xr-sdp-parameters">
   <front>
     <title>RTCP XR SDP Parameters</title>
     <author>

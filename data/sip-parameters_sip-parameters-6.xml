@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/sip-parameters-6" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/sip-parameters-6" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Methods and Response Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA acap-registrations" target="http://www.iana.org/assignments/acap-registrations">
+<reference anchor="IANA.acap-registrations" target="http://www.iana.org/assignments/acap-registrations">
   <front>
     <title>Application Access Protocol (ACAP) Numbers</title>
     <author>

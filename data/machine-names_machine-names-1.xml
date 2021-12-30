@@ -1,4 +1,4 @@
-<reference anchor="IANA machine-names/machine-names-1" target="http://www.iana.org/assignments/machine-names">
+<reference anchor="IANA.machine-names/machine-names-1" target="http://www.iana.org/assignments/machine-names">
   <front>
     <title>Machine Names</title>
     <author>

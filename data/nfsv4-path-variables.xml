@@ -1,4 +1,4 @@
-<reference anchor="IANA nfsv4-path-variables" target="http://www.iana.org/assignments/nfsv4-path-variables">
+<reference anchor="IANA.nfsv4-path-variables" target="http://www.iana.org/assignments/nfsv4-path-variables">
   <front>
     <title>NFSv4 Path Variables</title>
     <author>

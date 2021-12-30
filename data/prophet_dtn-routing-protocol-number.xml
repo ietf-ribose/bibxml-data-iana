@@ -1,4 +1,4 @@
-<reference anchor="IANA prophet/dtn-routing-protocol-number" target="http://www.iana.org/assignments/prophet">
+<reference anchor="IANA.prophet/dtn-routing-protocol-number" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>DTN Routing Protocol Number</title>
     <author>

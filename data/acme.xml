@@ -1,4 +1,4 @@
-<reference anchor="IANA acme" target="http://www.iana.org/assignments/acme">
+<reference anchor="IANA.acme" target="http://www.iana.org/assignments/acme">
   <front>
     <title>Automated Certificate Management Environment (ACME) Protocol</title>
     <author>

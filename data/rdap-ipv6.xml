@@ -1,4 +1,4 @@
-<reference anchor="IANA rdap-ipv6" target="http://www.iana.org/assignments/rdap-ipv6">
+<reference anchor="IANA.rdap-ipv6" target="http://www.iana.org/assignments/rdap-ipv6">
   <front>
     <title>Bootstrap Service Registry for IPv6 Address Space</title>
     <author>

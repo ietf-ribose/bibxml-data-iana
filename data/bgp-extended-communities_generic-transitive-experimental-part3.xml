@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-extended-communities/generic-transitive-experimental-part3" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA.bgp-extended-communities/generic-transitive-experimental-part3" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Generic Transitive Experimental Use Extended Community Part 3 Sub-Types</title>
     <author>

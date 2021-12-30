@@ -1,4 +1,4 @@
-<reference anchor="IANA rtfm/opcodes" target="http://www.iana.org/assignments/rtfm">
+<reference anchor="IANA.rtfm/opcodes" target="http://www.iana.org/assignments/rtfm">
   <front>
     <title>Pattern Matching Engine (PME) Opcodes</title>
     <author>

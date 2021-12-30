@@ -1,4 +1,4 @@
-<reference anchor="IANA transfer-encodings" target="http://www.iana.org/assignments/transfer-encodings">
+<reference anchor="IANA.transfer-encodings" target="http://www.iana.org/assignments/transfer-encodings">
   <front>
     <title>Transfer Encodings</title>
     <author>

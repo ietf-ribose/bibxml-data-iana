@@ -1,4 +1,4 @@
-<reference anchor="IANA rserpool-parameters/rserpool-parameters-2" target="http://www.iana.org/assignments/rserpool-parameters">
+<reference anchor="IANA.rserpool-parameters/rserpool-parameters-2" target="http://www.iana.org/assignments/rserpool-parameters">
   <front>
     <title>Endpoint Handlespace Redundancy Protocol (ENRP) Message Types</title>
     <author>

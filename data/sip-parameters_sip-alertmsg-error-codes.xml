@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/sip-alertmsg-error-codes" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/sip-alertmsg-error-codes" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>SIP AlertMsg-Error Codes</title>
     <author>

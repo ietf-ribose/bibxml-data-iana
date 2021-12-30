@@ -1,4 +1,4 @@
-<reference anchor="IANA sdp-security-descriptions/sdp-security-descriptions-4" target="http://www.iana.org/assignments/sdp-security-descriptions">
+<reference anchor="IANA.sdp-security-descriptions/sdp-security-descriptions-4" target="http://www.iana.org/assignments/sdp-security-descriptions">
   <front>
     <title>SRTP Session Parameters</title>
     <author>

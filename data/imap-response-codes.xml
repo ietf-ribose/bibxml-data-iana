@@ -1,4 +1,4 @@
-<reference anchor="IANA imap-response-codes" target="http://www.iana.org/assignments/imap-response-codes">
+<reference anchor="IANA.imap-response-codes" target="http://www.iana.org/assignments/imap-response-codes">
   <front>
     <title>IMAP Response Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA named-information" target="http://www.iana.org/assignments/named-information">
+<reference anchor="IANA.named-information" target="http://www.iana.org/assignments/named-information">
   <front>
     <title>Named Information</title>
     <author>

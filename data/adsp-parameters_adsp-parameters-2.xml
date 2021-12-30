@@ -1,4 +1,4 @@
-<reference anchor="IANA adsp-parameters/adsp-parameters-2" target="http://www.iana.org/assignments/adsp-parameters">
+<reference anchor="IANA.adsp-parameters/adsp-parameters-2" target="http://www.iana.org/assignments/adsp-parameters">
   <front>
     <title>ADSP Outbound Signing Practices</title>
     <author>

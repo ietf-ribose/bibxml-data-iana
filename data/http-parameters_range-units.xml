@@ -1,4 +1,4 @@
-<reference anchor="IANA http-parameters/range-units" target="http://www.iana.org/assignments/http-parameters">
+<reference anchor="IANA.http-parameters/range-units" target="http://www.iana.org/assignments/http-parameters">
   <front>
     <title>HTTP Range Unit Registry</title>
     <author>

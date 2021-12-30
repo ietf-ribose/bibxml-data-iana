@@ -1,4 +1,4 @@
-<reference anchor="IANA pkix-parameters/caa-properties" target="http://www.iana.org/assignments/pkix-parameters">
+<reference anchor="IANA.pkix-parameters/caa-properties" target="http://www.iana.org/assignments/pkix-parameters">
   <front>
     <title>Certification Authority Restriction Properties</title>
     <author>

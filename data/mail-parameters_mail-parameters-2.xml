@@ -1,4 +1,4 @@
-<reference anchor="IANA mail-parameters/mail-parameters-2" target="http://www.iana.org/assignments/mail-parameters">
+<reference anchor="IANA.mail-parameters/mail-parameters-2" target="http://www.iana.org/assignments/mail-parameters">
   <front>
     <title>SMTP Service Extensions</title>
     <author>

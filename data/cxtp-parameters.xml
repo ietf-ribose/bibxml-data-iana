@@ -1,4 +1,4 @@
-<reference anchor="IANA cxtp-parameters" target="http://www.iana.org/assignments/cxtp-parameters">
+<reference anchor="IANA.cxtp-parameters" target="http://www.iana.org/assignments/cxtp-parameters">
   <front>
     <title>Context Transfer Protocol (CXTP) Parameters</title>
     <author>

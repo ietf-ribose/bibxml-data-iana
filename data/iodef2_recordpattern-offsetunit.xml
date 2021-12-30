@@ -1,4 +1,4 @@
-<reference anchor="IANA iodef2/recordpattern-offsetunit" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IANA.iodef2/recordpattern-offsetunit" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>RecordPattern-offsetunit</title>
     <author>

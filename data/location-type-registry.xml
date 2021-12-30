@@ -1,4 +1,4 @@
-<reference anchor="IANA location-type-registry" target="http://www.iana.org/assignments/location-type-registry">
+<reference anchor="IANA.location-type-registry" target="http://www.iana.org/assignments/location-type-registry">
   <front>
     <title>Location Types Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA emsk-parameters" target="http://www.iana.org/assignments/emsk-parameters">
+<reference anchor="IANA.emsk-parameters" target="http://www.iana.org/assignments/emsk-parameters">
   <front>
     <title>Extended Master Session Key (EMSK) Parameters</title>
     <author>

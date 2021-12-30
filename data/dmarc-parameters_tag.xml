@@ -1,4 +1,4 @@
-<reference anchor="IANA dmarc-parameters/tag" target="http://www.iana.org/assignments/dmarc-parameters">
+<reference anchor="IANA.dmarc-parameters/tag" target="http://www.iana.org/assignments/dmarc-parameters">
   <front>
     <title>DMARC Tag Registry</title>
     <author>

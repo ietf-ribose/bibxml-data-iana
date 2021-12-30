@@ -1,4 +1,4 @@
-<reference anchor="IANA rpc-netids/rpc-netids-1" target="http://www.iana.org/assignments/rpc-netids">
+<reference anchor="IANA.rpc-netids/rpc-netids-1" target="http://www.iana.org/assignments/rpc-netids">
   <front>
     <title>ONC RPC Netids (First Come First Served)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA kink-parameters/kink-parameters-2" target="http://www.iana.org/assignments/kink-parameters">
+<reference anchor="IANA.kink-parameters/kink-parameters-2" target="http://www.iana.org/assignments/kink-parameters">
   <front>
     <title>KINK Message Types</title>
     <author>

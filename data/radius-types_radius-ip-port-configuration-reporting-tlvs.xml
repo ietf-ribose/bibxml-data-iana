@@ -1,4 +1,4 @@
-<reference anchor="IANA radius-types/radius-ip-port-configuration-reporting-tlvs" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="IANA.radius-types/radius-ip-port-configuration-reporting-tlvs" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>RADIUS IP Port Configuration and Reporting TLVs</title>
     <author>

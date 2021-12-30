@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-error-numbers" target="http://www.iana.org/assignments/svrloc-error-numbers">
+<reference anchor="IANA.svrloc-error-numbers" target="http://www.iana.org/assignments/svrloc-error-numbers">
   <front>
     <title>Service Location Protocol, Version 2 (SLPv2) Error Numbers</title>
     <author>

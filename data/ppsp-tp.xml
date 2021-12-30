@@ -1,4 +1,4 @@
-<reference anchor="IANA ppsp-tp" target="http://www.iana.org/assignments/ppsp-tp">
+<reference anchor="IANA.ppsp-tp" target="http://www.iana.org/assignments/ppsp-tp">
   <front>
     <title>Peer-to-Peer Streaming Tracker Protocol (PPSTP)</title>
     <author>

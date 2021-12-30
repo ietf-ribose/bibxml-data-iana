@@ -1,4 +1,4 @@
-<reference anchor="IANA gmpls-sig-parameters/gmpls-sig-parameters-2" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="IANA.gmpls-sig-parameters/gmpls-sig-parameters-2" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>LSP Encoding Types</title>
     <author>

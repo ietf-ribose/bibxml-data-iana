@@ -1,4 +1,4 @@
-<reference anchor="IANA rohc-pro-ids" target="http://www.iana.org/assignments/rohc-pro-ids">
+<reference anchor="IANA.rohc-pro-ids" target="http://www.iana.org/assignments/rohc-pro-ids">
   <front>
     <title>RObust Header Compression (ROHC) Profile Identifiers</title>
     <author>

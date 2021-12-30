@@ -1,4 +1,4 @@
-<reference anchor="IANA rtspv2-parameters/terminate-reason-params" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="IANA.rtspv2-parameters/terminate-reason-params" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>Terminate-Reason Header Parameters</title>
     <author>

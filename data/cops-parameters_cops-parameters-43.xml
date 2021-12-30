@@ -1,4 +1,4 @@
-<reference anchor="IANA cops-parameters/cops-parameters-43" target="http://www.iana.org/assignments/cops-parameters">
+<reference anchor="IANA.cops-parameters/cops-parameters-43" target="http://www.iana.org/assignments/cops-parameters">
   <front>
     <title>Merge Strategies</title>
     <author>

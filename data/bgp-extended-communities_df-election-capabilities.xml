@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-extended-communities/df-election-capabilities" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA.bgp-extended-communities/df-election-capabilities" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>DF Election Capabilities</title>
     <author>

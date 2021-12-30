@@ -1,4 +1,4 @@
-<reference anchor="IANA xml-security-uris" target="http://www.iana.org/assignments/xml-security-uris">
+<reference anchor="IANA.xml-security-uris" target="http://www.iana.org/assignments/xml-security-uris">
   <front>
     <title>XML Security URIs</title>
     <author>

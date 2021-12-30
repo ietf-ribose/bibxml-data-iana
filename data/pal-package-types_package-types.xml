@@ -1,4 +1,4 @@
-<reference anchor="IANA pal-package-types/package-types" target="http://www.iana.org/assignments/pal-package-types">
+<reference anchor="IANA.pal-package-types/package-types" target="http://www.iana.org/assignments/pal-package-types">
   <front>
     <title>PAL Package Types</title>
     <author>

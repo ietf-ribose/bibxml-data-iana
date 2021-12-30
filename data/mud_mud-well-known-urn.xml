@@ -1,4 +1,4 @@
-<reference anchor="IANA mud/mud-well-known-urn" target="http://www.iana.org/assignments/mud">
+<reference anchor="IANA.mud/mud-well-known-urn" target="http://www.iana.org/assignments/mud">
   <front>
     <title>MUD Well-Known Uniform Resource Name (URN)</title>
     <author>

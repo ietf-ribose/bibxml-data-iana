@@ -1,4 +1,4 @@
-<reference anchor="IANA segment-routing" target="http://www.iana.org/assignments/segment-routing">
+<reference anchor="IANA.segment-routing" target="http://www.iana.org/assignments/segment-routing">
   <front>
     <title>Segment Routing</title>
     <author>

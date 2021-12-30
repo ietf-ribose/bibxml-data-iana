@@ -1,4 +1,4 @@
-<reference anchor="IANA bier/bier-next-protocol-identifiers" target="http://www.iana.org/assignments/bier">
+<reference anchor="IANA.bier/bier-next-protocol-identifiers" target="http://www.iana.org/assignments/bier">
   <front>
     <title>BIER Next Protocol Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ppp-numbers/ppp-numbers-16" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="IANA.ppp-numbers/ppp-numbers-16" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP Bridging Configuration Option Types</title>
     <author>

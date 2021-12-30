@@ -1,4 +1,4 @@
-<reference anchor="IANA gist-parameters/error1-subcodes" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="IANA.gist-parameters/error1-subcodes" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>Error Code 1 Subcodes</title>
     <author>

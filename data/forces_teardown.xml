@@ -1,4 +1,4 @@
-<reference anchor="IANA forces/teardown" target="http://www.iana.org/assignments/forces">
+<reference anchor="IANA.forces/teardown" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Association Teardown Message</title>
     <author>

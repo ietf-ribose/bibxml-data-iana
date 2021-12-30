@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/auto-bandwidth-attributes-sub-tlv" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/auto-bandwidth-attributes-sub-tlv" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>AUTO-BANDWIDTH-ATTRIBUTES Sub-TLV Types</title>
     <author>

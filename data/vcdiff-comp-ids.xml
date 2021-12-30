@@ -1,4 +1,4 @@
-<reference anchor="IANA vcdiff-comp-ids" target="http://www.iana.org/assignments/vcdiff-comp-ids">
+<reference anchor="IANA.vcdiff-comp-ids" target="http://www.iana.org/assignments/vcdiff-comp-ids">
   <front>
     <title>VCDIFF Secondary Compressor ID Values</title>
     <author>

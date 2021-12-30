@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-parameters/dhcid-rr-digest-type-codes" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA.dns-parameters/dhcid-rr-digest-type-codes" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>DHCID RR Digest Type Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ldap-parameters/ldap-parameters-6" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="IANA.ldap-parameters/ldap-parameters-6" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>resultCode values</title>
     <author>

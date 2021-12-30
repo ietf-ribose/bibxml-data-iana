@@ -1,4 +1,4 @@
-<reference anchor="IANA rddp/rdmap-ddp-untagged-queue" target="http://www.iana.org/assignments/rddp">
+<reference anchor="IANA.rddp/rdmap-ddp-untagged-queue" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>RDMAP DDP Untagged Queue Numbers</title>
     <author>

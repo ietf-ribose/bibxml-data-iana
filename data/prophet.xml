@@ -1,4 +1,4 @@
-<reference anchor="IANA prophet" target="http://www.iana.org/assignments/prophet">
+<reference anchor="IANA.prophet" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>Probabilistic Routing Protocol using History of Encounters and Transitivity (PRoPHET)</title>
     <author>

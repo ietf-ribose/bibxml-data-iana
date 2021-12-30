@@ -1,4 +1,4 @@
-<reference anchor="IANA rtp-parameters" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="IANA.rtp-parameters" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>Real-Time Transport Protocol (RTP) Parameters</title>
     <author>

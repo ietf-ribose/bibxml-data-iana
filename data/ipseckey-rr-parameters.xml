@@ -1,4 +1,4 @@
-<reference anchor="IANA ipseckey-rr-parameters" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
+<reference anchor="IANA.ipseckey-rr-parameters" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
   <front>
     <title>IPSECKEY Resource Record Parameters</title>
     <author>

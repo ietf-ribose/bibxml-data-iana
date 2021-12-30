@@ -1,4 +1,4 @@
-<reference anchor="IANA dsn-types/dsn-types-2" target="http://www.iana.org/assignments/dsn-types">
+<reference anchor="IANA.dsn-types/dsn-types-2" target="http://www.iana.org/assignments/dsn-types">
   <front>
     <title>Diagnostic Types</title>
     <author>

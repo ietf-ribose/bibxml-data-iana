@@ -1,4 +1,4 @@
-<reference anchor="IANA ianastoragemediatype-mib" target="http://www.iana.org/assignments/ianastoragemediatype-mib">
+<reference anchor="IANA.ianastoragemediatype-mib" target="http://www.iana.org/assignments/ianastoragemediatype-mib">
   <front>
     <title>IANA-STORAGE-MEDIA-TYPE-MIB</title>
     <author>

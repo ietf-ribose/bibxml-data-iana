@@ -1,4 +1,4 @@
-<reference anchor="IANA pim-parameters/port-option-types" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="IANA.pim-parameters/port-option-types" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PORT Option Types</title>
     <author>

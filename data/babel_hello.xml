@@ -1,4 +1,4 @@
-<reference anchor="IANA babel/hello" target="http://www.iana.org/assignments/babel">
+<reference anchor="IANA.babel/hello" target="http://www.iana.org/assignments/babel">
   <front>
     <title>Babel Hello Flags Values</title>
     <author>

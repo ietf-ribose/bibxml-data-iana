@@ -1,4 +1,4 @@
-<reference anchor="IANA ianaenergyrelation-mib" target="http://www.iana.org/assignments/ianaenergyrelation-mib">
+<reference anchor="IANA.ianaenergyrelation-mib" target="http://www.iana.org/assignments/ianaenergyrelation-mib">
   <front>
     <title>IANA-ENERGY-RELATION-MIB</title>
     <author>

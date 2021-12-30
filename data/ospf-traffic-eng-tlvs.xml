@@ -1,4 +1,4 @@
-<reference anchor="IANA ospf-traffic-eng-tlvs" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
+<reference anchor="IANA.ospf-traffic-eng-tlvs" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
   <front>
     <title>Open Shortest Path First (OSPF) Traffic Engineering TLVs</title>
     <author>

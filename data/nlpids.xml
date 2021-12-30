@@ -1,4 +1,4 @@
-<reference anchor="IANA nlpids" target="http://www.iana.org/assignments/nlpids">
+<reference anchor="IANA.nlpids" target="http://www.iana.org/assignments/nlpids">
   <front>
     <title>Network Layer Protocol Identifiers (NLPIDs) of Interest</title>
     <author>

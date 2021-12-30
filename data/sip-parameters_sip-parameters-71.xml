@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/sip-parameters-71" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/sip-parameters-71" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Global Feature-Capability Indicator Registration Tree</title>
     <author>

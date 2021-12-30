@@ -1,4 +1,4 @@
-<reference anchor="IANA language-tags/language-tags-1" target="http://www.iana.org/assignments/language-tags">
+<reference anchor="IANA.language-tags/language-tags-1" target="http://www.iana.org/assignments/language-tags">
   <front>
     <title>Language Tags</title>
     <author>

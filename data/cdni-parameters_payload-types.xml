@@ -1,4 +1,4 @@
-<reference anchor="IANA cdni-parameters/payload-types" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="IANA.cdni-parameters/payload-types" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Payload Types</title>
     <author>

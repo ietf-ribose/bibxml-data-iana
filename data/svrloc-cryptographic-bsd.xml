@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-cryptographic-bsd" target="http://www.iana.org/assignments/svrloc-cryptographic-bsd">
+<reference anchor="IANA.svrloc-cryptographic-bsd" target="http://www.iana.org/assignments/svrloc-cryptographic-bsd">
   <front>
     <title>Service Location Protocol Version 2 (SLPv2) Cryptographic BSD Codes</title>
     <author>

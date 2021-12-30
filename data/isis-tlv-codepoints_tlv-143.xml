@@ -1,4 +1,4 @@
-<reference anchor="IANA isis-tlv-codepoints/tlv-143" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA.isis-tlv-codepoints/tlv-143" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Sub-TLVs for TLV 143 (MT-Port-Cap-TLV)</title>
     <author>

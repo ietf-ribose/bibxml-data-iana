@@ -1,4 +1,4 @@
-<reference anchor="IANA manet-parameters/interval-time-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA.manet-parameters/interval-time-message-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 0 Message TLV Type Extensions</title>
     <author>

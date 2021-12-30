@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-sshfp-rr-parameters" target="http://www.iana.org/assignments/dns-sshfp-rr-parameters">
+<reference anchor="IANA.dns-sshfp-rr-parameters" target="http://www.iana.org/assignments/dns-sshfp-rr-parameters">
   <front>
     <title>DNS SSHFP Resource Record Parameters</title>
     <author>

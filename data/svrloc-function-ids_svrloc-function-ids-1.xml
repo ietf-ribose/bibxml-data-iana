@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-function-ids/svrloc-function-ids-1" target="http://www.iana.org/assignments/svrloc-function-ids">
+<reference anchor="IANA.svrloc-function-ids/svrloc-function-ids-1" target="http://www.iana.org/assignments/svrloc-function-ids">
   <front>
     <title>Function IDs</title>
     <author>

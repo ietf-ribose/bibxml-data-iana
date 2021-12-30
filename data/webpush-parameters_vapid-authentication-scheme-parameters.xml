@@ -1,4 +1,4 @@
-<reference anchor="IANA webpush-parameters/vapid-authentication-scheme-parameters" target="http://www.iana.org/assignments/webpush-parameters">
+<reference anchor="IANA.webpush-parameters/vapid-authentication-scheme-parameters" target="http://www.iana.org/assignments/webpush-parameters">
   <front>
     <title>VAPID Authentication Scheme Parameters</title>
     <author>

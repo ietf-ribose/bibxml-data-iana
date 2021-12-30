@@ -1,4 +1,4 @@
-<reference anchor="IANA manet-parameters/mpr-tlv-bit" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA.manet-parameters/mpr-tlv-bit" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>MPR TLV BIT Values</title>
     <author>

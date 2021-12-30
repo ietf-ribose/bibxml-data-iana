@@ -1,4 +1,4 @@
-<reference anchor="IANA lgr-dispositions" target="http://www.iana.org/assignments/lgr-dispositions">
+<reference anchor="IANA.lgr-dispositions" target="http://www.iana.org/assignments/lgr-dispositions">
   <front>
     <title>Label Generation Ruleset (LGR) Dispositions</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA foobar-af-numbers" target="http://www.iana.org/assignments/foobar-af-numbers">
+<reference anchor="IANA.foobar-af-numbers" target="http://www.iana.org/assignments/foobar-af-numbers">
   <front>
     <title>FOOBAR Address Family Numbers</title>
     <author>

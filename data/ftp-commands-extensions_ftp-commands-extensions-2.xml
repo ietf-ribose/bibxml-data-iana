@@ -1,4 +1,4 @@
-<reference anchor="IANA ftp-commands-extensions/ftp-commands-extensions-2" target="http://www.iana.org/assignments/ftp-commands-extensions">
+<reference anchor="IANA.ftp-commands-extensions/ftp-commands-extensions-2" target="http://www.iana.org/assignments/ftp-commands-extensions">
   <front>
     <title>FTP Commands and Extensions</title>
     <author>

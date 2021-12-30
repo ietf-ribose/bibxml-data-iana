@@ -1,4 +1,4 @@
-<reference anchor="IANA ecml-parameters/ecml-parameters-1" target="http://www.iana.org/assignments/ecml-parameters">
+<reference anchor="IANA.ecml-parameters/ecml-parameters-1" target="http://www.iana.org/assignments/ecml-parameters">
   <front>
     <title>URN Prefix: urn:ietf:params:ecml</title>
     <author>

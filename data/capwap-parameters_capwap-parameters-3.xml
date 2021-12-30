@@ -1,4 +1,4 @@
-<reference anchor="IANA capwap-parameters/capwap-parameters-3" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="IANA.capwap-parameters/capwap-parameters-3" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>CAPWAP Control Message Flags</title>
     <author>

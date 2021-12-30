@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-extended-communities/non-trans-four-octet-as" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA.bgp-extended-communities/non-trans-four-octet-as" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Non-Transitive Four-Octet AS-Specific Extended Community Sub-Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA smi-numbers/smi-numbers-24" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="IANA.smi-numbers/smi-numbers-24" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI Private Codes</title>
     <author>

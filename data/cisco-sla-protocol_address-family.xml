@@ -1,4 +1,4 @@
-<reference anchor="IANA cisco-sla-protocol/address-family" target="http://www.iana.org/assignments/cisco-sla-protocol">
+<reference anchor="IANA.cisco-sla-protocol/address-family" target="http://www.iana.org/assignments/cisco-sla-protocol">
   <front>
     <title>Cisco SLA Protocol Address Family Registry</title>
     <author>

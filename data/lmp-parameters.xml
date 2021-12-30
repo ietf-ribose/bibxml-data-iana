@@ -1,4 +1,4 @@
-<reference anchor="IANA lmp-parameters" target="http://www.iana.org/assignments/lmp-parameters">
+<reference anchor="IANA.lmp-parameters" target="http://www.iana.org/assignments/lmp-parameters">
   <front>
     <title>Link Management Protocol (LMP) Parameters</title>
     <author>

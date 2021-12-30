@@ -1,4 +1,4 @@
-<reference anchor="IANA sdp-parameters/sdp-parameters-18" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="IANA.sdp-parameters/sdp-parameters-18" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>SDP/RTSP key management protocol identifiers</title>
     <author>

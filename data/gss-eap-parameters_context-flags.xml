@@ -1,4 +1,4 @@
-<reference anchor="IANA gss-eap-parameters/context-flags" target="http://www.iana.org/assignments/gss-eap-parameters">
+<reference anchor="IANA.gss-eap-parameters/context-flags" target="http://www.iana.org/assignments/gss-eap-parameters">
   <front>
     <title>GSS-EAP Context Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1" target="http://www.iana.org/assignments/sgmp-vendor-specific-codes">
+<reference anchor="IANA.sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1" target="http://www.iana.org/assignments/sgmp-vendor-specific-codes">
   <front>
     <title>SGMP Vendor Specific Codes (Obsolete)</title>
     <author>

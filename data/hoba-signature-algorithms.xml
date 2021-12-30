@@ -1,4 +1,4 @@
-<reference anchor="IANA hoba-signature-algorithms" target="http://www.iana.org/assignments/hoba-signature-algorithms">
+<reference anchor="IANA.hoba-signature-algorithms" target="http://www.iana.org/assignments/hoba-signature-algorithms">
   <front>
     <title>HTTP Origin-Bound Authentication (HOBA) Signature Algorithms</title>
     <author>

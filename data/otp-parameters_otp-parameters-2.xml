@@ -1,4 +1,4 @@
-<reference anchor="IANA otp-parameters/otp-parameters-2" target="http://www.iana.org/assignments/otp-parameters">
+<reference anchor="IANA.otp-parameters/otp-parameters-2" target="http://www.iana.org/assignments/otp-parameters">
   <front>
     <title>Extension Set Identifiers</title>
     <author>

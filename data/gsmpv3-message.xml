@@ -1,4 +1,4 @@
-<reference anchor="IANA gsmpv3-message" target="http://www.iana.org/assignments/gsmpv3-message">
+<reference anchor="IANA.gsmpv3-message" target="http://www.iana.org/assignments/gsmpv3-message">
   <front>
     <title>Global Switch Management Protocol version 3 (GSMPv3) Message Type Name Space</title>
     <author>

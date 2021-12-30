@@ -1,4 +1,4 @@
-<reference anchor="IANA message-store-events/message-store-events-4" target="http://www.iana.org/assignments/message-store-events">
+<reference anchor="IANA.message-store-events/message-store-events-4" target="http://www.iana.org/assignments/message-store-events">
   <front>
     <title>Event Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rtcp-xr-block-types/pdv-types" target="http://www.iana.org/assignments/rtcp-xr-block-types">
+<reference anchor="IANA.rtcp-xr-block-types/pdv-types" target="http://www.iana.org/assignments/rtcp-xr-block-types">
   <front>
     <title>RTCP XR PDV block - PDV type</title>
     <author>

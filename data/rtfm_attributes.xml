@@ -1,4 +1,4 @@
-<reference anchor="IANA rtfm/attributes" target="http://www.iana.org/assignments/rtfm">
+<reference anchor="IANA.rtfm/attributes" target="http://www.iana.org/assignments/rtfm">
   <front>
     <title>RTFM Attributes</title>
     <author>

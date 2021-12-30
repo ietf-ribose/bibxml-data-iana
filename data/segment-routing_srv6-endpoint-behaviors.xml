@@ -1,4 +1,4 @@
-<reference anchor="IANA segment-routing/srv6-endpoint-behaviors" target="http://www.iana.org/assignments/segment-routing">
+<reference anchor="IANA.segment-routing/srv6-endpoint-behaviors" target="http://www.iana.org/assignments/segment-routing">
   <front>
     <title>SRv6 Endpoint Behaviors</title>
     <author>

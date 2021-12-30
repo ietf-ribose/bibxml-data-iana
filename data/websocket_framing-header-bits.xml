@@ -1,4 +1,4 @@
-<reference anchor="IANA websocket/framing-header-bits" target="http://www.iana.org/assignments/websocket">
+<reference anchor="IANA.websocket/framing-header-bits" target="http://www.iana.org/assignments/websocket">
   <front>
     <title>WebSocket Framing Header Bits Registry</title>
     <author>

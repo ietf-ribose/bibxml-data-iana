@@ -1,4 +1,4 @@
-<reference anchor="IANA service-codes/service-codes-1" target="http://www.iana.org/assignments/service-codes">
+<reference anchor="IANA.service-codes/service-codes-1" target="http://www.iana.org/assignments/service-codes">
   <front>
     <title>Service Codes</title>
     <author>

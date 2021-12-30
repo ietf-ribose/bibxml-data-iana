@@ -1,4 +1,4 @@
-<reference anchor="IANA yang-geographic-location" target="http://www.iana.org/assignments/yang-geographic-location">
+<reference anchor="IANA.yang-geographic-location" target="http://www.iana.org/assignments/yang-geographic-location">
   <front>
     <title>YANG Geographic Location Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA media-types-parameters/media-types-parameters-3" target="http://www.iana.org/assignments/media-types-parameters">
+<reference anchor="IANA.media-types-parameters/media-types-parameters-3" target="http://www.iana.org/assignments/media-types-parameters">
   <front>
     <title>MIME to X.400 Table - Extended Body Part</title>
     <author>

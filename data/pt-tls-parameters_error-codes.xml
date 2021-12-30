@@ -1,4 +1,4 @@
-<reference anchor="IANA pt-tls-parameters/error-codes" target="http://www.iana.org/assignments/pt-tls-parameters">
+<reference anchor="IANA.pt-tls-parameters/error-codes" target="http://www.iana.org/assignments/pt-tls-parameters">
   <front>
     <title>PT-TLS Error Codes</title>
     <author>

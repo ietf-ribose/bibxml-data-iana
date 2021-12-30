@@ -1,4 +1,4 @@
-<reference anchor="IANA alto-protocol/cost-metrics" target="http://www.iana.org/assignments/alto-protocol">
+<reference anchor="IANA.alto-protocol/cost-metrics" target="http://www.iana.org/assignments/alto-protocol">
   <front>
     <title>ALTO Cost Metric Registry</title>
     <author>

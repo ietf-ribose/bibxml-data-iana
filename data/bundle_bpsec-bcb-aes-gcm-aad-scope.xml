@@ -1,4 +1,4 @@
-<reference anchor="IANA bundle/bpsec-bcb-aes-gcm-aad-scope" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA.bundle/bpsec-bcb-aes-gcm-aad-scope" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>BPSec BCB-AES-GCM AAD Scope Flags</title>
     <author>

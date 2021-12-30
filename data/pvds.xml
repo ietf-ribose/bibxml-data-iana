@@ -1,4 +1,4 @@
-<reference anchor="IANA pvds" target="http://www.iana.org/assignments/pvds">
+<reference anchor="IANA.pvds" target="http://www.iana.org/assignments/pvds">
   <front>
     <title>Provisioning Domains (PvDs)</title>
     <author>

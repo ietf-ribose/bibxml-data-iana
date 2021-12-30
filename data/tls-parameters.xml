@@ -1,4 +1,4 @@
-<reference anchor="IANA tls-parameters" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="IANA.tls-parameters" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>Transport Layer Security (TLS) Parameters</title>
     <author>

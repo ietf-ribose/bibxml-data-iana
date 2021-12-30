@@ -1,4 +1,4 @@
-<reference anchor="IANA igp-parameters" target="http://www.iana.org/assignments/igp-parameters">
+<reference anchor="IANA.igp-parameters" target="http://www.iana.org/assignments/igp-parameters">
   <front>
     <title>Interior Gateway Protocol (IGP) Parameters</title>
     <author>

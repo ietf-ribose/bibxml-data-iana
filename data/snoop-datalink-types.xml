@@ -1,4 +1,4 @@
-<reference anchor="IANA snoop-datalink-types" target="http://www.iana.org/assignments/snoop-datalink-types">
+<reference anchor="IANA.snoop-datalink-types" target="http://www.iana.org/assignments/snoop-datalink-types">
   <front>
     <title>Snoop Datalink Types</title>
     <author>

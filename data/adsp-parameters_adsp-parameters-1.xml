@@ -1,4 +1,4 @@
-<reference anchor="IANA adsp-parameters/adsp-parameters-1" target="http://www.iana.org/assignments/adsp-parameters">
+<reference anchor="IANA.adsp-parameters/adsp-parameters-1" target="http://www.iana.org/assignments/adsp-parameters">
   <front>
     <title>ADSP Specification Tags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA manet-parameters/link-metric-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA.manet-parameters/link-metric-address-block-tlv-type-extension" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>LINK_METRIC Address Block TLV Type Extensions</title>
     <author>

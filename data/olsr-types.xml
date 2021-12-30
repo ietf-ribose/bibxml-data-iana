@@ -1,4 +1,4 @@
-<reference anchor="IANA olsr-types" target="http://www.iana.org/assignments/olsr-types">
+<reference anchor="IANA.olsr-types" target="http://www.iana.org/assignments/olsr-types">
   <front>
     <title>Optimized Link State Routing (OLSR) Protocol Message Types</title>
     <author>

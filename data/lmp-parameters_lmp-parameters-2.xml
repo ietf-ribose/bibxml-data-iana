@@ -1,4 +1,4 @@
-<reference anchor="IANA lmp-parameters/lmp-parameters-2" target="http://www.iana.org/assignments/lmp-parameters">
+<reference anchor="IANA.lmp-parameters/lmp-parameters-2" target="http://www.iana.org/assignments/lmp-parameters">
   <front>
     <title>LMP Message Type Name Space</title>
     <author>

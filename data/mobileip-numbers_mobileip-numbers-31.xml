@@ -1,4 +1,4 @@
-<reference anchor="IANA mobileip-numbers/mobileip-numbers-31" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-31" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>PMIPv4 Device ID Types</title>
     <author>

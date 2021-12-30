@@ -1,4 +1,4 @@
-<reference anchor="IANA nlpids/nlpids-1" target="http://www.iana.org/assignments/nlpids">
+<reference anchor="IANA.nlpids/nlpids-1" target="http://www.iana.org/assignments/nlpids">
   <front>
     <title>NLPIDs of Interest</title>
     <author>

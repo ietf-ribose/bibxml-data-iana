@@ -1,4 +1,4 @@
-<reference anchor="IANA gdoi-payloads/gdoi-payloads-1" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="IANA.gdoi-payloads/gdoi-payloads-1" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>GDOI ID Payload Type Values</title>
     <author>

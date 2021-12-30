@@ -1,4 +1,4 @@
-<reference anchor="IANA trill-parameters" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="IANA.trill-parameters" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>Transparent Interconnection of Lots of Links (TRILL) Parameters</title>
     <author>

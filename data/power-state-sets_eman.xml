@@ -1,4 +1,4 @@
-<reference anchor="IANA power-state-sets/eman" target="http://www.iana.org/assignments/power-state-sets">
+<reference anchor="IANA.power-state-sets/eman" target="http://www.iana.org/assignments/power-state-sets">
   <front>
     <title>EMAN Power State Set</title>
     <author>

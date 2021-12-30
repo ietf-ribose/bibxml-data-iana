@@ -1,4 +1,4 @@
-<reference anchor="IANA pronet80-type-numbers/pronet80-type-numbers-1" target="http://www.iana.org/assignments/pronet80-type-numbers">
+<reference anchor="IANA.pronet80-type-numbers/pronet80-type-numbers-1" target="http://www.iana.org/assignments/pronet80-type-numbers">
   <front>
     <title>Pronet 80 Type Numbers</title>
     <author>

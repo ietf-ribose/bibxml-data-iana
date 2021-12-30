@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="IANA.bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>Flags Field of VXLAN Encapsulation Sub-TLVs</title>
     <author>

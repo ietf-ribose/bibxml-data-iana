@@ -1,4 +1,4 @@
-<reference anchor="IANA ipsec-registry" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA.ipsec-registry" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Internet Key Exchange (IKE) Attributes</title>
     <author>

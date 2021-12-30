@@ -1,4 +1,4 @@
-<reference anchor="IANA cdni-parameters/trigger-types" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="IANA.cdni-parameters/trigger-types" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI CI/T Trigger Types</title>
     <author>

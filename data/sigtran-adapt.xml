@@ -1,4 +1,4 @@
-<reference anchor="IANA sigtran-adapt" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA.sigtran-adapt" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Signaling User Adaptation Layer Assignments</title>
     <author>

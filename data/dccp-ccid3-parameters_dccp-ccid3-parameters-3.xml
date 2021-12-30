@@ -1,4 +1,4 @@
-<reference anchor="IANA dccp-ccid3-parameters/dccp-ccid3-parameters-3" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
+<reference anchor="IANA.dccp-ccid3-parameters/dccp-ccid3-parameters-3" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
   <front>
     <title>CCID3-specific Feature Numbers (128-255)</title>
     <author>

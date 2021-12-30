@@ -1,4 +1,4 @@
-<reference anchor="IANA rtspv2-parameters/headers" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="IANA.rtspv2-parameters/headers" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>RSTP 2.0 Headers</title>
     <author>

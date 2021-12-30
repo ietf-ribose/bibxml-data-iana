@@ -1,4 +1,4 @@
-<reference anchor="IANA xml-registry/schema" target="http://www.iana.org/assignments/xml-registry">
+<reference anchor="IANA.xml-registry/schema" target="http://www.iana.org/assignments/xml-registry">
   <front>
     <title>schema</title>
     <author>

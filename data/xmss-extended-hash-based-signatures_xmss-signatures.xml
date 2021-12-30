@@ -1,4 +1,4 @@
-<reference anchor="IANA xmss-extended-hash-based-signatures/xmss-signatures" target="http://www.iana.org/assignments/xmss-extended-hash-based-signatures">
+<reference anchor="IANA.xmss-extended-hash-based-signatures/xmss-signatures" target="http://www.iana.org/assignments/xmss-extended-hash-based-signatures">
   <front>
     <title>XMSS Signatures</title>
     <author>

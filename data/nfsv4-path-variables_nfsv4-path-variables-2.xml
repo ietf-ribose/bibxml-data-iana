@@ -1,4 +1,4 @@
-<reference anchor="IANA nfsv4-path-variables/nfsv4-path-variables-2" target="http://www.iana.org/assignments/nfsv4-path-variables">
+<reference anchor="IANA.nfsv4-path-variables/nfsv4-path-variables-2" target="http://www.iana.org/assignments/nfsv4-path-variables">
   <front>
     <title>NFSv4 ${ietf.org:CPU_ARCH} Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ipsec-registry/ipsec-registry-19" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IANA.ipsec-registry/ipsec-registry-19" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>ISAKMP Domain of Interpretation (DOI)</title>
     <author>

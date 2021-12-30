@@ -1,4 +1,4 @@
-<reference anchor="IANA sigtran-adapt/sigtran-adapt-10" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="IANA.sigtran-adapt/sigtran-adapt-10" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - Connection-Oriented Messages (Value 8)</title>
     <author>

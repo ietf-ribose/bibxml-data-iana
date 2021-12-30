@@ -1,4 +1,4 @@
-<reference anchor="IANA address-family-numbers/address-family-numbers-2" target="http://www.iana.org/assignments/address-family-numbers">
+<reference anchor="IANA.address-family-numbers/address-family-numbers-2" target="http://www.iana.org/assignments/address-family-numbers">
   <front>
     <title>Address Family Numbers</title>
     <author>

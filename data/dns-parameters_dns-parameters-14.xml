@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-parameters/dns-parameters-14" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA.dns-parameters/dns-parameters-14" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>EDNS version Number (8 bits)</title>
     <author>

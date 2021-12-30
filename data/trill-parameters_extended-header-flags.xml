@@ -1,4 +1,4 @@
-<reference anchor="IANA trill-parameters/extended-header-flags" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="IANA.trill-parameters/extended-header-flags" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL Extended Header Flags</title>
     <author>

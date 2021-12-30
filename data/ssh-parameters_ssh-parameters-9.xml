@@ -1,4 +1,4 @@
-<reference anchor="IANA ssh-parameters/ssh-parameters-9" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="IANA.ssh-parameters/ssh-parameters-9" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Service Names</title>
     <author>

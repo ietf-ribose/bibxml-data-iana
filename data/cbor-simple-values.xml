@@ -1,4 +1,4 @@
-<reference anchor="IANA cbor-simple-values" target="http://www.iana.org/assignments/cbor-simple-values">
+<reference anchor="IANA.cbor-simple-values" target="http://www.iana.org/assignments/cbor-simple-values">
   <front>
     <title>Concise Binary Object Representation (CBOR) Simple Values</title>
     <author>

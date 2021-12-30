@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-function-ids" target="http://www.iana.org/assignments/svrloc-function-ids">
+<reference anchor="IANA.svrloc-function-ids" target="http://www.iana.org/assignments/svrloc-function-ids">
   <front>
     <title>Service Location Protocol, Version 2 (SLPv2) Function IDs</title>
     <author>

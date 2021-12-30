@@ -1,4 +1,4 @@
-<reference anchor="IANA isns-parameters" target="http://www.iana.org/assignments/isns-parameters">
+<reference anchor="IANA.isns-parameters" target="http://www.iana.org/assignments/isns-parameters">
   <front>
     <title>Internet Storage Name Service (iSNS) Parameters</title>
     <author>

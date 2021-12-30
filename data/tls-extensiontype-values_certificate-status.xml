@@ -1,4 +1,4 @@
-<reference anchor="IANA tls-extensiontype-values/certificate-status" target="http://www.iana.org/assignments/tls-extensiontype-values">
+<reference anchor="IANA.tls-extensiontype-values/certificate-status" target="http://www.iana.org/assignments/tls-extensiontype-values">
   <front>
     <title>TLS Certificate Status Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-parameters/rsvp-parameters-119" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="IANA.rsvp-parameters/rsvp-parameters-119" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Call Attributes Flags</title>
     <author>

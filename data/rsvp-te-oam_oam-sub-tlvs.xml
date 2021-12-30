@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-te-oam/oam-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="IANA.rsvp-te-oam/oam-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>OAM Sub-TLVs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rpl/rpl-non-rej-status" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA.rpl/rpl-non-rej-status" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>RPL Non-Rejection Status</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA bmp-parameters/termination-message-tlvs" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="IANA.bmp-parameters/termination-message-tlvs" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Termination Message TLVs</title>
     <author>

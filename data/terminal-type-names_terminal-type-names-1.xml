@@ -1,4 +1,4 @@
-<reference anchor="IANA terminal-type-names/terminal-type-names-1" target="http://www.iana.org/assignments/terminal-type-names">
+<reference anchor="IANA.terminal-type-names/terminal-type-names-1" target="http://www.iana.org/assignments/terminal-type-names">
   <front>
     <title>Terminal Type Names</title>
     <author>

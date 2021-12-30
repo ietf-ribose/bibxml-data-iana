@@ -1,4 +1,4 @@
-<reference anchor="IANA media-control-channel/Mixer-ctrl" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="IANA.media-control-channel/Mixer-ctrl" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Mixer Control Package Status Code Registration</title>
     <author>

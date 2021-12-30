@@ -1,4 +1,4 @@
-<reference anchor="IANA qspec/qspec-type" target="http://www.iana.org/assignments/qspec">
+<reference anchor="IANA.qspec/qspec-type" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>QSPEC Type</title>
     <author>

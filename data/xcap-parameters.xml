@@ -1,4 +1,4 @@
-<reference anchor="IANA xcap-parameters" target="http://www.iana.org/assignments/xcap-parameters">
+<reference anchor="IANA.xcap-parameters" target="http://www.iana.org/assignments/xcap-parameters">
   <front>
     <title>Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Parameters</title>
     <author>

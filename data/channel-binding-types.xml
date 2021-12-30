@@ -1,4 +1,4 @@
-<reference anchor="IANA channel-binding-types" target="http://www.iana.org/assignments/channel-binding-types">
+<reference anchor="IANA.channel-binding-types" target="http://www.iana.org/assignments/channel-binding-types">
   <front>
     <title>Channel-Binding Types</title>
     <author>

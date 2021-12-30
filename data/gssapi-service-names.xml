@@ -1,4 +1,4 @@
-<reference anchor="IANA gssapi-service-names" target="http://www.iana.org/assignments/gssapi-service-names">
+<reference anchor="IANA.gssapi-service-names" target="http://www.iana.org/assignments/gssapi-service-names">
   <front>
     <title>Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple Authentication and Security Layer (SASL) Service Names</title>
     <author>

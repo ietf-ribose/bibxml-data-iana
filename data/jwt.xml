@@ -1,4 +1,4 @@
-<reference anchor="IANA jwt" target="http://www.iana.org/assignments/jwt">
+<reference anchor="IANA.jwt" target="http://www.iana.org/assignments/jwt">
   <front>
     <title>JSON Web Token (JWT)</title>
     <author>

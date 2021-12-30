@@ -1,4 +1,4 @@
-<reference anchor="IANA arp-parameters/arp-parameters-1" target="http://www.iana.org/assignments/arp-parameters">
+<reference anchor="IANA.arp-parameters/arp-parameters-1" target="http://www.iana.org/assignments/arp-parameters">
   <front>
     <title>Operation Codes</title>
     <author>

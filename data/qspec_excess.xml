@@ -1,4 +1,4 @@
-<reference anchor="IANA qspec/excess" target="http://www.iana.org/assignments/qspec">
+<reference anchor="IANA.qspec/excess" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Excess Treatment Parameter</title>
     <author>

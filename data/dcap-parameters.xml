@@ -1,4 +1,4 @@
-<reference anchor="IANA dcap-parameters" target="http://www.iana.org/assignments/dcap-parameters">
+<reference anchor="IANA.dcap-parameters" target="http://www.iana.org/assignments/dcap-parameters">
   <front>
     <title>Data Link Switching Client Access Protocol (DCAP) Parameters</title>
     <author>

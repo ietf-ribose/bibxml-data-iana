@@ -1,4 +1,4 @@
-<reference anchor="IANA multicast-addresses/multicast-addresses-2" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="IANA.multicast-addresses/multicast-addresses-2" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>Internetwork Control Block (224.0.1.0 - 224.0.1.255  (224.0.1/24))</title>
     <author>

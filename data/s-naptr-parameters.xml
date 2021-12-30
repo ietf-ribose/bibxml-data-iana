@@ -1,4 +1,4 @@
-<reference anchor="IANA s-naptr-parameters" target="http://www.iana.org/assignments/s-naptr-parameters">
+<reference anchor="IANA.s-naptr-parameters" target="http://www.iana.org/assignments/s-naptr-parameters">
   <front>
     <title>Straightforward-NAPTR (S-NAPTR) Parameters</title>
     <author>

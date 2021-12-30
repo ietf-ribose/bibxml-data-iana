@@ -1,4 +1,4 @@
-<reference anchor="IANA pana-parameters/pana-parameters-2" target="http://www.iana.org/assignments/pana-parameters">
+<reference anchor="IANA.pana-parameters/pana-parameters-2" target="http://www.iana.org/assignments/pana-parameters">
   <front>
     <title>Message Types</title>
     <author>

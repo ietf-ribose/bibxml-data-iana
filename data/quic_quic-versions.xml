@@ -1,4 +1,4 @@
-<reference anchor="IANA quic/quic-versions" target="http://www.iana.org/assignments/quic">
+<reference anchor="IANA.quic/quic-versions" target="http://www.iana.org/assignments/quic">
   <front>
     <title>QUIC Versions</title>
     <author>

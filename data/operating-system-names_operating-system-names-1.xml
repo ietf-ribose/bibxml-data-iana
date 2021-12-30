@@ -1,4 +1,4 @@
-<reference anchor="IANA operating-system-names/operating-system-names-1" target="http://www.iana.org/assignments/operating-system-names">
+<reference anchor="IANA.operating-system-names/operating-system-names-1" target="http://www.iana.org/assignments/operating-system-names">
   <front>
     <title>Operating System Names</title>
     <author>

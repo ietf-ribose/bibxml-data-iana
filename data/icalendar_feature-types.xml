@@ -1,4 +1,4 @@
-<reference anchor="IANA icalendar/feature-types" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="IANA.icalendar/feature-types" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Feature Types</title>
     <author>

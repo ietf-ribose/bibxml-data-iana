@@ -1,4 +1,4 @@
-<reference anchor="IANA cpim-headers" target="http://www.iana.org/assignments/cpim-headers">
+<reference anchor="IANA.cpim-headers" target="http://www.iana.org/assignments/cpim-headers">
   <front>
     <title>Common Presence and Instant Messaging (CPIM) Headers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA safi-namespace" target="http://www.iana.org/assignments/safi-namespace">
+<reference anchor="IANA.safi-namespace" target="http://www.iana.org/assignments/safi-namespace">
   <front>
     <title>Subsequent Address Family Identifiers (SAFI) Parameters</title>
     <author>

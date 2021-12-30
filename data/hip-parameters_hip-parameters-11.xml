@@ -1,4 +1,4 @@
-<reference anchor="IANA hip-parameters/hip-parameters-11" target="http://www.iana.org/assignments/hip-parameters">
+<reference anchor="IANA.hip-parameters/hip-parameters-11" target="http://www.iana.org/assignments/hip-parameters">
   <front>
     <title>Registration Types</title>
     <author>

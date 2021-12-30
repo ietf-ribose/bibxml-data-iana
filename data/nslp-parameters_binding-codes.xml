@@ -1,4 +1,4 @@
-<reference anchor="IANA nslp-parameters/binding-codes" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="IANA.nslp-parameters/binding-codes" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>QoS NSLP Binding Codes</title>
     <author>

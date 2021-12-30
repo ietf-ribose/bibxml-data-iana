@@ -1,4 +1,4 @@
-<reference anchor="IANA owamp-parameters/owamp-modes" target="http://www.iana.org/assignments/owamp-parameters">
+<reference anchor="IANA.owamp-parameters/owamp-modes" target="http://www.iana.org/assignments/owamp-parameters">
   <front>
     <title>OWAMP-Modes</title>
     <author>

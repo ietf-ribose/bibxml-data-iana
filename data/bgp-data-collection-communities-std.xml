@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-data-collection-communities-std" target="http://www.iana.org/assignments/bgp-data-collection-communities-std">
+<reference anchor="IANA.bgp-data-collection-communities-std" target="http://www.iana.org/assignments/bgp-data-collection-communities-std">
   <front>
     <title>Border Gateway Protocol (BGP) Data Collection Standard Communities</title>
     <author>

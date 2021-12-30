@@ -1,4 +1,4 @@
-<reference anchor="IANA amtrelay-resource-record" target="http://www.iana.org/assignments/amtrelay-resource-record">
+<reference anchor="IANA.amtrelay-resource-record" target="http://www.iana.org/assignments/amtrelay-resource-record">
   <front>
     <title>AMTRELAY Resource Record Parameters</title>
     <author>

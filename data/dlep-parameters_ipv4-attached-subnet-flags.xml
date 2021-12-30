@@ -1,4 +1,4 @@
-<reference anchor="IANA dlep-parameters/ipv4-attached-subnet-flags" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="IANA.dlep-parameters/ipv4-attached-subnet-flags" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>IPv4 Attached Subnet Flags</title>
     <author>

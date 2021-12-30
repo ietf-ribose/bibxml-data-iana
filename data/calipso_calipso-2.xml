@@ -1,4 +1,4 @@
-<reference anchor="IANA calipso/calipso-2" target="http://www.iana.org/assignments/calipso">
+<reference anchor="IANA.calipso/calipso-2" target="http://www.iana.org/assignments/calipso">
   <front>
     <title>CALIPSO Domain of Interpretation (DOI)</title>
     <author>

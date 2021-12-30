@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-te-parameters/rtm_set-object-sub-object-types" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="IANA.rsvp-te-parameters/rtm_set-object-sub-object-types" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>RTM_SET Object Sub-Object Types</title>
     <author>

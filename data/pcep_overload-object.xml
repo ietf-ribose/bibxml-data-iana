@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/overload-object" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/overload-object" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>OVERLOAD Object Flag field</title>
     <author>

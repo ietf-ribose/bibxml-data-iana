@@ -1,4 +1,4 @@
-<reference anchor="IANA mgcp-localconnectionoptions" target="http://www.iana.org/assignments/mgcp-localconnectionoptions">
+<reference anchor="IANA.mgcp-localconnectionoptions" target="http://www.iana.org/assignments/mgcp-localconnectionoptions">
   <front>
     <title>Media Gateway Control Protocol (MGCP)</title>
     <author>

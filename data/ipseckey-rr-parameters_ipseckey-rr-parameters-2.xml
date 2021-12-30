@@ -1,4 +1,4 @@
-<reference anchor="IANA ipseckey-rr-parameters/ipseckey-rr-parameters-2" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
+<reference anchor="IANA.ipseckey-rr-parameters/ipseckey-rr-parameters-2" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
   <front>
     <title>Gateway Type Field</title>
     <author>

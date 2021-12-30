@@ -1,4 +1,4 @@
-<reference anchor="IANA ospfv3-authentication-trailer-options/ospfv3-authentication-types" target="http://www.iana.org/assignments/ospfv3-authentication-trailer-options">
+<reference anchor="IANA.ospfv3-authentication-trailer-options/ospfv3-authentication-types" target="http://www.iana.org/assignments/ospfv3-authentication-trailer-options">
   <front>
     <title>OSPFv3 Authentication Types</title>
     <author>

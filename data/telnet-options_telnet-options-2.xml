@@ -1,4 +1,4 @@
-<reference anchor="IANA telnet-options/telnet-options-2" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="IANA.telnet-options/telnet-options-2" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>Telnet Authentication Types (Option 37)</title>
     <author>

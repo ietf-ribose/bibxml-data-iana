@@ -1,4 +1,4 @@
-<reference anchor="IANA tcp-parameters/mptcp-option-subtypes" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="IANA.tcp-parameters/mptcp-option-subtypes" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>MPTCP Option Subtypes</title>
     <author>

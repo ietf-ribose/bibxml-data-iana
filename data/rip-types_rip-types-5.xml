@@ -1,4 +1,4 @@
-<reference anchor="IANA rip-types/rip-types-5" target="http://www.iana.org/assignments/rip-types">
+<reference anchor="IANA.rip-types/rip-types-5" target="http://www.iana.org/assignments/rip-types">
   <front>
     <title>RIPNG Commands</title>
     <author>

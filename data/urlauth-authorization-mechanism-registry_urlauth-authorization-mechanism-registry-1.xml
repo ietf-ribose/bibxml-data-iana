@@ -1,4 +1,4 @@
-<reference anchor="IANA urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1" target="http://www.iana.org/assignments/urlauth-authorization-mechanism-registry">
+<reference anchor="IANA.urlauth-authorization-mechanism-registry/urlauth-authorization-mechanism-registry-1" target="http://www.iana.org/assignments/urlauth-authorization-mechanism-registry">
   <front>
     <title>IMAP URLAUTH Authorization Mechanism Registry</title>
     <author>

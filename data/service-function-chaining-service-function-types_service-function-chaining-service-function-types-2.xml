@@ -1,4 +1,4 @@
-<reference anchor="IANA service-function-chaining-service-function-types/service-function-chaining-service-function-types-2" target="http://www.iana.org/assignments/service-function-chaining-service-function-types">
+<reference anchor="IANA.service-function-chaining-service-function-types/service-function-chaining-service-function-types-2" target="http://www.iana.org/assignments/service-function-chaining-service-function-types">
   <front>
     <title>Service Function Chaining Service Function Types</title>
     <author>

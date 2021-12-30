@@ -1,4 +1,4 @@
-<reference anchor="IANA mta-sts/mta-sts-policy-fields" target="http://www.iana.org/assignments/mta-sts">
+<reference anchor="IANA.mta-sts/mta-sts-policy-fields" target="http://www.iana.org/assignments/mta-sts">
   <front>
     <title>MTA-STS Policy Fields</title>
     <author>

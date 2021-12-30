@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-psk-parameters" target="http://www.iana.org/assignments/eap-psk-parameters">
+<reference anchor="IANA.eap-psk-parameters" target="http://www.iana.org/assignments/eap-psk-parameters">
   <front>
     <title>Extensible Authentication Protocol (EAP) EXT_Type Parameters</title>
     <author>

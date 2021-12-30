@@ -1,4 +1,4 @@
-<reference anchor="IANA manet-parameters/message-types" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA.manet-parameters/message-types" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Message Types</title>
     <author>

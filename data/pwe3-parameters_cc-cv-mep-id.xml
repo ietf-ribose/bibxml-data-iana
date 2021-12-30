@@ -1,4 +1,4 @@
-<reference anchor="IANA pwe3-parameters/cc-cv-mep-id" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="IANA.pwe3-parameters/cc-cv-mep-id" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>CC/CV MEP-ID TLV Registry</title>
     <author>

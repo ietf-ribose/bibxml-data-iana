@@ -1,4 +1,4 @@
-<reference anchor="IANA pb-tnc-parameters/pb-tnc-parameters-1" target="http://www.iana.org/assignments/pb-tnc-parameters">
+<reference anchor="IANA.pb-tnc-parameters/pb-tnc-parameters-1" target="http://www.iana.org/assignments/pb-tnc-parameters">
   <front>
     <title>PB-TNC Message Types</title>
     <author>

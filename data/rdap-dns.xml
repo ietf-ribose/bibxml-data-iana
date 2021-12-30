@@ -1,4 +1,4 @@
-<reference anchor="IANA rdap-dns" target="http://www.iana.org/assignments/rdap-dns">
+<reference anchor="IANA.rdap-dns" target="http://www.iana.org/assignments/rdap-dns">
   <front>
     <title>Bootstrap Service Registry for Domain Name Space</title>
     <author>

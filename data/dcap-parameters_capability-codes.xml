@@ -1,4 +1,4 @@
-<reference anchor="IANA dcap-parameters/capability-codes" target="http://www.iana.org/assignments/dcap-parameters">
+<reference anchor="IANA.dcap-parameters/capability-codes" target="http://www.iana.org/assignments/dcap-parameters">
   <front>
     <title>Data Link Switching Protocol Sender Capability Codes</title>
     <author>

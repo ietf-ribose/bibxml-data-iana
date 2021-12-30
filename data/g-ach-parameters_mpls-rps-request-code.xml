@@ -1,4 +1,4 @@
-<reference anchor="IANA g-ach-parameters/mpls-rps-request-code" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="IANA.g-ach-parameters/mpls-rps-request-code" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS RPS Request Code Registry</title>
     <author>

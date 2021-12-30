@@ -1,4 +1,4 @@
-<reference anchor="IANA imdn/imdn-1" target="http://www.iana.org/assignments/imdn">
+<reference anchor="IANA.imdn/imdn-1" target="http://www.iana.org/assignments/imdn">
   <front>
     <title>IMDN Headers</title>
     <author>

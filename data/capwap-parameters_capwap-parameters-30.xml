@@ -1,4 +1,4 @@
-<reference anchor="IANA capwap-parameters/capwap-parameters-30" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="IANA.capwap-parameters/capwap-parameters-30" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>IEEE 802.11 Antenna Combiner</title>
     <author>

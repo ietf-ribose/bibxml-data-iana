@@ -1,4 +1,4 @@
-<reference anchor="IANA bundle/bpsec-bib-hmac-sha2-integrity-scope" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA.bundle/bpsec-bib-hmac-sha2-integrity-scope" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>BPSec BIB-HMAC-SHA2 Integrity Scope Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA epp-extension-role-values/epp-extension-role-values-1" target="http://www.iana.org/assignments/epp-extension-role-values">
+<reference anchor="IANA.epp-extension-role-values/epp-extension-role-values-1" target="http://www.iana.org/assignments/epp-extension-role-values">
   <front>
     <title>EPP Organization Role Values</title>
     <author>

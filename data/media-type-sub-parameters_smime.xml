@@ -1,4 +1,4 @@
-<reference anchor="IANA media-type-sub-parameters/smime" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="IANA.media-type-sub-parameters/smime" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>Parameter Values for the smime-type Parameter</title>
     <author>

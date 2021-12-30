@@ -1,4 +1,4 @@
-<reference anchor="IANA isis-tlv-codepoints/tlv-142" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA.isis-tlv-codepoints/tlv-142" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>IS-IS Group Address Type Codes for TLV 142 (GADDR-TLV)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA gnss" target="http://www.iana.org/assignments/gnss">
+<reference anchor="IANA.gnss" target="http://www.iana.org/assignments/gnss">
   <front>
     <title>Global Navigation Satellite System (GNSS)</title>
     <author>

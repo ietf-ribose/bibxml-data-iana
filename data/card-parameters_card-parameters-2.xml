@@ -1,4 +1,4 @@
-<reference anchor="IANA card-parameters/card-parameters-2" target="http://www.iana.org/assignments/card-parameters">
+<reference anchor="IANA.card-parameters/card-parameters-2" target="http://www.iana.org/assignments/card-parameters">
   <front>
     <title>Layer 2 Access Technology Identifier Registry</title>
     <author>

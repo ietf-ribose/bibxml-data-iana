@@ -1,4 +1,4 @@
-<reference anchor="IANA mrt-parameters" target="http://www.iana.org/assignments/mrt-parameters">
+<reference anchor="IANA.mrt-parameters" target="http://www.iana.org/assignments/mrt-parameters">
   <front>
     <title>Maximally Redundant Tree (MRT) Parameters</title>
     <author>

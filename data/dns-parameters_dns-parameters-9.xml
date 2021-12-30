@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-parameters/dns-parameters-9" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA.dns-parameters/dns-parameters-9" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>DHCID RR Identifier Type Codes</title>
     <author>

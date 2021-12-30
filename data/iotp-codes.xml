@@ -1,4 +1,4 @@
-<reference anchor="IANA iotp-codes" target="http://www.iana.org/assignments/iotp-codes">
+<reference anchor="IANA.iotp-codes" target="http://www.iana.org/assignments/iotp-codes">
   <front>
     <title>Internet Open Trading Protocol (IOTP) Codes</title>
     <author>

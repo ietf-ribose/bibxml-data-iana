@@ -1,4 +1,4 @@
-<reference anchor="IANA nntp-parameters" target="http://www.iana.org/assignments/nntp-parameters">
+<reference anchor="IANA.nntp-parameters" target="http://www.iana.org/assignments/nntp-parameters">
   <front>
     <title>Network News Transfer Protocol (NNTP) Parameters</title>
     <author>

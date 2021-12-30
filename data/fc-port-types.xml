@@ -1,4 +1,4 @@
-<reference anchor="IANA fc-port-types" target="http://www.iana.org/assignments/fc-port-types">
+<reference anchor="IANA.fc-port-types" target="http://www.iana.org/assignments/fc-port-types">
   <front>
     <title>Fibre Channel Port Types Registry</title>
     <author>

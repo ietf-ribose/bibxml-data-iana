@@ -1,4 +1,4 @@
-<reference anchor="IANA preemption-namespace" target="http://www.iana.org/assignments/preemption-namespace">
+<reference anchor="IANA.preemption-namespace" target="http://www.iana.org/assignments/preemption-namespace">
   <front>
     <title>Preemption Namespace Registry</title>
     <author>

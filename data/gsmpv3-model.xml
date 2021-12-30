@@ -1,4 +1,4 @@
-<reference anchor="IANA gsmpv3-model" target="http://www.iana.org/assignments/gsmpv3-model">
+<reference anchor="IANA.gsmpv3-model" target="http://www.iana.org/assignments/gsmpv3-model">
   <front>
     <title>Global Switch Management Protocol version 3 (GSMPv3) Model Type Name Space</title>
     <author>

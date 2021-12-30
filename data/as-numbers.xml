@@ -1,4 +1,4 @@
-<reference anchor="IANA as-numbers" target="http://www.iana.org/assignments/as-numbers">
+<reference anchor="IANA.as-numbers" target="http://www.iana.org/assignments/as-numbers">
   <front>
     <title>Autonomous System (AS) Numbers</title>
     <author>

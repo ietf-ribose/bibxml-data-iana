@@ -1,4 +1,4 @@
-<reference anchor="IANA icalendar/free-busy-time-types" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="IANA.icalendar/free-busy-time-types" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Free/Busy Time Types</title>
     <author>

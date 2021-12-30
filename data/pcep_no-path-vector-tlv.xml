@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/no-path-vector-tlv" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/no-path-vector-tlv" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>NO-PATH-VECTOR TLV Flag Field</title>
     <author>

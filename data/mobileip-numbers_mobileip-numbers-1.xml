@@ -1,4 +1,4 @@
-<reference anchor="IANA mobileip-numbers/mobileip-numbers-1" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-1" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Mobile IP Message Types</title>
     <author>

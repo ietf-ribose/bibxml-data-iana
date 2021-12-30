@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Path Computation Element Protocol (PCEP) Numbers</title>
     <author>

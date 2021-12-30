@@ -1,4 +1,4 @@
-<reference anchor="IANA tesla-parameters/tesla-parameters-1" target="http://www.iana.org/assignments/tesla-parameters">
+<reference anchor="IANA.tesla-parameters/tesla-parameters-1" target="http://www.iana.org/assignments/tesla-parameters">
   <front>
     <title>Cryptographic Pseudo-Random Function, TESLA-PRF Values</title>
     <author>

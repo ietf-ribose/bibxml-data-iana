@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/sip-parameters-61" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/sip-parameters-61" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Identity Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA power-state-sets/dmtf" target="http://www.iana.org/assignments/power-state-sets">
+<reference anchor="IANA.power-state-sets/dmtf" target="http://www.iana.org/assignments/power-state-sets">
   <front>
     <title>DMTF Power State Set</title>
     <author>

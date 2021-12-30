@@ -1,4 +1,4 @@
-<reference anchor="IANA imap-annotate-extension/imap-annotate-extension-entries" target="http://www.iana.org/assignments/imap-annotate-extension">
+<reference anchor="IANA.imap-annotate-extension/imap-annotate-extension-entries" target="http://www.iana.org/assignments/imap-annotate-extension">
   <front>
     <title>IMAP ANNOTATE Extension Entries</title>
     <author>

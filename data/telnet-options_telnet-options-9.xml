@@ -1,4 +1,4 @@
-<reference anchor="IANA telnet-options/telnet-options-9" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="IANA.telnet-options/telnet-options-9" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>DSS Authentication Type (Type 14)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA hoba-device-identifiers" target="http://www.iana.org/assignments/hoba-device-identifiers">
+<reference anchor="IANA.hoba-device-identifiers" target="http://www.iana.org/assignments/hoba-device-identifiers">
   <front>
     <title>HTTP Origin-Bound Authentication (HOBA) Device Identifier Types</title>
     <author>

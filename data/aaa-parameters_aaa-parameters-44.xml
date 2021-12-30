@@ -1,4 +1,4 @@
-<reference anchor="IANA aaa-parameters/aaa-parameters-44" target="http://www.iana.org/assignments/aaa-parameters">
+<reference anchor="IANA.aaa-parameters/aaa-parameters-44" target="http://www.iana.org/assignments/aaa-parameters">
   <front>
     <title>AVP Flags Value</title>
     <author>

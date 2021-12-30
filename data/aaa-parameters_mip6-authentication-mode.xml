@@ -1,4 +1,4 @@
-<reference anchor="IANA aaa-parameters/mip6-authentication-mode" target="http://www.iana.org/assignments/aaa-parameters">
+<reference anchor="IANA.aaa-parameters/mip6-authentication-mode" target="http://www.iana.org/assignments/aaa-parameters">
   <front>
     <title>MIP6 Authentication Mode Registry</title>
     <author>

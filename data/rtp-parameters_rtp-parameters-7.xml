@@ -1,4 +1,4 @@
-<reference anchor="IANA rtp-parameters/rtp-parameters-7" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="IANA.rtp-parameters/rtp-parameters-7" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>RTP Profile Names</title>
     <author>

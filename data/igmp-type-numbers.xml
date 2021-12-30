@@ -1,4 +1,4 @@
-<reference anchor="IANA igmp-type-numbers" target="http://www.iana.org/assignments/igmp-type-numbers">
+<reference anchor="IANA.igmp-type-numbers" target="http://www.iana.org/assignments/igmp-type-numbers">
   <front>
     <title>Internet Group Management Protocol (IGMP) Type Numbers</title>
     <author>

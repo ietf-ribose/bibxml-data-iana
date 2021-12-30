@@ -1,4 +1,4 @@
-<reference anchor="IANA mobileip-numbers/mobileip-numbers-38" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-38" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Route Optimization Data Extension (Value 50)</title>
     <author>

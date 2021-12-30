@@ -1,4 +1,4 @@
-<reference anchor="IANA mpls-lsp-ping-parameters" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="IANA.mpls-lsp-ping-parameters" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) Ping Parameters</title>
     <author>

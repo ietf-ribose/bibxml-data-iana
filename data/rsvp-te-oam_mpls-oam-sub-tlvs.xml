@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-te-oam/mpls-oam-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="IANA.rsvp-te-oam/mpls-oam-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>MPLS OAM Configuration Sub-TLV Types</title>
     <author>

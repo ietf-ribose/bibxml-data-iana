@@ -1,4 +1,4 @@
-<reference anchor="IANA caller-id-plans" target="http://www.iana.org/assignments/caller-id-plans">
+<reference anchor="IANA.caller-id-plans" target="http://www.iana.org/assignments/caller-id-plans">
   <front>
     <title>Caller-ID Numbering Plans</title>
     <author>

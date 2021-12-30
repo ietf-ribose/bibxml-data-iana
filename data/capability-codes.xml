@@ -1,4 +1,4 @@
-<reference anchor="IANA capability-codes" target="http://www.iana.org/assignments/capability-codes">
+<reference anchor="IANA.capability-codes" target="http://www.iana.org/assignments/capability-codes">
   <front>
     <title>Capability Codes</title>
     <author>

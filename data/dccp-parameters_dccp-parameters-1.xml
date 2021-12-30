@@ -1,4 +1,4 @@
-<reference anchor="IANA dccp-parameters/dccp-parameters-1" target="http://www.iana.org/assignments/dccp-parameters">
+<reference anchor="IANA.dccp-parameters/dccp-parameters-1" target="http://www.iana.org/assignments/dccp-parameters">
   <front>
     <title>Packet Types</title>
     <author>

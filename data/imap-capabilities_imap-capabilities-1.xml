@@ -1,4 +1,4 @@
-<reference anchor="IANA imap-capabilities/imap-capabilities-1" target="http://www.iana.org/assignments/imap-capabilities">
+<reference anchor="IANA.imap-capabilities/imap-capabilities-1" target="http://www.iana.org/assignments/imap-capabilities">
   <front>
     <title>IMAP Capabilities</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ip-over-IEEE1394/ip-over-IEEE1394-2" target="http://www.iana.org/assignments/ip-over-IEEE1394">
+<reference anchor="IANA.ip-over-IEEE1394/ip-over-IEEE1394-2" target="http://www.iana.org/assignments/ip-over-IEEE1394">
   <front>
     <title>MCAP (Multicast Channel Allocation Protocol) Parameters</title>
     <author>

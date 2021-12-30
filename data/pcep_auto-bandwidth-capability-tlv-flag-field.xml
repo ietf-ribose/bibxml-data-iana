@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/auto-bandwidth-capability-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/auto-bandwidth-capability-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>AUTO-BANDWIDTH-CAPABILITY TLV Flag Field</title>
     <author>

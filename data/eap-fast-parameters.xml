@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-fast-parameters" target="http://www.iana.org/assignments/eap-fast-parameters">
+<reference anchor="IANA.eap-fast-parameters" target="http://www.iana.org/assignments/eap-fast-parameters">
   <front>
     <title>Flexible Authentication via Secure Tunneling Extensible Authentication Protocol (EAP-FAST) Parameters</title>
     <author>

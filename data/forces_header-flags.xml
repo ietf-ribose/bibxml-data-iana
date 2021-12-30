@@ -1,4 +1,4 @@
-<reference anchor="IANA forces/header-flags" target="http://www.iana.org/assignments/forces">
+<reference anchor="IANA.forces/header-flags" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Header Flags</title>
     <author>

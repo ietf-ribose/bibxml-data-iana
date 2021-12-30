@@ -1,4 +1,4 @@
-<reference anchor="IANA norm-parameters/norm_cmd-message-subtypes" target="http://www.iana.org/assignments/norm-parameters">
+<reference anchor="IANA.norm-parameters/norm_cmd-message-subtypes" target="http://www.iana.org/assignments/norm-parameters">
   <front>
     <title>NORM_CMD Message Sub-types</title>
     <author>

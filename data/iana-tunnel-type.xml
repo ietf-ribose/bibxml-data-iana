@@ -1,4 +1,4 @@
-<reference anchor="IANA iana-tunnel-type" target="http://www.iana.org/assignments/iana-tunnel-type">
+<reference anchor="IANA.iana-tunnel-type" target="http://www.iana.org/assignments/iana-tunnel-type">
   <front>
     <title>iana-tunnel-type YANG Module</title>
     <author>

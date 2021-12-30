@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-clf-parameters" target="http://www.iana.org/assignments/sip-clf-parameters">
+<reference anchor="IANA.sip-clf-parameters" target="http://www.iana.org/assignments/sip-clf-parameters">
   <front>
     <title>Session Initiation Protocol (SIP) Common Log Format (CLF) Parameters</title>
     <author>

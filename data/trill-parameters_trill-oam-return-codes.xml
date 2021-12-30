@@ -1,4 +1,4 @@
-<reference anchor="IANA trill-parameters/trill-oam-return-codes" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="IANA.trill-parameters/trill-oam-return-codes" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL OAM Return Codes</title>
     <author>

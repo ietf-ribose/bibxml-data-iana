@@ -1,4 +1,4 @@
-<reference anchor="IANA smi-numbers/smi-numbers-51" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="IANA.smi-numbers/smi-numbers-51" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI Security Services Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-te-oam/bfd-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="IANA.rsvp-te-oam/bfd-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>BFD Configuration Sub-TLV Types</title>
     <author>

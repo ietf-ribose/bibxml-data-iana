@@ -1,4 +1,4 @@
-<reference anchor="IANA trans" target="http://www.iana.org/assignments/trans">
+<reference anchor="IANA.trans" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Public Notary Transparency</title>
     <author>

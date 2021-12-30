@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/disjointness-configuration-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/disjointness-configuration-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>DISJOINTNESS-CONFIGURATION TLV Flag Field</title>
     <author>

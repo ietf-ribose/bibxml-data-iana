@@ -1,4 +1,4 @@
-<reference anchor="IANA iana-routing-types" target="http://www.iana.org/assignments/iana-routing-types">
+<reference anchor="IANA.iana-routing-types" target="http://www.iana.org/assignments/iana-routing-types">
   <front>
     <title>iana-routing-types YANG Module</title>
     <author>

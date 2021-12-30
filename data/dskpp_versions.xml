@@ -1,4 +1,4 @@
-<reference anchor="IANA dskpp/versions" target="http://www.iana.org/assignments/dskpp">
+<reference anchor="IANA.dskpp/versions" target="http://www.iana.org/assignments/dskpp">
   <front>
     <title>DSKPP Version Registry</title>
     <author>

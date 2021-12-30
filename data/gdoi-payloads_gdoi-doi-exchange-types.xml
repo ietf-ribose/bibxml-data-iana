@@ -1,4 +1,4 @@
-<reference anchor="IANA gdoi-payloads/gdoi-doi-exchange-types" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="IANA.gdoi-payloads/gdoi-doi-exchange-types" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>GDOI DOI Exchange Types</title>
     <author>

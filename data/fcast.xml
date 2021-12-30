@@ -1,4 +1,4 @@
-<reference anchor="IANA fcast" target="http://www.iana.org/assignments/fcast">
+<reference anchor="IANA.fcast" target="http://www.iana.org/assignments/fcast">
   <front>
     <title>FCAST Parameters</title>
     <author>

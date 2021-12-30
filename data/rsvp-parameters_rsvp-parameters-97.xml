@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-parameters/rsvp-parameters-97" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="IANA.rsvp-parameters/rsvp-parameters-97" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Virtual Destination Ports</title>
     <author>

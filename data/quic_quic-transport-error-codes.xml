@@ -1,4 +1,4 @@
-<reference anchor="IANA quic/quic-transport-error-codes" target="http://www.iana.org/assignments/quic">
+<reference anchor="IANA.quic/quic-transport-error-codes" target="http://www.iana.org/assignments/quic">
   <front>
     <title>QUIC Transport Error Codes</title>
     <author>

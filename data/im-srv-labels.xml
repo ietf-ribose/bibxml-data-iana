@@ -1,4 +1,4 @@
-<reference anchor="IANA im-srv-labels" target="http://www.iana.org/assignments/im-srv-labels">
+<reference anchor="IANA.im-srv-labels" target="http://www.iana.org/assignments/im-srv-labels">
   <front>
     <title>Instant Messaging SRV Protocol Label Registry</title>
     <author>

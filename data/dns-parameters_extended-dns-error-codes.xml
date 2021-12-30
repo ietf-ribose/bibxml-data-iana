@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-parameters/extended-dns-error-codes" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA.dns-parameters/extended-dns-error-codes" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>Extended DNS Error Codes</title>
     <author>

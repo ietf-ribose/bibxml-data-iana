@@ -1,4 +1,4 @@
-<reference anchor="IANA link-relations/link-relations-1" target="http://www.iana.org/assignments/link-relations">
+<reference anchor="IANA.link-relations/link-relations-1" target="http://www.iana.org/assignments/link-relations">
   <front>
     <title>Link Relation Types</title>
     <author>

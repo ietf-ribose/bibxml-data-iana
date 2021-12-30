@@ -1,4 +1,4 @@
-<reference anchor="IANA ianaaddressfamilynumbers-mib" target="http://www.iana.org/assignments/ianaaddressfamilynumbers-mib">
+<reference anchor="IANA.ianaaddressfamilynumbers-mib" target="http://www.iana.org/assignments/ianaaddressfamilynumbers-mib">
   <front>
     <title>IANA-ADDRESS-FAMILY-NUMBERS-MIB</title>
     <author>

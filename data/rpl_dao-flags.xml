@@ -1,4 +1,4 @@
-<reference anchor="IANA rpl/dao-flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA.rpl/dao-flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Destination Advertisement Object (DAO) Flags</title>
     <author>

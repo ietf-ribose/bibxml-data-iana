@@ -1,4 +1,4 @@
-<reference anchor="IANA radius-types/option-codes-softwire46-priority-attribute" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="IANA.radius-types/option-codes-softwire46-priority-attribute" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Option Codes Permitted in the Softwire46-Priority Attribute</title>
     <author>

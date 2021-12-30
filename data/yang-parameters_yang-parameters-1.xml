@@ -1,4 +1,4 @@
-<reference anchor="IANA yang-parameters/yang-parameters-1" target="http://www.iana.org/assignments/yang-parameters">
+<reference anchor="IANA.yang-parameters/yang-parameters-1" target="http://www.iana.org/assignments/yang-parameters">
   <front>
     <title>YANG Module Names</title>
     <author>

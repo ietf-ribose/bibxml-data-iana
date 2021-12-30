@@ -1,4 +1,4 @@
-<reference anchor="IANA rid" target="http://www.iana.org/assignments/rid">
+<reference anchor="IANA.rid" target="http://www.iana.org/assignments/rid">
   <front>
     <title>Real-time Inter-network Defense (RID)</title>
     <author>

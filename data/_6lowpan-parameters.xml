@@ -1,4 +1,4 @@
-<reference anchor="IANA _6lowpan-parameters" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="IANA._6lowpan-parameters" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>IPv6 Low Power Personal Area Network Parameters</title>
     <author>

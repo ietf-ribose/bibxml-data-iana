@@ -1,4 +1,4 @@
-<reference anchor="IANA reputation-parameters" target="http://www.iana.org/assignments/reputation-parameters">
+<reference anchor="IANA.reputation-parameters" target="http://www.iana.org/assignments/reputation-parameters">
   <front>
     <title>Reputation Parameters</title>
     <author>

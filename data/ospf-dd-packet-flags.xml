@@ -1,4 +1,4 @@
-<reference anchor="IANA ospf-dd-packet-flags" target="http://www.iana.org/assignments/ospf-dd-packet-flags">
+<reference anchor="IANA.ospf-dd-packet-flags" target="http://www.iana.org/assignments/ospf-dd-packet-flags">
   <front>
     <title>OSPF Database Description (DD) Packet Flags</title>
     <author>

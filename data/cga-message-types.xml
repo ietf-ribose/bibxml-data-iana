@@ -1,4 +1,4 @@
-<reference anchor="IANA cga-message-types" target="http://www.iana.org/assignments/cga-message-types">
+<reference anchor="IANA.cga-message-types" target="http://www.iana.org/assignments/cga-message-types">
   <front>
     <title>Cryptographically Generated Addresses (CGA) Message Type Name Space</title>
     <author>

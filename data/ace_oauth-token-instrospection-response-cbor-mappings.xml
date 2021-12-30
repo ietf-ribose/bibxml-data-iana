@@ -1,4 +1,4 @@
-<reference anchor="IANA ace/oauth-token-instrospection-response-cbor-mappings" target="http://www.iana.org/assignments/ace">
+<reference anchor="IANA.ace/oauth-token-instrospection-response-cbor-mappings" target="http://www.iana.org/assignments/ace">
   <front>
     <title>OAuth Token Introspection Response CBOR Mappings</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA mta-sts" target="http://www.iana.org/assignments/mta-sts">
+<reference anchor="IANA.mta-sts" target="http://www.iana.org/assignments/mta-sts">
   <front>
     <title>SMTP MTA Strict Transport Security (MTA-STS)</title>
     <author>

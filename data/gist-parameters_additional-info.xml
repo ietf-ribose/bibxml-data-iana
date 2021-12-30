@@ -1,4 +1,4 @@
-<reference anchor="IANA gist-parameters/additional-info" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="IANA.gist-parameters/additional-info" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>Additional Information Types</title>
     <author>

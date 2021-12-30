@@ -1,4 +1,4 @@
-<reference anchor="IANA psamp-parameters" target="http://www.iana.org/assignments/psamp-parameters">
+<reference anchor="IANA.psamp-parameters" target="http://www.iana.org/assignments/psamp-parameters">
   <front>
     <title>Packet Sampling (PSAMP) Parameters</title>
     <author>

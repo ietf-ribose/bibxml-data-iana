@@ -1,4 +1,4 @@
-<reference anchor="IANA mpls-lsp-ping-parameters/proxy-flags" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="IANA.mpls-lsp-ping-parameters/proxy-flags" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Proxy Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-eke" target="http://www.iana.org/assignments/eap-eke">
+<reference anchor="IANA.eap-eke" target="http://www.iana.org/assignments/eap-eke">
   <front>
     <title>Extensible Authentication Protocol (EAP) Encrypted Key Exchange (EKE) Registry</title>
     <author>

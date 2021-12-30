@@ -1,4 +1,4 @@
-<reference anchor="IANA version-numbers/version-numbers-1" target="http://www.iana.org/assignments/version-numbers">
+<reference anchor="IANA.version-numbers/version-numbers-1" target="http://www.iana.org/assignments/version-numbers">
   <front>
     <title>IP Version Numbers</title>
     <author>

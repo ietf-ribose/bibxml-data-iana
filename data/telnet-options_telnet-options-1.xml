@@ -1,4 +1,4 @@
-<reference anchor="IANA telnet-options/telnet-options-1" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="IANA.telnet-options/telnet-options-1" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>Telnet Options</title>
     <author>

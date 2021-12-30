@@ -1,4 +1,4 @@
-<reference anchor="IANA bundle/block-processing-control" target="http://www.iana.org/assignments/bundle">
+<reference anchor="IANA.bundle/block-processing-control" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Block Processing Control Flags</title>
     <author>

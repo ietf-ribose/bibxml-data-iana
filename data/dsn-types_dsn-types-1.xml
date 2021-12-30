@@ -1,4 +1,4 @@
-<reference anchor="IANA dsn-types/dsn-types-1" target="http://www.iana.org/assignments/dsn-types">
+<reference anchor="IANA.dsn-types/dsn-types-1" target="http://www.iana.org/assignments/dsn-types">
   <front>
     <title>Address Types</title>
     <author>

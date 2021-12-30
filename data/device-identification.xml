@@ -1,4 +1,4 @@
-<reference anchor="IANA device-identification" target="http://www.iana.org/assignments/device-identification">
+<reference anchor="IANA.device-identification" target="http://www.iana.org/assignments/device-identification">
   <front>
     <title>Device Identification</title>
     <author>

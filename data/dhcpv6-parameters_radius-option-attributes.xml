@@ -1,4 +1,4 @@
-<reference anchor="IANA dhcpv6-parameters/radius-option-attributes" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="IANA.dhcpv6-parameters/radius-option-attributes" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>RADIUS Attributes Permitted in DHCPv6 RADIUS Option</title>
     <author>

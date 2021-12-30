@@ -1,4 +1,4 @@
-<reference anchor="IANA rtcp-xr-block-types" target="http://www.iana.org/assignments/rtcp-xr-block-types">
+<reference anchor="IANA.rtcp-xr-block-types" target="http://www.iana.org/assignments/rtcp-xr-block-types">
   <front>
     <title>RTP Control Protocol Extended Reports (RTCP XR) Block Type Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA nts/nts-error-codes" target="http://www.iana.org/assignments/nts">
+<reference anchor="IANA.nts/nts-error-codes" target="http://www.iana.org/assignments/nts">
   <front>
     <title>Network Time Security Error Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ianapowerstateset-mib" target="http://www.iana.org/assignments/ianapowerstateset-mib">
+<reference anchor="IANA.ianapowerstateset-mib" target="http://www.iana.org/assignments/ianapowerstateset-mib">
   <front>
     <title>IANA-POWER-STATE-SET-MIB</title>
     <author>

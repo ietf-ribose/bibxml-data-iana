@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-error-numbers/svrloc-error-numbers-1" target="http://www.iana.org/assignments/svrloc-error-numbers">
+<reference anchor="IANA.svrloc-error-numbers/svrloc-error-numbers-1" target="http://www.iana.org/assignments/svrloc-error-numbers">
   <front>
     <title>Error Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rohc-pro-ids/rohc-pro-ids-1" target="http://www.iana.org/assignments/rohc-pro-ids">
+<reference anchor="IANA.rohc-pro-ids/rohc-pro-ids-1" target="http://www.iana.org/assignments/rohc-pro-ids">
   <front>
     <title>Profile Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA dssc/parameters" target="http://www.iana.org/assignments/dssc">
+<reference anchor="IANA.dssc/parameters" target="http://www.iana.org/assignments/dssc">
   <front>
     <title>Parameter Definitions</title>
     <author>

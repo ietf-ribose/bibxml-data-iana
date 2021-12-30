@@ -1,4 +1,4 @@
-<reference anchor="IANA rmt-fec-parameters/rmt-fec-parameters-2" target="http://www.iana.org/assignments/rmt-fec-parameters">
+<reference anchor="IANA.rmt-fec-parameters/rmt-fec-parameters-2" target="http://www.iana.org/assignments/rmt-fec-parameters">
   <front>
     <title>ietf:rmt:fec:encoding - Under-Specified FEC schemes (128-255)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA lmp-parameters/lmp-parameters-4" target="http://www.iana.org/assignments/lmp-parameters">
+<reference anchor="IANA.lmp-parameters/lmp-parameters-4" target="http://www.iana.org/assignments/lmp-parameters">
   <front>
     <title>LMP Object Class name space and Class type (C-Type)</title>
     <author>

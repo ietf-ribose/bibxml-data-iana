@@ -1,4 +1,4 @@
-<reference anchor="IANA tzdist-actions" target="http://www.iana.org/assignments/tzdist-actions">
+<reference anchor="IANA.tzdist-actions" target="http://www.iana.org/assignments/tzdist-actions">
   <front>
     <title>Time Zone Data Distribution Service (TZDIST) Service Actions</title>
     <author>

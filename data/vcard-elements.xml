@@ -1,4 +1,4 @@
-<reference anchor="IANA vcard-elements" target="http://www.iana.org/assignments/vcard-elements">
+<reference anchor="IANA.vcard-elements" target="http://www.iana.org/assignments/vcard-elements">
   <front>
     <title>vCard Elements</title>
     <author>

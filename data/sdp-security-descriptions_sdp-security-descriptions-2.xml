@@ -1,4 +1,4 @@
-<reference anchor="IANA sdp-security-descriptions/sdp-security-descriptions-2" target="http://www.iana.org/assignments/sdp-security-descriptions">
+<reference anchor="IANA.sdp-security-descriptions/sdp-security-descriptions-2" target="http://www.iana.org/assignments/sdp-security-descriptions">
   <front>
     <title>Media Stream Transports</title>
     <author>

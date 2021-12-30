@@ -1,4 +1,4 @@
-<reference anchor="IANA ospfv3-parameters/ac-lsa" target="http://www.iana.org/assignments/ospfv3-parameters">
+<reference anchor="IANA.ospfv3-parameters/ac-lsa" target="http://www.iana.org/assignments/ospfv3-parameters">
   <front>
     <title>OSPFv3 Autoconfiguration (AC) LSA TLVs</title>
     <author>

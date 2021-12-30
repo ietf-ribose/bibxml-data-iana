@@ -1,4 +1,4 @@
-<reference anchor="IANA text-directory-registrations" target="http://www.iana.org/assignments/text-directory-registrations">
+<reference anchor="IANA.text-directory-registrations" target="http://www.iana.org/assignments/text-directory-registrations">
   <front>
     <title>text/directory Registrations</title>
     <author>

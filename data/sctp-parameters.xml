@@ -1,4 +1,4 @@
-<reference anchor="IANA sctp-parameters" target="http://www.iana.org/assignments/sctp-parameters">
+<reference anchor="IANA.sctp-parameters" target="http://www.iana.org/assignments/sctp-parameters">
   <front>
     <title>Stream Control Transmission Protocol (SCTP) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA bootp-dhcp-parameters/authentication-algorithm-id" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="IANA.bootp-dhcp-parameters/authentication-algorithm-id" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>Authentication Suboption (value 8) - Algorithm identifier values</title>
     <author>

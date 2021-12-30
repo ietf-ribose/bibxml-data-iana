@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-parameters/sfp-attribute-tlvs" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA.bgp-parameters/sfp-attribute-tlvs" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>SFP Attribute TLVs</title>
     <author>

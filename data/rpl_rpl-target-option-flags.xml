@@ -1,4 +1,4 @@
-<reference anchor="IANA rpl/rpl-target-option-flags" target="http://www.iana.org/assignments/rpl">
+<reference anchor="IANA.rpl/rpl-target-option-flags" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>RPL Target Option Flags</title>
     <author>

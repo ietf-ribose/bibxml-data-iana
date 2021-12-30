@@ -1,4 +1,4 @@
-<reference anchor="IANA rmt-fec-parameters" target="http://www.iana.org/assignments/rmt-fec-parameters">
+<reference anchor="IANA.rmt-fec-parameters" target="http://www.iana.org/assignments/rmt-fec-parameters">
   <front>
     <title>Reliable Multicast Transport (RMT) FEC Encoding IDs and FEC Instance IDs</title>
     <author>

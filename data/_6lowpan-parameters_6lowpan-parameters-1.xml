@@ -1,4 +1,4 @@
-<reference anchor="IANA _6lowpan-parameters/_6lowpan-parameters-1" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="IANA._6lowpan-parameters/_6lowpan-parameters-1" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>Dispatch Type Field</title>
     <author>

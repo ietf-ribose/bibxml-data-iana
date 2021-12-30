@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-ls-parameters/protocol-ids" target="http://www.iana.org/assignments/bgp-ls-parameters">
+<reference anchor="IANA.bgp-ls-parameters/protocol-ids" target="http://www.iana.org/assignments/bgp-ls-parameters">
   <front>
     <title>BGP-LS Protocol-IDs</title>
     <author>

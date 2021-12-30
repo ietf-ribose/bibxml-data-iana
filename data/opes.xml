@@ -1,4 +1,4 @@
-<reference anchor="IANA opes" target="http://www.iana.org/assignments/opes">
+<reference anchor="IANA.opes" target="http://www.iana.org/assignments/opes">
   <front>
     <title>Open Pluggable Edge Services (OPES)</title>
     <author>

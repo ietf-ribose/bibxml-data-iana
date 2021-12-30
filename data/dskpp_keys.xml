@@ -1,4 +1,4 @@
-<reference anchor="IANA dskpp/keys" target="http://www.iana.org/assignments/dskpp">
+<reference anchor="IANA.dskpp/keys" target="http://www.iana.org/assignments/dskpp">
   <front>
     <title>Key Container Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA pcp-parameters/options" target="http://www.iana.org/assignments/pcp-parameters">
+<reference anchor="IANA.pcp-parameters/options" target="http://www.iana.org/assignments/pcp-parameters">
   <front>
     <title>PCP Options</title>
     <author>

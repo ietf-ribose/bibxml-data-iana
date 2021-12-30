@@ -1,4 +1,4 @@
-<reference anchor="IANA ipv6-parameters" target="http://www.iana.org/assignments/ipv6-parameters">
+<reference anchor="IANA.ipv6-parameters" target="http://www.iana.org/assignments/ipv6-parameters">
   <front>
     <title>Internet Protocol Version 6 (IPv6) Parameters</title>
     <author>

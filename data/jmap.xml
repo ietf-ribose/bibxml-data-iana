@@ -1,4 +1,4 @@
-<reference anchor="IANA jmap" target="http://www.iana.org/assignments/jmap">
+<reference anchor="IANA.jmap" target="http://www.iana.org/assignments/jmap">
   <front>
     <title>JSON Meta Application Protocol (JMAP)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA cbor-simple-values/simple" target="http://www.iana.org/assignments/cbor-simple-values">
+<reference anchor="IANA.cbor-simple-values/simple" target="http://www.iana.org/assignments/cbor-simple-values">
   <front>
     <title>CBOR Simple Values</title>
     <author>

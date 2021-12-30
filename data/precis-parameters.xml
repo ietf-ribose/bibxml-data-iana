@@ -1,4 +1,4 @@
-<reference anchor="IANA precis-parameters" target="http://www.iana.org/assignments/precis-parameters">
+<reference anchor="IANA.precis-parameters" target="http://www.iana.org/assignments/precis-parameters">
   <front>
     <title>Preparation and Comparison of Internationalized Strings (PRECIS) Parameters</title>
     <author>

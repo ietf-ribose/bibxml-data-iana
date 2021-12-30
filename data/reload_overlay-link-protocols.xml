@@ -1,4 +1,4 @@
-<reference anchor="IANA reload/overlay-link-protocols" target="http://www.iana.org/assignments/reload">
+<reference anchor="IANA.reload/overlay-link-protocols" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Overlay Link Protocol Registry</title>
     <author>

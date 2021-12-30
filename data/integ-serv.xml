@@ -1,4 +1,4 @@
-<reference anchor="IANA integ-serv" target="http://www.iana.org/assignments/integ-serv">
+<reference anchor="IANA.integ-serv" target="http://www.iana.org/assignments/integ-serv">
   <front>
     <title>Integrated Services Parameters</title>
     <author>

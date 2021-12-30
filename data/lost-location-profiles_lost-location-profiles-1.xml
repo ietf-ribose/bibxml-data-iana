@@ -1,4 +1,4 @@
-<reference anchor="IANA lost-location-profiles/lost-location-profiles-1" target="http://www.iana.org/assignments/lost-location-profiles">
+<reference anchor="IANA.lost-location-profiles/lost-location-profiles-1" target="http://www.iana.org/assignments/lost-location-profiles">
   <front>
     <title>LoST Location Profiles</title>
     <author>

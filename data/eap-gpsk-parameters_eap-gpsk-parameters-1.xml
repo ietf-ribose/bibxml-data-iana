@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-gpsk-parameters/eap-gpsk-parameters-1" target="http://www.iana.org/assignments/eap-gpsk-parameters">
+<reference anchor="IANA.eap-gpsk-parameters/eap-gpsk-parameters-1" target="http://www.iana.org/assignments/eap-gpsk-parameters">
   <front>
     <title>EAP-GPSK Ciphersuites</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-pwd-parameters/eap-pwd-parameters-3" target="http://www.iana.org/assignments/eap-pwd-parameters">
+<reference anchor="IANA.eap-pwd-parameters/eap-pwd-parameters-3" target="http://www.iana.org/assignments/eap-pwd-parameters">
   <front>
     <title>PRF Registry</title>
     <author>

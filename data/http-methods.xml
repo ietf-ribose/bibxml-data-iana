@@ -1,4 +1,4 @@
-<reference anchor="IANA http-methods" target="http://www.iana.org/assignments/http-methods">
+<reference anchor="IANA.http-methods" target="http://www.iana.org/assignments/http-methods">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Method Registry</title>
     <author>

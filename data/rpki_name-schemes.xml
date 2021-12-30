@@ -1,4 +1,4 @@
-<reference anchor="IANA rpki/name-schemes" target="http://www.iana.org/assignments/rpki">
+<reference anchor="IANA.rpki/name-schemes" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>RPKI Repository Name Schemes</title>
     <author>

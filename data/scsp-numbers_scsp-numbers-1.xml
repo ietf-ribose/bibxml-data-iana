@@ -1,4 +1,4 @@
-<reference anchor="IANA scsp-numbers/scsp-numbers-1" target="http://www.iana.org/assignments/scsp-numbers">
+<reference anchor="IANA.scsp-numbers/scsp-numbers-1" target="http://www.iana.org/assignments/scsp-numbers">
   <front>
     <title>Protocol IDs</title>
     <author>

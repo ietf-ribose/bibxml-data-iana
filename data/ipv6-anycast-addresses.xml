@@ -1,4 +1,4 @@
-<reference anchor="IANA ipv6-anycast-addresses" target="http://www.iana.org/assignments/ipv6-anycast-addresses">
+<reference anchor="IANA.ipv6-anycast-addresses" target="http://www.iana.org/assignments/ipv6-anycast-addresses">
   <front>
     <title>Internet Protocol Version 6 (IPv6) Anycast Addresses</title>
     <author>

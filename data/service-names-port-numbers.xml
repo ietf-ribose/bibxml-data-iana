@@ -1,4 +1,4 @@
-<reference anchor="IANA service-names-port-numbers" target="http://www.iana.org/assignments/service-names-port-numbers">
+<reference anchor="IANA.service-names-port-numbers" target="http://www.iana.org/assignments/service-names-port-numbers">
   <front>
     <title>Service Name and Transport Protocol Port Number Registry</title>
     <author>

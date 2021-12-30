@@ -1,4 +1,4 @@
-<reference anchor="IANA masc-parameters/masc-parameters-4" target="http://www.iana.org/assignments/masc-parameters">
+<reference anchor="IANA.masc-parameters/masc-parameters-4" target="http://www.iana.org/assignments/masc-parameters">
   <front>
     <title>MASC UPDATE Message Optional Parameter Types (128-255)</title>
     <author>

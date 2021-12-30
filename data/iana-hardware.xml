@@ -1,4 +1,4 @@
-<reference anchor="IANA iana-hardware" target="http://www.iana.org/assignments/iana-hardware">
+<reference anchor="IANA.iana-hardware" target="http://www.iana.org/assignments/iana-hardware">
   <front>
     <title>iana-hardware YANG Module</title>
     <author>

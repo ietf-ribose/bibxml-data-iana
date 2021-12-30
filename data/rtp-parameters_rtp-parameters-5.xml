@@ -1,4 +1,4 @@
-<reference anchor="IANA rtp-parameters/rtp-parameters-5" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="IANA.rtp-parameters/rtp-parameters-5" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>RTP SDES Item Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA pcp-parameters" target="http://www.iana.org/assignments/pcp-parameters">
+<reference anchor="IANA.pcp-parameters" target="http://www.iana.org/assignments/pcp-parameters">
   <front>
     <title>Port Control Protocol (PCP) Parameters</title>
     <author>

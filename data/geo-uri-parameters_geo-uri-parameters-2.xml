@@ -1,4 +1,4 @@
-<reference anchor="IANA geo-uri-parameters/geo-uri-parameters-2" target="http://www.iana.org/assignments/geo-uri-parameters">
+<reference anchor="IANA.geo-uri-parameters/geo-uri-parameters-2" target="http://www.iana.org/assignments/geo-uri-parameters">
   <front>
     <title>'geo' URI 'crs' Parameter Values</title>
     <author>

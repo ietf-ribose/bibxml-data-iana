@@ -1,4 +1,4 @@
-<reference anchor="IANA rolie/rolie-urn-parameters" target="http://www.iana.org/assignments/rolie">
+<reference anchor="IANA.rolie/rolie-urn-parameters" target="http://www.iana.org/assignments/rolie">
   <front>
     <title>ROLIE URN Parameters</title>
     <author>

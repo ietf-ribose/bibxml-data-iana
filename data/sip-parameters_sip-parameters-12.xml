@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/sip-parameters-12" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/sip-parameters-12" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Header Field Parameters and Parameter Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA rsip-parameters/rsip-parameters-2" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="IANA.rsip-parameters/rsip-parameters-2" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>RSIP Address Types</title>
     <author>

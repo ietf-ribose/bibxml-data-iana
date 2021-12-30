@@ -1,4 +1,4 @@
-<reference anchor="IANA trill-parameters/interested-labels-flags" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="IANA.trill-parameters/interested-labels-flags" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>Interested Labels Flag Bits</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/bu-object-type-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/bu-object-type-field" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>BU Object Type Field</title>
     <author>

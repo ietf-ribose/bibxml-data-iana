@@ -1,4 +1,4 @@
-<reference anchor="IANA proxy-languages" target="http://www.iana.org/assignments/proxy-languages">
+<reference anchor="IANA.proxy-languages" target="http://www.iana.org/assignments/proxy-languages">
   <front>
     <title>Proxy Certificate Policy Languages</title>
     <author>

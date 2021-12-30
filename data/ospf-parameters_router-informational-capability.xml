@@ -1,4 +1,4 @@
-<reference anchor="IANA ospf-parameters/router-informational-capability" target="http://www.iana.org/assignments/ospf-parameters">
+<reference anchor="IANA.ospf-parameters/router-informational-capability" target="http://www.iana.org/assignments/ospf-parameters">
   <front>
     <title>OSPF Router Informational Capability Bits</title>
     <author>

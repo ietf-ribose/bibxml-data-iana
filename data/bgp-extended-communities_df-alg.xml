@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-extended-communities/df-alg" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA.bgp-extended-communities/df-alg" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>DF Alg</title>
     <author>

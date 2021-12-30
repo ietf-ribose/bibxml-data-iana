@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/pcep-message-common-header" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/pcep-message-common-header" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP Message Common Header Flag Field</title>
     <author>

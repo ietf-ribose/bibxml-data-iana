@@ -1,4 +1,4 @@
-<reference anchor="IANA mpls-label-values" target="http://www.iana.org/assignments/mpls-label-values">
+<reference anchor="IANA.mpls-label-values" target="http://www.iana.org/assignments/mpls-label-values">
   <front>
     <title>Special-Purpose Multiprotocol Label Switching (MPLS) Label Values</title>
     <author>

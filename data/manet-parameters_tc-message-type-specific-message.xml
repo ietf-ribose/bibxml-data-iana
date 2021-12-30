@@ -1,4 +1,4 @@
-<reference anchor="IANA manet-parameters/tc-message-type-specific-message" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="IANA.manet-parameters/tc-message-type-specific-message" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>TC Message-Type-specific Message TLV Types</title>
     <author>

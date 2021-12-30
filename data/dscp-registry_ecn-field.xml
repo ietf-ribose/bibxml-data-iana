@@ -1,4 +1,4 @@
-<reference anchor="IANA dscp-registry/ecn-field" target="http://www.iana.org/assignments/dscp-registry">
+<reference anchor="IANA.dscp-registry/ecn-field" target="http://www.iana.org/assignments/dscp-registry">
   <front>
     <title>ECN Field (Bits 6-7)</title>
     <author>

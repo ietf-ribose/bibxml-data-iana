@@ -1,4 +1,4 @@
-<reference anchor="IANA dns-parameters/dns-parameters-4" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="IANA.dns-parameters/dns-parameters-4" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>Resource Record (RR) TYPEs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA mikey-payloads/id-scheme" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="IANA.mikey-payloads/id-scheme" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>ID Scheme</title>
     <author>

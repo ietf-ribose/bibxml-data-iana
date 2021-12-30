@@ -1,4 +1,4 @@
-<reference anchor="IANA media-type-sub-parameters/media-type-sub-parameters-1" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="IANA.media-type-sub-parameters/media-type-sub-parameters-1" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>Sub-Parameter Registry video/mpeg4-generic, audio/mpeg4-generic and application/mpeg4-generic</title>
     <author>

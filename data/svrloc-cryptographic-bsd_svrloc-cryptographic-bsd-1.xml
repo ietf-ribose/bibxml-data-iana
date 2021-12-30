@@ -1,4 +1,4 @@
-<reference anchor="IANA svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1" target="http://www.iana.org/assignments/svrloc-cryptographic-bsd">
+<reference anchor="IANA.svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1" target="http://www.iana.org/assignments/svrloc-cryptographic-bsd">
   <front>
     <title>Cryptographic BSD Codes</title>
     <author>

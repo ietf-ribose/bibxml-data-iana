@@ -1,4 +1,4 @@
-<reference anchor="IANA ssh-parameters" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="IANA.ssh-parameters" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Secure Shell (SSH) Protocol Parameters</title>
     <author>

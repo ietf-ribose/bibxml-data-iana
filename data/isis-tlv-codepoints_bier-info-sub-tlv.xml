@@ -1,4 +1,4 @@
-<reference anchor="IANA isis-tlv-codepoints/bier-info-sub-tlv" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="IANA.isis-tlv-codepoints/bier-info-sub-tlv" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>sub-sub-TLVs for BIER Info sub-TLV</title>
     <author>

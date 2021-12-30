@@ -1,4 +1,4 @@
-<reference anchor="IANA language-tag-extensions-registry" target="http://www.iana.org/assignments/language-tag-extensions-registry">
+<reference anchor="IANA.language-tag-extensions-registry" target="http://www.iana.org/assignments/language-tag-extensions-registry">
   <front>
     <title>Language Tag Extensions Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA idmef-parameters" target="http://www.iana.org/assignments/idmef-parameters">
+<reference anchor="IANA.idmef-parameters" target="http://www.iana.org/assignments/idmef-parameters">
   <front>
     <title>Intrusion Detection Message Exchange Format (IDMEF) Parameters</title>
     <author>

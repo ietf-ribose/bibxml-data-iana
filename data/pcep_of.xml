@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/of" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/of" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Objective Function</title>
     <author>

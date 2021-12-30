@@ -1,4 +1,4 @@
-<reference anchor="IANA pim-parameters/join-prune-transport-types" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="IANA.pim-parameters/join-prune-transport-types" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM Join/Prune Transport Types</title>
     <author>

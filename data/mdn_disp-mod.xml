@@ -1,4 +1,4 @@
-<reference anchor="IANA mdn/disp-mod" target="http://www.iana.org/assignments/mdn">
+<reference anchor="IANA.mdn/disp-mod" target="http://www.iana.org/assignments/mdn">
   <front>
     <title>MDN-Disposition-modifier-names</title>
     <author>

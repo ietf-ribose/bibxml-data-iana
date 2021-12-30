@@ -1,4 +1,4 @@
-<reference anchor="IANA novell-sap-numbers/novell-sap-numbers-1" target="http://www.iana.org/assignments/novell-sap-numbers">
+<reference anchor="IANA.novell-sap-numbers/novell-sap-numbers-1" target="http://www.iana.org/assignments/novell-sap-numbers">
   <front>
     <title>Novell Object Type</title>
     <author>

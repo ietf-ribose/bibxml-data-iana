@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-parameters/bgp-graceful-restart-flags-for-address-family" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA.bgp-parameters/bgp-graceful-restart-flags-for-address-family" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Graceful Restart Flags for Address Family</title>
     <author>

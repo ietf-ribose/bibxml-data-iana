@@ -1,4 +1,4 @@
-<reference anchor="IANA tel-uri-parameters/tel-uri-parameters-1" target="http://www.iana.org/assignments/tel-uri-parameters">
+<reference anchor="IANA.tel-uri-parameters/tel-uri-parameters-1" target="http://www.iana.org/assignments/tel-uri-parameters">
   <front>
     <title>tel URI Parameters</title>
     <author>

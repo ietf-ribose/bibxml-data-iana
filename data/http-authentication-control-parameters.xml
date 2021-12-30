@@ -1,4 +1,4 @@
-<reference anchor="IANA http-authentication-control-parameters" target="http://www.iana.org/assignments/http-authentication-control-parameters">
+<reference anchor="IANA.http-authentication-control-parameters" target="http://www.iana.org/assignments/http-authentication-control-parameters">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Authentication Control Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA epp-repository-ids" target="http://www.iana.org/assignments/epp-repository-ids">
+<reference anchor="IANA.epp-repository-ids" target="http://www.iana.org/assignments/epp-repository-ids">
   <front>
     <title>Extensible Provisioning Protocol (EPP) Repository Identifiers</title>
     <author>

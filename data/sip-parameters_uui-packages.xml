@@ -1,4 +1,4 @@
-<reference anchor="IANA sip-parameters/uui-packages" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="IANA.sip-parameters/uui-packages" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>UUI Packages</title>
     <author>

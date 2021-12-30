@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-extended-communities/traffic-action-fields" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="IANA.bgp-extended-communities/traffic-action-fields" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Traffic Action Fields</title>
     <author>

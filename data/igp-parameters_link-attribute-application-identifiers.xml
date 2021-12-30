@@ -1,4 +1,4 @@
-<reference anchor="IANA igp-parameters/link-attribute-application-identifiers" target="http://www.iana.org/assignments/igp-parameters">
+<reference anchor="IANA.igp-parameters/link-attribute-application-identifiers" target="http://www.iana.org/assignments/igp-parameters">
   <front>
     <title>Link Attribute Application Identifiers</title>
     <author>

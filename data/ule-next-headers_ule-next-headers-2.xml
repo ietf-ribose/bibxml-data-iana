@@ -1,4 +1,4 @@
-<reference anchor="IANA ule-next-headers/ule-next-headers-2" target="http://www.iana.org/assignments/ule-next-headers">
+<reference anchor="IANA.ule-next-headers/ule-next-headers-2" target="http://www.iana.org/assignments/ule-next-headers">
   <front>
     <title>Optional Extension Headers for ULE (Range 256-511 decimal)</title>
     <author>

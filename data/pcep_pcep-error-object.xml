@@ -1,4 +1,4 @@
-<reference anchor="IANA pcep/pcep-error-object" target="http://www.iana.org/assignments/pcep">
+<reference anchor="IANA.pcep/pcep-error-object" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP-ERROR Object Error Types and Values</title>
     <author>

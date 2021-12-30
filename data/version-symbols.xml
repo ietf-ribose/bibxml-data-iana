@@ -1,4 +1,4 @@
-<reference anchor="IANA version-symbols" target="http://www.iana.org/assignments/version-symbols">
+<reference anchor="IANA.version-symbols" target="http://www.iana.org/assignments/version-symbols">
   <front>
     <title>'version' symbols used within the ISUP and QSIG</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA media-type-sub-parameters/cms-encapsulating" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="IANA.media-type-sub-parameters/cms-encapsulating" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>CMS Encapsulating Content Types</title>
     <author>

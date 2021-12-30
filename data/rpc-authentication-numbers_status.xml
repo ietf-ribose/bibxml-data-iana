@@ -1,4 +1,4 @@
-<reference anchor="IANA rpc-authentication-numbers/status" target="http://www.iana.org/assignments/rpc-authentication-numbers">
+<reference anchor="IANA.rpc-authentication-numbers/status" target="http://www.iana.org/assignments/rpc-authentication-numbers">
   <front>
     <title>RPC Authentication Status Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA iax-parameters/iax-parameters-13" target="http://www.iana.org/assignments/iax-parameters">
+<reference anchor="IANA.iax-parameters/iax-parameters-13" target="http://www.iana.org/assignments/iax-parameters">
   <front>
     <title>IAX Cause Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA shim6/error-codes" target="http://www.iana.org/assignments/shim6">
+<reference anchor="IANA.shim6/error-codes" target="http://www.iana.org/assignments/shim6">
   <front>
     <title>Shim6 Error Codes</title>
     <author>

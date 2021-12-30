@@ -1,4 +1,4 @@
-<reference anchor="IANA dkim-parameters/dkim-parameters-9" target="http://www.iana.org/assignments/dkim-parameters">
+<reference anchor="IANA.dkim-parameters/dkim-parameters-9" target="http://www.iana.org/assignments/dkim-parameters">
   <front>
     <title>DKIM Selector Flags</title>
     <author>

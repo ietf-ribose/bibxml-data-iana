@@ -1,4 +1,4 @@
-<reference anchor="IANA eap-channel-binding-parameters/channel-binding-namespaces" target="http://www.iana.org/assignments/eap-channel-binding-parameters">
+<reference anchor="IANA.eap-channel-binding-parameters/channel-binding-namespaces" target="http://www.iana.org/assignments/eap-channel-binding-parameters">
   <front>
     <title>EAP Channel-Binding Namespaces</title>
     <author>

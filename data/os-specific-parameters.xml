@@ -1,4 +1,4 @@
-<reference anchor="IANA os-specific-parameters" target="http://www.iana.org/assignments/os-specific-parameters">
+<reference anchor="IANA.os-specific-parameters" target="http://www.iana.org/assignments/os-specific-parameters">
   <front>
     <title>Operating System Specific Parameters</title>
     <author>

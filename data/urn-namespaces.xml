@@ -1,4 +1,4 @@
-<reference anchor="IANA urn-namespaces" target="http://www.iana.org/assignments/urn-namespaces">
+<reference anchor="IANA.urn-namespaces" target="http://www.iana.org/assignments/urn-namespaces">
   <front>
     <title>Uniform Resource Names (URN) Namespaces</title>
     <author>

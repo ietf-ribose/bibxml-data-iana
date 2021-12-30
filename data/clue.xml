@@ -1,4 +1,4 @@
-<reference anchor="IANA clue" target="http://www.iana.org/assignments/clue">
+<reference anchor="IANA.clue" target="http://www.iana.org/assignments/clue">
   <front>
     <title>ControLling mUltiple streams for tElepresence (CLUE)</title>
     <author>

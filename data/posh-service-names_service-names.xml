@@ -1,4 +1,4 @@
-<reference anchor="IANA posh-service-names/service-names" target="http://www.iana.org/assignments/posh-service-names">
+<reference anchor="IANA.posh-service-names/service-names" target="http://www.iana.org/assignments/posh-service-names">
   <front>
     <title>POSH Service Names</title>
     <author>

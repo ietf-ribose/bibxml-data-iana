@@ -1,4 +1,4 @@
-<reference anchor="IANA rsvp-te-parameters/rsvp-te-parameters-4" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="IANA.rsvp-te-parameters/rsvp-te-parameters-4" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Record Route Object Sub-object Flags</title>
     <author>

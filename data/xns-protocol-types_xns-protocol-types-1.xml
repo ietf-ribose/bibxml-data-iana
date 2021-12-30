@@ -1,4 +1,4 @@
-<reference anchor="IANA xns-protocol-types/xns-protocol-types-1" target="http://www.iana.org/assignments/xns-protocol-types">
+<reference anchor="IANA.xns-protocol-types/xns-protocol-types-1" target="http://www.iana.org/assignments/xns-protocol-types">
   <front>
     <title>Assigned well-known socket numbers</title>
     <author>

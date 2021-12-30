@@ -1,4 +1,4 @@
-<reference anchor="IANA ipv6-parameters/segment-routing-header-tlvs" target="http://www.iana.org/assignments/ipv6-parameters">
+<reference anchor="IANA.ipv6-parameters/segment-routing-header-tlvs" target="http://www.iana.org/assignments/ipv6-parameters">
   <front>
     <title>Segment Routing Header TLVs</title>
     <author>

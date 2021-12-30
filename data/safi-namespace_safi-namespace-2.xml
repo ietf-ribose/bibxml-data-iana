@@ -1,4 +1,4 @@
-<reference anchor="IANA safi-namespace/safi-namespace-2" target="http://www.iana.org/assignments/safi-namespace">
+<reference anchor="IANA.safi-namespace/safi-namespace-2" target="http://www.iana.org/assignments/safi-namespace">
   <front>
     <title>SAFI Values</title>
     <author>

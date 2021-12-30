@@ -1,4 +1,4 @@
-<reference anchor="IANA pskc" target="http://www.iana.org/assignments/pskc">
+<reference anchor="IANA.pskc" target="http://www.iana.org/assignments/pskc">
   <front>
     <title>Portable Symmetric Key Container (PSKC)</title>
     <author>

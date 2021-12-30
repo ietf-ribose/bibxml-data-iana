@@ -1,4 +1,4 @@
-<reference anchor="IANA idna-tables-9.0.0" target="http://www.iana.org/assignments/idna-tables-9.0.0">
+<reference anchor="IANA.idna-tables-9.0.0" target="http://www.iana.org/assignments/idna-tables-9.0.0">
   <front>
     <title>IDNA Rules and Derived Property Values</title>
     <author>

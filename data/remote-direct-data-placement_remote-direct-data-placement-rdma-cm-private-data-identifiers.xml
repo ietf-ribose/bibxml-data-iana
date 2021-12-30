@@ -1,4 +1,4 @@
-<reference anchor="IANA remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers" target="http://www.iana.org/assignments/remote-direct-data-placement">
+<reference anchor="IANA.remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers" target="http://www.iana.org/assignments/remote-direct-data-placement">
   <front>
     <title>RDMA-CM Private Data Identifiers</title>
     <author>

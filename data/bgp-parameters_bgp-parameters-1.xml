@@ -1,4 +1,4 @@
-<reference anchor="IANA bgp-parameters/bgp-parameters-1" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="IANA.bgp-parameters/bgp-parameters-1" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Message Types</title>
     <author>

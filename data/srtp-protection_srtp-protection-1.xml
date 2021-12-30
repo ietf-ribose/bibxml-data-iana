@@ -1,4 +1,4 @@
-<reference anchor="IANA srtp-protection/srtp-protection-1" target="http://www.iana.org/assignments/srtp-protection">
+<reference anchor="IANA.srtp-protection/srtp-protection-1" target="http://www.iana.org/assignments/srtp-protection">
   <front>
     <title>DTLS-SRTP Protection Profiles</title>
     <author>

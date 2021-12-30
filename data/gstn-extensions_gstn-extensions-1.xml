@@ -1,4 +1,4 @@
-<reference anchor="IANA gstn-extensions/gstn-extensions-1" target="http://www.iana.org/assignments/gstn-extensions">
+<reference anchor="IANA.gstn-extensions/gstn-extensions-1" target="http://www.iana.org/assignments/gstn-extensions">
   <front>
     <title>Qual2-Label</title>
     <author>

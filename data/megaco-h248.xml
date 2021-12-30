@@ -1,4 +1,4 @@
-<reference anchor="IANA megaco-h248" target="http://www.iana.org/assignments/megaco-h248">
+<reference anchor="IANA.megaco-h248" target="http://www.iana.org/assignments/megaco-h248">
   <front>
     <title>Megaco/H.248 Packages</title>
     <author>

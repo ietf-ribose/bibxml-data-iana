@@ -1,4 +1,4 @@
-<reference anchor="IANA dlep-parameters/peer-type-flags" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="IANA.dlep-parameters/peer-type-flags" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>Peer Type Flags</title>
     <author>

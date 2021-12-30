@@ -1,4 +1,4 @@
-<reference anchor="IANA s-naptr-parameters/s-naptr-parameters-2" target="http://www.iana.org/assignments/s-naptr-parameters">
+<reference anchor="IANA.s-naptr-parameters/s-naptr-parameters-2" target="http://www.iana.org/assignments/s-naptr-parameters">
   <front>
     <title>S-NAPTR Application Protocol Tags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA ianamalloc-mib" target="http://www.iana.org/assignments/ianamalloc-mib">
+<reference anchor="IANA.ianamalloc-mib" target="http://www.iana.org/assignments/ianamalloc-mib">
   <front>
     <title>IANA-MALLOC-MIB</title>
     <author>

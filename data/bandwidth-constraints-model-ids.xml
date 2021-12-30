@@ -1,4 +1,4 @@
-<reference anchor="IANA bandwidth-constraints-model-ids" target="http://www.iana.org/assignments/bandwidth-constraints-model-ids">
+<reference anchor="IANA.bandwidth-constraints-model-ids" target="http://www.iana.org/assignments/bandwidth-constraints-model-ids">
   <front>
     <title>Bandwidth Constraints Model Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA gsakmp-parameters/gsakmp-parameters-11" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-11" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Signature Types</title>
     <author>

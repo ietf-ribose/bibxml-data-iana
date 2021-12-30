@@ -1,4 +1,4 @@
-<reference anchor="IANA emergency-call-additional-data/provider-id-series" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="IANA.emergency-call-additional-data/provider-id-series" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Provider ID Series</title>
     <author>

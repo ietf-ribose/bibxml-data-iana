@@ -1,4 +1,4 @@
-<reference anchor="IANA icmpv6-parameters/icmpv6-parameters-11" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="IANA.icmpv6-parameters/icmpv6-parameters-11" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>IPv6 ND Router Advertisement flags</title>
     <author>

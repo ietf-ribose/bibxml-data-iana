@@ -1,4 +1,4 @@
-<reference anchor="IANA kerberos-parameters/principal-names" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="IANA.kerberos-parameters/principal-names" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Well-Known Kerberos Principal Names</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA dhcpv6-parameters/option-codes-s46-priority-option" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="IANA.dhcpv6-parameters/option-codes-s46-priority-option" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>Option Codes Permitted in the S46 Priority Option</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA gdoi-payloads/gdoi-payloads-2" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="IANA.gdoi-payloads/gdoi-payloads-2" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>SA KEK Payload Values</title>
     <author>

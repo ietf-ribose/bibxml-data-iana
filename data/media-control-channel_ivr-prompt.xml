@@ -1,4 +1,4 @@
-<reference anchor="IANA media-control-channel/ivr-prompt" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="IANA.media-control-channel/ivr-prompt" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>IVR Prompt Variable Type for Control Packages</title>
     <author>

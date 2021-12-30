@@ -1,4 +1,4 @@
-<reference anchor="IANA ianagbondtc-mib" target="http://www.iana.org/assignments/ianagbondtc-mib">
+<reference anchor="IANA.ianagbondtc-mib" target="http://www.iana.org/assignments/ianagbondtc-mib">
   <front>
     <title>IANA-GBOND-TC-MIB</title>
     <author>

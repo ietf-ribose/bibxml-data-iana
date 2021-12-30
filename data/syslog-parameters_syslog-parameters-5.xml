@@ -1,4 +1,4 @@
-<reference anchor="IANA syslog-parameters/syslog-parameters-5" target="http://www.iana.org/assignments/syslog-parameters">
+<reference anchor="IANA.syslog-parameters/syslog-parameters-5" target="http://www.iana.org/assignments/syslog-parameters">
   <front>
     <title>syslog-sign Protocol Version Values</title>
     <author>

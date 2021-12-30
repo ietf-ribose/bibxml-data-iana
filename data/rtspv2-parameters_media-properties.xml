@@ -1,4 +1,4 @@
-<reference anchor="IANA rtspv2-parameters/media-properties" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="IANA.rtspv2-parameters/media-properties" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>Media Properties</title>
     <author>

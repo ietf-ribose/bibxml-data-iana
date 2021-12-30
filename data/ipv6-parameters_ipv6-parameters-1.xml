@@ -1,4 +1,4 @@
-<reference anchor="IANA ipv6-parameters/ipv6-parameters-1" target="http://www.iana.org/assignments/ipv6-parameters">
+<reference anchor="IANA.ipv6-parameters/ipv6-parameters-1" target="http://www.iana.org/assignments/ipv6-parameters">
   <front>
     <title>Next Header Types</title>
     <author>

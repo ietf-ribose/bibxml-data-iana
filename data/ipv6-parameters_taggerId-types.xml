@@ -1,4 +1,4 @@
-<reference anchor="IANA ipv6-parameters/taggerId-types" target="http://www.iana.org/assignments/ipv6-parameters">
+<reference anchor="IANA.ipv6-parameters/taggerId-types" target="http://www.iana.org/assignments/ipv6-parameters">
   <front>
     <title>TaggerId Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA tcp-parameters" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="IANA.tcp-parameters" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>Transmission Control Protocol (TCP) Parameters</title>
     <author>

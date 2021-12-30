@@ -1,4 +1,4 @@
-<reference anchor="IANA dccp-parameters" target="http://www.iana.org/assignments/dccp-parameters">
+<reference anchor="IANA.dccp-parameters" target="http://www.iana.org/assignments/dccp-parameters">
   <front>
     <title>Datagram Congestion Control Protocol (DCCP) Parameters</title>
     <author>
