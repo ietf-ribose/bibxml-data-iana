@@ -1,8 +1,0 @@
-<reference anchor="IANA.xml-registry/schema" target="http://www.iana.org/assignments/xml-registry">
-  <front>
-    <title>schema</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

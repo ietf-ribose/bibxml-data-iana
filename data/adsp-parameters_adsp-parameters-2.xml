@@ -1,8 +1,0 @@
-<reference anchor="IANA.adsp-parameters/adsp-parameters-2" target="http://www.iana.org/assignments/adsp-parameters">
-  <front>
-    <title>ADSP Outbound Signing Practices</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

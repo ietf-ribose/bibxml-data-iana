@@ -1,8 +1,0 @@
-<reference anchor="IANA.epp-repository-ids" target="http://www.iana.org/assignments/epp-repository-ids">
-  <front>
-    <title>Extensible Provisioning Protocol (EPP) Repository Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

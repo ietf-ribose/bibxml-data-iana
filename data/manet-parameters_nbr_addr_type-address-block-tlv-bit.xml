@@ -1,8 +1,0 @@
-<reference anchor="IANA.manet-parameters/nbr_addr_type-address-block-tlv-bit" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>NBR_ADDR_TYPE Address Block TLV Bit Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

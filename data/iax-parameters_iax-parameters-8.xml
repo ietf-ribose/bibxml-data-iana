@@ -1,8 +1,0 @@
-<reference anchor="IANA.iax-parameters/iax-parameters-8" target="http://www.iana.org/assignments/iax-parameters">
-  <front>
-    <title>IAX Dialplan Status Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

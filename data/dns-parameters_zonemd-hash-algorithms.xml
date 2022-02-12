@@ -1,8 +1,0 @@
-<reference anchor="IANA.dns-parameters/zonemd-hash-algorithms" target="http://www.iana.org/assignments/dns-parameters">
-  <front>
-    <title>ZONEMD Hash Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

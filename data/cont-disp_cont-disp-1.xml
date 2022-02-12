@@ -1,8 +1,0 @@
-<reference anchor="IANA.cont-disp/cont-disp-1" target="http://www.iana.org/assignments/cont-disp">
-  <front>
-    <title>Content Disposition Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

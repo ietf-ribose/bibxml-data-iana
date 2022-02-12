@@ -1,8 +1,0 @@
-<reference anchor="IANA.webauthn/webauthn-attestation-statement-format-ids" target="http://www.iana.org/assignments/webauthn">
-  <front>
-    <title>WebAuthn Attestation Statement Format Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

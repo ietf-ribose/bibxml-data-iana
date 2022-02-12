@@ -1,8 +1,0 @@
-<reference anchor="IANA.madcap-parameters/madcap-parameters-1" target="http://www.iana.org/assignments/madcap-parameters">
-  <front>
-    <title>MADCAP Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

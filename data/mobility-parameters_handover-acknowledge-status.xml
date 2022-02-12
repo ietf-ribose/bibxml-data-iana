@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/handover-acknowledge-status" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Handover Acknowledge Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

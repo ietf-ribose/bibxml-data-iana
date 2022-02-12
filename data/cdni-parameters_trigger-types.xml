@@ -1,8 +1,0 @@
-<reference anchor="IANA.cdni-parameters/trigger-types" target="http://www.iana.org/assignments/cdni-parameters">
-  <front>
-    <title>CDNI CI/T Trigger Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

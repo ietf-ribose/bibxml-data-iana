@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipp-registrations/ipp-registrations-4" target="http://www.iana.org/assignments/ipp-registrations">
-  <front>
-    <title>Keyword Attribute Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

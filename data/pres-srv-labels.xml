@@ -1,8 +1,0 @@
-<reference anchor="IANA.pres-srv-labels" target="http://www.iana.org/assignments/pres-srv-labels">
-  <front>
-    <title>Presence SRV Protocol Label Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

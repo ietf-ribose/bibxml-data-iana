@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/lma-controlled-mag-parameters-sub-option-type" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>LMA-Controlled MAG Parameters Sub-Option Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

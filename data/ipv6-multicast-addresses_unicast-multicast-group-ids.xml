@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipv6-multicast-addresses/unicast-multicast-group-ids" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
-  <front>
-    <title>Unicast-based (Including SSM) Multicast Group IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

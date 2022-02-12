@@ -1,8 +1,0 @@
-<reference anchor="IANA.cops-parameters" target="http://www.iana.org/assignments/cops-parameters">
-  <front>
-    <title>Common Open Policy Service (COPS) Protocol</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

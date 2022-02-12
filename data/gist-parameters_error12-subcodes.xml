@@ -1,8 +1,0 @@
-<reference anchor="IANA.gist-parameters/error12-subcodes" target="http://www.iana.org/assignments/gist-parameters">
-  <front>
-    <title>Error Code 12 Subcodes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

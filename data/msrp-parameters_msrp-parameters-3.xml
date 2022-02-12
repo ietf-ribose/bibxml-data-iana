@@ -1,8 +1,0 @@
-<reference anchor="IANA.msrp-parameters/msrp-parameters-3" target="http://www.iana.org/assignments/msrp-parameters">
-  <front>
-    <title>Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.dlep-parameters/status-code-values" target="http://www.iana.org/assignments/dlep-parameters">
-  <front>
-    <title>Status Code Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

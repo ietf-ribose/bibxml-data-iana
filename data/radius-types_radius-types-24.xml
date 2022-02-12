@@ -1,8 +1,0 @@
-<reference anchor="IANA.radius-types/radius-types-24" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>Requested-Location-Info Attribute (Attribute 132)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

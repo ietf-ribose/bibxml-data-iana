@@ -1,8 +1,0 @@
-<reference anchor="IANA.ospf-traffic-eng-tlvs/otn-tdm-scsi" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
-  <front>
-    <title>Types for sub-TLVs of OTN-TDM SCSI (Switching Capability Specific Information)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

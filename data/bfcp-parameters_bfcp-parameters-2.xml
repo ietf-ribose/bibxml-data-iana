@@ -1,8 +1,0 @@
-<reference anchor="IANA.bfcp-parameters/bfcp-parameters-2" target="http://www.iana.org/assignments/bfcp-parameters">
-  <front>
-    <title>Primitives</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.forces" target="http://www.iana.org/assignments/forces">
-  <front>
-    <title>Forwarding and Control Element Separation (ForCES)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.rsvp-te-parameters/wavelength-assignment-method" target="http://www.iana.org/assignments/rsvp-te-parameters">
-  <front>
-    <title>Values for Wavelength Assignment Method field in WavelengthSelection Sub-TLV</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

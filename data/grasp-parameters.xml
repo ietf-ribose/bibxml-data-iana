@@ -1,8 +1,0 @@
-<reference anchor="IANA.grasp-parameters" target="http://www.iana.org/assignments/grasp-parameters">
-  <front>
-    <title>GeneRic Autonomic Signaling Protocol (GRASP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-reply" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP Control Plane Header Bits: Map-Reply</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

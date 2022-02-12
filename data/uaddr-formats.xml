@@ -1,8 +1,0 @@
-<reference anchor="IANA.uaddr-formats" target="http://www.iana.org/assignments/uaddr-formats">
-  <front>
-    <title>ONC RPC Universal Address (uaddr) Format Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

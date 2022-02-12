@@ -1,8 +1,0 @@
-<reference anchor="IANA.bgp-extended-communities/arp-nd-extended-community-flags" target="http://www.iana.org/assignments/bgp-extended-communities">
-  <front>
-    <title>ARP/ND Extended Community Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

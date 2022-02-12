@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/mobility-parameters-9" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Handoff Indicator Option Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

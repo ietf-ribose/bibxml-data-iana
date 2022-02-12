@@ -1,8 +1,0 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-14" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - Security Messages (Value 12)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

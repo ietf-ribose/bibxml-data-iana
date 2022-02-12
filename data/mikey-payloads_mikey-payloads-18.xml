@@ -1,8 +1,0 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-18" target="http://www.iana.org/assignments/mikey-payloads">
-  <front>
-    <title>ID Payload and Certificate Field Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

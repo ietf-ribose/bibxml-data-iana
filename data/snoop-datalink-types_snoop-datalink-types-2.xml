@@ -1,8 +1,0 @@
-<reference anchor="IANA.snoop-datalink-types/snoop-datalink-types-2" target="http://www.iana.org/assignments/snoop-datalink-types">
-  <front>
-    <title>Datalink Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

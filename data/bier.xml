@@ -1,8 +1,0 @@
-<reference anchor="IANA.bier" target="http://www.iana.org/assignments/bier">
-  <front>
-    <title>Bit Index Explicit Replication (BIER)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.gmpls-sig-parameters" target="http://www.iana.org/assignments/gmpls-sig-parameters">
-  <front>
-    <title>Generalized Multi-Protocol Label Switching (GMPLS) Signaling Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

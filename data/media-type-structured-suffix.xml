@@ -1,8 +1,0 @@
-<reference anchor="IANA.media-type-structured-suffix" target="http://www.iana.org/assignments/media-type-structured-suffix">
-  <front>
-    <title>Structured Syntax Suffixes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.performance-metrics" target="http://www.iana.org/assignments/performance-metrics">
-  <front>
-    <title>Performance Metrics</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

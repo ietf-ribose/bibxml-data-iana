@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/load-balancing-object-flag-field" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>LOAD-BALANCING Object Flag Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

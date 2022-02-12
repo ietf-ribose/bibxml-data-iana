@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/qos-attribute" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Quality-of-Service Attribute Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

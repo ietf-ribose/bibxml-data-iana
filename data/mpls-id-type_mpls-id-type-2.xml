@@ -1,8 +1,0 @@
-<reference anchor="IANA.mpls-id-type/mpls-id-type-2" target="http://www.iana.org/assignments/mpls-id-type">
-  <front>
-    <title>Information Field and Protocol Identifier in the Q.2941 Generic Identifier</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

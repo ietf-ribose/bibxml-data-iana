@@ -1,8 +1,0 @@
-<reference anchor="IANA._6tisch/_6tisch-6p-command-identifiers" target="http://www.iana.org/assignments/_6tisch">
-  <front>
-    <title>6P Command Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

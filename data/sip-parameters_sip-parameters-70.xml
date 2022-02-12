@@ -1,8 +1,0 @@
-<reference anchor="IANA.sip-parameters/sip-parameters-70" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>Proxy-Feature Feature-Capability Indicator Trees</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

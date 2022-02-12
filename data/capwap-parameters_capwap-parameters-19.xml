@@ -1,8 +1,0 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-19" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>WTP Board Data Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

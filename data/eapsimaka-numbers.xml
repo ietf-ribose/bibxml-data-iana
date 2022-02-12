@@ -1,8 +1,0 @@
-<reference anchor="IANA.eapsimaka-numbers" target="http://www.iana.org/assignments/eapsimaka-numbers">
-  <front>
-    <title>EAP-AKA and EAP-SIM Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

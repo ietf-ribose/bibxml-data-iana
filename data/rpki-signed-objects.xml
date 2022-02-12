@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpki-signed-objects" target="http://www.iana.org/assignments/rpki-signed-objects">
-  <front>
-    <title>rpki-signed-objects</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

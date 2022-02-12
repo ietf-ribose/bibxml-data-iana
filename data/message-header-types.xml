@@ -1,8 +1,0 @@
-<reference anchor="IANA.message-header-types" target="http://www.iana.org/assignments/message-header-types">
-  <front>
-    <title>Context labels for Internet Messages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

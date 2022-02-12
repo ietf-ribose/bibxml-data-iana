@@ -1,8 +1,0 @@
-<reference anchor="IANA.jwt/claims" target="http://www.iana.org/assignments/jwt">
-  <front>
-    <title>JSON Web Token Claims</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

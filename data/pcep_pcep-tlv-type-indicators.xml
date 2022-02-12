@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/pcep-tlv-type-indicators" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>PCEP TLV Type Indicators</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

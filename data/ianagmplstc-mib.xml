@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianagmplstc-mib" target="http://www.iana.org/assignments/ianagmplstc-mib">
-  <front>
-    <title>IANA-GMPLS-TC-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

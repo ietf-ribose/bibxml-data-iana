@@ -1,8 +1,0 @@
-<reference anchor="IANA.mrcpv2-parameters" target="http://www.iana.org/assignments/mrcpv2-parameters">
-  <front>
-    <title>Media Resource Control Protocol Version 2 (MRCPv2) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

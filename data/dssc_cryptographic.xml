@@ -1,8 +1,0 @@
-<reference anchor="IANA.dssc/cryptographic" target="http://www.iana.org/assignments/dssc">
-  <front>
-    <title>Cryptographic Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

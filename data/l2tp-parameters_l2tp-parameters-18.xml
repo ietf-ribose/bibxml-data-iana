@@ -1,8 +1,0 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-18" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>PPP Disconnect Cause Code (Attribute Type 46) Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

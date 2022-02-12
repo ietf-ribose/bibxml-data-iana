@@ -1,8 +1,0 @@
-<reference anchor="IANA.syslog-parameters/syslog-parameters-7" target="http://www.iana.org/assignments/syslog-parameters">
-  <front>
-    <title>syslog-sign Signature Scheme Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

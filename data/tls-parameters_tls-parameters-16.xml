@@ -1,8 +1,0 @@
-<reference anchor="IANA.tls-parameters/tls-parameters-16" target="http://www.iana.org/assignments/tls-parameters">
-  <front>
-    <title>TLS SignatureAlgorithm</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

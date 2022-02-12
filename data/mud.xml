@@ -1,8 +1,0 @@
-<reference anchor="IANA.mud" target="http://www.iana.org/assignments/mud">
-  <front>
-    <title>Manufacturer Usage Description (MUD)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

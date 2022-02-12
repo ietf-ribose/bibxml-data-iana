@@ -1,8 +1,0 @@
-<reference anchor="IANA.prophet/rib-flags" target="http://www.iana.org/assignments/prophet">
-  <front>
-    <title>RIB Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

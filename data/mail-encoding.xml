@@ -1,8 +1,0 @@
-<reference anchor="IANA.mail-encoding" target="http://www.iana.org/assignments/mail-encoding">
-  <front>
-    <title>Mail Encoding Header Field Keywords</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

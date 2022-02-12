@@ -1,8 +1,0 @@
-<reference anchor="IANA.media-types/model" target="http://www.iana.org/assignments/media-types">
-  <front>
-    <title>model</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

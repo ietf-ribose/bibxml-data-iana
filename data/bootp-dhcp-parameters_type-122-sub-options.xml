@@ -1,8 +1,0 @@
-<reference anchor="IANA.bootp-dhcp-parameters/type-122-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
-  <front>
-    <title>DHCP Cablelabs Client Configuration Option Type 122 Sub-Option Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

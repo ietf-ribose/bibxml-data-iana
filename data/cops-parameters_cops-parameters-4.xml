@@ -1,8 +1,0 @@
-<reference anchor="IANA.cops-parameters/cops-parameters-4" target="http://www.iana.org/assignments/cops-parameters">
-  <front>
-    <title>C-Num and C-Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-34" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>L2TPv3 Pseudowire Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

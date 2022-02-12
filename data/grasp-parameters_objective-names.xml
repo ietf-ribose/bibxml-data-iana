@@ -1,8 +1,0 @@
-<reference anchor="IANA.grasp-parameters/objective-names" target="http://www.iana.org/assignments/grasp-parameters">
-  <front>
-    <title>GRASP Objective Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

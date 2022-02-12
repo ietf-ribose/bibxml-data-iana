@@ -1,8 +1,0 @@
-<reference anchor="IANA.ace" target="http://www.iana.org/assignments/ace">
-  <front>
-    <title>Authentication and Authorization for Constrained Environments (ACE)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

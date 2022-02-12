@@ -1,8 +1,0 @@
-<reference anchor="IANA.bmp-parameters/peer-down-reason-codes" target="http://www.iana.org/assignments/bmp-parameters">
-  <front>
-    <title>BMP Peer Down Reason Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

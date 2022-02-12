@@ -1,8 +1,0 @@
-<reference anchor="IANA.sdxf-parameters" target="http://www.iana.org/assignments/sdxf-parameters">
-  <front>
-    <title>Structured Data Exchange Format (SDXF)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

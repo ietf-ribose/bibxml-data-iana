@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/sched-pd-lsp-attribute-tlv-opt-field" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>SCHED-PD-LSP-ATTRIBUTE TLV Opt Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

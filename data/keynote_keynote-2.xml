@@ -1,8 +1,0 @@
-<reference anchor="IANA.keynote/keynote-2" target="http://www.iana.org/assignments/keynote">
-  <front>
-    <title>KeyNote Public Key Format Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

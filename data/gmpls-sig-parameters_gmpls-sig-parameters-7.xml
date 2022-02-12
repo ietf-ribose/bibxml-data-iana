@@ -1,8 +1,0 @@
-<reference anchor="IANA.gmpls-sig-parameters/gmpls-sig-parameters-7" target="http://www.iana.org/assignments/gmpls-sig-parameters">
-  <front>
-    <title>Interface_ID Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

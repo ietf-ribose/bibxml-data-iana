@@ -1,8 +1,0 @@
-<reference anchor="IANA.media-type-sub-parameters/media-type-sub-parameters-8" target="http://www.iana.org/assignments/media-type-sub-parameters">
-  <front>
-    <title>Sub-Parameter Registry for audio/rtp-midi</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

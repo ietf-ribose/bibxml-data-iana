@@ -1,8 +1,0 @@
-<reference anchor="IANA.reload/data-model" target="http://www.iana.org/assignments/reload">
-  <front>
-    <title>RELOAD Data Model</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

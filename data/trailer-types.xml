@@ -1,8 +1,0 @@
-<reference anchor="IANA.trailer-types" target="http://www.iana.org/assignments/trailer-types">
-  <front>
-    <title>Trailer Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

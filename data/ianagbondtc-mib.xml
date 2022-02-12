@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianagbondtc-mib" target="http://www.iana.org/assignments/ianagbondtc-mib">
-  <front>
-    <title>IANA-GBOND-TC-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

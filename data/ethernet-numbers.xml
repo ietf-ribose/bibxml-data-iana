@@ -1,8 +1,0 @@
-<reference anchor="IANA.ethernet-numbers" target="http://www.iana.org/assignments/ethernet-numbers">
-  <front>
-    <title>Ethernet Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

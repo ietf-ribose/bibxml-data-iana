@@ -1,8 +1,0 @@
-<reference anchor="IANA.bgp-extended-communities/additional-pmsi-tunnel-attribute-flags" target="http://www.iana.org/assignments/bgp-extended-communities">
-  <front>
-    <title>Additional PMSI Tunnel Attribute Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

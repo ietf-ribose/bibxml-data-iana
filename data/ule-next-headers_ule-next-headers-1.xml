@@ -1,8 +1,0 @@
-<reference anchor="IANA.ule-next-headers/ule-next-headers-1" target="http://www.iana.org/assignments/ule-next-headers">
-  <front>
-    <title>Mandatory Extension Headers (or link-dependent type fields) for ULE (Range 0-255 decimal)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

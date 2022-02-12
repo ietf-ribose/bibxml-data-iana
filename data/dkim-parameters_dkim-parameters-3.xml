@@ -1,8 +1,0 @@
-<reference anchor="IANA.dkim-parameters/dkim-parameters-3" target="http://www.iana.org/assignments/dkim-parameters">
-  <front>
-    <title>DKIM-Signature Canonicalization Header</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsakmp-parameters" target="http://www.iana.org/assignments/gsakmp-parameters">
-  <front>
-    <title>Group Secure Association Group Management Protocol (GSAKMP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

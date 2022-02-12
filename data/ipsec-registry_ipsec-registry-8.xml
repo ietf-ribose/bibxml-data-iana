@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-8" target="http://www.iana.org/assignments/ipsec-registry">
-  <front>
-    <title>IPSEC Authentication Methods (Value 3)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

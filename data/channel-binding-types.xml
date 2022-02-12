@@ -1,8 +1,0 @@
-<reference anchor="IANA.channel-binding-types" target="http://www.iana.org/assignments/channel-binding-types">
-  <front>
-    <title>Channel-Binding Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

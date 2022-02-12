@@ -1,8 +1,0 @@
-<reference anchor="IANA.gmpls-sig-parameters/granularities" target="http://www.iana.org/assignments/gmpls-sig-parameters">
-  <front>
-    <title>Ethernet Switching Granularities</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsmpv3-traffic" target="http://www.iana.org/assignments/gsmpv3-traffic">
-  <front>
-    <title>Global Switch Management Protocol version 3 (GSMPv3) Traffic Control Name Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

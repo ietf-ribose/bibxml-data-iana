@@ -1,8 +1,0 @@
-<reference anchor="IANA.cpim-headers" target="http://www.iana.org/assignments/cpim-headers">
-  <front>
-    <title>Common Presence and Instant Messaging (CPIM) Headers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

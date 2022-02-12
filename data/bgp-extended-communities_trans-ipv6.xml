@@ -1,8 +1,0 @@
-<reference anchor="IANA.bgp-extended-communities/trans-ipv6" target="http://www.iana.org/assignments/bgp-extended-communities">
-  <front>
-    <title>Transitive IPv6-Address-Specific Extended Community Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

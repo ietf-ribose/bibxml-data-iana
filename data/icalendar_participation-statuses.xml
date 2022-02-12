@@ -1,8 +1,0 @@
-<reference anchor="IANA.icalendar/participation-statuses" target="http://www.iana.org/assignments/icalendar">
-  <front>
-    <title>Participation Statuses</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

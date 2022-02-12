@@ -1,8 +1,0 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-36" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>IEEE 802.11 Encryption Capabilities</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

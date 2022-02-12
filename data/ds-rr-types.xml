@@ -1,8 +1,0 @@
-<reference anchor="IANA.ds-rr-types" target="http://www.iana.org/assignments/ds-rr-types">
-  <front>
-    <title>DNSSEC Delegation Signer (DS) Resource Record (RR) Type Digest Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

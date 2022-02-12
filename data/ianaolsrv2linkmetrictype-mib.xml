@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianaolsrv2linkmetrictype-mib" target="http://www.iana.org/assignments/ianaolsrv2linkmetrictype-mib">
-  <front>
-    <title>IANAolsrv2LinkMetricType-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.gist-parameters" target="http://www.iana.org/assignments/gist-parameters">
-  <front>
-    <title>General Internet Signalling Transport (GIST) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

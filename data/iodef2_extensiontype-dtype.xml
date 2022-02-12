@@ -1,8 +1,0 @@
-<reference anchor="IANA.iodef2/extensiontype-dtype" target="http://www.iana.org/assignments/iodef2">
-  <front>
-    <title>ExtensionType-dtype</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

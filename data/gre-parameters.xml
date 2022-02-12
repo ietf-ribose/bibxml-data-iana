@@ -1,8 +1,0 @@
-<reference anchor="IANA.gre-parameters" target="http://www.iana.org/assignments/gre-parameters">
-  <front>
-    <title>Generic Routing Encapsulation (GRE) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

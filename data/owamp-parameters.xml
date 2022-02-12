@@ -1,8 +1,0 @@
-<reference anchor="IANA.owamp-parameters" target="http://www.iana.org/assignments/owamp-parameters">
-  <front>
-    <title>One-Way Active Measurement Protocol (OWAMP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

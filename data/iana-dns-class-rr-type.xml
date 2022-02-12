@@ -1,8 +1,0 @@
-<reference anchor="IANA.iana-dns-class-rr-type" target="http://www.iana.org/assignments/iana-dns-class-rr-type">
-  <front>
-    <title>iana-dns-class-rr-type YANG Module</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

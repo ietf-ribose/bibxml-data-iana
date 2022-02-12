@@ -1,8 +1,0 @@
-<reference anchor="IANA.starttls-validation-result-types/starttls-validation-result-types-1" target="http://www.iana.org/assignments/starttls-validation-result-types">
-  <front>
-    <title>STARTTLS Validation Result Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.ancp/port-management-functions" target="http://www.iana.org/assignments/ancp">
-  <front>
-    <title>ANCP Port Management Functions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

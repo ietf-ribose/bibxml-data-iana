@@ -1,8 +1,0 @@
-<reference anchor="IANA.dns-sec-alg-numbers/dns-sec-alg-numbers-1" target="http://www.iana.org/assignments/dns-sec-alg-numbers">
-  <front>
-    <title>DNS Security Algorithm Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

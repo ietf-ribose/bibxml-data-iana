@@ -1,8 +1,0 @@
-<reference anchor="IANA.tesla-parameters/tesla-parameters-2" target="http://www.iana.org/assignments/tesla-parameters">
-  <front>
-    <title>Cryptographic Message Authentication Code (MAC) Function, TESLA-MAC Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.eapsimaka-numbers/eapsimaka-numbers-2" target="http://www.iana.org/assignments/eapsimaka-numbers">
-  <front>
-    <title>Attribute Types (Non-Skippable Attributes 0-127)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

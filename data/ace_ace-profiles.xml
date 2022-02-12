@@ -1,8 +1,0 @@
-<reference anchor="IANA.ace/ace-profiles" target="http://www.iana.org/assignments/ace">
-  <front>
-    <title>ACE Profiles</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

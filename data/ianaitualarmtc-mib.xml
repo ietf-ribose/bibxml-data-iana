@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianaitualarmtc-mib" target="http://www.iana.org/assignments/ianaitualarmtc-mib">
-  <front>
-    <title>IANA-ITU-ALARM-TC-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

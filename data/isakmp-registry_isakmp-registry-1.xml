@@ -1,8 +1,0 @@
-<reference anchor="IANA.isakmp-registry/isakmp-registry-1" target="http://www.iana.org/assignments/isakmp-registry">
-  <front>
-    <title>IPSEC Situation Definition</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

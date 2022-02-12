@@ -1,8 +1,0 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-4" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - SS7 Signalling Network Management (SSNM) Messages (Value 2)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

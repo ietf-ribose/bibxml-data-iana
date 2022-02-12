@@ -1,8 +1,0 @@
-<reference anchor="IANA.remote-direct-data-placement" target="http://www.iana.org/assignments/remote-direct-data-placement">
-  <front>
-    <title>Remote Direct Data Placement</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

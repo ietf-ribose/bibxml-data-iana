@@ -1,8 +1,0 @@
-<reference anchor="IANA.stamp-tlv-types" target="http://www.iana.org/assignments/stamp-tlv-types">
-  <front>
-    <title>Simple Two-way Active Measurement Protocol (STAMP) TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.bfd-parameters" target="http://www.iana.org/assignments/bfd-parameters">
-  <front>
-    <title>Bidirectional Forwarding Detection (BFD) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

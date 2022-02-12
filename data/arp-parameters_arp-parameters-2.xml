@@ -1,8 +1,0 @@
-<reference anchor="IANA.arp-parameters/arp-parameters-2" target="http://www.iana.org/assignments/arp-parameters">
-  <front>
-    <title>Hardware Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

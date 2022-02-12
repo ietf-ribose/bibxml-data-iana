@@ -1,8 +1,0 @@
-<reference anchor="IANA.gdoi-payloads/iec62351-9-authentication-values" target="http://www.iana.org/assignments/gdoi-payloads">
-  <front>
-    <title>IEC 62351-9 Authentication Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

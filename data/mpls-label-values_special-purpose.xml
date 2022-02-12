@@ -1,8 +1,0 @@
-<reference anchor="IANA.mpls-label-values/special-purpose" target="http://www.iana.org/assignments/mpls-label-values">
-  <front>
-    <title>Base Special-Purpose MPLS Label Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

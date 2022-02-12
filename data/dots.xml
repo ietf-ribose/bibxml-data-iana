@@ -1,8 +1,0 @@
-<reference anchor="IANA.dots" target="http://www.iana.org/assignments/dots">
-  <front>
-    <title>Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

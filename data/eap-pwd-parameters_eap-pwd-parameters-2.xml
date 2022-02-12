@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-pwd-parameters/eap-pwd-parameters-2" target="http://www.iana.org/assignments/eap-pwd-parameters">
-  <front>
-    <title>Random Function Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

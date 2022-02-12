@@ -1,8 +1,0 @@
-<reference anchor="IANA.nlpids" target="http://www.iana.org/assignments/nlpids">
-  <front>
-    <title>Network Layer Protocol Identifiers (NLPIDs) of Interest</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

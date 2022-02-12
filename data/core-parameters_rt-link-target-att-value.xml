@@ -1,8 +1,0 @@
-<reference anchor="IANA.core-parameters/rt-link-target-att-value" target="http://www.iana.org/assignments/core-parameters">
-  <front>
-    <title>Resource Type (rt=) Link Target Attribute Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

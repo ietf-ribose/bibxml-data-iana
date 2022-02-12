@@ -1,8 +1,0 @@
-<reference anchor="IANA.vcard-elements/parameter-values" target="http://www.iana.org/assignments/vcard-elements">
-  <front>
-    <title>vCard Parameter Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

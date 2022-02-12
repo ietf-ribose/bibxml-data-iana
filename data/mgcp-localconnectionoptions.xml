@@ -1,8 +1,0 @@
-<reference anchor="IANA.mgcp-localconnectionoptions" target="http://www.iana.org/assignments/mgcp-localconnectionoptions">
-  <front>
-    <title>Media Gateway Control Protocol (MGCP)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.rtp-parameters/rtp-parameters-4" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>RTCP Control Packet Types (PT)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

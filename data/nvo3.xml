@@ -1,8 +1,0 @@
-<reference anchor="IANA.nvo3" target="http://www.iana.org/assignments/nvo3">
-  <front>
-    <title>Network Virtualization Overlay (NVO3)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

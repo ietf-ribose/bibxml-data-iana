@@ -1,8 +1,0 @@
-<reference anchor="IANA.dlep-parameters/hop-control-actions-values" target="http://www.iana.org/assignments/dlep-parameters">
-  <front>
-    <title>Hop Control Actions Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

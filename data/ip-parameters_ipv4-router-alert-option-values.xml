@@ -1,8 +1,0 @@
-<reference anchor="IANA.ip-parameters/ipv4-router-alert-option-values" target="http://www.iana.org/assignments/ip-parameters">
-  <front>
-    <title>IPv4 Router Alert Option Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

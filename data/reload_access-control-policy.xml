@@ -1,8 +1,0 @@
-<reference anchor="IANA.reload/access-control-policy" target="http://www.iana.org/assignments/reload">
-  <front>
-    <title>CoAP Usage for RELOAD Access Control Policy</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-fast-parameters/eap-fast-parameters-5" target="http://www.iana.org/assignments/eap-fast-parameters">
-  <front>
-    <title>EAP-FAST PAC Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

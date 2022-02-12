@@ -1,8 +1,0 @@
-<reference anchor="IANA.bmp-parameters" target="http://www.iana.org/assignments/bmp-parameters">
-  <front>
-    <title>BGP Monitoring Protocol (BMP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

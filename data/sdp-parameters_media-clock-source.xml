@@ -1,8 +1,0 @@
-<reference anchor="IANA.sdp-parameters/media-clock-source" target="http://www.iana.org/assignments/sdp-parameters">
-  <front>
-    <title>Media Clock Source Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.rtp-parameters/rtp-parameters-15" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>RAMS Response Code Space Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.bootp-dhcp-parameters" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
-  <front>
-    <title>Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

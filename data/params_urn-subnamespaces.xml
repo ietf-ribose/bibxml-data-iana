@@ -1,8 +1,0 @@
-<reference anchor="IANA.params/urn-subnamespaces" target="http://www.iana.org/assignments/params">
-  <front>
-    <title>IETF URN Sub-namespaces</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

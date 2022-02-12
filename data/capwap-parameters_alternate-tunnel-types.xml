@@ -1,8 +1,0 @@
-<reference anchor="IANA.capwap-parameters/alternate-tunnel-types" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>Alternate Tunnel-Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

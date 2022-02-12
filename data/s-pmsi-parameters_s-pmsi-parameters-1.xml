@@ -1,8 +1,0 @@
-<reference anchor="IANA.s-pmsi-parameters/s-pmsi-parameters-1" target="http://www.iana.org/assignments/s-pmsi-parameters">
-  <front>
-    <title>S-PMSI Join Message Type Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.nslp-parameters/x-type-4-subtypes" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>DEST_ADDR (X-Type 4) SubType values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

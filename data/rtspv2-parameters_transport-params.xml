@@ -1,8 +1,0 @@
-<reference anchor="IANA.rtspv2-parameters/transport-params" target="http://www.iana.org/assignments/rtspv2-parameters">
-  <front>
-    <title>Transport Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

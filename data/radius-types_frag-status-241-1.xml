@@ -1,8 +1,0 @@
-<reference anchor="IANA.radius-types/frag-status-241-1" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>Code Values for RADIUS Attribute 241.1, Frag-Status</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

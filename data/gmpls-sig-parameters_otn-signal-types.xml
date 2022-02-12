@@ -1,8 +1,0 @@
-<reference anchor="IANA.gmpls-sig-parameters/otn-signal-types" target="http://www.iana.org/assignments/gmpls-sig-parameters">
-  <front>
-    <title>OTN Signal Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

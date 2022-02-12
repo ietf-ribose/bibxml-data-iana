@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpcbind-transport-parameters" target="http://www.iana.org/assignments/rpcbind-transport-parameters">
-  <front>
-    <title>RPCBIND Transport Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.radius-types/data-type" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>Data Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

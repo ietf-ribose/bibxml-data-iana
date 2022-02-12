@@ -1,8 +1,0 @@
-<reference anchor="IANA.geopriv-identifiers" target="http://www.iana.org/assignments/geopriv-identifiers">
-  <front>
-    <title>Geopriv Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

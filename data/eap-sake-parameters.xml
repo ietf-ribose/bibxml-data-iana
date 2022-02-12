@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-sake-parameters" target="http://www.iana.org/assignments/eap-sake-parameters">
-  <front>
-    <title>Extensible Authentication Protocol Method for Shared-secret Authentication and Key Establishment (EAP-SAKE)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

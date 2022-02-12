@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-4" target="http://www.iana.org/assignments/gsakmp-parameters">
-  <front>
-    <title>GSAKMP Policy Token Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

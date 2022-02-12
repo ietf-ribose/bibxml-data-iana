@@ -1,8 +1,0 @@
-<reference anchor="IANA.dmarc-parameters" target="http://www.iana.org/assignments/dmarc-parameters">
-  <front>
-    <title>Domain-based Message Authentication, Reporting, and Conformance (DMARC) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

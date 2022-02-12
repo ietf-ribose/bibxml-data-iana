@@ -1,8 +1,0 @@
-<reference anchor="IANA.nslp-parameters" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>NSIS Signaling Layer Protocol (NSLP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

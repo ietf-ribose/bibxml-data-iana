@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipp-registrations/ipp-registrations-8" target="http://www.iana.org/assignments/ipp-registrations">
-  <front>
-    <title>Out-of-Band Attribute Value Tags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.te-types/rfc-4973-experimental-te-lsa-types" target="http://www.iana.org/assignments/te-types">
-  <front>
-    <title>RFC 4973 Experimental TE LSA Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

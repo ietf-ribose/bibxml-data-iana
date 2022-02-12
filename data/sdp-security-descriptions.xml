@@ -1,8 +1,0 @@
-<reference anchor="IANA.sdp-security-descriptions" target="http://www.iana.org/assignments/sdp-security-descriptions">
-  <front>
-    <title>Session Description Protocol (SDP) Security Descriptions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

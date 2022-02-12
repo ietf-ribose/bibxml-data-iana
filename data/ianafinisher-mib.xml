@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianafinisher-mib" target="http://www.iana.org/assignments/ianafinisher-mib">
-  <front>
-    <title>IANA-FINISHER-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

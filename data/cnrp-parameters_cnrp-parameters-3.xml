@@ -1,8 +1,0 @@
-<reference anchor="IANA.cnrp-parameters/cnrp-parameters-3" target="http://www.iana.org/assignments/cnrp-parameters">
-  <front>
-    <title>Status Messages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

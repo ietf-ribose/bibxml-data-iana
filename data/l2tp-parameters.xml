@@ -1,8 +1,0 @@
-<reference anchor="IANA.l2tp-parameters" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>Layer Two Tunneling Protocol "L2TP"</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

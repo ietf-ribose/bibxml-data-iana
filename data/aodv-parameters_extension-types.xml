@@ -1,8 +1,0 @@
-<reference anchor="IANA.aodv-parameters/extension-types" target="http://www.iana.org/assignments/aodv-parameters">
-  <front>
-    <title>AODV Extension Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

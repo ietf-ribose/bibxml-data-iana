@@ -1,8 +1,0 @@
-<reference anchor="IANA.dns-sec-alg-numbers/prime-generator-pairs" target="http://www.iana.org/assignments/dns-sec-alg-numbers">
-  <front>
-    <title>DNS KEY Record Diffie-Hellman Well-Known Prime/Generator Pairs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

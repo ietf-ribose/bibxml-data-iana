@@ -1,8 +1,0 @@
-<reference anchor="IANA.named-information/uri-parameter" target="http://www.iana.org/assignments/named-information">
-  <front>
-    <title>Named Information URI Parameter Definitions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

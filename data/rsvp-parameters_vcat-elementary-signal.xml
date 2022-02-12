@@ -1,8 +1,0 @@
-<reference anchor="IANA.rsvp-parameters/vcat-elementary-signal" target="http://www.iana.org/assignments/rsvp-parameters">
-  <front>
-    <title>VCAT Elementary Signal Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

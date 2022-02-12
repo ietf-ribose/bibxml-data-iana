@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcp-parameters/opcodes" target="http://www.iana.org/assignments/pcp-parameters">
-  <front>
-    <title>PCP Opcodes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

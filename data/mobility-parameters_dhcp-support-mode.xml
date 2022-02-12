@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/dhcp-support-mode" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>IPv4 DHCP Support Mode Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

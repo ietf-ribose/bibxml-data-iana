@@ -1,8 +1,0 @@
-<reference anchor="IANA.iotp-codes/iotp-codes-11" target="http://www.iana.org/assignments/iotp-codes">
-  <front>
-    <title>Attribute/Content</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

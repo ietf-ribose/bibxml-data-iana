@@ -1,8 +1,0 @@
-<reference anchor="IANA.public-data-network-numbers/public-data-network-numbers-1" target="http://www.iana.org/assignments/public-data-network-numbers">
-  <front>
-    <title>Public Data Network Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.tunnel-setup-protocol/tunnel-types" target="http://www.iana.org/assignments/tunnel-setup-protocol">
-  <front>
-    <title>Tunnel Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

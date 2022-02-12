@@ -1,8 +1,0 @@
-<reference anchor="IANA.lmp-parameters/behavior-config-flags" target="http://www.iana.org/assignments/lmp-parameters">
-  <front>
-    <title>LMP Behavior Configuration Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

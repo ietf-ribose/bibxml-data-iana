@@ -1,8 +1,0 @@
-<reference anchor="IANA.oauth-parameters/pkce-code-challenge-method" target="http://www.iana.org/assignments/oauth-parameters">
-  <front>
-    <title>PKCE Code Challenge Methods</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

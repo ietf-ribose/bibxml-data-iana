@@ -1,8 +1,0 @@
-<reference anchor="IANA.rtp-parameters/rtp-parameters-12" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>SFMT Values for RAMS Messages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

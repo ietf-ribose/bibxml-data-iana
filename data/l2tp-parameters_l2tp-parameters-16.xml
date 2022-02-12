@@ -1,8 +1,0 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-16" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>Proxy Authen Type AVP (Attribute Type 29) Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

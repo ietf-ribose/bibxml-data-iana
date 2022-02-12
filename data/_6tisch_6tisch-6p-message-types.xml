@@ -1,8 +1,0 @@
-<reference anchor="IANA._6tisch/_6tisch-6p-message-types" target="http://www.iana.org/assignments/_6tisch">
-  <front>
-    <title>6P Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

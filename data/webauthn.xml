@@ -1,8 +1,0 @@
-<reference anchor="IANA.webauthn" target="http://www.iana.org/assignments/webauthn">
-  <front>
-    <title>Web Authentication (WebAuthn)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

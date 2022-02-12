@@ -1,8 +1,0 @@
-<reference anchor="IANA.cops-parameters/cops-parameters-13" target="http://www.iana.org/assignments/cops-parameters">
-  <front>
-    <title>Client-type = 0 Flags and Error-SubCodes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-numbers/eap-lower-layers" target="http://www.iana.org/assignments/eap-numbers">
-  <front>
-    <title>EAP Lower Layers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

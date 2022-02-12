@@ -1,8 +1,0 @@
-<reference anchor="IANA.pskc" target="http://www.iana.org/assignments/pskc">
-  <front>
-    <title>Portable Symmetric Key Container (PSKC)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

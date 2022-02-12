@@ -1,8 +1,0 @@
-<reference anchor="IANA.ice/options" target="http://www.iana.org/assignments/ice">
-  <front>
-    <title>ICE Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

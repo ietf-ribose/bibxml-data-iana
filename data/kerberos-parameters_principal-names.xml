@@ -1,8 +1,0 @@
-<reference anchor="IANA.kerberos-parameters/principal-names" target="http://www.iana.org/assignments/kerberos-parameters">
-  <front>
-    <title>Well-Known Kerberos Principal Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

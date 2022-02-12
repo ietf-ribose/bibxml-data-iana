@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-eke/keyed-message" target="http://www.iana.org/assignments/eap-eke">
-  <front>
-    <title>EAP-EKE Keyed Message Digest (MAC) Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

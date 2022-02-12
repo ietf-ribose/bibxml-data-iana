@@ -1,8 +1,0 @@
-<reference anchor="IANA.cdni-parameters/logging-directive-names" target="http://www.iana.org/assignments/cdni-parameters">
-  <front>
-    <title>CDNI Logging Directive Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

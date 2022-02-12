@@ -1,8 +1,0 @@
-<reference anchor="IANA.text-directory-registrations/text-directory-registrations-2" target="http://www.iana.org/assignments/text-directory-registrations">
-  <front>
-    <title>text/directory Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

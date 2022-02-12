@@ -1,8 +1,0 @@
-<reference anchor="IANA.bier/bier-algorithm" target="http://www.iana.org/assignments/bier">
-  <front>
-    <title>BIER Algorithm</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

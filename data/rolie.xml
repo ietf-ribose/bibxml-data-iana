@@ -1,8 +1,0 @@
-<reference anchor="IANA.rolie" target="http://www.iana.org/assignments/rolie">
-  <front>
-    <title>Resource-Oriented Lightweight Information Exchange (ROLIE) URN Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

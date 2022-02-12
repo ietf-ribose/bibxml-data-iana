@@ -1,8 +1,0 @@
-<reference anchor="IANA.scsp-numbers" target="http://www.iana.org/assignments/scsp-numbers">
-  <front>
-    <title>Server Cache Synchronization Protocol (SCSP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

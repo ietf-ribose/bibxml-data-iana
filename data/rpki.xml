@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpki" target="http://www.iana.org/assignments/rpki">
-  <front>
-    <title>Resource Public Key Infrastructure (RPKI)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

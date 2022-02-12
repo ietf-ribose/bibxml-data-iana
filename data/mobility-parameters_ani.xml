@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/ani" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Access Network Information (ANI) Sub-Option Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

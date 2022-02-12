@@ -1,8 +1,0 @@
-<reference anchor="IANA.mgcp-packages/mgcp-packages-1" target="http://www.iana.org/assignments/mgcp-packages">
-  <front>
-    <title>MGCP Package Sub-Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

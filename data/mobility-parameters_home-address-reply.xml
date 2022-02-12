@@ -1,8 +1,0 @@
-<reference anchor="IANA.mobility-parameters/home-address-reply" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>IPv4 Home Address Reply Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

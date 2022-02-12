@@ -1,8 +1,0 @@
-<reference anchor="IANA.qspec/time-to-restore" target="http://www.iana.org/assignments/qspec">
-  <front>
-    <title>Time to Restore Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

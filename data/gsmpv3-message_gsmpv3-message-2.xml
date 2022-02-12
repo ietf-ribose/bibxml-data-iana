@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsmpv3-message/gsmpv3-message-2" target="http://www.iana.org/assignments/gsmpv3-message">
-  <front>
-    <title>Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

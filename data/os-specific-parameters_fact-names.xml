@@ -1,8 +1,0 @@
-<reference anchor="IANA.os-specific-parameters/fact-names" target="http://www.iana.org/assignments/os-specific-parameters">
-  <front>
-    <title>OS Specific Fact Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

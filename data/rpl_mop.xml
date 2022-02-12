@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpl/mop" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>Mode of Operation</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

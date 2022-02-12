@@ -1,8 +1,0 @@
-<reference anchor="IANA.location-type-registry" target="http://www.iana.org/assignments/location-type-registry">
-  <front>
-    <title>Location Types Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

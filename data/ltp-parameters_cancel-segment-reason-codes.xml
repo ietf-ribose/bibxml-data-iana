@@ -1,8 +1,0 @@
-<reference anchor="IANA.ltp-parameters/cancel-segment-reason-codes" target="http://www.iana.org/assignments/ltp-parameters">
-  <front>
-    <title>LTP Cancel Segment Reason Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.vnc-uri/id-hash-algorithms" target="http://www.iana.org/assignments/vnc-uri">
-  <front>
-    <title>VNC URI ID Hash Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

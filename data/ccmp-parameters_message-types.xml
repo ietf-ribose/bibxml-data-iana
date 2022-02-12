@@ -1,8 +1,0 @@
-<reference anchor="IANA.ccmp-parameters/message-types" target="http://www.iana.org/assignments/ccmp-parameters">
-  <front>
-    <title>CCMP Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

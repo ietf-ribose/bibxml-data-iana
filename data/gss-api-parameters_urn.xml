@@ -1,8 +1,0 @@
-<reference anchor="IANA.gss-api-parameters/urn" target="http://www.iana.org/assignments/gss-api-parameters">
-  <front>
-    <title>GSS-API URN Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

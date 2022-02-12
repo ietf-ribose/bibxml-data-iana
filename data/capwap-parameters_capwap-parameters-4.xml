@@ -1,8 +1,0 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-4" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>CAPWAP Message Element Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

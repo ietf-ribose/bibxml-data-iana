@@ -1,8 +1,0 @@
-<reference anchor="IANA.language-subtag-registry/language-subtag-registry-1" target="http://www.iana.org/assignments/language-subtag-registry">
-  <front>
-    <title>Language Subtag Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

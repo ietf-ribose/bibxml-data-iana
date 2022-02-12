@@ -1,8 +1,0 @@
-<reference anchor="IANA.eap-noob/eap-noob-cryptosuites" target="http://www.iana.org/assignments/eap-noob">
-  <front>
-    <title>EAP-NOOB Cryptosuites</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

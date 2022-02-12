@@ -1,8 +1,0 @@
-<reference anchor="IANA.ip-xns-mapping/ip-xns-mapping-2" target="http://www.iana.org/assignments/ip-xns-mapping">
-  <front>
-    <title>ip-xns-mapping-2</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

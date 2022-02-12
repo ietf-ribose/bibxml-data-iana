@@ -1,8 +1,0 @@
-<reference anchor="IANA.dlep-parameters/queue-parameters-sub-data-item-type-values" target="http://www.iana.org/assignments/dlep-parameters">
-  <front>
-    <title>Queue Parameter Sub-Data Item Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.rid/xml-schemas" target="http://www.iana.org/assignments/rid">
-  <front>
-    <title>XML Schemas Exchanged via RID</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.kerberos-v-gss-api/token-types" target="http://www.iana.org/assignments/kerberos-v-gss-api">
-  <front>
-    <title>Kerberos V GSS-API Token Type Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

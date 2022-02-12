@@ -1,8 +1,0 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-15" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>Radio Operational State</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.isns-parameters" target="http://www.iana.org/assignments/isns-parameters">
-  <front>
-    <title>Internet Storage Name Service (iSNS) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

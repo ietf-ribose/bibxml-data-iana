@@ -1,8 +1,0 @@
-<reference anchor="IANA.http-parameters/content-coding" target="http://www.iana.org/assignments/http-parameters">
-  <front>
-    <title>HTTP Content Coding Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

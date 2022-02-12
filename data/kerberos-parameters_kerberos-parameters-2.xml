@@ -1,8 +1,0 @@
-<reference anchor="IANA.kerberos-parameters/kerberos-parameters-2" target="http://www.iana.org/assignments/kerberos-parameters">
-  <front>
-    <title>Kerberos Checksum Type Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

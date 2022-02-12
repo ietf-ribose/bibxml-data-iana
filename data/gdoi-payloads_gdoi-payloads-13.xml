@@ -1,8 +1,0 @@
-<reference anchor="IANA.gdoi-payloads/gdoi-payloads-13" target="http://www.iana.org/assignments/gdoi-payloads">
-  <front>
-    <title>SA TEK Payload Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

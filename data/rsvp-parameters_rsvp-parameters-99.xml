@@ -1,8 +1,0 @@
-<reference anchor="IANA.rsvp-parameters/rsvp-parameters-99" target="http://www.iana.org/assignments/rsvp-parameters">
-  <front>
-    <title>Error Codes and Globally-Defined Error Value Sub-Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

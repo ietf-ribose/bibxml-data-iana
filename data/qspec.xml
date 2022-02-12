@@ -1,8 +1,0 @@
-<reference anchor="IANA.qspec" target="http://www.iana.org/assignments/qspec">
-  <front>
-    <title>QoS NSIS Signal Layering Protocol (NSLP) QSPEC Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

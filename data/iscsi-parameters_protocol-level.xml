@@ -1,8 +1,0 @@
-<reference anchor="IANA.iscsi-parameters/protocol-level" target="http://www.iana.org/assignments/iscsi-parameters">
-  <front>
-    <title>iSCSI Protocol Level</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

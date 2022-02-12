@@ -1,8 +1,0 @@
-<reference anchor="IANA.srtp-protection" target="http://www.iana.org/assignments/srtp-protection">
-  <front>
-    <title>Datagram Transport Layer Security (DTLS) Extension to Establish Keys for Secure Real-time Transport Protocol (SRTP)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

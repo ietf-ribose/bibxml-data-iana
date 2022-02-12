@@ -1,8 +1,0 @@
-<reference anchor="IANA.auto-response-parameters" target="http://www.iana.org/assignments/auto-response-parameters">
-  <front>
-    <title>Automatic Responses to Electronic Mail Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

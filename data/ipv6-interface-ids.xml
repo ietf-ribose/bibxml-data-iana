@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipv6-interface-ids" target="http://www.iana.org/assignments/ipv6-interface-ids">
-  <front>
-    <title>Reserved IPv6 Interface Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

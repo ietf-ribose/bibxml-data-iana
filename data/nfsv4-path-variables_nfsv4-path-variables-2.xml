@@ -1,8 +1,0 @@
-<reference anchor="IANA.nfsv4-path-variables/nfsv4-path-variables-2" target="http://www.iana.org/assignments/nfsv4-path-variables">
-  <front>
-    <title>NFSv4 ${ietf.org:CPU_ARCH} Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

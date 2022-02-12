@@ -1,8 +1,0 @@
-<reference anchor="IANA.http-authschemes/authschemes" target="http://www.iana.org/assignments/http-authschemes">
-  <front>
-    <title>HTTP Authentication Schemes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

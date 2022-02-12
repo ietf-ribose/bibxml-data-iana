@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsmpv3-event/gsmpv3-event-1" target="http://www.iana.org/assignments/gsmpv3-event">
-  <front>
-    <title>Event Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

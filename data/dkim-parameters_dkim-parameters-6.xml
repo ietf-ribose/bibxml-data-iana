@@ -1,8 +1,0 @@
-<reference anchor="IANA.dkim-parameters/dkim-parameters-6" target="http://www.iana.org/assignments/dkim-parameters">
-  <front>
-    <title>DKIM Key Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

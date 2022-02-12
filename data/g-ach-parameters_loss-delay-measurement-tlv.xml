@@ -1,8 +1,0 @@
-<reference anchor="IANA.g-ach-parameters/loss-delay-measurement-tlv" target="http://www.iana.org/assignments/g-ach-parameters">
-  <front>
-    <title>MPLS Loss/Delay Measurement TLV Object</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

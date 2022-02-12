@@ -1,8 +1,0 @@
-<reference anchor="IANA.dsn-types" target="http://www.iana.org/assignments/dsn-types">
-  <front>
-    <title>Delivery Status Notification (DSN) Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

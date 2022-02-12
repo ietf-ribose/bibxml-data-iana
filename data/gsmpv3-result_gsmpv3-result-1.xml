@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsmpv3-result/gsmpv3-result-1" target="http://www.iana.org/assignments/gsmpv3-result">
-  <front>
-    <title>Result Type Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.printer-language-numbers" target="http://www.iana.org/assignments/printer-language-numbers">
-  <front>
-    <title>Printer MIB Interpreters Language Families - OBSOLETE</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.dscp-registry/ecn-field" target="http://www.iana.org/assignments/dscp-registry">
-  <front>
-    <title>ECN Field (Bits 6-7)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

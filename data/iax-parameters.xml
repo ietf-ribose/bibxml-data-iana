@@ -1,8 +1,0 @@
-<reference anchor="IANA.iax-parameters" target="http://www.iana.org/assignments/iax-parameters">
-  <front>
-    <title>Inter-Asterisk eXchange (IAX) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

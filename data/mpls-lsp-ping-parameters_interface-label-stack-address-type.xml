@@ -1,8 +1,0 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/interface-label-stack-address-type" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>Interface and Label Stack and Detailed Interface and Label Stack Address Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

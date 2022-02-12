@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/no-path-vector-tlv" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>NO-PATH-VECTOR TLV Flag Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

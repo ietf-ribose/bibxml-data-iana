@@ -1,8 +1,0 @@
-<reference anchor="IANA.rsvp-te-oam/oam-types" target="http://www.iana.org/assignments/rsvp-te-oam">
-  <front>
-    <title>OAM Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

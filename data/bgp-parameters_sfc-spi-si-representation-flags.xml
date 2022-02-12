@@ -1,8 +1,0 @@
-<reference anchor="IANA.bgp-parameters/sfc-spi-si-representation-flags" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>SFC SPI/SI Representation Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

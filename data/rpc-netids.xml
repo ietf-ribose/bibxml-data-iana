@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpc-netids" target="http://www.iana.org/assignments/rpc-netids">
-  <front>
-    <title>ONC RPC Network Identifiers (netids)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

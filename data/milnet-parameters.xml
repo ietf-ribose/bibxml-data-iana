@@ -1,8 +1,0 @@
-<reference anchor="IANA.milnet-parameters" target="http://www.iana.org/assignments/milnet-parameters">
-  <front>
-    <title>Milnet Parameters - Registry closed</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

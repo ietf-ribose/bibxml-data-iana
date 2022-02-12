@@ -1,8 +1,0 @@
-<reference anchor="IANA.rolie/information-type" target="http://www.iana.org/assignments/rolie">
-  <front>
-    <title>ROLIE Information Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

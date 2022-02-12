@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsmpv3-event" target="http://www.iana.org/assignments/gsmpv3-event">
-  <front>
-    <title>Global Switch Management Protocol version 3 (GSMPv3) Event Flag Name Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

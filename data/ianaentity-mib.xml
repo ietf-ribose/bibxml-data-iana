@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianaentity-mib" target="http://www.iana.org/assignments/ianaentity-mib">
-  <front>
-    <title>IANA-ENTITY-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

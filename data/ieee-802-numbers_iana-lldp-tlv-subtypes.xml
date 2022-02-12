@@ -1,8 +1,0 @@
-<reference anchor="IANA.ieee-802-numbers/iana-lldp-tlv-subtypes" target="http://www.iana.org/assignments/ieee-802-numbers">
-  <front>
-    <title>IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

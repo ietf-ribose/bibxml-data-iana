@@ -1,8 +1,0 @@
-<reference anchor="IANA.ntp-parameters/ntp-parameters-2" target="http://www.iana.org/assignments/ntp-parameters">
-  <front>
-    <title>NTP Kiss-o'-Death Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

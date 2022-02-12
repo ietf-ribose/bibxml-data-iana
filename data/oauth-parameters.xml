@@ -1,8 +1,0 @@
-<reference anchor="IANA.oauth-parameters" target="http://www.iana.org/assignments/oauth-parameters">
-  <front>
-    <title>OAuth Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

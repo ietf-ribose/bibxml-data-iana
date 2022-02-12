@@ -1,8 +1,0 @@
-<reference anchor="IANA.rtfm" target="http://www.iana.org/assignments/rtfm">
-  <front>
-    <title>Realtime Traffic Flow Measurement (RTFM)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

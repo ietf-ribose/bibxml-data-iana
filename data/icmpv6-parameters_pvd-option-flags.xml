@@ -1,8 +1,0 @@
-<reference anchor="IANA.icmpv6-parameters/pvd-option-flags" target="http://www.iana.org/assignments/icmpv6-parameters">
-  <front>
-    <title>PvD Option Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

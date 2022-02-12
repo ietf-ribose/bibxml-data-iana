@@ -1,8 +1,0 @@
-<reference anchor="IANA.cisco-sla-protocol/version-numbers" target="http://www.iana.org/assignments/cisco-sla-protocol">
-  <front>
-    <title>Cisco SLA Protocol Version Number Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

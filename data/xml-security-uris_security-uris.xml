@@ -1,8 +1,0 @@
-<reference anchor="IANA.xml-security-uris/security-uris" target="http://www.iana.org/assignments/xml-security-uris">
-  <front>
-    <title>XML Security URIs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

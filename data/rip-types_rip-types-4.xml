@@ -1,8 +1,0 @@
-<reference anchor="IANA.rip-types/rip-types-4" target="http://www.iana.org/assignments/rip-types">
-  <front>
-    <title>RIP Authentication Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

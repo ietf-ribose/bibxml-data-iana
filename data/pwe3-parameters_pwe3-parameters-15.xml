@@ -1,8 +1,0 @@
-<reference anchor="IANA.pwe3-parameters/pwe3-parameters-15" target="http://www.iana.org/assignments/pwe3-parameters">
-  <front>
-    <title>MPLS VCCV Connectivity Verification (CV) Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

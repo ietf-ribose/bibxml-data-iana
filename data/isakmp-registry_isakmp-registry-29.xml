@@ -1,8 +1,0 @@
-<reference anchor="IANA.isakmp-registry/isakmp-registry-29" target="http://www.iana.org/assignments/isakmp-registry">
-  <front>
-    <title>IPSEC Labeled Domain Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/cci-object-flag-field-mpls-label" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>CCI Object Flag Field for MPLS Label</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

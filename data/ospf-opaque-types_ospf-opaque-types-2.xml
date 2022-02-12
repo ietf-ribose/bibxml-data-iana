@@ -1,8 +1,0 @@
-<reference anchor="IANA.ospf-opaque-types/ospf-opaque-types-2" target="http://www.iana.org/assignments/ospf-opaque-types">
-  <front>
-    <title>Opaque Link-State Advertisements (LSA) Option Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

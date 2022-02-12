@@ -1,8 +1,0 @@
-<reference anchor="IANA.tsig-algorithm-names" target="http://www.iana.org/assignments/tsig-algorithm-names">
-  <front>
-    <title>Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

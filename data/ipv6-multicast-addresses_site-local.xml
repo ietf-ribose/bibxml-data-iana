@@ -1,8 +1,0 @@
-<reference anchor="IANA.ipv6-multicast-addresses/site-local" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
-  <front>
-    <title>Site-Local Scope Multicast Addresses</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

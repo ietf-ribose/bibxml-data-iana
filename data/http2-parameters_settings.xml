@@ -1,8 +1,0 @@
-<reference anchor="IANA.http2-parameters/settings" target="http://www.iana.org/assignments/http2-parameters">
-  <front>
-    <title>HTTP/2 Settings</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

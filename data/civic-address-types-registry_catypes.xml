@@ -1,8 +1,0 @@
-<reference anchor="IANA.civic-address-types-registry/catypes" target="http://www.iana.org/assignments/civic-address-types-registry">
-  <front>
-    <title>Civic Address Types (CAtypes)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

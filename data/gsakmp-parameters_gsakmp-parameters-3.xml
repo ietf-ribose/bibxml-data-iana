@@ -1,8 +1,0 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-3" target="http://www.iana.org/assignments/gsakmp-parameters">
-  <front>
-    <title>GSAKMP Exchange Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

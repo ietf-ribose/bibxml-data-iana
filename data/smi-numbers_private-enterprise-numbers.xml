@@ -1,8 +1,0 @@
-<reference anchor="IANA.smi-numbers/private-enterprise-numbers" target="http://www.iana.org/assignments/smi-numbers">
-  <front>
-    <title>SMI Network Management Private Enterprise Codes (PEN)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

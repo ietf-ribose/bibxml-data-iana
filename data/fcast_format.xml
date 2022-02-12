@@ -1,8 +1,0 @@
-<reference anchor="IANA.fcast/format" target="http://www.iana.org/assignments/fcast">
-  <front>
-    <title>FCAST Object Metadata Format</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

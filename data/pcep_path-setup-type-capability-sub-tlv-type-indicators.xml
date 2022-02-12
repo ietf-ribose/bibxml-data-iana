@@ -1,8 +1,0 @@
-<reference anchor="IANA.pcep/path-setup-type-capability-sub-tlv-type-indicators" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>PATH-SETUP-TYPE-CAPABILITY Sub-TLV Type Indicators</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpcbind-transport-parameters/rpcbind-transport-parameters-3" target="http://www.iana.org/assignments/rpcbind-transport-parameters">
-  <front>
-    <title>Protocol name (r_nc_proto)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

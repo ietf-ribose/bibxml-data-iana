@@ -1,8 +1,0 @@
-<reference anchor="IANA.manet-parameters/icv-packet-tlv-types" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>ICV Packet TLV Type Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

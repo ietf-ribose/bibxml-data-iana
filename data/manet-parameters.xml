@@ -1,8 +1,0 @@
-<reference anchor="IANA.manet-parameters" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>Mobile Ad hoc NETwork (MANET) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

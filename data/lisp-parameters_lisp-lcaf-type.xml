@@ -1,8 +1,0 @@
-<reference anchor="IANA.lisp-parameters/lisp-lcaf-type" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP LCAF Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

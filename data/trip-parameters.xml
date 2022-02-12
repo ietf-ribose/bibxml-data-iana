@@ -1,8 +1,0 @@
-<reference anchor="IANA.trip-parameters" target="http://www.iana.org/assignments/trip-parameters">
-  <front>
-    <title>Telephony Routing over IP (TRIP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

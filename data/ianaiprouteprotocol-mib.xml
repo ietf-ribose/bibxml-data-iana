@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianaiprouteprotocol-mib" target="http://www.iana.org/assignments/ianaiprouteprotocol-mib">
-  <front>
-    <title>IANA-RTPROTO-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

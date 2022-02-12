@@ -1,8 +1,0 @@
-<reference anchor="IANA.mrcpv2-parameters/resource-types" target="http://www.iana.org/assignments/mrcpv2-parameters">
-  <front>
-    <title>MRCPv2 Resource Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.shim6/options" target="http://www.iana.org/assignments/shim6">
-  <front>
-    <title>Shim6 Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

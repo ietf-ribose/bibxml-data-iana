@@ -1,8 +1,0 @@
-<reference anchor="IANA.well-known-uris" target="http://www.iana.org/assignments/well-known-uris">
-  <front>
-    <title>Well-Known URIs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

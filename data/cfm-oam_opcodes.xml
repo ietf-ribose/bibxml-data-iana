@@ -1,8 +1,0 @@
-<reference anchor="IANA.cfm-oam/opcodes" target="http://www.iana.org/assignments/cfm-oam">
-  <front>
-    <title>CFM OAM IETF OpCodes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.bgp-parameters/bgp-l2-tlv-types-registry" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>BGP Layer 2 TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

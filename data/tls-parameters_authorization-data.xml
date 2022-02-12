@@ -1,8 +1,0 @@
-<reference anchor="IANA.tls-parameters/authorization-data" target="http://www.iana.org/assignments/tls-parameters">
-  <front>
-    <title>TLS Authorization Data Formats</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

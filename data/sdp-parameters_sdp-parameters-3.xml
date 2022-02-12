@@ -1,8 +1,0 @@
-<reference anchor="IANA.sdp-parameters/sdp-parameters-3" target="http://www.iana.org/assignments/sdp-parameters">
-  <front>
-    <title>bwtype</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

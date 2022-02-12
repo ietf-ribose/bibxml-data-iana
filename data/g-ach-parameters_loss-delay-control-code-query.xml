@@ -1,8 +1,0 @@
-<reference anchor="IANA.g-ach-parameters/loss-delay-control-code-query" target="http://www.iana.org/assignments/g-ach-parameters">
-  <front>
-    <title>Loss/Delay Measurement Control Code: Query Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.telnet-options/telnet-options-7" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>SRP Telnet Authentication Type (Type 5)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

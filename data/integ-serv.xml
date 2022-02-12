@@ -1,8 +1,0 @@
-<reference anchor="IANA.integ-serv" target="http://www.iana.org/assignments/integ-serv">
-  <front>
-    <title>Integrated Services Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

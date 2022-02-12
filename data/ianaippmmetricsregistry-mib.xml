@@ -1,8 +1,0 @@
-<reference anchor="IANA.ianaippmmetricsregistry-mib" target="http://www.iana.org/assignments/ianaippmmetricsregistry-mib">
-  <front>
-    <title>IANA-IPPM-METRICS-REGISTRY-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

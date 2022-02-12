@@ -1,8 +1,0 @@
-<reference anchor="IANA.rpki/name-schemes" target="http://www.iana.org/assignments/rpki">
-  <front>
-    <title>RPKI Repository Name Schemes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

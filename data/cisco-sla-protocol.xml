@@ -1,8 +1,0 @@
-<reference anchor="IANA.cisco-sla-protocol" target="http://www.iana.org/assignments/cisco-sla-protocol">
-  <front>
-    <title>Cisco Service Level Assurance Protocol</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.senml/senml-features" target="http://www.iana.org/assignments/senml">
-  <front>
-    <title>SenML Features</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.ip-parameters/ip-parameters-2" target="http://www.iana.org/assignments/ip-parameters">
-  <front>
-    <title>IP Time to Live Parameter</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

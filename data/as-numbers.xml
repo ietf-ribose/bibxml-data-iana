@@ -1,8 +1,0 @@
-<reference anchor="IANA.as-numbers" target="http://www.iana.org/assignments/as-numbers">
-  <front>
-    <title>Autonomous System (AS) Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

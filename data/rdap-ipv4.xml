@@ -1,8 +1,0 @@
-<reference anchor="IANA.rdap-ipv4" target="http://www.iana.org/assignments/rdap-ipv4">
-  <front>
-    <title>Bootstrap Service Registry for IPv4 Address Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

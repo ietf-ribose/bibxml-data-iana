@@ -1,8 +1,0 @@
-<reference anchor="IANA.brski-parameters/pledge-brski-status-telemetry-attributes" target="http://www.iana.org/assignments/brski-parameters">
-  <front>
-    <title>Pledge BRSKI Status Telemetry Attributes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

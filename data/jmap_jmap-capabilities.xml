@@ -1,8 +1,0 @@
-<reference anchor="IANA.jmap/jmap-capabilities" target="http://www.iana.org/assignments/jmap">
-  <front>
-    <title>JMAP Capabilities</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANA.cnrp-parameters" target="http://www.iana.org/assignments/cnrp-parameters">
-  <front>
-    <title>Common Name Resolution Protocol (CNRP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
