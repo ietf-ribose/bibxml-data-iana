@@ -1,0 +1,8 @@
+<reference anchor="IANA.cops-parameters/cops-parameters-45" target="http://www.iana.org/assignments/cops-parameters">
+  <front>
+    <title>ADMISSION_PRI (P-Type 0x05) Error Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

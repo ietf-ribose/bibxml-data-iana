@@ -1,0 +1,8 @@
+<reference anchor="IANA.svrloc-extensions/svrloc-extensions-1" target="http://www.iana.org/assignments/svrloc-extensions">
+  <front>
+    <title>SLPv2 Extension IDs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

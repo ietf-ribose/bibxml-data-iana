@@ -1,0 +1,8 @@
+<reference anchor="IANA.geolocation-policy" target="http://www.iana.org/assignments/geolocation-policy">
+  <front>
+    <title>Geolocation Policy</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.qspec/y1541" target="http://www.iana.org/assignments/qspec">
+  <front>
+    <title>Y.1541 QoS Class Parameter</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

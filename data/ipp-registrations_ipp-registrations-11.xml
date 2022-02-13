@@ -1,0 +1,8 @@
+<reference anchor="IANA.ipp-registrations/ipp-registrations-11" target="http://www.iana.org/assignments/ipp-registrations">
+  <front>
+    <title>Status Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

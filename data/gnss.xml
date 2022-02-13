@@ -1,0 +1,8 @@
+<reference anchor="IANA.gnss" target="http://www.iana.org/assignments/gnss">
+  <front>
+    <title>Global Navigation Satellite System (GNSS)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

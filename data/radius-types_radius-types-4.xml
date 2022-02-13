@@ -1,0 +1,8 @@
+<reference anchor="IANA.radius-types/radius-types-4" target="http://www.iana.org/assignments/radius-types">
+  <front>
+    <title>Values for RADIUS Attribute 6, Service-Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

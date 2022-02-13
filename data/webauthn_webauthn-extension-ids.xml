@@ -1,0 +1,8 @@
+<reference anchor="IANA.webauthn/webauthn-extension-ids" target="http://www.iana.org/assignments/webauthn">
+  <front>
+    <title>WebAuthn Extension Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

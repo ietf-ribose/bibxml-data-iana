@@ -1,0 +1,8 @@
+<reference anchor="IANA.scim" target="http://www.iana.org/assignments/scim">
+  <front>
+    <title>System for Cross-domain Identity Management (SCIM) Schema URIs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

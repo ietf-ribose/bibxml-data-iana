@@ -1,0 +1,8 @@
+<reference anchor="IANA.rddp/ddp-errors" target="http://www.iana.org/assignments/rddp">
+  <front>
+    <title>DDP Errors</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

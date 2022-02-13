@@ -1,0 +1,8 @@
+<reference anchor="IANA.mpls-lsp-ping-parameters/downstream-mapping" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+  <front>
+    <title>Downstream Detailed Mapping Address Type Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

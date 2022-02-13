@@ -1,0 +1,8 @@
+<reference anchor="IANA.kink-parameters/kink-parameters-6" target="http://www.iana.org/assignments/kink-parameters">
+  <front>
+    <title>KINK Error Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

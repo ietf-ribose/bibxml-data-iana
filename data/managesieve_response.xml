@@ -1,0 +1,8 @@
+<reference anchor="IANA.managesieve/response" target="http://www.iana.org/assignments/managesieve">
+  <front>
+    <title>ManageSieve Response Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

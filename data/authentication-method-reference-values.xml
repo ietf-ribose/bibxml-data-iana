@@ -1,0 +1,8 @@
+<reference anchor="IANA.authentication-method-reference-values" target="http://www.iana.org/assignments/authentication-method-reference-values">
+  <front>
+    <title>Authentication Method Reference Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

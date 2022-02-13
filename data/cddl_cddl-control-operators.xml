@@ -1,0 +1,8 @@
+<reference anchor="IANA.cddl/cddl-control-operators" target="http://www.iana.org/assignments/cddl">
+  <front>
+    <title>CDDL Control Operators</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

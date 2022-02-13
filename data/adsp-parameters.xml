@@ -1,0 +1,8 @@
+<reference anchor="IANA.adsp-parameters" target="http://www.iana.org/assignments/adsp-parameters">
+  <front>
+    <title>Author Domain Signing Practices (ADSP) Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.scep" target="http://www.iana.org/assignments/scep">
+  <front>
+    <title>Simple Certificate Enrollment Protocol (SCEP)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

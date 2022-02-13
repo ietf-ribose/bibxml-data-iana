@@ -1,0 +1,8 @@
+<reference anchor="IANA.xml-ns-provided-by" target="http://www.iana.org/assignments/xml-ns-provided-by">
+  <front>
+    <title>US National Emergency Number Administration (NENA) Provided-By Schema</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

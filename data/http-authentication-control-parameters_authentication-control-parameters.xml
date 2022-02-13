@@ -1,0 +1,8 @@
+<reference anchor="IANA.http-authentication-control-parameters/authentication-control-parameters" target="http://www.iana.org/assignments/http-authentication-control-parameters">
+  <front>
+    <title>HTTP Authentication Control Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

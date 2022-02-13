@@ -1,0 +1,8 @@
+<reference anchor="IANA.jscalendar/jscalendar-enum-values" target="http://www.iana.org/assignments/jscalendar">
+  <front>
+    <title>JSCalendar Enum Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

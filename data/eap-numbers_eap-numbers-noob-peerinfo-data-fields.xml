@@ -1,0 +1,8 @@
+<reference anchor="IANA.eap-numbers/eap-numbers-noob-peerinfo-data-fields" target="http://www.iana.org/assignments/eap-numbers">
+  <front>
+    <title>EAP-NOOB PeerInfo Data Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

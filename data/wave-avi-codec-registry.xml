@@ -1,0 +1,8 @@
+<reference anchor="IANA.wave-avi-codec-registry" target="http://www.iana.org/assignments/wave-avi-codec-registry">
+  <front>
+    <title>WAVE and AVI Codec Registries (Historic Registry)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

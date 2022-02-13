@@ -1,0 +1,8 @@
+<reference anchor="IANA.isns-parameters/isns-parameters-2" target="http://www.iana.org/assignments/isns-parameters">
+  <front>
+    <title>Standard iSNS Attributes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

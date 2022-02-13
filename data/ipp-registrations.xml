@@ -1,0 +1,8 @@
+<reference anchor="IANA.ipp-registrations" target="http://www.iana.org/assignments/ipp-registrations">
+  <front>
+    <title>Internet Printing Protocol (IPP) Registrations</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.sasl-mechanisms" target="http://www.iana.org/assignments/sasl-mechanisms">
+  <front>
+    <title>Simple Authentication and Security Layer (SASL) Mechanisms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

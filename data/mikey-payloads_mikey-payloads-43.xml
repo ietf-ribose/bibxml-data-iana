@@ -1,0 +1,8 @@
+<reference anchor="IANA.mikey-payloads/mikey-payloads-43" target="http://www.iana.org/assignments/mikey-payloads">
+  <front>
+    <title>ECC Curve</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.auth-namespaces/auth-namespaces-5" target="http://www.iana.org/assignments/auth-namespaces">
+  <front>
+    <title>RDM Name Space Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

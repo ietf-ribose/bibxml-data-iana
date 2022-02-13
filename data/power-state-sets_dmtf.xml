@@ -1,0 +1,8 @@
+<reference anchor="IANA.power-state-sets/dmtf" target="http://www.iana.org/assignments/power-state-sets">
+  <front>
+    <title>DMTF Power State Set</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

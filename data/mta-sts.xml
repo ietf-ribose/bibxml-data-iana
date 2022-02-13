@@ -1,0 +1,8 @@
+<reference anchor="IANA.mta-sts" target="http://www.iana.org/assignments/mta-sts">
+  <front>
+    <title>SMTP MTA Strict Transport Security (MTA-STS)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

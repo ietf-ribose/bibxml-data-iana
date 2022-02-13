@@ -1,0 +1,8 @@
+<reference anchor="IANA.ianaenergyrelation-mib" target="http://www.iana.org/assignments/ianaenergyrelation-mib">
+  <front>
+    <title>IANA-ENERGY-RELATION-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

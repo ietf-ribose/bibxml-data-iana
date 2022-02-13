@@ -1,0 +1,8 @@
+<reference anchor="IANA.mih" target="http://www.iana.org/assignments/mih">
+  <front>
+    <title>Media Independent Handover (MIH)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.ospfv3-parameters/ospfv3-parameters-6" target="http://www.iana.org/assignments/ospfv3-parameters">
+  <front>
+    <title>OSPFv3 Router LSA Link Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

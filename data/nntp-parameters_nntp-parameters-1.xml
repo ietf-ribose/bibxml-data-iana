@@ -1,0 +1,8 @@
+<reference anchor="IANA.nntp-parameters/nntp-parameters-1" target="http://www.iana.org/assignments/nntp-parameters">
+  <front>
+    <title>NNTP Capability Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

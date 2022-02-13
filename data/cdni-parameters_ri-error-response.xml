@@ -1,0 +1,8 @@
+<reference anchor="IANA.cdni-parameters/ri-error-response" target="http://www.iana.org/assignments/cdni-parameters">
+  <front>
+    <title>CDNI RI Error response code</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

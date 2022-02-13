@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-parameters/bgp-graceful-restart-flags" target="http://www.iana.org/assignments/bgp-parameters">
+  <front>
+    <title>BGP Graceful Restart Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

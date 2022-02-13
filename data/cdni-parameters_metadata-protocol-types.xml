@@ -1,0 +1,8 @@
+<reference anchor="IANA.cdni-parameters/metadata-protocol-types" target="http://www.iana.org/assignments/cdni-parameters">
+  <front>
+    <title>CDNI Metadata Protocol Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

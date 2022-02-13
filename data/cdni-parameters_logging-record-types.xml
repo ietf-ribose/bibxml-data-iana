@@ -1,0 +1,8 @@
+<reference anchor="IANA.cdni-parameters/logging-record-types" target="http://www.iana.org/assignments/cdni-parameters">
+  <front>
+    <title>CDNI Logging record-types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

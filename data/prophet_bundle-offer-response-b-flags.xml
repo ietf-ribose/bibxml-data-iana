@@ -1,0 +1,8 @@
+<reference anchor="IANA.prophet/bundle-offer-response-b-flags" target="http://www.iana.org/assignments/prophet">
+  <front>
+    <title>Bundle Offer and Response B Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

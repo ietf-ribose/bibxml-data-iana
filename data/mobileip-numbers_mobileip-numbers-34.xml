@@ -1,0 +1,8 @@
+<reference anchor="IANA.mobileip-numbers/mobileip-numbers-34" target="http://www.iana.org/assignments/mobileip-numbers">
+  <front>
+    <title>IPv6 Prefix Reply Extension Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

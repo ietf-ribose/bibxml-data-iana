@@ -1,0 +1,8 @@
+<reference anchor="IANA.gmpls-sig-parameters/generalized-scsi-tlv-type" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+  <front>
+    <title>Generalized SCSI (Switching Capability Specific Information) TLV Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

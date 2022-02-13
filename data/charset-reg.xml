@@ -1,0 +1,8 @@
+<reference anchor="IANA.charset-reg" target="http://www.iana.org/assignments/charset-reg">
+  <front>
+    <title>Character Set Registrations</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

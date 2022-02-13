@@ -1,0 +1,8 @@
+<reference anchor="IANA.method-tokens" target="http://www.iana.org/assignments/method-tokens">
+  <front>
+    <title>Method Tokens</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

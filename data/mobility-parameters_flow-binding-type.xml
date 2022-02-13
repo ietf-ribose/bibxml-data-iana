@@ -1,0 +1,8 @@
+<reference anchor="IANA.mobility-parameters/flow-binding-type" target="http://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>Flow Binding Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

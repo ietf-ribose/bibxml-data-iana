@@ -1,0 +1,8 @@
+<reference anchor="IANA.opus-channel-mapping-families" target="http://www.iana.org/assignments/opus-channel-mapping-families">
+  <front>
+    <title>Opus Channel Mapping Families</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

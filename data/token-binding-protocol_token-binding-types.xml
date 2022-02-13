@@ -1,0 +1,8 @@
+<reference anchor="IANA.token-binding-protocol/token-binding-types" target="http://www.iana.org/assignments/token-binding-protocol">
+  <front>
+    <title>Token Binding Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.aaa-parameters/aaa-parameters-49" target="http://www.iana.org/assignments/aaa-parameters">
+  <front>
+    <title>Mobility Capability Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

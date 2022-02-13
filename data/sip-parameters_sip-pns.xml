@@ -1,0 +1,8 @@
+<reference anchor="IANA.sip-parameters/sip-pns" target="http://www.iana.org/assignments/sip-parameters">
+  <front>
+    <title>Push Notification Service (PNS)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

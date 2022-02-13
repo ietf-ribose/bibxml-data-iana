@@ -1,0 +1,8 @@
+<reference anchor="IANA.g-ach-parameters/gach-ethernet" target="http://www.iana.org/assignments/g-ach-parameters">
+  <front>
+    <title>G-ACh Advertisement Protocol: Ethernet Interface Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

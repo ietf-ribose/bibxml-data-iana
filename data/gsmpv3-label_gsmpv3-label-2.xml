@@ -1,0 +1,8 @@
+<reference anchor="IANA.gsmpv3-label/gsmpv3-label-2" target="http://www.iana.org/assignments/gsmpv3-label">
+  <front>
+    <title>Label Type Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

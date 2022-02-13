@@ -1,0 +1,8 @@
+<reference anchor="IANA.pgp-parameters/pgp-parameters-6" target="http://www.iana.org/assignments/pgp-parameters">
+  <front>
+    <title>Signature Notation Data Subpacket Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

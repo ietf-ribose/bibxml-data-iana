@@ -1,0 +1,8 @@
+<reference anchor="IANA.radius-types/radius-types-20" target="http://www.iana.org/assignments/radius-types">
+  <front>
+    <title>Location Profiles (Attribute 127, Location-Information)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

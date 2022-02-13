@@ -1,0 +1,8 @@
+<reference anchor="IANA.oauth-parameters/token-introspection-response" target="http://www.iana.org/assignments/oauth-parameters">
+  <front>
+    <title>OAuth Token Introspection Response</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

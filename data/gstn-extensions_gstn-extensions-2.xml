@@ -1,0 +1,8 @@
+<reference anchor="IANA.gstn-extensions/gstn-extensions-2" target="http://www.iana.org/assignments/gstn-extensions">
+  <front>
+    <title>Service Selector</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

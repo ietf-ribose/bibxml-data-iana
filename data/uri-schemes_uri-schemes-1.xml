@@ -1,0 +1,8 @@
+<reference anchor="IANA.uri-schemes/uri-schemes-1" target="http://www.iana.org/assignments/uri-schemes">
+  <front>
+    <title>Uniform Resource Identifier (URI) Schemes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

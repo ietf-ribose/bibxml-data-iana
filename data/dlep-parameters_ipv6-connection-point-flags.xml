@@ -1,0 +1,8 @@
+<reference anchor="IANA.dlep-parameters/ipv6-connection-point-flags" target="http://www.iana.org/assignments/dlep-parameters">
+  <front>
+    <title>IPv6 Connection Point Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

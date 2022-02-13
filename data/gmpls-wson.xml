@@ -1,0 +1,8 @@
+<reference anchor="IANA.gmpls-wson" target="http://www.iana.org/assignments/gmpls-wson">
+  <front>
+    <title>GMPLS Routing Parameters for WSON</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

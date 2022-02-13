@@ -1,0 +1,8 @@
+<reference anchor="IANA.nfsv4-device-id-notifications/nfsv4-device-id-notifications-1" target="http://www.iana.org/assignments/nfsv4-device-id-notifications">
+  <front>
+    <title>NFSv4 Device ID Notifications</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

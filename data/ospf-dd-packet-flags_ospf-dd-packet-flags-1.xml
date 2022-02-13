@@ -1,0 +1,8 @@
+<reference anchor="IANA.ospf-dd-packet-flags/ospf-dd-packet-flags-1" target="http://www.iana.org/assignments/ospf-dd-packet-flags">
+  <front>
+    <title>Database Description (DD) Packet Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.manet-parameters/link_status-tlv" target="http://www.iana.org/assignments/manet-parameters">
+  <front>
+    <title>LINK_STATUS TLV Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

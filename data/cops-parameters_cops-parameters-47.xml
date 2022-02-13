@@ -1,0 +1,8 @@
+<reference anchor="IANA.cops-parameters/cops-parameters-47" target="http://www.iana.org/assignments/cops-parameters">
+  <front>
+    <title>Receiver Proxy Control Policy Element (P-Type 0x07) Control-Value field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.trill-parameters/interested-labels-flags" target="http://www.iana.org/assignments/trill-parameters">
+  <front>
+    <title>Interested Labels Flag Bits</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

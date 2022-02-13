@@ -1,0 +1,8 @@
+<reference anchor="IANA.mpls-lsp-ping-parameters/interface-index-flags" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+  <front>
+    <title>Interface Index Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

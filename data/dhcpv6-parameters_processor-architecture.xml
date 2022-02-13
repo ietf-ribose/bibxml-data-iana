@@ -1,0 +1,8 @@
+<reference anchor="IANA.dhcpv6-parameters/processor-architecture" target="http://www.iana.org/assignments/dhcpv6-parameters">
+  <front>
+    <title>Processor Architecture Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

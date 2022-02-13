@@ -1,0 +1,8 @@
+<reference anchor="IANA.pidf-lo-civic-address-considerations/pidf-lo-civic-address-considerations-1" target="http://www.iana.org/assignments/pidf-lo-civic-address-considerations">
+  <front>
+    <title>PIDF-LO Civic Address Considerations Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

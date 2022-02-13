@@ -1,0 +1,8 @@
+<reference anchor="IANA.http-upgrade-tokens/http-upgrade-tokens-1" target="http://www.iana.org/assignments/http-upgrade-tokens">
+  <front>
+    <title>HTTP Upgrade Tokens</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.bmp-parameters/statistics-types" target="http://www.iana.org/assignments/bmp-parameters">
+  <front>
+    <title>BMP Statistics Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

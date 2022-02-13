@@ -1,0 +1,8 @@
+<reference anchor="IANA.alert-urns/identifiers" target="http://www.iana.org/assignments/alert-urns">
+  <front>
+    <title>Alert URN Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

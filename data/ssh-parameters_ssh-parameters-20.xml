@@ -1,0 +1,8 @@
+<reference anchor="IANA.ssh-parameters/ssh-parameters-20" target="http://www.iana.org/assignments/ssh-parameters">
+  <front>
+    <title>Compression Algorithm Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

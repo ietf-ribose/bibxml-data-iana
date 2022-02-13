@@ -1,0 +1,8 @@
+<reference anchor="IANA.amtrelay-resource-record/relay-type-field" target="http://www.iana.org/assignments/amtrelay-resource-record">
+  <front>
+    <title>AMTRELAY Relay Type Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

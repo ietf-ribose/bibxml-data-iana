@@ -1,0 +1,8 @@
+<reference anchor="IANA.bgp-parameters/bgp-parameters-4" target="http://www.iana.org/assignments/bgp-parameters">
+  <front>
+    <title>BGP Error Subcodes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

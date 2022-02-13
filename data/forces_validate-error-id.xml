@@ -1,0 +1,8 @@
+<reference anchor="IANA.forces/validate-error-id" target="http://www.iana.org/assignments/forces">
+  <front>
+    <title>Validate Error ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IANA.eappotp-identifiers" target="http://www.iana.org/assignments/eappotp-identifiers">
+  <front>
+    <title>Extensible Authentication Protocol Protected One-Time Password (EAP-POTP) Cryptographic Algorithm Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

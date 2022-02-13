@@ -1,0 +1,8 @@
+<reference anchor="IANA.rip-types/rip-types-3" target="http://www.iana.org/assignments/rip-types">
+  <front>
+    <title>RIP Address Family Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

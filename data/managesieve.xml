@@ -1,0 +1,8 @@
+<reference anchor="IANA.managesieve" target="http://www.iana.org/assignments/managesieve">
+  <front>
+    <title>ManageSieve Registries</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
