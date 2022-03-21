@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/type-122-sub-options" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS/TYPE-122-SUB-OPTIONS" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>DHCP Cablelabs Client Configuration Option Type 122 Sub-Option Codes</title>
     <author>

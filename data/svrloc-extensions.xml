@@ -1,4 +1,4 @@
-<reference anchor="IANA.svrloc-extensions" target="http://www.iana.org/assignments/svrloc-extensions">
+<reference anchor="SVRLOC-EXTENSIONS" target="http://www.iana.org/assignments/svrloc-extensions">
   <front>
     <title>Service Location Protocol Extensions, Version 2 (SLPv2)</title>
     <author>

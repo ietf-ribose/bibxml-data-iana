@@ -1,4 +1,4 @@
-<reference anchor="IANA.radius-types/radius-types-22" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES/RADIUS-TYPES-22" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Privacy Flags (Attribute 129, Basic-Location-Policy-Rules)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.power-state-sets/ieee1621" target="http://www.iana.org/assignments/power-state-sets">
+<reference anchor="POWER-STATE-SETS/IEEE1621" target="http://www.iana.org/assignments/power-state-sets">
   <front>
     <title>IEEE1621 Power State Set</title>
     <author>

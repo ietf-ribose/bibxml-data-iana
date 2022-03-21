@@ -1,4 +1,4 @@
-<reference anchor="IANA.public-data-network-numbers" target="http://www.iana.org/assignments/public-data-network-numbers">
+<reference anchor="PUBLIC-DATA-NETWORK-NUMBERS" target="http://www.iana.org/assignments/public-data-network-numbers">
   <front>
     <title>Public Data Network Numbers</title>
     <author>

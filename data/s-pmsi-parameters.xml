@@ -1,4 +1,4 @@
-<reference anchor="IANA.s-pmsi-parameters" target="http://www.iana.org/assignments/s-pmsi-parameters">
+<reference anchor="S-PMSI-PARAMETERS" target="http://www.iana.org/assignments/s-pmsi-parameters">
   <front>
     <title>Selective P-Multicast Service Interface (S-PMSI) Parameters</title>
     <author>

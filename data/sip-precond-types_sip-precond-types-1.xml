@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-precond-types/sip-precond-types-1" target="http://www.iana.org/assignments/sip-precond-types">
+<reference anchor="SIP-PRECOND-TYPES/SIP-PRECOND-TYPES-1" target="http://www.iana.org/assignments/sip-precond-types">
   <front>
     <title>Precondition Types Used with SIP</title>
     <author>

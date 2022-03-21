@@ -1,4 +1,4 @@
-<reference anchor="IANA.icalendar/properties" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR/PROPERTIES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Properties</title>
     <author>

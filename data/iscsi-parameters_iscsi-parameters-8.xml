@@ -1,4 +1,4 @@
-<reference anchor="IANA.iscsi-parameters/iscsi-parameters-8" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS/ISCSI-PARAMETERS-8" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSCSI Task Management Function Codes</title>
     <author>

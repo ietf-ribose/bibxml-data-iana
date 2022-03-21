@@ -1,4 +1,4 @@
-<reference anchor="IANA.qspec/restoration-priority" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC/RESTORATION-PRIORITY" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Restoration Priority Field</title>
     <author>

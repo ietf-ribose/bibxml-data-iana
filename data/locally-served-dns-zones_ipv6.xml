@@ -1,4 +1,4 @@
-<reference anchor="IANA.locally-served-dns-zones/ipv6" target="http://www.iana.org/assignments/locally-served-dns-zones">
+<reference anchor="LOCALLY-SERVED-DNS-ZONES/IPV6" target="http://www.iana.org/assignments/locally-served-dns-zones">
   <front>
     <title>IPv6 Locally-Served DNS Zone Registry</title>
     <author>

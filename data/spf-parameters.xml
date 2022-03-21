@@ -1,4 +1,4 @@
-<reference anchor="IANA.spf-parameters" target="http://www.iana.org/assignments/spf-parameters">
+<reference anchor="SPF-PARAMETERS" target="http://www.iana.org/assignments/spf-parameters">
   <front>
     <title>Sender Policy Framework (SPF) Parameters</title>
     <author>

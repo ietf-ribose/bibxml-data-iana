@@ -1,4 +1,4 @@
-<reference anchor="IANA.ccmp-parameters" target="http://www.iana.org/assignments/ccmp-parameters">
+<reference anchor="CCMP-PARAMETERS" target="http://www.iana.org/assignments/ccmp-parameters">
   <front>
     <title>Centralized Conferencing Manipulation Protocol (CCMP) Parameters</title>
     <author>

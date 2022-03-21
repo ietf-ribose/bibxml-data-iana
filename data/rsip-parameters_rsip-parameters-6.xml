@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsip-parameters/rsip-parameters-6" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="RSIP-PARAMETERS/RSIP-PARAMETERS-6" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>RSIP Vendor IDs</title>
     <author>

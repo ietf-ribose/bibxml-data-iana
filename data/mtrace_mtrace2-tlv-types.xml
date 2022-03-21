@@ -1,4 +1,4 @@
-<reference anchor="IANA.mtrace/mtrace2-tlv-types" target="http://www.iana.org/assignments/mtrace">
+<reference anchor="MTRACE/MTRACE2-TLV-TYPES" target="http://www.iana.org/assignments/mtrace">
   <front>
     <title>Mtrace2 TLV Types</title>
     <author>

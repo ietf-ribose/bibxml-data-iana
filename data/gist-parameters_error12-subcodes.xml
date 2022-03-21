@@ -1,4 +1,4 @@
-<reference anchor="IANA.gist-parameters/error12-subcodes" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="GIST-PARAMETERS/ERROR12-SUBCODES" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>Error Code 12 Subcodes</title>
     <author>

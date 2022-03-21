@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/sr-ero-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/SR-ERO-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>SR-ERO Flag Field</title>
     <author>

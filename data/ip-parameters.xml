@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-parameters" target="http://www.iana.org/assignments/ip-parameters">
+<reference anchor="IP-PARAMETERS" target="http://www.iana.org/assignments/ip-parameters">
   <front>
     <title>Internet Protocol Version 4 (IPv4) Parameters</title>
     <author>

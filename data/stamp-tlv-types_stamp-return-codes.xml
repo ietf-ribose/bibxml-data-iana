@@ -1,4 +1,4 @@
-<reference anchor="IANA.stamp-tlv-types/stamp-return-codes" target="http://www.iana.org/assignments/stamp-tlv-types">
+<reference anchor="STAMP-TLV-TYPES/STAMP-RETURN-CODES" target="http://www.iana.org/assignments/stamp-tlv-types">
   <front>
     <title>STAMP Return Codes</title>
     <author>

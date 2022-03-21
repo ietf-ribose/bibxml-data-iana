@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/primary-version" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/PRIMARY-VERSION" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Primary Bundle Protocol Version</title>
     <author>

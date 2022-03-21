@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianaitualarmtc-mib" target="http://www.iana.org/assignments/ianaitualarmtc-mib">
+<reference anchor="IANAITUALARMTC-MIB" target="http://www.iana.org/assignments/ianaitualarmtc-mib">
   <front>
     <title>IANA-ITU-ALARM-TC-MIB</title>
     <author>

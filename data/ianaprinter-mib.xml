@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianaprinter-mib" target="http://www.iana.org/assignments/ianaprinter-mib">
+<reference anchor="IANAPRINTER-MIB" target="http://www.iana.org/assignments/ianaprinter-mib">
   <front>
     <title>IANA-PRINTER-MIB</title>
     <author>

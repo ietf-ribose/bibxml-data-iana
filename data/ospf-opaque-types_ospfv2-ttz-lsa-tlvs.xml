@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-opaque-types/ospfv2-ttz-lsa-tlvs" target="http://www.iana.org/assignments/ospf-opaque-types">
+<reference anchor="OSPF-OPAQUE-TYPES/OSPFV2-TTZ-LSA-TLVS" target="http://www.iana.org/assignments/ospf-opaque-types">
   <front>
     <title>OSPFv2 TTZ LSA TLVs</title>
     <author>

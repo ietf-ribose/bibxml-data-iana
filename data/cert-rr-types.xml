@@ -1,4 +1,4 @@
-<reference anchor="IANA.cert-rr-types" target="http://www.iana.org/assignments/cert-rr-types">
+<reference anchor="CERT-RR-TYPES" target="http://www.iana.org/assignments/cert-rr-types">
   <front>
     <title>CERT RR Certificate Types</title>
     <author>

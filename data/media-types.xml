@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-types" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>Media Types</title>
     <author>

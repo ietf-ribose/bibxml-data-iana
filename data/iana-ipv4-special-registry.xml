@@ -1,4 +1,4 @@
-<reference anchor="IANA.iana-ipv4-special-registry" target="http://www.iana.org/assignments/iana-ipv4-special-registry">
+<reference anchor="IANA-IPV4-SPECIAL-REGISTRY" target="http://www.iana.org/assignments/iana-ipv4-special-registry">
   <front>
     <title>IANA IPv4 Special-Purpose Address Registry</title>
     <author>

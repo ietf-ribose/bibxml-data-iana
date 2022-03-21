@@ -1,4 +1,4 @@
-<reference anchor="IANA.captive-portals/api-keys" target="http://www.iana.org/assignments/captive-portals">
+<reference anchor="CAPTIVE-PORTALS/API-KEYS" target="http://www.iana.org/assignments/captive-portals">
   <front>
     <title>Captive Portal API Keys</title>
     <author>

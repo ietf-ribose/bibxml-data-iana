@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-capabilities" target="http://www.iana.org/assignments/imap-capabilities">
+<reference anchor="IMAP-CAPABILITIES" target="http://www.iana.org/assignments/imap-capabilities">
   <front>
     <title>Internet Message Access Protocol (IMAP) Capabilities Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.aaa-parameters" target="http://www.iana.org/assignments/aaa-parameters">
+<reference anchor="AAA-PARAMETERS" target="http://www.iana.org/assignments/aaa-parameters">
   <front>
     <title>Authentication, Authorization, and Accounting (AAA) Parameters</title>
     <author>

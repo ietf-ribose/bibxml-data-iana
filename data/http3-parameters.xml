@@ -1,4 +1,4 @@
-<reference anchor="IANA.http3-parameters" target="http://www.iana.org/assignments/http3-parameters">
+<reference anchor="HTTP3-PARAMETERS" target="http://www.iana.org/assignments/http3-parameters">
   <front>
     <title>Hypertext Transfer Protocol version 3 (HTTP/3)</title>
     <author>

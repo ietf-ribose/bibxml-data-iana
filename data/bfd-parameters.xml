@@ -1,4 +1,4 @@
-<reference anchor="IANA.bfd-parameters" target="http://www.iana.org/assignments/bfd-parameters">
+<reference anchor="BFD-PARAMETERS" target="http://www.iana.org/assignments/bfd-parameters">
   <front>
     <title>Bidirectional Forwarding Detection (BFD) Parameters</title>
     <author>

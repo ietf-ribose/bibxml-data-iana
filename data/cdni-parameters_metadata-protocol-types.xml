@@ -1,4 +1,4 @@
-<reference anchor="IANA.cdni-parameters/metadata-protocol-types" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS/METADATA-PROTOCOL-TYPES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Metadata Protocol Types</title>
     <author>

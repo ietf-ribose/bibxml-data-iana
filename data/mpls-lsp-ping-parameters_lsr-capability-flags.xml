@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/lsr-capability-flags" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS/LSR-CAPABILITY-FLAGS" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>LSR Capability Flags</title>
     <author>

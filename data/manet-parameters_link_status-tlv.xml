@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/link_status-tlv" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS/LINK_STATUS-TLV" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>LINK_STATUS TLV Values</title>
     <author>

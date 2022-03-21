@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-te-oam/performance-monitoring-sub-tlvs" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="RSVP-TE-OAM/PERFORMANCE-MONITORING-SUB-TLVS" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>Performance Monitoring Sub-TLV Types</title>
     <author>

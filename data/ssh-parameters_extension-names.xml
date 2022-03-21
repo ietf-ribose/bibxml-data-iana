@@ -1,4 +1,4 @@
-<reference anchor="IANA.ssh-parameters/extension-names" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="SSH-PARAMETERS/EXTENSION-NAMES" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Extension Names</title>
     <author>

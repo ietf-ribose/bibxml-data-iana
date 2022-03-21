@@ -1,4 +1,4 @@
-<reference anchor="IANA._6lowpan-parameters/lowpan_nhc" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="_6LOWPAN-PARAMETERS/LOWPAN_NHC" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>LOWPAN_NHC Header Type</title>
     <author>

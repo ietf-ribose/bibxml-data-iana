@@ -1,4 +1,4 @@
-<reference anchor="IANA.pkix-parameters/caa-flags" target="http://www.iana.org/assignments/pkix-parameters">
+<reference anchor="PKIX-PARAMETERS/CAA-FLAGS" target="http://www.iana.org/assignments/pkix-parameters">
   <front>
     <title>Certification Authority Restriction Flags</title>
     <author>

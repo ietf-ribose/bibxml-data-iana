@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/lspa-object-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/LSPA-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>LSPA Object Flag Field</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-15" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-15" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Code Values for Mobile IP Registration Reply Messages</title>
     <author>

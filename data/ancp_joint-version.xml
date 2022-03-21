@@ -1,4 +1,4 @@
-<reference anchor="IANA.ancp/joint-version" target="http://www.iana.org/assignments/ancp">
+<reference anchor="ANCP/JOINT-VERSION" target="http://www.iana.org/assignments/ancp">
   <front>
     <title>Joint GSMP / ANCP Version Registry</title>
     <author>

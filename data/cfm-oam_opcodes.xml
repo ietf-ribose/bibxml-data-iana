@@ -1,4 +1,4 @@
-<reference anchor="IANA.cfm-oam/opcodes" target="http://www.iana.org/assignments/cfm-oam">
+<reference anchor="CFM-OAM/OPCODES" target="http://www.iana.org/assignments/cfm-oam">
   <front>
     <title>CFM OAM IETF OpCodes</title>
     <author>

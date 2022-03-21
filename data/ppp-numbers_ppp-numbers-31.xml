@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppp-numbers/ppp-numbers-31" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS/PPP-NUMBERS-31" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>IP Header Compression Configuration Option Suboption Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.iscsi-parameters" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>Internet Small Computer System Interface (iSCSI) Parameters</title>
     <author>

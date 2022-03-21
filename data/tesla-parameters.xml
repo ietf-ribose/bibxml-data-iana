@@ -1,4 +1,4 @@
-<reference anchor="IANA.tesla-parameters" target="http://www.iana.org/assignments/tesla-parameters">
+<reference anchor="TESLA-PARAMETERS" target="http://www.iana.org/assignments/tesla-parameters">
   <front>
     <title>Timed Efficient Stream Loss-tolerant Authentication (TESLA) Parameters</title>
     <author>

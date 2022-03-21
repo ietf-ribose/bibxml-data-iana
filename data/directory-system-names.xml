@@ -1,4 +1,4 @@
-<reference anchor="IANA.directory-system-names" target="http://www.iana.org/assignments/directory-system-names">
+<reference anchor="DIRECTORY-SYSTEM-NAMES" target="http://www.iana.org/assignments/directory-system-names">
   <front>
     <title>Directory System Names</title>
     <author>

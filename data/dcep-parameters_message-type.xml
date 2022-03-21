@@ -1,4 +1,4 @@
-<reference anchor="IANA.dcep-parameters/message-type" target="http://www.iana.org/assignments/dcep-parameters">
+<reference anchor="DCEP-PARAMETERS/MESSAGE-TYPE" target="http://www.iana.org/assignments/dcep-parameters">
   <front>
     <title>Message Types</title>
     <author>

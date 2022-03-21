@@ -1,4 +1,4 @@
-<reference anchor="IANA.alto-protocol/error-codes" target="http://www.iana.org/assignments/alto-protocol">
+<reference anchor="ALTO-PROTOCOL/ERROR-CODES" target="http://www.iana.org/assignments/alto-protocol">
   <front>
     <title>ALTO Error Code Registry</title>
     <author>

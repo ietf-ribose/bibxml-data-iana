@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-tunnel-encapsulation" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="BGP-TUNNEL-ENCAPSULATION" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>Border Gateway Protocol (BGP) Tunnel Encapsulation</title>
     <author>

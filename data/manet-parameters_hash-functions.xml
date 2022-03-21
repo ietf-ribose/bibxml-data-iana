@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/hash-functions" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS/HASH-FUNCTIONS" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Hash Functions</title>
     <author>

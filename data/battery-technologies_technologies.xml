@@ -1,4 +1,4 @@
-<reference anchor="IANA.battery-technologies/technologies" target="http://www.iana.org/assignments/battery-technologies">
+<reference anchor="BATTERY-TECHNOLOGIES/TECHNOLOGIES" target="http://www.iana.org/assignments/battery-technologies">
   <front>
     <title>Battery Technologies</title>
     <author>

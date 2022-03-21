@@ -1,4 +1,4 @@
-<reference anchor="IANA.as-numbers/as-numbers-2" target="http://www.iana.org/assignments/as-numbers">
+<reference anchor="AS-NUMBERS/AS-NUMBERS-2" target="http://www.iana.org/assignments/as-numbers">
   <front>
     <title>32-bit Autonomous System Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.held-parameters" target="http://www.iana.org/assignments/held-parameters">
+<reference anchor="HELD-PARAMETERS" target="http://www.iana.org/assignments/held-parameters">
   <front>
     <title>Geopriv HTTP Enabled Location Delivery (HELD) Parameters</title>
     <author>

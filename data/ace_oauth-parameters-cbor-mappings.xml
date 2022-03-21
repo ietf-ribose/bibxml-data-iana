@@ -1,4 +1,4 @@
-<reference anchor="IANA.ace/oauth-parameters-cbor-mappings" target="http://www.iana.org/assignments/ace">
+<reference anchor="ACE/OAUTH-PARAMETERS-CBOR-MAPPINGS" target="http://www.iana.org/assignments/ace">
   <front>
     <title>OAuth Parameters CBOR Mappings</title>
     <author>

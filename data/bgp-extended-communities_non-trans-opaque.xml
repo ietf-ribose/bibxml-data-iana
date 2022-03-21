@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities/non-trans-opaque" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES/NON-TRANS-OPAQUE" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Non-Transitive Opaque Extended Community Sub-Types</title>
     <author>

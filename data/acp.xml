@@ -1,4 +1,4 @@
-<reference anchor="IANA.acp" target="http://www.iana.org/assignments/acp">
+<reference anchor="ACP" target="http://www.iana.org/assignments/acp">
   <front>
     <title>Autonomic Control Plane (ACP)</title>
     <author>

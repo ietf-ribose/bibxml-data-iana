@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/no-path-object-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/NO-PATH-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>NO-PATH Object Flag Field</title>
     <author>

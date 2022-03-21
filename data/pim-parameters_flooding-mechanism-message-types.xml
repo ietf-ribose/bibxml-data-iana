@@ -1,4 +1,4 @@
-<reference anchor="IANA.pim-parameters/flooding-mechanism-message-types" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="PIM-PARAMETERS/FLOODING-MECHANISM-MESSAGE-TYPES" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM Flooding Mechanism Message Types</title>
     <author>

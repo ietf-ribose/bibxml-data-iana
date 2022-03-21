@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-xns-mapping/ip-xns-mapping-2" target="http://www.iana.org/assignments/ip-xns-mapping">
+<reference anchor="IP-XNS-MAPPING/IP-XNS-MAPPING-2" target="http://www.iana.org/assignments/ip-xns-mapping">
   <front>
     <title>ip-xns-mapping-2</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-18" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-18" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>ID Payload and Certificate Field Names</title>
     <author>

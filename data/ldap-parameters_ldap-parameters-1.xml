@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldap-parameters/ldap-parameters-1" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="LDAP-PARAMETERS/LDAP-PARAMETERS-1" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>Internet Directory Numbers (iso.org.dod.internet.directory [1.3.6.1.1.])</title>
     <author>

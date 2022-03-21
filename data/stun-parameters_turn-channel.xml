@@ -1,4 +1,4 @@
-<reference anchor="IANA.stun-parameters/turn-channel" target="http://www.iana.org/assignments/stun-parameters">
+<reference anchor="STUN-PARAMETERS/TURN-CHANNEL" target="http://www.iana.org/assignments/stun-parameters">
   <front>
     <title>Traversal Using Relays around NAT (TURN) Channel Numbers</title>
     <author>

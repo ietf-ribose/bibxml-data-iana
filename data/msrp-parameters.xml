@@ -1,4 +1,4 @@
-<reference anchor="IANA.msrp-parameters" target="http://www.iana.org/assignments/msrp-parameters">
+<reference anchor="MSRP-PARAMETERS" target="http://www.iana.org/assignments/msrp-parameters">
   <front>
     <title>Message Session Relay Protocol (MSRP) Parameters</title>
     <author>

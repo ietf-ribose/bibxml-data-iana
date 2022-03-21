@@ -1,4 +1,4 @@
-<reference anchor="IANA.tesla-parameters/tesla-parameters-4" target="http://www.iana.org/assignments/tesla-parameters">
+<reference anchor="TESLA-PARAMETERS/TESLA-PARAMETERS-4" target="http://www.iana.org/assignments/tesla-parameters">
   <front>
     <title>Signature Cryptographic Function, TESLA-SIG-CRYPTO-FUNC Values</title>
     <author>

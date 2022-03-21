@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtp-parameters/rtp-ekt-message-types" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="RTP-PARAMETERS/RTP-EKT-MESSAGE-TYPES" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>EKT Message Types</title>
     <author>

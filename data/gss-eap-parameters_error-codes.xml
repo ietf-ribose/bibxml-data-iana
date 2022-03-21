@@ -1,4 +1,4 @@
-<reference anchor="IANA.gss-eap-parameters/error-codes" target="http://www.iana.org/assignments/gss-eap-parameters">
+<reference anchor="GSS-EAP-PARAMETERS/ERROR-CODES" target="http://www.iana.org/assignments/gss-eap-parameters">
   <front>
     <title>GSS-EAP Error Codes</title>
     <author>

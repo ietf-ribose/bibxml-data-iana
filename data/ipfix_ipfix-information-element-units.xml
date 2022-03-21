@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipfix/ipfix-information-element-units" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IPFIX/IPFIX-INFORMATION-ELEMENT-UNITS" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IPFIX Information Element Units</title>
     <author>

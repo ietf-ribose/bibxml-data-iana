@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-10" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-10" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Certificate Types</title>
     <author>

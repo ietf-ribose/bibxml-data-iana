@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-multicast-addresses/site-local" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
+<reference anchor="IPV6-MULTICAST-ADDRESSES/SITE-LOCAL" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
   <front>
     <title>Site-Local Scope Multicast Addresses</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.iana-crypt-hash" target="http://www.iana.org/assignments/iana-crypt-hash">
+<reference anchor="IANA-CRYPT-HASH" target="http://www.iana.org/assignments/iana-crypt-hash">
   <front>
     <title>iana-crypt-hash YANG Module</title>
     <author>

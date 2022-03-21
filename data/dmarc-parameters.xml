@@ -1,4 +1,4 @@
-<reference anchor="IANA.dmarc-parameters" target="http://www.iana.org/assignments/dmarc-parameters">
+<reference anchor="DMARC-PARAMETERS" target="http://www.iana.org/assignments/dmarc-parameters">
   <front>
     <title>Domain-based Message Authentication, Reporting, and Conformance (DMARC) Parameters</title>
     <author>

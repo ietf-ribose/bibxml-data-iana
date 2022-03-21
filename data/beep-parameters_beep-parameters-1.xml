@@ -1,4 +1,4 @@
-<reference anchor="IANA.beep-parameters/beep-parameters-1" target="http://www.iana.org/assignments/beep-parameters">
+<reference anchor="BEEP-PARAMETERS/BEEP-PARAMETERS-1" target="http://www.iana.org/assignments/beep-parameters">
   <front>
     <title>BEEP Profiles</title>
     <author>

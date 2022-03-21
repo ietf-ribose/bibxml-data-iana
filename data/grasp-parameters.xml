@@ -1,4 +1,4 @@
-<reference anchor="IANA.grasp-parameters" target="http://www.iana.org/assignments/grasp-parameters">
+<reference anchor="GRASP-PARAMETERS" target="http://www.iana.org/assignments/grasp-parameters">
   <front>
     <title>GeneRic Autonomic Signaling Protocol (GRASP) Parameters</title>
     <author>

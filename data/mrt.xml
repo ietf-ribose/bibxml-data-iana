@@ -1,4 +1,4 @@
-<reference anchor="IANA.mrt" target="http://www.iana.org/assignments/mrt">
+<reference anchor="MRT" target="http://www.iana.org/assignments/mrt">
   <front>
     <title> Multi-threaded Routing Toolkit (MRT)</title>
     <author>

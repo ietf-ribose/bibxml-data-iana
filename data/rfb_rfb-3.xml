@@ -1,4 +1,4 @@
-<reference anchor="IANA.rfb/rfb-3" target="http://www.iana.org/assignments/rfb">
+<reference anchor="RFB/RFB-3" target="http://www.iana.org/assignments/rfb">
   <front>
     <title>Remote Framebuffer Server-to-Client Message Types</title>
     <author>

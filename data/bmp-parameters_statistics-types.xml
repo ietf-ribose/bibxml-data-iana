@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters/statistics-types" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS/STATISTICS-TYPES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Statistics Types</title>
     <author>

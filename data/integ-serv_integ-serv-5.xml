@@ -1,4 +1,4 @@
-<reference anchor="IANA.integ-serv/integ-serv-5" target="http://www.iana.org/assignments/integ-serv">
+<reference anchor="INTEG-SERV/INTEG-SERV-5" target="http://www.iana.org/assignments/integ-serv">
   <front>
     <title>Compression Hints</title>
     <author>

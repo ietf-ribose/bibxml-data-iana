@@ -1,4 +1,4 @@
-<reference anchor="IANA.dots/dots-signal-channel-conflict-cause-codes" target="http://www.iana.org/assignments/dots">
+<reference anchor="DOTS/DOTS-SIGNAL-CHANNEL-CONFLICT-CAUSE-CODES" target="http://www.iana.org/assignments/dots">
   <front>
     <title>DOTS Signal Channel Conflict Cause Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/adjacency-type-igp-adjacency-segment-id" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS/ADJACENCY-TYPE-IGP-ADJACENCY-SEGMENT-ID" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Adjacency Type in the IGP-Adjacency Segment ID</title>
     <author>

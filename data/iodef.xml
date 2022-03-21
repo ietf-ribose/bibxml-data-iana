@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef" target="http://www.iana.org/assignments/iodef">
+<reference anchor="IODEF" target="http://www.iana.org/assignments/iodef">
   <front>
     <title>Incident Object Description Exchange Format (IODEF)</title>
     <author>

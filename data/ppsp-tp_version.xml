@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppsp-tp/version" target="http://www.iana.org/assignments/ppsp-tp">
+<reference anchor="PPSP-TP/VERSION" target="http://www.iana.org/assignments/ppsp-tp">
   <front>
     <title>PPSTP Version Number Registry</title>
     <author>

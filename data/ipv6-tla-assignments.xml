@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-tla-assignments" target="http://www.iana.org/assignments/ipv6-tla-assignments">
+<reference anchor="IPV6-TLA-ASSIGNMENTS" target="http://www.iana.org/assignments/ipv6-tla-assignments">
   <front>
     <title>IPv6 Top Level Aggregation Identifier Assignments</title>
     <author>

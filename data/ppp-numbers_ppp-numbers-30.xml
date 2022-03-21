@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppp-numbers/ppp-numbers-30" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS/PPP-NUMBERS-30" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>IPv6-Compression-Protocol Types</title>
     <author>

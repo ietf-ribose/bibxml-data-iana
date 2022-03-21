@@ -1,4 +1,4 @@
-<reference anchor="IANA.wave-avi-codec-registry/wave-avi-codec-registry-1" target="http://www.iana.org/assignments/wave-avi-codec-registry">
+<reference anchor="WAVE-AVI-CODEC-REGISTRY/WAVE-AVI-CODEC-REGISTRY-1" target="http://www.iana.org/assignments/wave-avi-codec-registry">
   <front>
     <title>WAVE and AVI Codec Registries</title>
     <author>

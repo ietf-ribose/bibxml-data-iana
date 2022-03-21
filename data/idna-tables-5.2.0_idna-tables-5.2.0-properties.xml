@@ -1,4 +1,4 @@
-<reference anchor="IANA.idna-tables-5.2.0/idna-tables-5.2.0-properties" target="http://www.iana.org/assignments/idna-tables-5.2.0">
+<reference anchor="IDNA-TABLES-5.2.0/IDNA-TABLES-5.2.0-PROPERTIES" target="http://www.iana.org/assignments/idna-tables-5.2.0">
   <front>
     <title>IDNA Derived Properties</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/pcep-path-setup-types" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/PCEP-PATH-SETUP-TYPES" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP Path Setup Types</title>
     <author>

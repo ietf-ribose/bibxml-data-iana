@@ -1,4 +1,4 @@
-<reference anchor="IANA.gss-eap-parameters" target="http://www.iana.org/assignments/gss-eap-parameters">
+<reference anchor="GSS-EAP-PARAMETERS" target="http://www.iana.org/assignments/gss-eap-parameters">
   <front>
     <title>The Extensible Authentication Protocol Mechanism for the Generic Security Service Application Programming Interface (GSS-EAP) Parameters</title>
     <author>

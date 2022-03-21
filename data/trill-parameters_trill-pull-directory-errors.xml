@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/trill-pull-directory-errors" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS/TRILL-PULL-DIRECTORY-ERRORS" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL Pull Directory Errors</title>
     <author>

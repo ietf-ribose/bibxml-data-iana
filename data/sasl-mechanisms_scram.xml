@@ -1,4 +1,4 @@
-<reference anchor="IANA.sasl-mechanisms/scram" target="http://www.iana.org/assignments/sasl-mechanisms">
+<reference anchor="SASL-MECHANISMS/SCRAM" target="http://www.iana.org/assignments/sasl-mechanisms">
   <front>
     <title>SASL SCRAM Family Mechanisms</title>
     <author>

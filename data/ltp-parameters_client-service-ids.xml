@@ -1,4 +1,4 @@
-<reference anchor="IANA.ltp-parameters/client-service-ids" target="http://www.iana.org/assignments/ltp-parameters">
+<reference anchor="LTP-PARAMETERS/CLIENT-SERVICE-IDS" target="http://www.iana.org/assignments/ltp-parameters">
   <front>
     <title>LTP Client Service Identifiers</title>
     <author>

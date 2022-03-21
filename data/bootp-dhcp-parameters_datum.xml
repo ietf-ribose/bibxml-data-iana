@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/datum" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS/DATUM" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>Datum Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-pdu/pdu" target="http://www.iana.org/assignments/isis-pdu">
+<reference anchor="ISIS-PDU/PDU" target="http://www.iana.org/assignments/isis-pdu">
   <front>
     <title>IS-IS PDU Registry</title>
     <author>

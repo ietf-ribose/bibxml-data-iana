@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki/bgpsec-capability" target="http://www.iana.org/assignments/rpki">
+<reference anchor="RPKI/BGPSEC-CAPABILITY" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>BGPsec Capability</title>
     <author>

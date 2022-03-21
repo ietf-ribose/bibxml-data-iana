@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-29" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-29" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Dual Stack (DSMIPv4) Extension subtypes (Value 152)</title>
     <author>

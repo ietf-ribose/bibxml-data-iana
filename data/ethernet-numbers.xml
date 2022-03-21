@@ -1,4 +1,4 @@
-<reference anchor="IANA.ethernet-numbers" target="http://www.iana.org/assignments/ethernet-numbers">
+<reference anchor="ETHERNET-NUMBERS" target="http://www.iana.org/assignments/ethernet-numbers">
   <front>
     <title>Ethernet Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmp-parameters/icmp-parameters-codes" target="http://www.iana.org/assignments/icmp-parameters">
+<reference anchor="ICMP-PARAMETERS/ICMP-PARAMETERS-CODES" target="http://www.iana.org/assignments/icmp-parameters">
   <front>
     <title>Code Fields</title>
     <author>

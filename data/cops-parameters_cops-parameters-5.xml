@@ -1,4 +1,4 @@
-<reference anchor="IANA.cops-parameters/cops-parameters-5" target="http://www.iana.org/assignments/cops-parameters">
+<reference anchor="COPS-PARAMETERS/COPS-PARAMETERS-5" target="http://www.iana.org/assignments/cops-parameters">
   <front>
     <title>R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags, and Error-Codes</title>
     <author>

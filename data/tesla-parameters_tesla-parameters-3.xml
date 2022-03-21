@@ -1,4 +1,4 @@
-<reference anchor="IANA.tesla-parameters/tesla-parameters-3" target="http://www.iana.org/assignments/tesla-parameters">
+<reference anchor="TESLA-PARAMETERS/TESLA-PARAMETERS-3" target="http://www.iana.org/assignments/tesla-parameters">
   <front>
     <title>Signature Encoding Algorithm, TESLA-SIG-ALGO Values</title>
     <author>

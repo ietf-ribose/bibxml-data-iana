@@ -1,4 +1,4 @@
-<reference anchor="IANA.pim-parameters" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="PIM-PARAMETERS" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>Protocol Independent Multicast (PIM) Parameters</title>
     <author>

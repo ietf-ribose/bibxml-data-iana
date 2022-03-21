@@ -1,4 +1,4 @@
-<reference anchor="IANA.cops-parameters/cops-parameters-12" target="http://www.iana.org/assignments/cops-parameters">
+<reference anchor="COPS-PARAMETERS/COPS-PARAMETERS-12" target="http://www.iana.org/assignments/cops-parameters">
   <front>
     <title>M-Types, Reason Sub-Codes, and Error Sub-codes</title>
     <author>

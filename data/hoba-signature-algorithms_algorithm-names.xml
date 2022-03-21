@@ -1,4 +1,4 @@
-<reference anchor="IANA.hoba-signature-algorithms/algorithm-names" target="http://www.iana.org/assignments/hoba-signature-algorithms">
+<reference anchor="HOBA-SIGNATURE-ALGORITHMS/ALGORITHM-NAMES" target="http://www.iana.org/assignments/hoba-signature-algorithms">
   <front>
     <title>HOBA Signature Algorithms</title>
     <author>

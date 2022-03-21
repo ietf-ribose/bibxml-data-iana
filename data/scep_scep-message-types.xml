@@ -1,4 +1,4 @@
-<reference anchor="IANA.scep/scep-message-types" target="http://www.iana.org/assignments/scep">
+<reference anchor="SCEP/SCEP-MESSAGE-TYPES" target="http://www.iana.org/assignments/scep">
   <front>
     <title>SCEP Message Types</title>
     <author>

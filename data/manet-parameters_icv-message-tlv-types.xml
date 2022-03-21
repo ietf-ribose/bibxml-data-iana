@@ -1,4 +1,4 @@
-<reference anchor="IANA.manet-parameters/icv-message-tlv-types" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS/ICV-MESSAGE-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>ICV Message TLV Type Extensions</title>
     <author>

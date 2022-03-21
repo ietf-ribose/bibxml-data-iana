@@ -1,4 +1,4 @@
-<reference anchor="IANA.wesp-flags" target="http://www.iana.org/assignments/wesp-flags">
+<reference anchor="WESP-FLAGS" target="http://www.iana.org/assignments/wesp-flags">
   <front>
     <title>Wrapped Encapsulating Security Payload (WESP) Flags</title>
     <author>

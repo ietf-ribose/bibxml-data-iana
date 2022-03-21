@@ -1,4 +1,4 @@
-<reference anchor="IANA.yang-module-tags/ietf-yang-module-tags" target="http://www.iana.org/assignments/yang-module-tags">
+<reference anchor="YANG-MODULE-TAGS/IETF-YANG-MODULE-TAGS" target="http://www.iana.org/assignments/yang-module-tags">
   <front>
     <title>IETF YANG Module Tags</title>
     <author>

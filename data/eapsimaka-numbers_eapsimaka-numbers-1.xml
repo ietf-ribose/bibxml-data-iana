@@ -1,4 +1,4 @@
-<reference anchor="IANA.eapsimaka-numbers/eapsimaka-numbers-1" target="http://www.iana.org/assignments/eapsimaka-numbers">
+<reference anchor="EAPSIMAKA-NUMBERS/EAPSIMAKA-NUMBERS-1" target="http://www.iana.org/assignments/eapsimaka-numbers">
   <front>
     <title>Subtypes</title>
     <author>

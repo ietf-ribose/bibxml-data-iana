@@ -1,4 +1,4 @@
-<reference anchor="IANA.performance-metrics/performance-metrics-units" target="http://www.iana.org/assignments/performance-metrics">
+<reference anchor="PERFORMANCE-METRICS/PERFORMANCE-METRICS-UNITS" target="http://www.iana.org/assignments/performance-metrics">
   <front>
     <title>Performance Metric Name Elements - Units</title>
     <author>

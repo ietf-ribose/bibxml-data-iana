@@ -1,4 +1,4 @@
-<reference anchor="IANA.rdap-json-values/rdap-json-values-1" target="http://www.iana.org/assignments/rdap-json-values">
+<reference anchor="RDAP-JSON-VALUES/RDAP-JSON-VALUES-1" target="http://www.iana.org/assignments/rdap-json-values">
   <front>
     <title>RDAP JSON Values</title>
     <author>

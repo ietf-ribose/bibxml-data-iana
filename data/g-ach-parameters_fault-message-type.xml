@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/fault-message-type" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS/FAULT-MESSAGE-TYPE" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS Fault OAM Message Type Registry</title>
     <author>

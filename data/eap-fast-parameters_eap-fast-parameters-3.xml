@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-fast-parameters/eap-fast-parameters-3" target="http://www.iana.org/assignments/eap-fast-parameters">
+<reference anchor="EAP-FAST-PARAMETERS/EAP-FAST-PARAMETERS-3" target="http://www.iana.org/assignments/eap-fast-parameters">
   <front>
     <title>EAP-FAST (value 43) Request-Action TLV (value 19) Action Codes</title>
     <author>

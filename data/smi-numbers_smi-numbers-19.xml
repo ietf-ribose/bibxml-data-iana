@@ -1,4 +1,4 @@
-<reference anchor="IANA.smi-numbers/smi-numbers-19" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-19" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>spdActions</title>
     <author>

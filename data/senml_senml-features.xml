@@ -1,4 +1,4 @@
-<reference anchor="IANA.senml/senml-features" target="http://www.iana.org/assignments/senml">
+<reference anchor="SENML/SENML-FEATURES" target="http://www.iana.org/assignments/senml">
   <front>
     <title>SenML Features</title>
     <author>

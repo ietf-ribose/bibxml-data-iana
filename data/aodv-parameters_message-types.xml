@@ -1,4 +1,4 @@
-<reference anchor="IANA.aodv-parameters/message-types" target="http://www.iana.org/assignments/aodv-parameters">
+<reference anchor="AODV-PARAMETERS/MESSAGE-TYPES" target="http://www.iana.org/assignments/aodv-parameters">
   <front>
     <title>AODV Message Types (for messages sent to port 654)</title>
     <author>

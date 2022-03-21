@@ -1,4 +1,4 @@
-<reference anchor="IANA.te-types/rfc-4973-experimental-te-tlvs" target="http://www.iana.org/assignments/te-types">
+<reference anchor="TE-TYPES/RFC-4973-EXPERIMENTAL-TE-TLVS" target="http://www.iana.org/assignments/te-types">
   <front>
     <title>RFC 4973 Experimental TE TLVs</title>
     <author>

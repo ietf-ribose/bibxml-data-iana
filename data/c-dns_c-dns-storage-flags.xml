@@ -1,4 +1,4 @@
-<reference anchor="IANA.c-dns/c-dns-storage-flags" target="http://www.iana.org/assignments/c-dns">
+<reference anchor="C-DNS/C-DNS-STORAGE-FLAGS" target="http://www.iana.org/assignments/c-dns">
   <front>
     <title>C-DNS Storage Flags</title>
     <author>

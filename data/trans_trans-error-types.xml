@@ -1,4 +1,4 @@
-<reference anchor="IANA.trans/trans-error-types" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS/TRANS-ERROR-TYPES" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Error Types</title>
     <author>

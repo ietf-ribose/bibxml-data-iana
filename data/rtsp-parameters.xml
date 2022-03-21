@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtsp-parameters" target="http://www.iana.org/assignments/rtsp-parameters">
+<reference anchor="RTSP-PARAMETERS" target="http://www.iana.org/assignments/rtsp-parameters">
   <front>
     <title>Real Time Streaming Protocol (RTSP)/1.0 Parameters</title>
     <author>

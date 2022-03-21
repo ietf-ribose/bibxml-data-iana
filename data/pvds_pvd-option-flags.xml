@@ -1,4 +1,4 @@
-<reference anchor="IANA.pvds/pvd-option-flags" target="http://www.iana.org/assignments/pvds">
+<reference anchor="PVDS/PVD-OPTION-FLAGS" target="http://www.iana.org/assignments/pvds">
   <front>
     <title>PvD Option Flags</title>
     <author>

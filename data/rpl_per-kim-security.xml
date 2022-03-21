@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/per-kim-security" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL/PER-KIM-SECURITY" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Per-KIM Security Levels</title>
     <author>

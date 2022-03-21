@@ -1,4 +1,4 @@
-<reference anchor="IANA.oauth-parameters/extensions-error" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS/EXTENSIONS-ERROR" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Extensions Error Registry</title>
     <author>

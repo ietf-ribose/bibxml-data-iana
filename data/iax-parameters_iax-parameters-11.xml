@@ -1,4 +1,4 @@
-<reference anchor="IANA.iax-parameters/iax-parameters-11" target="http://www.iana.org/assignments/iax-parameters">
+<reference anchor="IAX-PARAMETERS/IAX-PARAMETERS-11" target="http://www.iana.org/assignments/iax-parameters">
   <front>
     <title>IAX Transit Network Identification Plan</title>
     <author>

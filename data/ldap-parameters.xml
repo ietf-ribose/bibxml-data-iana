@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldap-parameters" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="LDAP-PARAMETERS" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>Lightweight Directory Access Protocol (LDAP) Parameters</title>
     <author>

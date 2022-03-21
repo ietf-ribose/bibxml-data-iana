@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-36" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-36" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Code Values for General Notification Messages</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.lct-header-extensions/lct-header-extensions-2" target="http://www.iana.org/assignments/lct-header-extensions">
+<reference anchor="LCT-HEADER-EXTENSIONS/LCT-HEADER-EXTENSIONS-2" target="http://www.iana.org/assignments/lct-header-extensions">
   <front>
     <title>LCT Header Extension Types</title>
     <author>

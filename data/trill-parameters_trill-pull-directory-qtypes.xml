@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/trill-pull-directory-qtypes" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS/TRILL-PULL-DIRECTORY-QTYPES" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL Pull Directory Query Types (QTYPEs)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.core-parameters/et-rd-parameter-value" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="CORE-PARAMETERS/ET-RD-PARAMETER-VALUE" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>Endpoint Type (et=) RD Parameter Values</title>
     <author>

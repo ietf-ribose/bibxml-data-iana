@@ -1,4 +1,4 @@
-<reference anchor="IANA.ieee-802-numbers/iana-lldp-tlv-subtypes" target="http://www.iana.org/assignments/ieee-802-numbers">
+<reference anchor="IEEE-802-NUMBERS/IANA-LLDP-TLV-SUBTYPES" target="http://www.iana.org/assignments/ieee-802-numbers">
   <front>
     <title>IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes</title>
     <author>

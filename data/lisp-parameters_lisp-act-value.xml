@@ -1,4 +1,4 @@
-<reference anchor="IANA.lisp-parameters/lisp-act-value" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS/LISP-ACT-VALUE" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP ACT values</title>
     <author>

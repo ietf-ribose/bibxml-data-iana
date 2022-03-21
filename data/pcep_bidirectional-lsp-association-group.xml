@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/bidirectional-lsp-association-group" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/BIDIRECTIONAL-LSP-ASSOCIATION-GROUP" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Bidirectional LSP Association Group TLV Flag Field</title>
     <author>

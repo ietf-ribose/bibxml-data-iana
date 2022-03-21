@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-pax" target="http://www.iana.org/assignments/eap-pax">
+<reference anchor="EAP-PAX" target="http://www.iana.org/assignments/eap-pax">
   <front>
     <title>Extensible Authentication Protocol - Password Authenticated Exchange (EAP-PAX)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.phbid-codes" target="http://www.iana.org/assignments/phbid-codes">
+<reference anchor="PHBID-CODES" target="http://www.iana.org/assignments/phbid-codes">
   <front>
     <title>Per Hop Behavior Identification Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/isis-tlv-251-app-id-1" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS/ISIS-TLV-251-APP-ID-1" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>TRILL APPsub-TLV Types under IS-IS TLV 251 Application Identifier 1</title>
     <author>

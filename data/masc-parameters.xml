@@ -1,4 +1,4 @@
-<reference anchor="IANA.masc-parameters" target="http://www.iana.org/assignments/masc-parameters">
+<reference anchor="MASC-PARAMETERS" target="http://www.iana.org/assignments/masc-parameters">
   <front>
     <title>Multicast Address-Set Claim (MASC) Parameters</title>
     <author>

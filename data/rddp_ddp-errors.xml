@@ -1,4 +1,4 @@
-<reference anchor="IANA.rddp/ddp-errors" target="http://www.iana.org/assignments/rddp">
+<reference anchor="RDDP/DDP-ERRORS" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>DDP Errors</title>
     <author>

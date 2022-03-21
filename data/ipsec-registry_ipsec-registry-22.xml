@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-22" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-22" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Notify Message Types</title>
     <author>

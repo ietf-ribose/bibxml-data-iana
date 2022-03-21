@@ -1,4 +1,4 @@
-<reference anchor="IANA.hoba-key-identifiers/key-identifier-types" target="http://www.iana.org/assignments/hoba-key-identifiers">
+<reference anchor="HOBA-KEY-IDENTIFIERS/KEY-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/hoba-key-identifiers">
   <front>
     <title>HOBA Key Identifier Types</title>
     <author>

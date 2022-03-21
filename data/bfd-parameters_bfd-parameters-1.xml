@@ -1,4 +1,4 @@
-<reference anchor="IANA.bfd-parameters/bfd-parameters-1" target="http://www.iana.org/assignments/bfd-parameters">
+<reference anchor="BFD-PARAMETERS/BFD-PARAMETERS-1" target="http://www.iana.org/assignments/bfd-parameters">
   <front>
     <title>BFD Diagnostic Codes</title>
     <author>

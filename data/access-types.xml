@@ -1,4 +1,4 @@
-<reference anchor="IANA.access-types" target="http://www.iana.org/assignments/access-types">
+<reference anchor="ACCESS-TYPES" target="http://www.iana.org/assignments/access-types">
   <front>
     <title>Access Types</title>
     <author>

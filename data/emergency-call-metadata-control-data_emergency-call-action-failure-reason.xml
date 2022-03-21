@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-metadata-control-data/emergency-call-action-failure-reason" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
+<reference anchor="EMERGENCY-CALL-METADATA-CONTROL-DATA/EMERGENCY-CALL-ACTION-FAILURE-REASON" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
   <front>
     <title>Emergency Call Action Failure Reasons</title>
     <author>

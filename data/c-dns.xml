@@ -1,4 +1,4 @@
-<reference anchor="IANA.c-dns" target="http://www.iana.org/assignments/c-dns">
+<reference anchor="C-DNS" target="http://www.iana.org/assignments/c-dns">
   <front>
     <title>C-DNS DNS Capture Format</title>
     <author>

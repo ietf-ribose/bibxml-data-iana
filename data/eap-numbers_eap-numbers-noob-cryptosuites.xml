@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-noob-cryptosuites" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS/EAP-NUMBERS-NOOB-CRYPTOSUITES" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP-NOOB Cryptosuites</title>
     <author>

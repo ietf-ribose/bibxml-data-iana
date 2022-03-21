@@ -1,4 +1,4 @@
-<reference anchor="IANA.well-known-uris" target="http://www.iana.org/assignments/well-known-uris">
+<reference anchor="WELL-KNOWN-URIS" target="http://www.iana.org/assignments/well-known-uris">
   <front>
     <title>Well-Known URIs</title>
     <author>

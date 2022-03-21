@@ -1,4 +1,4 @@
-<reference anchor="IANA.cdni-parameters" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>Content Delivery Network Interconnection (CDNI) Parameters</title>
     <author>

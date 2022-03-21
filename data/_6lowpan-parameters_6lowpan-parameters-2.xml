@@ -1,4 +1,4 @@
-<reference anchor="IANA._6lowpan-parameters/_6lowpan-parameters-2" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="_6LOWPAN-PARAMETERS/_6LOWPAN-PARAMETERS-2" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>Short Address Fields</title>
     <author>

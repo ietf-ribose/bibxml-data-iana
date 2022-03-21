@@ -1,4 +1,4 @@
-<reference anchor="IANA.dlep-parameters/message-type-values" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="DLEP-PARAMETERS/MESSAGE-TYPE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>Message Type Values</title>
     <author>

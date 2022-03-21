@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-22" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-22" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Replay Method Identifier</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.senml/senml-labels" target="http://www.iana.org/assignments/senml">
+<reference anchor="SENML/SENML-LABELS" target="http://www.iana.org/assignments/senml">
   <front>
     <title>SenML Labels</title>
     <author>

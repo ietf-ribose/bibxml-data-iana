@@ -1,4 +1,4 @@
-<reference anchor="IANA.mta-sts/mta-sts-txt-record-fields" target="http://www.iana.org/assignments/mta-sts">
+<reference anchor="MTA-STS/MTA-STS-TXT-RECORD-FIELDS" target="http://www.iana.org/assignments/mta-sts">
   <front>
     <title>MTA-STS TXT Record Fields</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-metadata-control-data/emergency-call-vehicle-camera-id" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
+<reference anchor="EMERGENCY-CALL-METADATA-CONTROL-DATA/EMERGENCY-CALL-VEHICLE-CAMERA-ID" target="http://www.iana.org/assignments/emergency-call-metadata-control-data">
   <front>
     <title>Emergency Call Vehicle Camera IDs</title>
     <author>

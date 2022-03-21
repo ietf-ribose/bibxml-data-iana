@@ -1,4 +1,4 @@
-<reference anchor="IANA.protocol-numbers/protocol-numbers-1" target="http://www.iana.org/assignments/protocol-numbers">
+<reference anchor="PROTOCOL-NUMBERS/PROTOCOL-NUMBERS-1" target="http://www.iana.org/assignments/protocol-numbers">
   <front>
     <title>Assigned Internet Protocol Numbers</title>
     <author>

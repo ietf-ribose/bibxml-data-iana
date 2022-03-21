@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/loss-delay-control-code-query" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS/LOSS-DELAY-CONTROL-CODE-QUERY" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Loss/Delay Measurement Control Code: Query Codes</title>
     <author>

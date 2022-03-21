@@ -1,4 +1,4 @@
-<reference anchor="IANA.building-blocks/building-blocks-1" target="http://www.iana.org/assignments/building-blocks">
+<reference anchor="BUILDING-BLOCKS/BUILDING-BLOCKS-1" target="http://www.iana.org/assignments/building-blocks">
   <front>
     <title>Building Blocks</title>
     <author>

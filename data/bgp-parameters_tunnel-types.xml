@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/tunnel-types" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS/TUNNEL-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Tunnel Encapsulation Attribute Tunnel Types</title>
     <author>

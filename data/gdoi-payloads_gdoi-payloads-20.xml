@@ -1,4 +1,4 @@
-<reference anchor="IANA.gdoi-payloads/gdoi-payloads-20" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="GDOI-PAYLOADS/GDOI-PAYLOADS-20" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>GAP Payload Policy Attributes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.webauthn/webauthn-attestation-statement-format-ids" target="http://www.iana.org/assignments/webauthn">
+<reference anchor="WEBAUTHN/WEBAUTHN-ATTESTATION-STATEMENT-FORMAT-IDS" target="http://www.iana.org/assignments/webauthn">
   <front>
     <title>WebAuthn Attestation Statement Format Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-25" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-25" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>WTP Reboot Stats Failure Type</title>
     <author>

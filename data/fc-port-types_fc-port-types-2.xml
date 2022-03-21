@@ -1,4 +1,4 @@
-<reference anchor="IANA.fc-port-types/fc-port-types-2" target="http://www.iana.org/assignments/fc-port-types">
+<reference anchor="FC-PORT-TYPES/FC-PORT-TYPES-2" target="http://www.iana.org/assignments/fc-port-types">
   <front>
     <title>Fibre Channel Port Types</title>
     <author>

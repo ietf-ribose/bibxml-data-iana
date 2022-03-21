@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/email-type" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2/EMAIL-TYPE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Email-type</title>
     <author>

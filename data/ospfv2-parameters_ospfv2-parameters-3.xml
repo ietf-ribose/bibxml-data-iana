@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospfv2-parameters/ospfv2-parameters-3" target="http://www.iana.org/assignments/ospfv2-parameters">
+<reference anchor="OSPFV2-PARAMETERS/OSPFV2-PARAMETERS-3" target="http://www.iana.org/assignments/ospfv2-parameters">
   <front>
     <title>OSPF Packet Type (both v2 and v3)</title>
     <author>

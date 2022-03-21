@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-2" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-2" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Message Type AVP (Attribute Type 0) Values</title>
     <author>

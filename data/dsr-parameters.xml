@@ -1,4 +1,4 @@
-<reference anchor="IANA.dsr-parameters" target="http://www.iana.org/assignments/dsr-parameters">
+<reference anchor="DSR-PARAMETERS" target="http://www.iana.org/assignments/dsr-parameters">
   <front>
     <title>Dynamic Source Routing (DSR) Protocol Parameters</title>
     <author>

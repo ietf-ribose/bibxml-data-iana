@@ -1,4 +1,4 @@
-<reference anchor="IANA.pwe3-parameters" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>Pseudowire Name Spaces (PWE3)</title>
     <author>

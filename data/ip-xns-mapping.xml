@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-xns-mapping" target="http://www.iana.org/assignments/ip-xns-mapping">
+<reference anchor="IP-XNS-MAPPING" target="http://www.iana.org/assignments/ip-xns-mapping">
   <front>
     <title>Internet - Xerox Network System (XNS) Protocol Mappings</title>
     <author>

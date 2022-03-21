@@ -1,4 +1,4 @@
-<reference anchor="IANA.stun-parameters" target="http://www.iana.org/assignments/stun-parameters">
+<reference anchor="STUN-PARAMETERS" target="http://www.iana.org/assignments/stun-parameters">
   <front>
     <title>Session Traversal Utilities for NAT (STUN) Parameters</title>
     <author>

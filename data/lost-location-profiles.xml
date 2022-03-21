@@ -1,4 +1,4 @@
-<reference anchor="IANA.lost-location-profiles" target="http://www.iana.org/assignments/lost-location-profiles">
+<reference anchor="LOST-LOCATION-PROFILES" target="http://www.iana.org/assignments/lost-location-profiles">
   <front>
     <title>Location-to-Service Translation (LoST) Location Profiles</title>
     <author>

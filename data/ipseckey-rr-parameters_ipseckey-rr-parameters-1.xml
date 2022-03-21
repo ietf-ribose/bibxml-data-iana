@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipseckey-rr-parameters/ipseckey-rr-parameters-1" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
+<reference anchor="IPSECKEY-RR-PARAMETERS/IPSECKEY-RR-PARAMETERS-1" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
   <front>
     <title>Algorithm Type Field</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.special-use-domain-names" target="http://www.iana.org/assignments/special-use-domain-names">
+<reference anchor="SPECIAL-USE-DOMAIN-NAMES" target="http://www.iana.org/assignments/special-use-domain-names">
   <front>
     <title>Special-Use Domain Names</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-lsp-ping-parameters/message-types" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS/MESSAGE-TYPES" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Message Types</title>
     <author>

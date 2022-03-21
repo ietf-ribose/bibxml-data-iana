@@ -1,4 +1,4 @@
-<reference anchor="IANA.netconf-capability-urns/netconf-capability-urns-1" target="http://www.iana.org/assignments/netconf-capability-urns">
+<reference anchor="NETCONF-CAPABILITY-URNS/NETCONF-CAPABILITY-URNS-1" target="http://www.iana.org/assignments/netconf-capability-urns">
   <front>
     <title>Capability URNs</title>
     <author>

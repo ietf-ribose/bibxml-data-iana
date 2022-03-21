@@ -1,4 +1,4 @@
-<reference anchor="IANA.gre-parameters/gre-parameters-2" target="http://www.iana.org/assignments/gre-parameters">
+<reference anchor="GRE-PARAMETERS/GRE-PARAMETERS-2" target="http://www.iana.org/assignments/gre-parameters">
   <front>
     <title>GRE Version Numbers</title>
     <author>

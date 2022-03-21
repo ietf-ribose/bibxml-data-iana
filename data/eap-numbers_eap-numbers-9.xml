@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-9" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS/EAP-NUMBERS-9" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>Re-authentication Cryptosuites</title>
     <author>

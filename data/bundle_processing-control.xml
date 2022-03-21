@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/processing-control" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/PROCESSING-CONTROL" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Processing Control Flags</title>
     <author>

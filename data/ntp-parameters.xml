@@ -1,4 +1,4 @@
-<reference anchor="IANA.ntp-parameters" target="http://www.iana.org/assignments/ntp-parameters">
+<reference anchor="NTP-PARAMETERS" target="http://www.iana.org/assignments/ntp-parameters">
   <front>
     <title>Network Time Protocol (NTP) Parameters</title>
     <author>

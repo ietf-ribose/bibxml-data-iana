@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-te-parameters" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="RSVP-TE-PARAMETERS" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Resource Reservation Protocol-Traffic Engineering (RSVP-TE) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ecml-parameters" target="http://www.iana.org/assignments/ecml-parameters">
+<reference anchor="ECML-PARAMETERS" target="http://www.iana.org/assignments/ecml-parameters">
   <front>
     <title>Electronic Commerce Modeling Language (ECML) Parameters</title>
     <author>

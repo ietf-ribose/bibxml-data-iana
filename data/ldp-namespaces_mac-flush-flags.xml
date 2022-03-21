@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/mac-flush-flags" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="LDP-NAMESPACES/MAC-FLUSH-FLAGS" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>MAC Flush Flags</title>
     <author>

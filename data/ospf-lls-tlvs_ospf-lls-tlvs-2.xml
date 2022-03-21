@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-lls-tlvs/ospf-lls-tlvs-2" target="http://www.iana.org/assignments/ospf-lls-tlvs">
+<reference anchor="OSPF-LLS-TLVS/OSPF-LLS-TLVS-2" target="http://www.iana.org/assignments/ospf-lls-tlvs">
   <front>
     <title>LLS Type 1 Extended Options and Flags</title>
     <author>

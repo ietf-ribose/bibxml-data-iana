@@ -1,4 +1,4 @@
-<reference anchor="IANA.mail-parameters/mail-parameters-5" target="http://www.iana.org/assignments/mail-parameters">
+<reference anchor="MAIL-PARAMETERS/MAIL-PARAMETERS-5" target="http://www.iana.org/assignments/mail-parameters">
   <front>
     <title>Mail Transmission Types</title>
     <author>

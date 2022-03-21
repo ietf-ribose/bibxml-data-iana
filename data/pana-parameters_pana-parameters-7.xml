@@ -1,4 +1,4 @@
-<reference anchor="IANA.pana-parameters/pana-parameters-7" target="http://www.iana.org/assignments/pana-parameters">
+<reference anchor="PANA-PARAMETERS/PANA-PARAMETERS-7" target="http://www.iana.org/assignments/pana-parameters">
   <front>
     <title>AVP Flags</title>
     <author>

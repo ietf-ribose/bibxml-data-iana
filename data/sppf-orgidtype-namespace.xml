@@ -1,4 +1,4 @@
-<reference anchor="IANA.sppf-orgidtype-namespace" target="http://www.iana.org/assignments/sppf-orgidtype-namespace">
+<reference anchor="SPPF-ORGIDTYPE-NAMESPACE" target="http://www.iana.org/assignments/sppf-orgidtype-namespace">
   <front>
     <title>SPPF OrgIdType Namespaces</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.l2tp-parameters/l2tp-parameters-39" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-39" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>ATM-Specific Sublayer bits</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-unicast-address-assignments" target="http://www.iana.org/assignments/ipv6-unicast-address-assignments">
+<reference anchor="IPV6-UNICAST-ADDRESS-ASSIGNMENTS" target="http://www.iana.org/assignments/ipv6-unicast-address-assignments">
   <front>
     <title>IPv6 Global Unicast Address Assignments</title>
     <author>

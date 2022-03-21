@@ -1,4 +1,4 @@
-<reference anchor="IANA.ecmlv2-parameters" target="http://www.iana.org/assignments/ecmlv2-parameters">
+<reference anchor="ECMLV2-PARAMETERS" target="http://www.iana.org/assignments/ecmlv2-parameters">
   <front>
     <title>Electronic Commerce Modeling Language Version 2 (ECMLv2) Parameters</title>
     <author>

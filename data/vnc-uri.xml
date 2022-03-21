@@ -1,4 +1,4 @@
-<reference anchor="IANA.vnc-uri" target="http://www.iana.org/assignments/vnc-uri">
+<reference anchor="VNC-URI" target="http://www.iana.org/assignments/vnc-uri">
   <front>
     <title>Virtual Network Computing (VNC) Uniform Resource Identifier (URI)</title>
     <author>

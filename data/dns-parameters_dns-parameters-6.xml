@@ -1,4 +1,4 @@
-<reference anchor="IANA.dns-parameters/dns-parameters-6" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="DNS-PARAMETERS/DNS-PARAMETERS-6" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>DNS RCODEs</title>
     <author>

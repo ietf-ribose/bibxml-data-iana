@@ -1,4 +1,4 @@
-<reference anchor="IANA.icalendar/schedule-agent-values" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR/SCHEDULE-AGENT-VALUES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Schedule Agent Values Registry</title>
     <author>

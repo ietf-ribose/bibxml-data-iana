@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-control-channel" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Media Control Channel Framework Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-over-IEEE1394" target="http://www.iana.org/assignments/ip-over-IEEE1394">
+<reference anchor="IP-OVER-IEEE1394" target="http://www.iana.org/assignments/ip-over-IEEE1394">
   <front>
     <title>Namespaces for IP over IEEE 1394</title>
     <author>

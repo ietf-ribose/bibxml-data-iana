@@ -1,4 +1,4 @@
-<reference anchor="IANA.abfab-parameters" target="http://www.iana.org/assignments/abfab-parameters">
+<reference anchor="ABFAB-PARAMETERS" target="http://www.iana.org/assignments/abfab-parameters">
   <front>
     <title>Application Bridging for Federated Access Beyond Web (ABFAB) Parameters</title>
     <author>

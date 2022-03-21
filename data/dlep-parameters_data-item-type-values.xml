@@ -1,4 +1,4 @@
-<reference anchor="IANA.dlep-parameters/data-item-type-values" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="DLEP-PARAMETERS/DATA-ITEM-TYPE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>Data Item Type Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.restconf-capability-urns/restconf-index-urns" target="http://www.iana.org/assignments/restconf-capability-urns">
+<reference anchor="RESTCONF-CAPABILITY-URNS/RESTCONF-INDEX-URNS" target="http://www.iana.org/assignments/restconf-capability-urns">
   <front>
     <title>RESTCONF Capability URNs</title>
     <author>

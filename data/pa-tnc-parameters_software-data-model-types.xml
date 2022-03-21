@@ -1,4 +1,4 @@
-<reference anchor="IANA.pa-tnc-parameters/software-data-model-types" target="http://www.iana.org/assignments/pa-tnc-parameters">
+<reference anchor="PA-TNC-PARAMETERS/SOFTWARE-DATA-MODEL-TYPES" target="http://www.iana.org/assignments/pa-tnc-parameters">
   <front>
     <title>Software Data Model Types</title>
     <author>

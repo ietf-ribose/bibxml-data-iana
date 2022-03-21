@@ -1,4 +1,4 @@
-<reference anchor="IANA.pt-tls-parameters/message-types" target="http://www.iana.org/assignments/pt-tls-parameters">
+<reference anchor="PT-TLS-PARAMETERS/MESSAGE-TYPES" target="http://www.iana.org/assignments/pt-tls-parameters">
   <front>
     <title>PT-TLS Message Types</title>
     <author>

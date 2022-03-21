@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-dig-alg/http-dig-alg-1" target="http://www.iana.org/assignments/http-dig-alg">
+<reference anchor="HTTP-DIG-ALG/HTTP-DIG-ALG-1" target="http://www.iana.org/assignments/http-dig-alg">
   <front>
     <title>HTTP Digest Algorithm Values</title>
     <author>

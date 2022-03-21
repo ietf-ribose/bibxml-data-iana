@@ -1,4 +1,4 @@
-<reference anchor="IANA.tls-extensiontype-values/cachedinformationtype" target="http://www.iana.org/assignments/tls-extensiontype-values">
+<reference anchor="TLS-EXTENSIONTYPE-VALUES/CACHEDINFORMATIONTYPE" target="http://www.iana.org/assignments/tls-extensiontype-values">
   <front>
     <title>TLS CachedInformationType Values</title>
     <author>

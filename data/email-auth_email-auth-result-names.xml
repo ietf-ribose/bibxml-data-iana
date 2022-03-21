@@ -1,4 +1,4 @@
-<reference anchor="IANA.email-auth/email-auth-result-names" target="http://www.iana.org/assignments/email-auth">
+<reference anchor="EMAIL-AUTH/EMAIL-AUTH-RESULT-NAMES" target="http://www.iana.org/assignments/email-auth">
   <front>
     <title>Email Authentication Result Names</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/extended-rbridge-channel-payload-types" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS/EXTENDED-RBRIDGE-CHANNEL-PAYLOAD-TYPES" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>Extended RBridge Channel Payload Types</title>
     <author>

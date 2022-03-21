@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/permanent-failure-errors" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS/PERMANENT-FAILURE-ERRORS" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>Permanent Failure Codes</title>
     <author>

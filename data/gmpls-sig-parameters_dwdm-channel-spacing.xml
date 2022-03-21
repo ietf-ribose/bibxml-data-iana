@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters/dwdm-channel-spacing" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS/DWDM-CHANNEL-SPACING" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>DWDM Channel Spacing Subregistry</title>
     <author>

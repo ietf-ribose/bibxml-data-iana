@@ -1,4 +1,4 @@
-<reference anchor="IANA.ieee-802-numbers" target="http://www.iana.org/assignments/ieee-802-numbers">
+<reference anchor="IEEE-802-NUMBERS" target="http://www.iana.org/assignments/ieee-802-numbers">
   <front>
     <title>IEEE 802 Numbers</title>
     <author>

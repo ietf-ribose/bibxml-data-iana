@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/close-object-reason-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/CLOSE-OBJECT-REASON-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>CLOSE Object Reason Field</title>
     <author>

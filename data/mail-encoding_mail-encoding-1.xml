@@ -1,4 +1,4 @@
-<reference anchor="IANA.mail-encoding/mail-encoding-1" target="http://www.iana.org/assignments/mail-encoding">
+<reference anchor="MAIL-ENCODING/MAIL-ENCODING-1" target="http://www.iana.org/assignments/mail-encoding">
   <front>
     <title>Encoding Header Field Keywords</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.geopriv-identifiers/ids" target="http://www.iana.org/assignments/geopriv-identifiers">
+<reference anchor="GEOPRIV-IDENTIFIERS/IDS" target="http://www.iana.org/assignments/geopriv-identifiers">
   <front>
     <title>Geopriv Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.eapsimaka-numbers" target="http://www.iana.org/assignments/eapsimaka-numbers">
+<reference anchor="EAPSIMAKA-NUMBERS" target="http://www.iana.org/assignments/eapsimaka-numbers">
   <front>
     <title>EAP-AKA and EAP-SIM Parameters</title>
     <author>

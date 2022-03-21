@@ -1,4 +1,4 @@
-<reference anchor="IANA.ssh-parameters/ssh-parameters-5" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="SSH-PARAMETERS/SSH-PARAMETERS-5" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Channel Connection Failure Reason Codes and Descriptions</title>
     <author>

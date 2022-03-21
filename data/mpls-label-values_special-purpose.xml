@@ -1,4 +1,4 @@
-<reference anchor="IANA.mpls-label-values/special-purpose" target="http://www.iana.org/assignments/mpls-label-values">
+<reference anchor="MPLS-LABEL-VALUES/SPECIAL-PURPOSE" target="http://www.iana.org/assignments/mpls-label-values">
   <front>
     <title>Base Special-Purpose MPLS Label Values</title>
     <author>

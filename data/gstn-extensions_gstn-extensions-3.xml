@@ -1,4 +1,4 @@
-<reference anchor="IANA.gstn-extensions/gstn-extensions-3" target="http://www.iana.org/assignments/gstn-extensions">
+<reference anchor="GSTN-EXTENSIONS/GSTN-EXTENSIONS-3" target="http://www.iana.org/assignments/gstn-extensions">
   <front>
     <title>Qualif-Type 1</title>
     <author>

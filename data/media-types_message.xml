@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-types/message" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES/MESSAGE" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>message</title>
     <author>

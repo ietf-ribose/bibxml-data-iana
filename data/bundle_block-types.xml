@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/block-types" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/BLOCK-TYPES" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Block Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv4-address-space" target="http://www.iana.org/assignments/ipv4-address-space">
+<reference anchor="IPV4-ADDRESS-SPACE" target="http://www.iana.org/assignments/ipv4-address-space">
   <front>
     <title>IANA IPv4 Address Space Registry</title>
     <author>

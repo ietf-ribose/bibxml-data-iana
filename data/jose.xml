@@ -1,4 +1,4 @@
-<reference anchor="IANA.jose" target="http://www.iana.org/assignments/jose">
+<reference anchor="JOSE" target="http://www.iana.org/assignments/jose">
   <front>
     <title>JSON Object Signing and Encryption (JOSE)</title>
     <author>

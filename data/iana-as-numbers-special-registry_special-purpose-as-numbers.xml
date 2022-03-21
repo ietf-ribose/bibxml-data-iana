@@ -1,4 +1,4 @@
-<reference anchor="IANA.iana-as-numbers-special-registry/special-purpose-as-numbers" target="http://www.iana.org/assignments/iana-as-numbers-special-registry">
+<reference anchor="IANA-AS-NUMBERS-SPECIAL-REGISTRY/SPECIAL-PURPOSE-AS-NUMBERS" target="http://www.iana.org/assignments/iana-as-numbers-special-registry">
   <front>
     <title>Special-Purpose AS Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.acme/acme-account-object-fields" target="http://www.iana.org/assignments/acme">
+<reference anchor="ACME/ACME-ACCOUNT-OBJECT-FIELDS" target="http://www.iana.org/assignments/acme">
   <front>
     <title>ACME Account Object Fields</title>
     <author>

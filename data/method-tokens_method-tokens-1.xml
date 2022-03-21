@@ -1,4 +1,4 @@
-<reference anchor="IANA.method-tokens/method-tokens-1" target="http://www.iana.org/assignments/method-tokens">
+<reference anchor="METHOD-TOKENS/METHOD-TOKENS-1" target="http://www.iana.org/assignments/method-tokens">
   <front>
     <title>Method Tokens</title>
     <author>

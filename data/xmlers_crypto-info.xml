@@ -1,4 +1,4 @@
-<reference anchor="IANA.xmlers/crypto-info" target="http://www.iana.org/assignments/xmlers">
+<reference anchor="XMLERS/CRYPTO-INFO" target="http://www.iana.org/assignments/xmlers">
   <front>
     <title>Cryptographic Information Type</title>
     <author>

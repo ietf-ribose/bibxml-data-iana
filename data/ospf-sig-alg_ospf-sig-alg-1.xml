@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-sig-alg/ospf-sig-alg-1" target="http://www.iana.org/assignments/ospf-sig-alg">
+<reference anchor="OSPF-SIG-ALG/OSPF-SIG-ALG-1" target="http://www.iana.org/assignments/ospf-sig-alg">
   <front>
     <title>Signature Algorithms</title>
     <author>

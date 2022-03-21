@@ -1,4 +1,4 @@
-<reference anchor="IANA.pwe3-parameters/l2vpn-pe-stack" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS/L2VPN-PE-STACK" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>L2VPN PE Stack Capabilities</title>
     <author>

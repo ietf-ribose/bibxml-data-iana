@@ -1,4 +1,4 @@
-<reference anchor="IANA.oauth-parameters/client-metadata" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS/CLIENT-METADATA" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Dynamic Client Registration Metadata</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-35" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-35" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>General Extensions Payload Field Names</title>
     <author>

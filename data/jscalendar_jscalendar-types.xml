@@ -1,4 +1,4 @@
-<reference anchor="IANA.jscalendar/jscalendar-types" target="http://www.iana.org/assignments/jscalendar">
+<reference anchor="JSCALENDAR/JSCALENDAR-TYPES" target="http://www.iana.org/assignments/jscalendar">
   <front>
     <title>JSCalendar Types</title>
     <author>

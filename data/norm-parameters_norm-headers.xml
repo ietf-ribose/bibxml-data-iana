@@ -1,4 +1,4 @@
-<reference anchor="IANA.norm-parameters/norm-headers" target="http://www.iana.org/assignments/norm-parameters">
+<reference anchor="NORM-PARAMETERS/NORM-HEADERS" target="http://www.iana.org/assignments/norm-parameters">
   <front>
     <title>NORM Header Extension Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.isis-tlv-codepoints/app-ids-251" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="ISIS-TLV-CODEPOINTS/APP-IDS-251" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Application Identifiers for TLV 251 (Generic Information TLV)</title>
     <author>

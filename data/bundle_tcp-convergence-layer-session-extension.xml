@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcp-convergence-layer-session-extension" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/TCP-CONVERGENCE-LAYER-SESSION-EXTENSION" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version 4 Session Extension Types</title>
     <author>

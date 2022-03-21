@@ -1,4 +1,4 @@
-<reference anchor="IANA.pppoe-parameters/pppoe-parameters-1" target="http://www.iana.org/assignments/pppoe-parameters">
+<reference anchor="PPPOE-PARAMETERS/PPPOE-PARAMETERS-1" target="http://www.iana.org/assignments/pppoe-parameters">
   <front>
     <title>PPPoE TAG Values (16-bit values)</title>
     <author>

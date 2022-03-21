@@ -1,4 +1,4 @@
-<reference anchor="IANA.psamp-parameters/psamp-parameters-1" target="http://www.iana.org/assignments/psamp-parameters">
+<reference anchor="PSAMP-PARAMETERS/PSAMP-PARAMETERS-1" target="http://www.iana.org/assignments/psamp-parameters">
   <front>
     <title>PSAMP selectorAlgorithm Identifiers</title>
     <author>

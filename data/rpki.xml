@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpki" target="http://www.iana.org/assignments/rpki">
+<reference anchor="RPKI" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>Resource Public Key Infrastructure (RPKI)</title>
     <author>

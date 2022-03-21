@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-4" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS/EAP-NUMBERS-4" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>Method Types</title>
     <author>

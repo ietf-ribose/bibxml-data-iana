@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-extended-communities/additional-pmsi-tunnel-attribute-flags" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES/ADDITIONAL-PMSI-TUNNEL-ATTRIBUTE-FLAGS" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Additional PMSI Tunnel Attribute Flags</title>
     <author>

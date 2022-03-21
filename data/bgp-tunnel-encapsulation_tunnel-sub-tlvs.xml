@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-tunnel-encapsulation/tunnel-sub-tlvs" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="BGP-TUNNEL-ENCAPSULATION/TUNNEL-SUB-TLVS" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>BGP Tunnel Encapsulation Attribute Sub-TLVs</title>
     <author>

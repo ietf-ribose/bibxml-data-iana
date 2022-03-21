@@ -1,4 +1,4 @@
-<reference anchor="IANA.card-parameters" target="http://www.iana.org/assignments/card-parameters">
+<reference anchor="CARD-PARAMETERS" target="http://www.iana.org/assignments/card-parameters">
   <front>
     <title>Candidate Access Router Discovery (CARD) Parameters</title>
     <author>

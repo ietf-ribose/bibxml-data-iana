@@ -1,4 +1,4 @@
-<reference anchor="IANA.ace/oauth-error-code-cbor-mappings" target="http://www.iana.org/assignments/ace">
+<reference anchor="ACE/OAUTH-ERROR-CODE-CBOR-MAPPINGS" target="http://www.iana.org/assignments/ace">
   <front>
     <title>OAuth Error Code CBOR Mappings</title>
     <author>

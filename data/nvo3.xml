@@ -1,4 +1,4 @@
-<reference anchor="IANA.nvo3" target="http://www.iana.org/assignments/nvo3">
+<reference anchor="NVO3" target="http://www.iana.org/assignments/nvo3">
   <front>
     <title>Network Virtualization Overlay (NVO3)</title>
     <author>

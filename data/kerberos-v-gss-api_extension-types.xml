@@ -1,4 +1,4 @@
-<reference anchor="IANA.kerberos-v-gss-api/extension-types" target="http://www.iana.org/assignments/kerberos-v-gss-api">
+<reference anchor="KERBEROS-V-GSS-API/EXTENSION-TYPES" target="http://www.iana.org/assignments/kerberos-v-gss-api">
   <front>
     <title>Kerberos V GSS-API Mechanism Extension Types</title>
     <author>

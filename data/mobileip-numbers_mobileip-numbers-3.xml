@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-3" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-3" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Mobile IP Extensions for ICMP Router Discovery messages</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.locally-served-dns-zones" target="http://www.iana.org/assignments/locally-served-dns-zones">
+<reference anchor="LOCALLY-SERVED-DNS-ZONES" target="http://www.iana.org/assignments/locally-served-dns-zones">
   <front>
     <title>Locally-Served DNS Zones</title>
     <author>

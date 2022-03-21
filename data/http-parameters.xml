@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-parameters" target="http://www.iana.org/assignments/http-parameters">
+<reference anchor="HTTP-PARAMETERS" target="http://www.iana.org/assignments/http-parameters">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Parameters</title>
     <author>

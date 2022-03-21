@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-lls-tlvs" target="http://www.iana.org/assignments/ospf-lls-tlvs">
+<reference anchor="OSPF-LLS-TLVS" target="http://www.iana.org/assignments/ospf-lls-tlvs">
   <front>
     <title>Open Shortest Path First (OSPF) Link Local Signalling (LLS) - Type/Length/Value Identifiers (TLV)</title>
     <author>

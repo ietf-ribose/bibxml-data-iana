@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-pwd-parameters/eap-pwd-parameters-4" target="http://www.iana.org/assignments/eap-pwd-parameters">
+<reference anchor="EAP-PWD-PARAMETERS/EAP-PWD-PARAMETERS-4" target="http://www.iana.org/assignments/eap-pwd-parameters">
   <front>
     <title>Password Preprocessing Methods</title>
     <author>

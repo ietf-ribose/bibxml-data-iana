@@ -1,4 +1,4 @@
-<reference anchor="IANA.cont-disp/cont-disp-2" target="http://www.iana.org/assignments/cont-disp">
+<reference anchor="CONT-DISP/CONT-DISP-2" target="http://www.iana.org/assignments/cont-disp">
   <front>
     <title>Content Disposition Parameters</title>
     <author>

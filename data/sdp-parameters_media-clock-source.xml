@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdp-parameters/media-clock-source" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS/MEDIA-CLOCK-SOURCE" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>Media Clock Source Parameters</title>
     <author>

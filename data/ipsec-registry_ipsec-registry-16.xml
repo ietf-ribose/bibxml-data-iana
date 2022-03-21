@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipsec-registry/ipsec-registry-16" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-16" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>PRF (Value 13)</title>
     <author>

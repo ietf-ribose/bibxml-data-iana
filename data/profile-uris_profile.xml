@@ -1,4 +1,4 @@
-<reference anchor="IANA.profile-uris/profile" target="http://www.iana.org/assignments/profile-uris">
+<reference anchor="PROFILE-URIS/PROFILE" target="http://www.iana.org/assignments/profile-uris">
   <front>
     <title>Profile URIs</title>
     <author>

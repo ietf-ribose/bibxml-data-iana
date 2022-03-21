@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpc-authentication-numbers/flavor" target="http://www.iana.org/assignments/rpc-authentication-numbers">
+<reference anchor="RPC-AUTHENTICATION-NUMBERS/FLAVOR" target="http://www.iana.org/assignments/rpc-authentication-numbers">
   <front>
     <title>RPC Authentication Flavor Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.tls-extensiontype-values" target="http://www.iana.org/assignments/tls-extensiontype-values">
+<reference anchor="TLS-EXTENSIONTYPE-VALUES" target="http://www.iana.org/assignments/tls-extensiontype-values">
   <front>
     <title>Transport Layer Security (TLS) Extensions</title>
     <author>

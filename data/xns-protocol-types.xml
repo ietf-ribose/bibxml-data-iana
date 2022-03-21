@@ -1,4 +1,4 @@
-<reference anchor="IANA.xns-protocol-types" target="http://www.iana.org/assignments/xns-protocol-types">
+<reference anchor="XNS-PROTOCOL-TYPES" target="http://www.iana.org/assignments/xns-protocol-types">
   <front>
     <title>Xerox Network System (XNS) Protocol Types</title>
     <author>

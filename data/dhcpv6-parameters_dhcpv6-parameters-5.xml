@@ -1,4 +1,4 @@
-<reference anchor="IANA.dhcpv6-parameters/dhcpv6-parameters-5" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS/DHCPV6-PARAMETERS-5" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>Status Codes</title>
     <author>

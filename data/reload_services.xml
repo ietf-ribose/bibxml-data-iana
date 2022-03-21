@@ -1,4 +1,4 @@
-<reference anchor="IANA.reload/services" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD/SERVICES" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Services Registry</title>
     <author>

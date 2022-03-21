@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-parameters/forwarded" target="http://www.iana.org/assignments/http-parameters">
+<reference anchor="HTTP-PARAMETERS/FORWARDED" target="http://www.iana.org/assignments/http-parameters">
   <front>
     <title>HTTP Forwarded Parameters</title>
     <author>

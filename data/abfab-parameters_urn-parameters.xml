@@ -1,4 +1,4 @@
-<reference anchor="IANA.abfab-parameters/urn-parameters" target="http://www.iana.org/assignments/abfab-parameters">
+<reference anchor="ABFAB-PARAMETERS/URN-PARAMETERS" target="http://www.iana.org/assignments/abfab-parameters">
   <front>
     <title>ABFAB URN Parameters</title>
     <author>

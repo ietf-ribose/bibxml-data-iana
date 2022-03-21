@@ -1,4 +1,4 @@
-<reference anchor="IANA.opes/ocp" target="http://www.iana.org/assignments/opes">
+<reference anchor="OPES/OCP" target="http://www.iana.org/assignments/opes">
   <front>
     <title>OPES Callout Protocol (OCP) Core</title>
     <author>

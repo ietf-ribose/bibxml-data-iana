@@ -1,4 +1,4 @@
-<reference anchor="IANA.named-information/hash-alg" target="http://www.iana.org/assignments/named-information">
+<reference anchor="NAMED-INFORMATION/HASH-ALG" target="http://www.iana.org/assignments/named-information">
   <front>
     <title>Named Information Hash Algorithm Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/counter-type" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2/COUNTER-TYPE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Counter-type</title>
     <author>

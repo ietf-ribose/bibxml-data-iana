@@ -1,4 +1,4 @@
-<reference anchor="IANA._6tisch/_6tisch-cojp-unsupported-configuration-codes" target="http://www.iana.org/assignments/_6tisch">
+<reference anchor="_6TISCH/_6TISCH-COJP-UNSUPPORTED-CONFIGURATION-CODES" target="http://www.iana.org/assignments/_6tisch">
   <front>
     <title>Constrained Join Protocol (CoJP) Unsupported Configuration Codes</title>
     <author>

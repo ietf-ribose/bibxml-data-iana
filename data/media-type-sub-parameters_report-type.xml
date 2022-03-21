@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-type-sub-parameters/report-type" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="MEDIA-TYPE-SUB-PARAMETERS/REPORT-TYPE" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>Report Types</title>
     <author>

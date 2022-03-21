@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS/BGP-PREFIX-SID-ORIGINATOR-SRGB-TLV-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Prefix-SID Originator SRGB TLV Flags</title>
     <author>

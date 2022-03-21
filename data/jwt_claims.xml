@@ -1,4 +1,4 @@
-<reference anchor="IANA.jwt/claims" target="http://www.iana.org/assignments/jwt">
+<reference anchor="JWT/CLAIMS" target="http://www.iana.org/assignments/jwt">
   <front>
     <title>JSON Web Token Claims</title>
     <author>

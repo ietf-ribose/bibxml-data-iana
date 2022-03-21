@@ -1,4 +1,4 @@
-<reference anchor="IANA.hoba-device-identifiers/device-identifier-types" target="http://www.iana.org/assignments/hoba-device-identifiers">
+<reference anchor="HOBA-DEVICE-IDENTIFIERS/DEVICE-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/hoba-device-identifiers">
   <front>
     <title>HOBA Device Identifier Types</title>
     <author>

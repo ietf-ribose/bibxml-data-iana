@@ -1,4 +1,4 @@
-<reference anchor="IANA.mgcp-packages" target="http://www.iana.org/assignments/mgcp-packages">
+<reference anchor="MGCP-PACKAGES" target="http://www.iana.org/assignments/mgcp-packages">
   <front>
     <title>Media Gateway Control Protocol (MGCP) Package Registry</title>
     <author>

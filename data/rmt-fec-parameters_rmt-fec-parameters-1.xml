@@ -1,4 +1,4 @@
-<reference anchor="IANA.rmt-fec-parameters/rmt-fec-parameters-1" target="http://www.iana.org/assignments/rmt-fec-parameters">
+<reference anchor="RMT-FEC-PARAMETERS/RMT-FEC-PARAMETERS-1" target="http://www.iana.org/assignments/rmt-fec-parameters">
   <front>
     <title>ietf:rmt:fec:encoding - Fully-Specified FEC schemes (0-127)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-parameters" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Session Initiation Protocol (SIP) Parameters</title>
     <author>

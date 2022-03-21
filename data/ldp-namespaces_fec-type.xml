@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/fec-type" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="LDP-NAMESPACES/FEC-TYPE" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>Forwarding Equivalence Class (FEC) Type Name Space</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pres-srv-labels/pres-srv-labels-1" target="http://www.iana.org/assignments/pres-srv-labels">
+<reference anchor="PRES-SRV-LABELS/PRES-SRV-LABELS-1" target="http://www.iana.org/assignments/pres-srv-labels">
   <front>
     <title>Presence SRV Protocol Labels</title>
     <author>

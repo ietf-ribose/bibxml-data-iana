@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-noob/eap-noob-serverinfo-data-fields" target="http://www.iana.org/assignments/eap-noob">
+<reference anchor="EAP-NOOB/EAP-NOOB-SERVERINFO-DATA-FIELDS" target="http://www.iana.org/assignments/eap-noob">
   <front>
     <title>EAP-NOOB ServerInfo Data Fields</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rddp/rdmap-message-atomic" target="http://www.iana.org/assignments/rddp">
+<reference anchor="RDDP/RDMAP-MESSAGE-ATOMIC" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>RDMAP Message Atomic Operation Subcodes</title>
     <author>

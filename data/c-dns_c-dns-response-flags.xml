@@ -1,4 +1,4 @@
-<reference anchor="IANA.c-dns/c-dns-response-flags" target="http://www.iana.org/assignments/c-dns">
+<reference anchor="C-DNS/C-DNS-RESPONSE-FLAGS" target="http://www.iana.org/assignments/c-dns">
   <front>
     <title>C-DNS Response Flags</title>
     <author>

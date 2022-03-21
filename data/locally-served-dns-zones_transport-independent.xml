@@ -1,4 +1,4 @@
-<reference anchor="IANA.locally-served-dns-zones/transport-independent" target="http://www.iana.org/assignments/locally-served-dns-zones">
+<reference anchor="LOCALLY-SERVED-DNS-ZONES/TRANSPORT-INDEPENDENT" target="http://www.iana.org/assignments/locally-served-dns-zones">
   <front>
     <title>Transport-Independent Locally-Served DNS Zone Registry</title>
     <author>

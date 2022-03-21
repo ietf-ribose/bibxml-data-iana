@@ -1,4 +1,4 @@
-<reference anchor="IANA.bootp-dhcp-parameters/type-151" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS/TYPE-151" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>DHCP Status Code Type 151 Values</title>
     <author>

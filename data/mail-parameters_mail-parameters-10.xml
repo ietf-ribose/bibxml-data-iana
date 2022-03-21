@@ -1,4 +1,4 @@
-<reference anchor="IANA.mail-parameters/mail-parameters-10" target="http://www.iana.org/assignments/mail-parameters">
+<reference anchor="MAIL-PARAMETERS/MAIL-PARAMETERS-10" target="http://www.iana.org/assignments/mail-parameters">
   <front>
     <title>Registered-states</title>
     <author>

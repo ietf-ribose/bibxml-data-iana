@@ -1,4 +1,4 @@
-<reference anchor="IANA.cnrp-parameters/cnrp-parameters-3" target="http://www.iana.org/assignments/cnrp-parameters">
+<reference anchor="CNRP-PARAMETERS/CNRP-PARAMETERS-3" target="http://www.iana.org/assignments/cnrp-parameters">
   <front>
     <title>Status Messages</title>
     <author>

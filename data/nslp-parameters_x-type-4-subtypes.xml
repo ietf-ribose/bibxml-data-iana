@@ -1,4 +1,4 @@
-<reference anchor="IANA.nslp-parameters/x-type-4-subtypes" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS/X-TYPE-4-SUBTYPES" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>DEST_ADDR (X-Type 4) SubType values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.icalendar/proximity-values" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR/PROXIMITY-VALUES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Proximity Values</title>
     <author>

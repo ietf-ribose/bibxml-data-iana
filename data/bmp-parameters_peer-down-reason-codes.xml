@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters/peer-down-reason-codes" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS/PEER-DOWN-REASON-CODES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Peer Down Reason Codes</title>
     <author>

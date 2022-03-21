@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-10" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-10" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>Data Transfer Type</title>
     <author>

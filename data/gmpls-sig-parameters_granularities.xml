@@ -1,4 +1,4 @@
-<reference anchor="IANA.gmpls-sig-parameters/granularities" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS/GRANULARITIES" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Ethernet Switching Granularities</title>
     <author>

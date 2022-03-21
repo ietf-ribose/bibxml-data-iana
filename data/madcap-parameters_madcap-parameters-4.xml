@@ -1,4 +1,4 @@
-<reference anchor="IANA.madcap-parameters/madcap-parameters-4" target="http://www.iana.org/assignments/madcap-parameters">
+<reference anchor="MADCAP-PARAMETERS/MADCAP-PARAMETERS-4" target="http://www.iana.org/assignments/madcap-parameters">
   <front>
     <title>MADCAP Feature Codes</title>
     <author>

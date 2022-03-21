@@ -1,4 +1,4 @@
-<reference anchor="IANA.pwe3-parameters/gach-tlv" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS/GACH-TLV" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>G-ACh Advertisement Protocol TLV Registry</title>
     <author>

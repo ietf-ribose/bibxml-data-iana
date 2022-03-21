@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-parameters/ip-parameters-1" target="http://www.iana.org/assignments/ip-parameters">
+<reference anchor="IP-PARAMETERS/IP-PARAMETERS-1" target="http://www.iana.org/assignments/ip-parameters">
   <front>
     <title>IP Option Numbers</title>
     <author>

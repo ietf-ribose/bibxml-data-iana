@@ -1,4 +1,4 @@
-<reference anchor="IANA.sasl-mechanisms" target="http://www.iana.org/assignments/sasl-mechanisms">
+<reference anchor="SASL-MECHANISMS" target="http://www.iana.org/assignments/sasl-mechanisms">
   <front>
     <title>Simple Authentication and Security Layer (SASL) Mechanisms</title>
     <author>

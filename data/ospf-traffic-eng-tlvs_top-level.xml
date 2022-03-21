@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-traffic-eng-tlvs/top-level" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
+<reference anchor="OSPF-TRAFFIC-ENG-TLVS/TOP-LEVEL" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
   <front>
     <title>Top Level Types in TE LSAs</title>
     <author>

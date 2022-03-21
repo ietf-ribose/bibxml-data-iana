@@ -1,4 +1,4 @@
-<reference anchor="IANA.smi-numbers/smi-numbers-62" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-62" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SNMP Management Architecture - Security Subsystem (SnmpSecurityModel)</title>
     <author>

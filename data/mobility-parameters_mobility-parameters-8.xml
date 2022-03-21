@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters/mobility-parameters-8" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS/MOBILITY-PARAMETERS-8" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Subtype Field of the MN-HA and MN-AAA Authentication Mobility Options</title>
     <author>

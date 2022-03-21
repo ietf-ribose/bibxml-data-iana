@@ -1,4 +1,4 @@
-<reference anchor="IANA.sam-baseline" target="http://www.iana.org/assignments/sam-baseline">
+<reference anchor="SAM-BASELINE" target="http://www.iana.org/assignments/sam-baseline">
   <front>
     <title>Scalable Adaptive Multicast (SAM) Baseline</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.pop3-extension-mechanism" target="http://www.iana.org/assignments/pop3-extension-mechanism">
+<reference anchor="POP3-EXTENSION-MECHANISM" target="http://www.iana.org/assignments/pop3-extension-mechanism">
   <front>
     <title>Post Office Protocol version 3 (POP3) Extension Mechanism</title>
     <author>

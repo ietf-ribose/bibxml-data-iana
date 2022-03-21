@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-fast-parameters/eap-fast-parameters-5" target="http://www.iana.org/assignments/eap-fast-parameters">
+<reference anchor="EAP-FAST-PARAMETERS/EAP-FAST-PARAMETERS-5" target="http://www.iana.org/assignments/eap-fast-parameters">
   <front>
     <title>EAP-FAST PAC Types</title>
     <author>

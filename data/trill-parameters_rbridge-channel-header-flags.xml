@@ -1,4 +1,4 @@
-<reference anchor="IANA.trill-parameters/rbridge-channel-header-flags" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS/RBRIDGE-CHANNEL-HEADER-FLAGS" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>RBridge Channel Header Flags</title>
     <author>

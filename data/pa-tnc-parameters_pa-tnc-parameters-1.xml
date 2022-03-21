@@ -1,4 +1,4 @@
-<reference anchor="IANA.pa-tnc-parameters/pa-tnc-parameters-1" target="http://www.iana.org/assignments/pa-tnc-parameters">
+<reference anchor="PA-TNC-PARAMETERS/PA-TNC-PARAMETERS-1" target="http://www.iana.org/assignments/pa-tnc-parameters">
   <front>
     <title>PA-TNC Attribute Types</title>
     <author>

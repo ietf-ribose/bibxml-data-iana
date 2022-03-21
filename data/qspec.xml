@@ -1,4 +1,4 @@
-<reference anchor="IANA.qspec" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>QoS NSIS Signal Layering Protocol (NSLP) QSPEC Parameters</title>
     <author>

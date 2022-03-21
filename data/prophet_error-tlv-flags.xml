@@ -1,4 +1,4 @@
-<reference anchor="IANA.prophet/error-tlv-flags" target="http://www.iana.org/assignments/prophet">
+<reference anchor="PROPHET/ERROR-TLV-FLAGS" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>Error TLV Flags</title>
     <author>

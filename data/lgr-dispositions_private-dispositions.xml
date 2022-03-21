@@ -1,4 +1,4 @@
-<reference anchor="IANA.lgr-dispositions/private-dispositions" target="http://www.iana.org/assignments/lgr-dispositions">
+<reference anchor="LGR-DISPOSITIONS/PRIVATE-DISPOSITIONS" target="http://www.iana.org/assignments/lgr-dispositions">
   <front>
     <title>Private Dispositions</title>
     <author>

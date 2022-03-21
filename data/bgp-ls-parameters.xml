@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-ls-parameters" target="http://www.iana.org/assignments/bgp-ls-parameters">
+<reference anchor="BGP-LS-PARAMETERS" target="http://www.iana.org/assignments/bgp-ls-parameters">
   <front>
     <title>Border Gateway Protocol - Link State (BGP-LS) Parameters</title>
     <author>

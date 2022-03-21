@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-5" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-5" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>CAPWAP Wireless Binding Identifier</title>
     <author>

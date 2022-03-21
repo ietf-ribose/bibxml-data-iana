@@ -1,4 +1,4 @@
-<reference anchor="IANA.telnet-options/telnet-options-16" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-16" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>DES3_OFB64 Telnet Encryption Type (Type 4)</title>
     <author>

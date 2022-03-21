@@ -1,4 +1,4 @@
-<reference anchor="IANA.alto-protocol" target="http://www.iana.org/assignments/alto-protocol">
+<reference anchor="ALTO-PROTOCOL" target="http://www.iana.org/assignments/alto-protocol">
   <front>
     <title>Application-Layer Traffic Optimization (ALTO) Protocol</title>
     <author>

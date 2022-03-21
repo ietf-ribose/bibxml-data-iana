@@ -1,4 +1,4 @@
-<reference anchor="IANA.mih/mih-1" target="http://www.iana.org/assignments/mih">
+<reference anchor="MIH/MIH-1" target="http://www.iana.org/assignments/mih">
   <front>
     <title>MIH Table of Mappings From Service Field Values to Transport Protocols</title>
     <author>

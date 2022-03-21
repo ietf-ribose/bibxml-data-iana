@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/contact-role" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2/CONTACT-ROLE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Contact-role</title>
     <author>

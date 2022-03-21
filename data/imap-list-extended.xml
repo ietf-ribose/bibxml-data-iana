@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-list-extended" target="http://www.iana.org/assignments/imap-list-extended">
+<reference anchor="IMAP-LIST-EXTENDED" target="http://www.iana.org/assignments/imap-list-extended">
   <front>
     <title>Internet Message Access Protocol (IMAP) LIST EXTENDED Registry</title>
     <author>

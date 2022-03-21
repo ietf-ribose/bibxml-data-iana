@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads/mikey-payloads-1" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-1" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Common Header Payload Field Names</title>
     <author>

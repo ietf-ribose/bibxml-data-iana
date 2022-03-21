@@ -1,4 +1,4 @@
-<reference anchor="IANA.message-headers/content-translation-type-header-field-values" target="http://www.iana.org/assignments/message-headers">
+<reference anchor="MESSAGE-HEADERS/CONTENT-TRANSLATION-TYPE-HEADER-FIELD-VALUES" target="http://www.iana.org/assignments/message-headers">
   <front>
     <title>Content-Translation-Type Header Field Values</title>
     <author>

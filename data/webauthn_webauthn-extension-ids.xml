@@ -1,4 +1,4 @@
-<reference anchor="IANA.webauthn/webauthn-extension-ids" target="http://www.iana.org/assignments/webauthn">
+<reference anchor="WEBAUTHN/WEBAUTHN-EXTENSION-IDS" target="http://www.iana.org/assignments/webauthn">
   <front>
     <title>WebAuthn Extension Identifiers</title>
     <author>

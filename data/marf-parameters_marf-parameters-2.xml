@@ -1,4 +1,4 @@
-<reference anchor="IANA.marf-parameters/marf-parameters-2" target="http://www.iana.org/assignments/marf-parameters">
+<reference anchor="MARF-PARAMETERS/MARF-PARAMETERS-2" target="http://www.iana.org/assignments/marf-parameters">
   <front>
     <title>Feedback Report Type Values</title>
     <author>

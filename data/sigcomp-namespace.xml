@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigcomp-namespace" target="http://www.iana.org/assignments/sigcomp-namespace">
+<reference anchor="SIGCOMP-NAMESPACE" target="http://www.iana.org/assignments/sigcomp-namespace">
   <front>
     <title>Signaling Compression (SigComp) Registry</title>
     <author>

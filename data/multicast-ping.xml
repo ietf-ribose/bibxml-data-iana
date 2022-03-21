@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-ping" target="http://www.iana.org/assignments/multicast-ping">
+<reference anchor="MULTICAST-PING" target="http://www.iana.org/assignments/multicast-ping">
   <front>
     <title>Multicast Ping Protocol Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.paws/parameters" target="http://www.iana.org/assignments/paws">
+<reference anchor="PAWS/PARAMETERS" target="http://www.iana.org/assignments/paws">
   <front>
     <title>PAWS Parameters Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-parameters/ipv4-router-alert-option-values" target="http://www.iana.org/assignments/ip-parameters">
+<reference anchor="IP-PARAMETERS/IPV4-ROUTER-ALERT-OPTION-VALUES" target="http://www.iana.org/assignments/ip-parameters">
   <front>
     <title>IPv4 Router Alert Option Values</title>
     <author>

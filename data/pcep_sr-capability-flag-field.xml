@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/sr-capability-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/SR-CAPABILITY-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>SR Capability Flag Field</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.nsh/optional-variable-length-metadata-types" target="http://www.iana.org/assignments/nsh">
+<reference anchor="NSH/OPTIONAL-VARIABLE-LENGTH-METADATA-TYPES" target="http://www.iana.org/assignments/nsh">
   <front>
     <title>NSH IETF-Assigned Optional Variable-Length Metadata Types</title>
     <author>

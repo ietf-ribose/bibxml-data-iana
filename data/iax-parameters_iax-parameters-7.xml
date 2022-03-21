@@ -1,4 +1,4 @@
-<reference anchor="IANA.iax-parameters/iax-parameters-7" target="http://www.iana.org/assignments/iax-parameters">
+<reference anchor="IAX-PARAMETERS/IAX-PARAMETERS-7" target="http://www.iana.org/assignments/iax-parameters">
   <front>
     <title>IAX Authentication Methods</title>
     <author>

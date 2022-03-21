@@ -1,4 +1,4 @@
-<reference anchor="IANA.authentication-cryptographic-protocol-id" target="http://www.iana.org/assignments/authentication-cryptographic-protocol-id">
+<reference anchor="AUTHENTICATION-CRYPTOGRAPHIC-PROTOCOL-ID" target="http://www.iana.org/assignments/authentication-cryptographic-protocol-id">
   <front>
     <title>Keying and Authentication for Routing Protocols (KARP) Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.teap-parameters/pac-type-code" target="http://www.iana.org/assignments/teap-parameters">
+<reference anchor="TEAP-PARAMETERS/PAC-TYPE-CODE" target="http://www.iana.org/assignments/teap-parameters">
   <front>
     <title>TEAP PAC TLV (value 11) PAC-Type Type Codes</title>
     <author>

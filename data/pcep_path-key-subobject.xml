@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/path-key-subobject" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/PATH-KEY-SUBOBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PATH-KEY Subobjects</title>
     <author>

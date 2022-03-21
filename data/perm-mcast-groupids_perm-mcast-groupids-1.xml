@@ -1,4 +1,4 @@
-<reference anchor="IANA.perm-mcast-groupids/perm-mcast-groupids-1" target="http://www.iana.org/assignments/perm-mcast-groupids">
+<reference anchor="PERM-MCAST-GROUPIDS/PERM-MCAST-GROUPIDS-1" target="http://www.iana.org/assignments/perm-mcast-groupids">
   <front>
     <title>Group Identifier Values</title>
     <author>

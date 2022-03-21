@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdp-parameters/sdp-parameters-21" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS/SDP-PARAMETERS-21" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>SDP Capability Negotiation Option Tags</title>
     <author>

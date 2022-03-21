@@ -1,4 +1,4 @@
-<reference anchor="IANA.pb-tnc-parameters" target="http://www.iana.org/assignments/pb-tnc-parameters">
+<reference anchor="PB-TNC-PARAMETERS" target="http://www.iana.org/assignments/pb-tnc-parameters">
   <front>
     <title>Posture Broker (PB) Protocol Compatible with Trusted Network Connect (TNC) Parameters</title>
     <author>

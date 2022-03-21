@@ -1,4 +1,4 @@
-<reference anchor="IANA.shim6/types" target="http://www.iana.org/assignments/shim6">
+<reference anchor="SHIM6/TYPES" target="http://www.iana.org/assignments/shim6">
   <front>
     <title>Shim6 Types</title>
     <author>

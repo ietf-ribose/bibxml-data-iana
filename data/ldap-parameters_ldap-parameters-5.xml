@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldap-parameters/ldap-parameters-5" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="LDAP-PARAMETERS/LDAP-PARAMETERS-5" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>LDAPMessage types</title>
     <author>

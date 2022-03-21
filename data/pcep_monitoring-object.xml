@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/monitoring-object" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/MONITORING-OBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>MONITORING Object Flag Field</title>
     <author>

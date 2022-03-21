@@ -1,4 +1,4 @@
-<reference anchor="IANA.reload/app-id" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD/APP-ID" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Application-ID</title>
     <author>

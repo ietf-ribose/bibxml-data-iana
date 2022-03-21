@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-5" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-5" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Key Download Data Item Types</title>
     <author>

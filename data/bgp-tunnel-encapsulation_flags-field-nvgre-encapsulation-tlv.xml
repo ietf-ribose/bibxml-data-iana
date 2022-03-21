@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-tunnel-encapsulation/flags-field-nvgre-encapsulation-tlv" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="BGP-TUNNEL-ENCAPSULATION/FLAGS-FIELD-NVGRE-ENCAPSULATION-TLV" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>Flags Field of NVGRE Encapsulation Sub-TLVs</title>
     <author>

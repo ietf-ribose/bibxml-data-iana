@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtspv2-parameters/feature-tags" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="RTSPV2-PARAMETERS/FEATURE-TAGS" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>Feature-tags</title>
     <author>

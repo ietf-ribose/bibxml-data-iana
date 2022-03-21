@@ -1,4 +1,4 @@
-<reference anchor="IANA.twamp-parameters/twamp-modes" target="http://www.iana.org/assignments/twamp-parameters">
+<reference anchor="TWAMP-PARAMETERS/TWAMP-MODES" target="http://www.iana.org/assignments/twamp-parameters">
   <front>
     <title>TWAMP-Modes</title>
     <author>

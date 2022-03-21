@@ -1,4 +1,4 @@
-<reference anchor="IANA.tcp-parameters/tcp-parameters-3" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="TCP-PARAMETERS/TCP-PARAMETERS-3" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>Cryptographic Algorithms for TCP-AO Registration</title>
     <author>

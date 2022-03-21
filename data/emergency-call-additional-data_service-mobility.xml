@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-additional-data/service-mobility" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA/SERVICE-MOBILITY" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Service Mobility</title>
     <author>

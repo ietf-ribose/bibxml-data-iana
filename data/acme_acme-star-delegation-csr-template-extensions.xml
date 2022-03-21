@@ -1,4 +1,4 @@
-<reference anchor="IANA.acme/acme-star-delegation-csr-template-extensions" target="http://www.iana.org/assignments/acme">
+<reference anchor="ACME/ACME-STAR-DELEGATION-CSR-TEMPLATE-EXTENSIONS" target="http://www.iana.org/assignments/acme">
   <front>
     <title>STAR Delegation CSR Template Extensions</title>
     <author>

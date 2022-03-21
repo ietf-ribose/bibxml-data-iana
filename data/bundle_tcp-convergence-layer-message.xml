@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/tcp-convergence-layer-message" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/TCP-CONVERGENCE-LAYER-MESSAGE" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version 4 Message Types</title>
     <author>

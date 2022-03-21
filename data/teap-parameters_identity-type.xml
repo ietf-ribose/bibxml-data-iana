@@ -1,4 +1,4 @@
-<reference anchor="IANA.teap-parameters/identity-type" target="http://www.iana.org/assignments/teap-parameters">
+<reference anchor="TEAP-PARAMETERS/IDENTITY-TYPE" target="http://www.iana.org/assignments/teap-parameters">
   <front>
     <title>TEAP Identity-Type TLV (value 2) Registry</title>
     <author>

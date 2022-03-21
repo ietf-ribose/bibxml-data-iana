@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-parameters/sip-parameters-72" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-72" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>SIP Feature-Capability Indicator Registration Tree</title>
     <author>

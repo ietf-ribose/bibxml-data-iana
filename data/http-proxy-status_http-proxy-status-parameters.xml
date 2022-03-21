@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-proxy-status/http-proxy-status-parameters" target="http://www.iana.org/assignments/http-proxy-status">
+<reference anchor="HTTP-PROXY-STATUS/HTTP-PROXY-STATUS-PARAMETERS" target="http://www.iana.org/assignments/http-proxy-status">
   <front>
     <title>HTTP Proxy-Status Parameters</title>
     <author>

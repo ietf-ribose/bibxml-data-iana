@@ -1,4 +1,4 @@
-<reference anchor="IANA.charset-info" target="http://www.iana.org/assignments/charset-info">
+<reference anchor="CHARSET-INFO" target="http://www.iana.org/assignments/charset-info">
   <front>
     <title>Character Sets Mailing List Information</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtcp-xr-sdp-parameters" target="http://www.iana.org/assignments/rtcp-xr-sdp-parameters">
+<reference anchor="RTCP-XR-SDP-PARAMETERS" target="http://www.iana.org/assignments/rtcp-xr-sdp-parameters">
   <front>
     <title>RTP Control Protocol Extended Reports (RTCP XR) Session Description Protocol (SDP) Parameters Registry</title>
     <author>

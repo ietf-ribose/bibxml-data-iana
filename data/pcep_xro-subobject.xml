@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/xro-subobject" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/XRO-SUBOBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>XRO Subobjects</title>
     <author>

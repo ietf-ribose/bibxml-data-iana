@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/wavelength-allocation-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/WAVELENGTH-ALLOCATION-TLV-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Wavelength Allocation TLV Flag Field</title>
     <author>

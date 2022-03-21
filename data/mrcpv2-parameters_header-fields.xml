@@ -1,4 +1,4 @@
-<reference anchor="IANA.mrcpv2-parameters/header-fields" target="http://www.iana.org/assignments/mrcpv2-parameters">
+<reference anchor="MRCPV2-PARAMETERS/HEADER-FIELDS" target="http://www.iana.org/assignments/mrcpv2-parameters">
   <front>
     <title>MRCPv2 Header Fields</title>
     <author>

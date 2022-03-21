@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters/route-mirroring-tlvs" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS/ROUTE-MIRRORING-TLVS" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Route Mirroring TLVs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipv6-address-space/ipv6-address-space-1" target="http://www.iana.org/assignments/ipv6-address-space">
+<reference anchor="IPV6-ADDRESS-SPACE/IPV6-ADDRESS-SPACE-1" target="http://www.iana.org/assignments/ipv6-address-space">
   <front>
     <title>ipv6-address-space-1</title>
     <author>

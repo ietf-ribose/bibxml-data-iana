@@ -1,4 +1,4 @@
-<reference anchor="IANA.ip-parameters/ip-parameters-3" target="http://www.iana.org/assignments/ip-parameters">
+<reference anchor="IP-PARAMETERS/IP-PARAMETERS-3" target="http://www.iana.org/assignments/ip-parameters">
   <front>
     <title>IP TOS Parameters</title>
     <author>

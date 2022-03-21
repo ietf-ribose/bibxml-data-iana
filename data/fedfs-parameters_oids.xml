@@ -1,4 +1,4 @@
-<reference anchor="IANA.fedfs-parameters/oids" target="http://www.iana.org/assignments/fedfs-parameters">
+<reference anchor="FEDFS-PARAMETERS/OIDS" target="http://www.iana.org/assignments/fedfs-parameters">
   <front>
     <title>FedFS Object Identifiers</title>
     <author>

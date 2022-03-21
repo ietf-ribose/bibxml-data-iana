@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppsp-tp/request-type" target="http://www.iana.org/assignments/ppsp-tp">
+<reference anchor="PPSP-TP/REQUEST-TYPE" target="http://www.iana.org/assignments/ppsp-tp">
   <front>
     <title>PPSTP Request Type Registry</title>
     <author>

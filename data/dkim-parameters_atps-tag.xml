@@ -1,4 +1,4 @@
-<reference anchor="IANA.dkim-parameters/atps-tag" target="http://www.iana.org/assignments/dkim-parameters">
+<reference anchor="DKIM-PARAMETERS/ATPS-TAG" target="http://www.iana.org/assignments/dkim-parameters">
   <front>
     <title>Authorized Third-Party Signature (ATPS) Tag Registry</title>
     <author>

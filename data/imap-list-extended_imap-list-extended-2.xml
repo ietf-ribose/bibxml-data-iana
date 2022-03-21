@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-list-extended/imap-list-extended-2" target="http://www.iana.org/assignments/imap-list-extended">
+<reference anchor="IMAP-LIST-EXTENDED/IMAP-LIST-EXTENDED-2" target="http://www.iana.org/assignments/imap-list-extended">
   <front>
     <title>LIST-EXTENDED response</title>
     <author>

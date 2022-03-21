@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-noob-error-codes" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS/EAP-NUMBERS-NOOB-ERROR-CODES" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP-NOOB Error Codes</title>
     <author>

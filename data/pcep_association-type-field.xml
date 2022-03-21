@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/association-type-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/ASSOCIATION-TYPE-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>ASSOCIATION Type Field</title>
     <author>

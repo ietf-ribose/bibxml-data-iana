@@ -1,4 +1,4 @@
-<reference anchor="IANA.fedfs-parameters" target="http://www.iana.org/assignments/fedfs-parameters">
+<reference anchor="FEDFS-PARAMETERS" target="http://www.iana.org/assignments/fedfs-parameters">
   <front>
     <title>Federated File System (FedFS) Parameters</title>
     <author>

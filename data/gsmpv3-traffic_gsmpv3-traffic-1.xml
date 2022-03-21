@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-traffic/gsmpv3-traffic-1" target="http://www.iana.org/assignments/gsmpv3-traffic">
+<reference anchor="GSMPV3-TRAFFIC/GSMPV3-TRAFFIC-1" target="http://www.iana.org/assignments/gsmpv3-traffic">
   <front>
     <title>Traffic Control Flags</title>
     <author>

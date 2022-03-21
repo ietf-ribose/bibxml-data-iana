@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/recordpattern-type" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2/RECORDPATTERN-TYPE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>RecordPattern-type</title>
     <author>

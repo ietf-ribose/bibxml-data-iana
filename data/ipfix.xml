@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipfix" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IPFIX" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IP Flow Information Export (IPFIX) Entities</title>
     <author>

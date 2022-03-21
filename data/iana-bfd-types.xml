@@ -1,4 +1,4 @@
-<reference anchor="IANA.iana-bfd-types" target="http://www.iana.org/assignments/iana-bfd-types">
+<reference anchor="IANA-BFD-TYPES" target="http://www.iana.org/assignments/iana-bfd-types">
   <front>
     <title>iana-bfd-types YANG Module</title>
     <author>

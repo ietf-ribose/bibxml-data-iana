@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/flow-specification-tlv-type-indicators" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/FLOW-SPECIFICATION-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP Flow Specification TLV Type Indicators</title>
     <author>

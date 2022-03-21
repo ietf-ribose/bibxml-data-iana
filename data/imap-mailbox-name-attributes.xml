@@ -1,4 +1,4 @@
-<reference anchor="IANA.imap-mailbox-name-attributes" target="http://www.iana.org/assignments/imap-mailbox-name-attributes">
+<reference anchor="IMAP-MAILBOX-NAME-ATTRIBUTES" target="http://www.iana.org/assignments/imap-mailbox-name-attributes">
   <front>
     <title>IMAP Mailbox Name Attributes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-numbers/eap-numbers-2" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS/EAP-NUMBERS-2" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP Initiate and Finish Attributes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.os-specific-parameters/fact-names" target="http://www.iana.org/assignments/os-specific-parameters">
+<reference anchor="OS-SPECIFIC-PARAMETERS/FACT-NAMES" target="http://www.iana.org/assignments/os-specific-parameters">
   <front>
     <title>OS Specific Fact Names</title>
     <author>

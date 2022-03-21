@@ -1,4 +1,4 @@
-<reference anchor="IANA.iodef2/indicatorexpression-operator" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2/INDICATOREXPRESSION-OPERATOR" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>IndicatorExpression-operator</title>
     <author>

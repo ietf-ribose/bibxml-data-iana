@@ -1,4 +1,4 @@
-<reference anchor="IANA.aaa-parameters/aaa-parameters-2" target="http://www.iana.org/assignments/aaa-parameters">
+<reference anchor="AAA-PARAMETERS/AAA-PARAMETERS-2" target="http://www.iana.org/assignments/aaa-parameters">
   <front>
     <title>AVP Specific Values</title>
     <author>

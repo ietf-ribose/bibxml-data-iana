@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/ldp-namespaces-14" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="LDP-NAMESPACES/LDP-NAMESPACES-14" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>LDP MP Status Value Element type</title>
     <author>

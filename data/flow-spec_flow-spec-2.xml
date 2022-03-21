@@ -1,4 +1,4 @@
-<reference anchor="IANA.flow-spec/flow-spec-2" target="http://www.iana.org/assignments/flow-spec">
+<reference anchor="FLOW-SPEC/FLOW-SPEC-2" target="http://www.iana.org/assignments/flow-spec">
   <front>
     <title>Flow Spec Component Types</title>
     <author>

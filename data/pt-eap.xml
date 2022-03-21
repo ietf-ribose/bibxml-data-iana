@@ -1,4 +1,4 @@
-<reference anchor="IANA.pt-eap" target="http://www.iana.org/assignments/pt-eap">
+<reference anchor="PT-EAP" target="http://www.iana.org/assignments/pt-eap">
   <front>
     <title>PT-EAP: Posture Transport (PT) Protocol For EAP Tunnel Methods</title>
     <author>

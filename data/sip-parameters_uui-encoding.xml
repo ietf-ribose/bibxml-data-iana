@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-parameters/uui-encoding" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS/UUI-ENCODING" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>UUI Encoding Parameters</title>
     <author>

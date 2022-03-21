@@ -1,4 +1,4 @@
-<reference anchor="IANA.forces/exception-id" target="http://www.iana.org/assignments/forces">
+<reference anchor="FORCES/EXCEPTION-ID" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Exception ID</title>
     <author>

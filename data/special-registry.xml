@@ -1,4 +1,4 @@
-<reference anchor="IANA.special-registry" target="http://www.iana.org/assignments/special-registry">
+<reference anchor="SPECIAL-REGISTRY" target="http://www.iana.org/assignments/special-registry">
   <front>
     <title>Special People Numbers Registry (SPNR)</title>
     <author>

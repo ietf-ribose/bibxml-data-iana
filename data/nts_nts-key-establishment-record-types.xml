@@ -1,4 +1,4 @@
-<reference anchor="IANA.nts/nts-key-establishment-record-types" target="http://www.iana.org/assignments/nts">
+<reference anchor="NTS/NTS-KEY-ESTABLISHMENT-RECORD-TYPES" target="http://www.iana.org/assignments/nts">
   <front>
     <title>Network Time Security Key Establishment Record Types</title>
     <author>

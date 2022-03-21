@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters/icmpv6-parameters-4" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-4" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>FMIPv6 Message Types (Value 154)</title>
     <author>

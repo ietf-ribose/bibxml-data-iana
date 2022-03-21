@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/psc-request" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS/PSC-REQUEST" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS PSC Request Registry</title>
     <author>

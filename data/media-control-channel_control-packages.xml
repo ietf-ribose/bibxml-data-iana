@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-control-channel/control-packages" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL/CONTROL-PACKAGES" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Control Packages</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ebml/ebml-element-id" target="http://www.iana.org/assignments/ebml">
+<reference anchor="EBML/EBML-ELEMENT-ID" target="http://www.iana.org/assignments/ebml">
   <front>
     <title>EBML Element IDs</title>
     <author>

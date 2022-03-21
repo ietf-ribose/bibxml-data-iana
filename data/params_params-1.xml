@@ -1,4 +1,4 @@
-<reference anchor="IANA.params/params-1" target="http://www.iana.org/assignments/params">
+<reference anchor="PARAMS/PARAMS-1" target="http://www.iana.org/assignments/params">
   <front>
     <title>IETF URN Sub-namespace for Registered Protocol Parameter Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mikey-payloads" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Multimedia Internet KEYing (MIKEY) Payload Name Spaces</title>
     <author>

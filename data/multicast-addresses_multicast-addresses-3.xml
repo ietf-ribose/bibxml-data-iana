@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-addresses/multicast-addresses-3" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-3" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>AD-HOC Block I (224.0.2.0 - 224.0.255.255)</title>
     <author>

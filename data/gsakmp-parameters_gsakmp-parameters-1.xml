@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsakmp-parameters/gsakmp-parameters-1" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-1" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Group Identification Types</title>
     <author>

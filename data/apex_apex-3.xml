@@ -1,4 +1,4 @@
-<reference anchor="IANA.apex/apex-3" target="http://www.iana.org/assignments/apex">
+<reference anchor="APEX/APEX-3" target="http://www.iana.org/assignments/apex">
   <front>
     <title>Applicable Exchange Core (APEX) Services</title>
     <author>

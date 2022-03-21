@@ -1,4 +1,4 @@
-<reference anchor="IANA.multicast-addresses/multicast-addresses-4" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-4" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>RESERVED (224.1.0.0-224.1.255.255 (224.1/16))</title>
     <author>

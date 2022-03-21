@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/schedule-tlvs-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/SCHEDULE-TLVS-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Schedule TLVs Flag Field</title>
     <author>

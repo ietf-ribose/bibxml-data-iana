@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-gpsk-parameters" target="http://www.iana.org/assignments/eap-gpsk-parameters">
+<reference anchor="EAP-GPSK-PARAMETERS" target="http://www.iana.org/assignments/eap-gpsk-parameters">
   <front>
     <title>Extensible Authentication Protocol Generalized Pre-Shared Key (EAP-GPSK) Parameters</title>
     <author>

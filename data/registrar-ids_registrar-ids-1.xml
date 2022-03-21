@@ -1,4 +1,4 @@
-<reference anchor="IANA.registrar-ids/registrar-ids-1" target="http://www.iana.org/assignments/registrar-ids">
+<reference anchor="REGISTRAR-IDS/REGISTRAR-IDS-1" target="http://www.iana.org/assignments/registrar-ids">
   <front>
     <title>Registrar IDs</title>
     <author>

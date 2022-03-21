@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldp-namespaces/ldp-targeted-application-identifier" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="LDP-NAMESPACES/LDP-TARGETED-APPLICATION-IDENTIFIER" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>LDP Targeted Application Identifier</title>
     <author>

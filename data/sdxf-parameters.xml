@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdxf-parameters" target="http://www.iana.org/assignments/sdxf-parameters">
+<reference anchor="SDXF-PARAMETERS" target="http://www.iana.org/assignments/sdxf-parameters">
   <front>
     <title>Structured Data Exchange Format (SDXF)</title>
     <author>

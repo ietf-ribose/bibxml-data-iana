@@ -1,4 +1,4 @@
-<reference anchor="IANA.smi-numbers/smi-numbers-2" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-2" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI Network Management MGMT Codes</title>
     <author>

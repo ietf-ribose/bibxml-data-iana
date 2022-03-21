@@ -1,4 +1,4 @@
-<reference anchor="IANA.emergency-call-additional-data/emergency-call-data-types" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA/EMERGENCY-CALL-DATA-TYPES" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Emergency Call Data Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-2" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-2" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - Management (MGMT) Message (Value 0)</title>
     <author>

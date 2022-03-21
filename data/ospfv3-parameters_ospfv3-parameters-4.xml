@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospfv3-parameters/ospfv3-parameters-4" target="http://www.iana.org/assignments/ospfv3-parameters">
+<reference anchor="OSPFV3-PARAMETERS/OSPFV3-PARAMETERS-4" target="http://www.iana.org/assignments/ospfv3-parameters">
   <front>
     <title>OSPFv3 Prefix Options (8 bits)</title>
     <author>

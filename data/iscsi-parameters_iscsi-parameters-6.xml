@@ -1,4 +1,4 @@
-<reference anchor="IANA.iscsi-parameters/iscsi-parameters-6" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS/ISCSI-PARAMETERS-6" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSCSI Login/Text Keys</title>
     <author>

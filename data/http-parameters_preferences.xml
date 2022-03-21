@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-parameters/preferences" target="http://www.iana.org/assignments/http-parameters">
+<reference anchor="HTTP-PARAMETERS/PREFERENCES" target="http://www.iana.org/assignments/http-parameters">
   <front>
     <title>HTTP Preferences</title>
     <author>

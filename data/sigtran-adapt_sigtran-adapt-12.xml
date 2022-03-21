@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-12" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-12" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - Interface Identifier Management (IIM) Messages (Value 10)</title>
     <author>

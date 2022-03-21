@@ -1,4 +1,4 @@
-<reference anchor="IANA.keytable/protocol" target="http://www.iana.org/assignments/keytable">
+<reference anchor="KEYTABLE/PROTOCOL" target="http://www.iana.org/assignments/keytable">
   <front>
     <title>KeyTable Protocols</title>
     <author>

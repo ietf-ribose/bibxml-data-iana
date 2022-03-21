@@ -1,4 +1,4 @@
-<reference anchor="IANA.trans/trans-log-ids" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS/TRANS-LOG-IDS" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Log IDs</title>
     <author>

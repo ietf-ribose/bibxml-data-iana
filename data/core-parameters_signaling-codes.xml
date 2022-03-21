@@ -1,4 +1,4 @@
-<reference anchor="IANA.core-parameters/signaling-codes" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="CORE-PARAMETERS/SIGNALING-CODES" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>CoAP Signaling Codes</title>
     <author>

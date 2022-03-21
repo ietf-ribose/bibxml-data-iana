@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-pwd-parameters/eap-pwd-parameters-1" target="http://www.iana.org/assignments/eap-pwd-parameters">
+<reference anchor="EAP-PWD-PARAMETERS/EAP-PWD-PARAMETERS-1" target="http://www.iana.org/assignments/eap-pwd-parameters">
   <front>
     <title>PWD-Exch Messages</title>
     <author>

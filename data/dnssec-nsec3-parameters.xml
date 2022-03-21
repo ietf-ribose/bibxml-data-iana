@@ -1,4 +1,4 @@
-<reference anchor="IANA.dnssec-nsec3-parameters" target="http://www.iana.org/assignments/dnssec-nsec3-parameters">
+<reference anchor="DNSSEC-NSEC3-PARAMETERS" target="http://www.iana.org/assignments/dnssec-nsec3-parameters">
   <front>
     <title>Domain Name System Security (DNSSEC) NextSECure3 (NSEC3) Parameters</title>
     <author>

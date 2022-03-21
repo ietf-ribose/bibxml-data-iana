@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-18" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-18" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>Returned Message Element Reason</title>
     <author>

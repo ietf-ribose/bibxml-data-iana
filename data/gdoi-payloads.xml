@@ -1,4 +1,4 @@
-<reference anchor="IANA.gdoi-payloads" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="GDOI-PAYLOADS" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>Group Domain of Interpretation (GDOI) Payloads</title>
     <author>

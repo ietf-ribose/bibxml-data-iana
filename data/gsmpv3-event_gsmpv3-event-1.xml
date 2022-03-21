@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-event/gsmpv3-event-1" target="http://www.iana.org/assignments/gsmpv3-event">
+<reference anchor="GSMPV3-EVENT/GSMPV3-EVENT-1" target="http://www.iana.org/assignments/gsmpv3-event">
   <front>
     <title>Event Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-message/gsmpv3-message-2" target="http://www.iana.org/assignments/gsmpv3-message">
+<reference anchor="GSMPV3-MESSAGE/GSMPV3-MESSAGE-2" target="http://www.iana.org/assignments/gsmpv3-message">
   <front>
     <title>Message Types</title>
     <author>

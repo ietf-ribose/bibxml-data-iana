@@ -1,4 +1,4 @@
-<reference anchor="IANA.trans/trans-log-artifact-extensions" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS/TRANS-LOG-ARTIFACT-EXTENSIONS" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Log Artifact Extensions</title>
     <author>

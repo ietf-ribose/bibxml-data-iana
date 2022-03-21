@@ -1,4 +1,4 @@
-<reference anchor="IANA.bgp-parameters/pmsi-tunnel-attributes" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS/PMSI-TUNNEL-ATTRIBUTES" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>P-Multicast Service Interface (PMSI) Tunnel Attribute Flags</title>
     <author>

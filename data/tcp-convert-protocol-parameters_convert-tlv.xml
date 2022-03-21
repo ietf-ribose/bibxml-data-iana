@@ -1,4 +1,4 @@
-<reference anchor="IANA.tcp-convert-protocol-parameters/convert-tlv" target="http://www.iana.org/assignments/tcp-convert-protocol-parameters">
+<reference anchor="TCP-CONVERT-PROTOCOL-PARAMETERS/CONVERT-TLV" target="http://www.iana.org/assignments/tcp-convert-protocol-parameters">
   <front>
     <title>Convert TLVs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.sdp-parameters/association-usage-name" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS/ASSOCIATION-USAGE-NAME" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>association-usage Name Registry</title>
     <author>

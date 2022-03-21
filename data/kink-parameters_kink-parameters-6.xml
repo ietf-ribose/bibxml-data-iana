@@ -1,4 +1,4 @@
-<reference anchor="IANA.kink-parameters/kink-parameters-6" target="http://www.iana.org/assignments/kink-parameters">
+<reference anchor="KINK-PARAMETERS/KINK-PARAMETERS-6" target="http://www.iana.org/assignments/kink-parameters">
   <front>
     <title>KINK Error Codes</title>
     <author>

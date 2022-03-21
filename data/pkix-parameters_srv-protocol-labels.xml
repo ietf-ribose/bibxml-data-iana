@@ -1,4 +1,4 @@
-<reference anchor="IANA.pkix-parameters/srv-protocol-labels" target="http://www.iana.org/assignments/pkix-parameters">
+<reference anchor="PKIX-PARAMETERS/SRV-PROTOCOL-LABELS" target="http://www.iana.org/assignments/pkix-parameters">
   <front>
     <title>PKIX SRV Protocol Labels</title>
     <author>

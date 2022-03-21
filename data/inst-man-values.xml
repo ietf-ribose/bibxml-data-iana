@@ -1,4 +1,4 @@
-<reference anchor="IANA.inst-man-values" target="http://www.iana.org/assignments/inst-man-values">
+<reference anchor="INST-MAN-VALUES" target="http://www.iana.org/assignments/inst-man-values">
   <front>
     <title>Instance Manipulation Values</title>
     <author>

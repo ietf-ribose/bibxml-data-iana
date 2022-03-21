@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/h-pce-flag-tlv-flag-field" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/H-PCE-FLAG-TLV-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>H-PCE-FLAG TLV Flag Field</title>
     <author>

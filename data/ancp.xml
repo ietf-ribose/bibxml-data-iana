@@ -1,4 +1,4 @@
-<reference anchor="IANA.ancp" target="http://www.iana.org/assignments/ancp">
+<reference anchor="ANCP" target="http://www.iana.org/assignments/ancp">
   <front>
     <title>Access Node Control Protocol (ANCP)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppp-numbers/ppp-numbers-26" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS/PPP-NUMBERS-26" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP Vendor Specific OUI Options</title>
     <author>

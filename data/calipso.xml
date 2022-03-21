@@ -1,4 +1,4 @@
-<reference anchor="IANA.calipso" target="http://www.iana.org/assignments/calipso">
+<reference anchor="CALIPSO" target="http://www.iana.org/assignments/calipso">
   <front>
     <title>Common Architecture Label IPv6 Security Option (CALIPSO)</title>
     <author>

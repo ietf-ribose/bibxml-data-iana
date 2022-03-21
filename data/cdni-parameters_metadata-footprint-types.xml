@@ -1,4 +1,4 @@
-<reference anchor="IANA.cdni-parameters/metadata-footprint-types" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS/METADATA-FOOTPRINT-TYPES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Metadata Footprint Types</title>
     <author>

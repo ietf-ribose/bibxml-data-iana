@@ -1,4 +1,4 @@
-<reference anchor="IANA.ospf-parameters/router-functional-capability" target="http://www.iana.org/assignments/ospf-parameters">
+<reference anchor="OSPF-PARAMETERS/ROUTER-FUNCTIONAL-CAPABILITY" target="http://www.iana.org/assignments/ospf-parameters">
   <front>
     <title>OSPF Router Functional Capability Bits</title>
     <author>

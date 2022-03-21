@@ -1,4 +1,4 @@
-<reference anchor="IANA.cnrp-parameters/cnrp-parameters-1" target="http://www.iana.org/assignments/cnrp-parameters">
+<reference anchor="CNRP-PARAMETERS/CNRP-PARAMETERS-1" target="http://www.iana.org/assignments/cnrp-parameters">
   <front>
     <title>Properties</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters/flow-id-suboptions" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS/FLOW-ID-SUBOPTIONS" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Flow Identification Sub-Options</title>
     <author>

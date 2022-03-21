@@ -1,4 +1,4 @@
-<reference anchor="IANA.ppp-numbers" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>Point-to-Point (PPP) Protocol Field Assignments</title>
     <author>

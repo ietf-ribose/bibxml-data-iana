@@ -1,4 +1,4 @@
-<reference anchor="IANA.http-alt-svc-parameters" target="http://www.iana.org/assignments/http-alt-svc-parameters">
+<reference anchor="HTTP-ALT-SVC-PARAMETERS" target="http://www.iana.org/assignments/http-alt-svc-parameters">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Alt-Svc Parameter Registry</title>
     <author>

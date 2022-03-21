@@ -1,4 +1,4 @@
-<reference anchor="IANA.ecmlv2-parameters/ecmlv2-parameters-2" target="http://www.iana.org/assignments/ecmlv2-parameters">
+<reference anchor="ECMLV2-PARAMETERS/ECMLV2-PARAMETERS-2" target="http://www.iana.org/assignments/ecmlv2-parameters">
   <front>
     <title>Ecom_Payment_Card_Protocol Registry</title>
     <author>

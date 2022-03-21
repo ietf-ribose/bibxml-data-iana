@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-parameters/sip-pns" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS/SIP-PNS" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Push Notification Service (PNS)</title>
     <author>

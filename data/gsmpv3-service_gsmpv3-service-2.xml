@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-service/gsmpv3-service-2" target="http://www.iana.org/assignments/gsmpv3-service">
+<reference anchor="GSMPV3-SERVICE/GSMPV3-SERVICE-2" target="http://www.iana.org/assignments/gsmpv3-service">
   <front>
     <title>Service ID Names</title>
     <author>

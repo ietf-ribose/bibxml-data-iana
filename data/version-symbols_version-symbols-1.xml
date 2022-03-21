@@ -1,4 +1,4 @@
-<reference anchor="IANA.version-symbols/version-symbols-1" target="http://www.iana.org/assignments/version-symbols">
+<reference anchor="VERSION-SYMBOLS/VERSION-SYMBOLS-1" target="http://www.iana.org/assignments/version-symbols">
   <front>
     <title>application/ISUP symbols</title>
     <author>

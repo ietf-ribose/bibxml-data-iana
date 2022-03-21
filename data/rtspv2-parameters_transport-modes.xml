@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtspv2-parameters/transport-modes" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="RTSPV2-PARAMETERS/TRANSPORT-MODES" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>Transport Modes</title>
     <author>

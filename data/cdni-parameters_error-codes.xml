@@ -1,4 +1,4 @@
-<reference anchor="IANA.cdni-parameters/error-codes" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS/ERROR-CODES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI CI/T Error Codes</title>
     <author>

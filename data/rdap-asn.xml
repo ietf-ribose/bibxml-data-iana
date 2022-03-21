@@ -1,4 +1,4 @@
-<reference anchor="IANA.rdap-asn" target="http://www.iana.org/assignments/rdap-asn">
+<reference anchor="RDAP-ASN" target="http://www.iana.org/assignments/rdap-asn">
   <front>
     <title>Bootstrap Service Registry for AS Number Space</title>
     <author>

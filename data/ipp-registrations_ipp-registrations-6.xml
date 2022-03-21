@@ -1,4 +1,4 @@
-<reference anchor="IANA.ipp-registrations/ipp-registrations-6" target="http://www.iana.org/assignments/ipp-registrations">
+<reference anchor="IPP-REGISTRATIONS/IPP-REGISTRATIONS-6" target="http://www.iana.org/assignments/ipp-registrations">
   <front>
     <title>Enum Attribute Values</title>
     <author>

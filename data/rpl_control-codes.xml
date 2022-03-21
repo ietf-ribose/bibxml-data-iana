@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpl/control-codes" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL/CONTROL-CODES" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>RPL Control Codes</title>
     <author>

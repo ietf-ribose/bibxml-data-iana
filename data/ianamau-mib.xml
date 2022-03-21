@@ -1,4 +1,4 @@
-<reference anchor="IANA.ianamau-mib" target="http://www.iana.org/assignments/ianamau-mib">
+<reference anchor="IANAMAU-MIB" target="http://www.iana.org/assignments/ianamau-mib">
   <front>
     <title>IANA-MAU-MIB</title>
     <author>

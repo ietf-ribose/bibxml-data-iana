@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-types-parameters" target="http://www.iana.org/assignments/media-types-parameters">
+<reference anchor="MEDIA-TYPES-PARAMETERS" target="http://www.iana.org/assignments/media-types-parameters">
   <front>
     <title>MIME Media Type Parameters</title>
     <author>

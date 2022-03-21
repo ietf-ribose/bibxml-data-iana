@@ -1,4 +1,4 @@
-<reference anchor="IANA.sctp-parameters/sctp-parameters-1" target="http://www.iana.org/assignments/sctp-parameters">
+<reference anchor="SCTP-PARAMETERS/SCTP-PARAMETERS-1" target="http://www.iana.org/assignments/sctp-parameters">
   <front>
     <title>Chunk Types</title>
     <author>

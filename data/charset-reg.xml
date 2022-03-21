@@ -1,4 +1,4 @@
-<reference anchor="IANA.charset-reg" target="http://www.iana.org/assignments/charset-reg">
+<reference anchor="CHARSET-REG" target="http://www.iana.org/assignments/charset-reg">
   <front>
     <title>Character Set Registrations</title>
     <author>

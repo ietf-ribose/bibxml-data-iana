@@ -1,4 +1,4 @@
-<reference anchor="IANA.rpcbind-transport-parameters" target="http://www.iana.org/assignments/rpcbind-transport-parameters">
+<reference anchor="RPCBIND-TRANSPORT-PARAMETERS" target="http://www.iana.org/assignments/rpcbind-transport-parameters">
   <front>
     <title>RPCBIND Transport Parameters</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.bmp-parameters/termination-message-reason-codes" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS/TERMINATION-MESSAGE-REASON-CODES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Termination Message Reason Codes</title>
     <author>

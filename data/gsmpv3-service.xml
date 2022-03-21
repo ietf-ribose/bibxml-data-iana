@@ -1,4 +1,4 @@
-<reference anchor="IANA.gsmpv3-service" target="http://www.iana.org/assignments/gsmpv3-service">
+<reference anchor="GSMPV3-SERVICE" target="http://www.iana.org/assignments/gsmpv3-service">
   <front>
     <title>Global Switch Management Protocol version 3 (GSMPv3) Service ID Name Space</title>
     <author>

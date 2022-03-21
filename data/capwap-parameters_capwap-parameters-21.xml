@@ -1,4 +1,4 @@
-<reference anchor="IANA.capwap-parameters/capwap-parameters-21" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-21" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>WTP Fallback Mode</title>
     <author>

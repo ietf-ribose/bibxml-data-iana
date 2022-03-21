@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-ikev2-payloads/eap-ikev2-payloads-1" target="http://www.iana.org/assignments/eap-ikev2-payloads">
+<reference anchor="EAP-IKEV2-PAYLOADS/EAP-IKEV2-PAYLOADS-1" target="http://www.iana.org/assignments/eap-ikev2-payloads">
   <front>
     <title>EAP-IKEv2 Payloads</title>
     <author>

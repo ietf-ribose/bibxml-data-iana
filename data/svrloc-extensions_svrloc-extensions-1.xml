@@ -1,4 +1,4 @@
-<reference anchor="IANA.svrloc-extensions/svrloc-extensions-1" target="http://www.iana.org/assignments/svrloc-extensions">
+<reference anchor="SVRLOC-EXTENSIONS/SVRLOC-EXTENSIONS-1" target="http://www.iana.org/assignments/svrloc-extensions">
   <front>
     <title>SLPv2 Extension IDs</title>
     <author>

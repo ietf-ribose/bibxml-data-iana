@@ -1,4 +1,4 @@
-<reference anchor="IANA.message-headers/prov-headers" target="http://www.iana.org/assignments/message-headers">
+<reference anchor="MESSAGE-HEADERS/PROV-HEADERS" target="http://www.iana.org/assignments/message-headers">
   <front>
     <title>Provisional Message Header Field Names</title>
     <author>

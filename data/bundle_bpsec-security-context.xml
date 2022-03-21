@@ -1,4 +1,4 @@
-<reference anchor="IANA.bundle/bpsec-security-context" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE/BPSEC-SECURITY-CONTEXT" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>BPSec Security Context Identifiers</title>
     <author>

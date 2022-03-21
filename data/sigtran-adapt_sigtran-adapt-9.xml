@@ -1,4 +1,4 @@
-<reference anchor="IANA.sigtran-adapt/sigtran-adapt-9" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-9" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - Connectionless Messages (Value 7)</title>
     <author>

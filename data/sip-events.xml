@@ -1,4 +1,4 @@
-<reference anchor="IANA.sip-events" target="http://www.iana.org/assignments/sip-events">
+<reference anchor="SIP-EVENTS" target="http://www.iana.org/assignments/sip-events">
   <front>
     <title>Session Initiation Protocol (SIP) Event Types Namespace</title>
     <author>

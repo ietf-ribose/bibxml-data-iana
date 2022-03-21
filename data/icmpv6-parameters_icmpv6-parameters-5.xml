@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters/icmpv6-parameters-5" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-5" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>IPv6 Neighbor Discovery Option Formats</title>
     <author>

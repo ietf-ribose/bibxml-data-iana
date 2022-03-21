@@ -1,4 +1,4 @@
-<reference anchor="IANA.pcep/path-setup-type-capability-sub-tlv-type-indicators" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP/PATH-SETUP-TYPE-CAPABILITY-SUB-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PATH-SETUP-TYPE-CAPABILITY Sub-TLV Type Indicators</title>
     <author>

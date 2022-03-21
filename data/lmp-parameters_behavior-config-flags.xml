@@ -1,4 +1,4 @@
-<reference anchor="IANA.lmp-parameters/behavior-config-flags" target="http://www.iana.org/assignments/lmp-parameters">
+<reference anchor="LMP-PARAMETERS/BEHAVIOR-CONFIG-FLAGS" target="http://www.iana.org/assignments/lmp-parameters">
   <front>
     <title>LMP Behavior Configuration Flags</title>
     <author>

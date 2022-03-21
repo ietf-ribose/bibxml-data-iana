@@ -1,4 +1,4 @@
-<reference anchor="IANA.route-distinguisher-types" target="http://www.iana.org/assignments/route-distinguisher-types">
+<reference anchor="ROUTE-DISTINGUISHER-TYPES" target="http://www.iana.org/assignments/route-distinguisher-types">
   <front>
     <title>Route Distinguisher Type Field</title>
     <author>

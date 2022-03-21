@@ -1,4 +1,4 @@
-<reference anchor="IANA.ldap-parameters/ldap-parameters-10" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="LDAP-PARAMETERS/LDAP-PARAMETERS-10" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>LDAP Filter Choices</title>
     <author>

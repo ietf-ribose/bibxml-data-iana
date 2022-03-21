@@ -1,4 +1,4 @@
-<reference anchor="IANA.dssc" target="http://www.iana.org/assignments/dssc">
+<reference anchor="DSSC" target="http://www.iana.org/assignments/dssc">
   <front>
     <title>Data Structure for the Security Suitability of Cryptographic Algorithms (DSSC)</title>
     <author>

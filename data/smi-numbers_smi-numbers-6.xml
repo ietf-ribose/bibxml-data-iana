@@ -1,4 +1,4 @@
-<reference anchor="IANA.smi-numbers/smi-numbers-6" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-6" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>Tunnel Types (tunnelType)</title>
     <author>

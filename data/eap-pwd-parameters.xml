@@ -1,4 +1,4 @@
-<reference anchor="IANA.eap-pwd-parameters" target="http://www.iana.org/assignments/eap-pwd-parameters">
+<reference anchor="EAP-PWD-PARAMETERS" target="http://www.iana.org/assignments/eap-pwd-parameters">
   <front>
     <title>EAP-pwd Parameters</title>
     <author>

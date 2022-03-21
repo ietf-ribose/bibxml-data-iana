@@ -1,4 +1,4 @@
-<reference anchor="IANA.ebml" target="http://www.iana.org/assignments/ebml">
+<reference anchor="EBML" target="http://www.iana.org/assignments/ebml">
   <front>
     <title>Extensible Binary Meta Language (EBML)</title>
     <author>

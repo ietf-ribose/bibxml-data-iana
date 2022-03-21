@@ -1,4 +1,4 @@
-<reference anchor="IANA.kink-parameters" target="http://www.iana.org/assignments/kink-parameters">
+<reference anchor="KINK-PARAMETERS" target="http://www.iana.org/assignments/kink-parameters">
   <front>
     <title>Kerberized Internet Negotiation of Keys (KINK) Parameters</title>
     <author>

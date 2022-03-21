@@ -1,4 +1,4 @@
-<reference anchor="IANA.rmt-fec-parameters/fecframe-fec-encoding-ids" target="http://www.iana.org/assignments/rmt-fec-parameters">
+<reference anchor="RMT-FEC-PARAMETERS/FECFRAME-FEC-ENCODING-IDS" target="http://www.iana.org/assignments/rmt-fec-parameters">
   <front>
     <title>FEC Framework (FECFRAME) FEC Encoding IDs</title>
     <author>

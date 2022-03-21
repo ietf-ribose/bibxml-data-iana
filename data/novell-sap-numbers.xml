@@ -1,4 +1,4 @@
-<reference anchor="IANA.novell-sap-numbers" target="http://www.iana.org/assignments/novell-sap-numbers">
+<reference anchor="NOVELL-SAP-NUMBERS" target="http://www.iana.org/assignments/novell-sap-numbers">
   <front>
     <title>Novell Service Advisor Protocol (SAP) Numbers - Novell Object Types</title>
     <author>

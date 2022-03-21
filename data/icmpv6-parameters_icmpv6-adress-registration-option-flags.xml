@@ -1,4 +1,4 @@
-<reference anchor="IANA.icmpv6-parameters/icmpv6-adress-registration-option-flags" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS/ICMPV6-ADRESS-REGISTRATION-OPTION-FLAGS" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Address Registration Option Flags</title>
     <author>

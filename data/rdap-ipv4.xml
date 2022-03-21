@@ -1,4 +1,4 @@
-<reference anchor="IANA.rdap-ipv4" target="http://www.iana.org/assignments/rdap-ipv4">
+<reference anchor="RDAP-IPV4" target="http://www.iana.org/assignments/rdap-ipv4">
   <front>
     <title>Bootstrap Service Registry for IPv4 Address Space</title>
     <author>

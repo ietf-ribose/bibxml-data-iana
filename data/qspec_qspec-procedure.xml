@@ -1,4 +1,4 @@
-<reference anchor="IANA.qspec/qspec-procedure" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC/QSPEC-PROCEDURE" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>QSPEC Procedure</title>
     <author>

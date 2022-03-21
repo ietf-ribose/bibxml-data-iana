@@ -1,4 +1,4 @@
-<reference anchor="IANA.media-types/font" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES/FONT" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>font</title>
     <author>

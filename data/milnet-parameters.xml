@@ -1,4 +1,4 @@
-<reference anchor="IANA.milnet-parameters" target="http://www.iana.org/assignments/milnet-parameters">
+<reference anchor="MILNET-PARAMETERS" target="http://www.iana.org/assignments/milnet-parameters">
   <front>
     <title>Milnet Parameters - Registry closed</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobility-parameters/flow-id" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS/FLOW-ID" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Flow Identification Mobility Option Status Codes</title>
     <author>

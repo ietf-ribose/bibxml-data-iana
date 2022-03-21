@@ -1,4 +1,4 @@
-<reference anchor="IANA.g-ach-parameters/mpls-tp-dhc-tlvs" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS/MPLS-TP-DHC-TLVS" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS-TP DHC TLVs</title>
     <author>

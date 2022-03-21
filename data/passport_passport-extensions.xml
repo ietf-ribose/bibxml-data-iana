@@ -1,4 +1,4 @@
-<reference anchor="IANA.passport/passport-extensions" target="http://www.iana.org/assignments/passport">
+<reference anchor="PASSPORT/PASSPORT-EXTENSIONS" target="http://www.iana.org/assignments/passport">
   <front>
     <title>Personal Assertion Token (PASSporT) Extensions</title>
     <author>

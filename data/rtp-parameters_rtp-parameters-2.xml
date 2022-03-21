@@ -1,4 +1,4 @@
-<reference anchor="IANA.rtp-parameters/rtp-parameters-2" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="RTP-PARAMETERS/RTP-PARAMETERS-2" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>RTP Payload Format Media Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IANA.rsvp-te-oam" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="RSVP-TE-OAM" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>RSVP-TE OAM Configuration Registry</title>
     <author>

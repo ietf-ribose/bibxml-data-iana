@@ -1,4 +1,4 @@
-<reference anchor="IANA.dots/dots-signal-channel-cbor-key-values" target="http://www.iana.org/assignments/dots">
+<reference anchor="DOTS/DOTS-SIGNAL-CHANNEL-CBOR-KEY-VALUES" target="http://www.iana.org/assignments/dots">
   <front>
     <title>DOTS Signal Channel CBOR Key Values</title>
     <author>

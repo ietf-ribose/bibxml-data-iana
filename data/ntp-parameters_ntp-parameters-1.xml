@@ -1,4 +1,4 @@
-<reference anchor="IANA.ntp-parameters/ntp-parameters-1" target="http://www.iana.org/assignments/ntp-parameters">
+<reference anchor="NTP-PARAMETERS/NTP-PARAMETERS-1" target="http://www.iana.org/assignments/ntp-parameters">
   <front>
     <title>NTP Reference Identifier Codes</title>
     <author>

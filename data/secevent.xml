@@ -1,4 +1,4 @@
-<reference anchor="IANA.secevent" target="http://www.iana.org/assignments/secevent">
+<reference anchor="SECEVENT" target="http://www.iana.org/assignments/secevent">
   <front>
     <title>Security Event Token (SET)</title>
     <author>

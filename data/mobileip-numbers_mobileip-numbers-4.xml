@@ -1,4 +1,4 @@
-<reference anchor="IANA.mobileip-numbers/mobileip-numbers-4" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-4" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Extension Subtypes </title>
     <author>

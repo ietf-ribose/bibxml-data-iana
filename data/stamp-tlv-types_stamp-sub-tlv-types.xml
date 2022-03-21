@@ -1,4 +1,4 @@
-<reference anchor="IANA.stamp-tlv-types/stamp-sub-tlv-types" target="http://www.iana.org/assignments/stamp-tlv-types">
+<reference anchor="STAMP-TLV-TYPES/STAMP-SUB-TLV-TYPES" target="http://www.iana.org/assignments/stamp-tlv-types">
   <front>
     <title>STAMP Sub-TLV Types</title>
     <author>

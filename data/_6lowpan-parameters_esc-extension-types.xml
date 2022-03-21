@@ -1,4 +1,4 @@
-<reference anchor="IANA._6lowpan-parameters/esc-extension-types" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="_6LOWPAN-PARAMETERS/ESC-EXTENSION-TYPES" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>ESC Extension Types</title>
     <author>

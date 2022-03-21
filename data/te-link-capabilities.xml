@@ -1,4 +1,4 @@
-<reference anchor="IANA.te-link-capabilities" target="http://www.iana.org/assignments/te-link-capabilities">
+<reference anchor="TE-LINK-CAPABILITIES" target="http://www.iana.org/assignments/te-link-capabilities">
   <front>
     <title>Link State Routing TE Capabilities</title>
     <author>

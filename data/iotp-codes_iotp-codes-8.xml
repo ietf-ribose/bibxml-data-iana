@@ -1,4 +1,4 @@
-<reference anchor="IANA.iotp-codes/iotp-codes-8" target="http://www.iana.org/assignments/iotp-codes">
+<reference anchor="IOTP-CODES/IOTP-CODES-8" target="http://www.iana.org/assignments/iotp-codes">
   <front>
     <title>Status/StatusType</title>
     <author>
