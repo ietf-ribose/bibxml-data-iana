@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/FLOW-BINDING-ACTION" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__FLOW-BINDING-ACTION" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Flow Binding Action Values</title>
     <author>

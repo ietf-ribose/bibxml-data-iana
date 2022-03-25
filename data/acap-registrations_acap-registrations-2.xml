@@ -1,4 +1,4 @@
-<reference anchor="ACAP-REGISTRATIONS/ACAP-REGISTRATIONS-2" target="http://www.iana.org/assignments/acap-registrations">
+<reference anchor="ACAP-REGISTRATIONS__ACAP-REGISTRATIONS-2" target="http://www.iana.org/assignments/acap-registrations">
   <front>
     <title>ACAP Response Codes</title>
     <author>

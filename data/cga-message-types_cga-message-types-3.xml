@@ -1,4 +1,4 @@
-<reference anchor="CGA-MESSAGE-TYPES/CGA-MESSAGE-TYPES-3" target="http://www.iana.org/assignments/cga-message-types">
+<reference anchor="CGA-MESSAGE-TYPES__CGA-MESSAGE-TYPES-3" target="http://www.iana.org/assignments/cga-message-types">
   <front>
     <title>CGA SEC</title>
     <author>

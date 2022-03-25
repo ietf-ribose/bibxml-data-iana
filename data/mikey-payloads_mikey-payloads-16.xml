@@ -1,4 +1,4 @@
-<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-16" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-16" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Timestamp Payload Field Names</title>
     <author>

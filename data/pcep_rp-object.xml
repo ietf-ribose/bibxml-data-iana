@@ -1,4 +1,4 @@
-<reference anchor="PCEP/RP-OBJECT" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__RP-OBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>RP Object Flag Field</title>
     <author>

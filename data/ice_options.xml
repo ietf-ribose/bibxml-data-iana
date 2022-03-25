@@ -1,4 +1,4 @@
-<reference anchor="ICE/OPTIONS" target="http://www.iana.org/assignments/ice">
+<reference anchor="ICE__OPTIONS" target="http://www.iana.org/assignments/ice">
   <front>
     <title>ICE Options</title>
     <author>

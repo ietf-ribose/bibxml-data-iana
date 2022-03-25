@@ -1,4 +1,4 @@
-<reference anchor="RTSP-PARAMETERS/RTSP-PARAMETERS-4" target="http://www.iana.org/assignments/rtsp-parameters">
+<reference anchor="RTSP-PARAMETERS__RTSP-PARAMETERS-4" target="http://www.iana.org/assignments/rtsp-parameters">
   <front>
     <title>RTSP/1.0 Option Tags</title>
     <author>

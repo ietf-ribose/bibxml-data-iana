@@ -1,4 +1,4 @@
-<reference anchor="CXTP-PARAMETERS/CXTP-PARAMETERS-1" target="http://www.iana.org/assignments/cxtp-parameters">
+<reference anchor="CXTP-PARAMETERS__CXTP-PARAMETERS-1" target="http://www.iana.org/assignments/cxtp-parameters">
   <front>
     <title>Context Transfer Profile Type Registry</title>
     <author>

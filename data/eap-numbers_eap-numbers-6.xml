@@ -1,4 +1,4 @@
-<reference anchor="EAP-NUMBERS/EAP-NUMBERS-6" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS__EAP-NUMBERS-6" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP-FAST (value 43) Error-TLV (value 5) Error-Codes</title>
     <author>

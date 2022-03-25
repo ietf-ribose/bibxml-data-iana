@@ -1,4 +1,4 @@
-<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-13" target="http://www.iana.org/assignments/sigtran-adapt">
+<reference anchor="SIGTRAN-ADAPT__SIGTRAN-ADAPT-13" target="http://www.iana.org/assignments/sigtran-adapt">
   <front>
     <title>Message Types - M2PA Messages (Value 11)</title>
     <author>

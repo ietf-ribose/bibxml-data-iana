@@ -1,4 +1,4 @@
-<reference anchor="BUNDLE/CBHE-SERVICE-NUMBERS" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE__CBHE-SERVICE-NUMBERS" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>CBHE Service Numbers</title>
     <author>

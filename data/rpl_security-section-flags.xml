@@ -1,4 +1,4 @@
-<reference anchor="RPL/SECURITY-SECTION-FLAGS" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL__SECURITY-SECTION-FLAGS" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Security Section Flags</title>
     <author>

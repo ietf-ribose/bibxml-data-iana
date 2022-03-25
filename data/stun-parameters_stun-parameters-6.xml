@@ -1,4 +1,4 @@
-<reference anchor="STUN-PARAMETERS/STUN-PARAMETERS-6" target="http://www.iana.org/assignments/stun-parameters">
+<reference anchor="STUN-PARAMETERS__STUN-PARAMETERS-6" target="http://www.iana.org/assignments/stun-parameters">
   <front>
     <title>STUN Error Codes</title>
     <author>

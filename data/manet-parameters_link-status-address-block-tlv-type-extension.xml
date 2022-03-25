@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/LINK-STATUS-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__LINK-STATUS-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 3 Address Block TLV Type Extensions</title>
     <author>

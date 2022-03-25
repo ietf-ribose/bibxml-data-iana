@@ -1,4 +1,4 @@
-<reference anchor="MSDP-TLV-VALUES/MSDP-TLV-VALUES-2" target="http://www.iana.org/assignments/msdp-tlv-values">
+<reference anchor="MSDP-TLV-VALUES__MSDP-TLV-VALUES-2" target="http://www.iana.org/assignments/msdp-tlv-values">
   <front>
     <title>MSDP TLV Values</title>
     <author>

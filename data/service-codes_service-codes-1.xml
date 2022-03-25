@@ -1,4 +1,4 @@
-<reference anchor="SERVICE-CODES/SERVICE-CODES-1" target="http://www.iana.org/assignments/service-codes">
+<reference anchor="SERVICE-CODES__SERVICE-CODES-1" target="http://www.iana.org/assignments/service-codes">
   <front>
     <title>Service Codes</title>
     <author>

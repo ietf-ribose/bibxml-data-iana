@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/GEOLOC-OPTION-VERSION" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__GEOLOC-OPTION-VERSION" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>GeoLoc Option Version Registry</title>
     <author>

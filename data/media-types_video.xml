@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES/VIDEO" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES__VIDEO" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>video</title>
     <author>

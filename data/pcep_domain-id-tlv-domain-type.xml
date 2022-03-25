@@ -1,4 +1,4 @@
-<reference anchor="PCEP/DOMAIN-ID-TLV-DOMAIN-TYPE" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__DOMAIN-ID-TLV-DOMAIN-TYPE" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Domain-ID TLV Domain Type</title>
     <author>

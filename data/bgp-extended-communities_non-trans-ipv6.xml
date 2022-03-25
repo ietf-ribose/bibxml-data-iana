@@ -1,4 +1,4 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES/NON-TRANS-IPV6" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES__NON-TRANS-IPV6" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>Non-Transitive IPv6-Address-Specific Extended Community Types</title>
     <author>

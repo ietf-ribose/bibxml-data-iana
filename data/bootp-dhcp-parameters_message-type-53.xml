@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/MESSAGE-TYPE-53" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__MESSAGE-TYPE-53" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>DHCP Message Type 53 Values</title>
     <author>

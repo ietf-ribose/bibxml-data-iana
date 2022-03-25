@@ -1,4 +1,4 @@
-<reference anchor="BMP-PARAMETERS/PEER-FLAGS-LOC-RIB" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS__PEER-FLAGS-LOC-RIB" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Peer Flags for Loc-RIB Instance Peer Type 3</title>
     <author>

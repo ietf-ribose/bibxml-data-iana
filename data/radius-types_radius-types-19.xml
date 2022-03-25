@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-19" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-19" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Operator Namespace Identifier for Attribute 126</title>
     <author>

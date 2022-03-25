@@ -1,4 +1,4 @@
-<reference anchor="OSPF-MT-ROUTING/OSPF-MT-ROUTING-2" target="http://www.iana.org/assignments/ospf-mt-routing">
+<reference anchor="OSPF-MT-ROUTING__OSPF-MT-ROUTING-2" target="http://www.iana.org/assignments/ospf-mt-routing">
   <front>
     <title>Multi-Topology ID Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/MESSAGE-EXTENSIONS" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__MESSAGE-EXTENSIONS" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Extensions Registry</title>
     <author>

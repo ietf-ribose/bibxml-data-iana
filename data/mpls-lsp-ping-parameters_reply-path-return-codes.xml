@@ -1,4 +1,4 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS/REPLY-PATH-RETURN-CODES" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS__REPLY-PATH-RETURN-CODES" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Reply Path Return Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="NETNEWS-PARAMETERS/CANCEL-LOCK-HASH-ALGORITHMS" target="http://www.iana.org/assignments/netnews-parameters">
+<reference anchor="NETNEWS-PARAMETERS__CANCEL-LOCK-HASH-ALGORITHMS" target="http://www.iana.org/assignments/netnews-parameters">
   <front>
     <title>Netnews Cancel-Lock Hash Algorithms</title>
     <author>

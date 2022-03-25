@@ -1,4 +1,4 @@
-<reference anchor="ICMPV6-PARAMETERS/IPV6-NEIGHBOR-DISCOVERY-PREFIX-INFORMATION-OPTIONS" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS__IPV6-NEIGHBOR-DISCOVERY-PREFIX-INFORMATION-OPTIONS" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>IPv6 Neighbor Discovery Prefix Information Option Flags</title>
     <author>

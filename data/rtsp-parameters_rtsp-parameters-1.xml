@@ -1,4 +1,4 @@
-<reference anchor="RTSP-PARAMETERS/RTSP-PARAMETERS-1" target="http://www.iana.org/assignments/rtsp-parameters">
+<reference anchor="RTSP-PARAMETERS__RTSP-PARAMETERS-1" target="http://www.iana.org/assignments/rtsp-parameters">
   <front>
     <title>RTSP/1.0 Methods</title>
     <author>

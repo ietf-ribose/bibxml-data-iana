@@ -1,4 +1,4 @@
-<reference anchor="ANCP/TLV-TYPES" target="http://www.iana.org/assignments/ancp">
+<reference anchor="ANCP__TLV-TYPES" target="http://www.iana.org/assignments/ancp">
   <front>
     <title>ANCP TLV Types</title>
     <author>

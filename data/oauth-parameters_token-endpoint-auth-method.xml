@@ -1,4 +1,4 @@
-<reference anchor="OAUTH-PARAMETERS/TOKEN-ENDPOINT-AUTH-METHOD" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS__TOKEN-ENDPOINT-AUTH-METHOD" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Token Endpoint Authentication Methods</title>
     <author>

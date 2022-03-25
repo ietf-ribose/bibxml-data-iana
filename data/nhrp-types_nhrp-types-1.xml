@@ -1,4 +1,4 @@
-<reference anchor="NHRP-TYPES/NHRP-TYPES-1" target="http://www.iana.org/assignments/nhrp-types">
+<reference anchor="NHRP-TYPES__NHRP-TYPES-1" target="http://www.iana.org/assignments/nhrp-types">
   <front>
     <title>NHRP Packet Types</title>
     <author>

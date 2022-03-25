@@ -1,4 +1,4 @@
-<reference anchor="DSCP-REGISTRY/DSCP-REGISTRY-1" target="http://www.iana.org/assignments/dscp-registry">
+<reference anchor="DSCP-REGISTRY__DSCP-REGISTRY-1" target="http://www.iana.org/assignments/dscp-registry">
   <front>
     <title>Differentiated Services Field Codepoints (DSCP)</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPE-STRUCTURED-SUFFIX/STRUCTURED-SYNTAX-SUFFIX" target="http://www.iana.org/assignments/media-type-structured-suffix">
+<reference anchor="MEDIA-TYPE-STRUCTURED-SUFFIX__STRUCTURED-SYNTAX-SUFFIX" target="http://www.iana.org/assignments/media-type-structured-suffix">
   <front>
     <title>Structured Syntax Suffixes</title>
     <author>

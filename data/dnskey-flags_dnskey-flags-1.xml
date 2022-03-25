@@ -1,4 +1,4 @@
-<reference anchor="DNSKEY-FLAGS/DNSKEY-FLAGS-1" target="http://www.iana.org/assignments/dnskey-flags">
+<reference anchor="DNSKEY-FLAGS__DNSKEY-FLAGS-1" target="http://www.iana.org/assignments/dnskey-flags">
   <front>
     <title>DNSKEY RR Flags</title>
     <author>

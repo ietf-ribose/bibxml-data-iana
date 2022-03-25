@@ -1,4 +1,4 @@
-<reference anchor="SDXF-PARAMETERS/SDXF-PARAMETERS-1" target="http://www.iana.org/assignments/sdxf-parameters">
+<reference anchor="SDXF-PARAMETERS__SDXF-PARAMETERS-1" target="http://www.iana.org/assignments/sdxf-parameters">
   <front>
     <title>Compression Methods for SDXF</title>
     <author>

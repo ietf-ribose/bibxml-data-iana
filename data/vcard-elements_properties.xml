@@ -1,4 +1,4 @@
-<reference anchor="VCARD-ELEMENTS/PROPERTIES" target="http://www.iana.org/assignments/vcard-elements">
+<reference anchor="VCARD-ELEMENTS__PROPERTIES" target="http://www.iana.org/assignments/vcard-elements">
   <front>
     <title>vCard Properties</title>
     <author>

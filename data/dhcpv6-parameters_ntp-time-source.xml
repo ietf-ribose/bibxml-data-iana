@@ -1,4 +1,4 @@
-<reference anchor="DHCPV6-PARAMETERS/NTP-TIME-SOURCE" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS__NTP-TIME-SOURCE" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>NTP Time Source Suboptions</title>
     <author>

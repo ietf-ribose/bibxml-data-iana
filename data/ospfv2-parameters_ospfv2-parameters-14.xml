@@ -1,4 +1,4 @@
-<reference anchor="OSPFV2-PARAMETERS/OSPFV2-PARAMETERS-14" target="http://www.iana.org/assignments/ospfv2-parameters">
+<reference anchor="OSPFV2-PARAMETERS__OSPFV2-PARAMETERS-14" target="http://www.iana.org/assignments/ospfv2-parameters">
   <front>
     <title>Path Computation Element (PCE) Capability Flags</title>
     <author>

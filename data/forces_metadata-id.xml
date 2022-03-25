@@ -1,4 +1,4 @@
-<reference anchor="FORCES/METADATA-ID" target="http://www.iana.org/assignments/forces">
+<reference anchor="FORCES__METADATA-ID" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Metadata ID</title>
     <author>

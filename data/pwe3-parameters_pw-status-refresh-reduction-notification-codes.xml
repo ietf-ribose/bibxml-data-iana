@@ -1,4 +1,4 @@
-<reference anchor="PWE3-PARAMETERS/PW-STATUS-REFRESH-REDUCTION-NOTIFICATION-CODES" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS__PW-STATUS-REFRESH-REDUCTION-NOTIFICATION-CODES" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>PW Status Refresh Reduction Notification Codes</title>
     <author>

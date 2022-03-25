@@ -1,4 +1,4 @@
-<reference anchor="QSPEC/TIME-TO-RESTORE" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC__TIME-TO-RESTORE" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Time to Restore Field</title>
     <author>

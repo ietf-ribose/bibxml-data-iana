@@ -1,4 +1,4 @@
-<reference anchor="OSPF-LLS-TLVS/OSPF-LLS-TLVS-1" target="http://www.iana.org/assignments/ospf-lls-tlvs">
+<reference anchor="OSPF-LLS-TLVS__OSPF-LLS-TLVS-1" target="http://www.iana.org/assignments/ospf-lls-tlvs">
   <front>
     <title>Link Local Signalling TLV Identifiers (LLS Types)</title>
     <author>

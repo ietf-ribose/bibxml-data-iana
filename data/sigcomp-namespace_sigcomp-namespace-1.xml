@@ -1,4 +1,4 @@
-<reference anchor="SIGCOMP-NAMESPACE/SIGCOMP-NAMESPACE-1" target="http://www.iana.org/assignments/sigcomp-namespace">
+<reference anchor="SIGCOMP-NAMESPACE__SIGCOMP-NAMESPACE-1" target="http://www.iana.org/assignments/sigcomp-namespace">
   <front>
     <title>SigComp_version Namespace</title>
     <author>

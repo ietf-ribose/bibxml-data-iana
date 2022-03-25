@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES/IMAGE" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES__IMAGE" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>image</title>
     <author>

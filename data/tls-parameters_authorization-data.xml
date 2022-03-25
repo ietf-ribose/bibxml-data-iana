@@ -1,4 +1,4 @@
-<reference anchor="TLS-PARAMETERS/AUTHORIZATION-DATA" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="TLS-PARAMETERS__AUTHORIZATION-DATA" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS Authorization Data Formats</title>
     <author>

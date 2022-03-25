@@ -1,4 +1,4 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-73" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-73" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Priority Header Field Values</title>
     <author>

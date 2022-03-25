@@ -1,4 +1,4 @@
-<reference anchor="RFB/RFB-4" target="http://www.iana.org/assignments/rfb">
+<reference anchor="RFB__RFB-4" target="http://www.iana.org/assignments/rfb">
   <front>
     <title>Remote Framebuffer Encoding Types</title>
     <author>

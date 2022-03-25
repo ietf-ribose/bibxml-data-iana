@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/TYPE-156" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__TYPE-156" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>DHCP State Type 156 Values</title>
     <author>

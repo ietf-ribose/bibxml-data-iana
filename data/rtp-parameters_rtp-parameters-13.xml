@@ -1,4 +1,4 @@
-<reference anchor="RTP-PARAMETERS/RTP-PARAMETERS-13" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="RTP-PARAMETERS__RTP-PARAMETERS-13" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>RAMS TLV Space Registry</title>
     <author>

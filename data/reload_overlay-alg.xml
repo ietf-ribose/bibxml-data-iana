@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/OVERLAY-ALG" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__OVERLAY-ALG" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Overlay Algorithm Types</title>
     <author>

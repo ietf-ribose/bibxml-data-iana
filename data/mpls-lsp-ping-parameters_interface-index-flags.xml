@@ -1,4 +1,4 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS/INTERFACE-INDEX-FLAGS" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS__INTERFACE-INDEX-FLAGS" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Interface Index Flags</title>
     <author>

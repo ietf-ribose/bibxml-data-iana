@@ -1,4 +1,4 @@
-<reference anchor="COSE/HEADER-PARAMETERS" target="http://www.iana.org/assignments/cose">
+<reference anchor="COSE__HEADER-PARAMETERS" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Header Parameters</title>
     <author>

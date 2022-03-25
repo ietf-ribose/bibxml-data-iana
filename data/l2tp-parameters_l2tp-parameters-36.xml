@@ -1,4 +1,4 @@
-<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-36" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS__L2TP-PARAMETERS-36" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Default L2-Specific Sublayer bits</title>
     <author>

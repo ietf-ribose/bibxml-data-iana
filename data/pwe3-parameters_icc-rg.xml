@@ -1,4 +1,4 @@
-<reference anchor="PWE3-PARAMETERS/ICC-RG" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS__ICC-RG" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>ICC RG Parameter Types</title>
     <author>

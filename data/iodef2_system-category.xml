@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/SYSTEM-CATEGORY" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__SYSTEM-CATEGORY" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>System-category</title>
     <author>

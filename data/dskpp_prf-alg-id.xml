@@ -1,4 +1,4 @@
-<reference anchor="DSKPP/PRF-ALG-ID" target="http://www.iana.org/assignments/dskpp">
+<reference anchor="DSKPP__PRF-ALG-ID" target="http://www.iana.org/assignments/dskpp">
   <front>
     <title>PRF Algorithm ID Registry</title>
     <author>

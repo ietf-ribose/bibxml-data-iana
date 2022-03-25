@@ -1,4 +1,4 @@
-<reference anchor="TOKEN-BINDING-PROTOCOL/TOKEN-BINDING-TYPES" target="http://www.iana.org/assignments/token-binding-protocol">
+<reference anchor="TOKEN-BINDING-PROTOCOL__TOKEN-BINDING-TYPES" target="http://www.iana.org/assignments/token-binding-protocol">
   <front>
     <title>Token Binding Types</title>
     <author>

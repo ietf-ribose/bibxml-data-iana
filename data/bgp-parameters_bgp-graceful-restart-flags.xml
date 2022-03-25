@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BGP-GRACEFUL-RESTART-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BGP-GRACEFUL-RESTART-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Graceful Restart Flags</title>
     <author>

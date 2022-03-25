@@ -1,4 +1,4 @@
-<reference anchor="ISIS-TLV-CODEPOINTS/PREFIX-ATTRIBUTE-FLAGS" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="ISIS-TLV-CODEPOINTS__PREFIX-ATTRIBUTE-FLAGS" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Bit Values for Prefix Attribute Flags Sub-TLV</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/BINDING-REVOCATION-STATUS-CODES" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__BINDING-REVOCATION-STATUS-CODES" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Binding Revocation Acknowledgement Status Codes</title>
     <author>

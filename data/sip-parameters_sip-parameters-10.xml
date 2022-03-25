@@ -1,4 +1,4 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-10" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-10" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Compression Schemes</title>
     <author>

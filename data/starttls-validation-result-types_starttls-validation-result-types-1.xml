@@ -1,4 +1,4 @@
-<reference anchor="STARTTLS-VALIDATION-RESULT-TYPES/STARTTLS-VALIDATION-RESULT-TYPES-1" target="http://www.iana.org/assignments/starttls-validation-result-types">
+<reference anchor="STARTTLS-VALIDATION-RESULT-TYPES__STARTTLS-VALIDATION-RESULT-TYPES-1" target="http://www.iana.org/assignments/starttls-validation-result-types">
   <front>
     <title>STARTTLS Validation Result Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RSVP-TE-PARAMETERS/RSVP-TE-PARAMETERS-1" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="RSVP-TE-PARAMETERS__RSVP-TE-PARAMETERS-1" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Attributes TLV Space</title>
     <author>

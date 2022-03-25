@@ -1,4 +1,4 @@
-<reference anchor="COPS-PARAMETERS/COPS-PARAMETERS-1" target="http://www.iana.org/assignments/cops-parameters">
+<reference anchor="COPS-PARAMETERS__COPS-PARAMETERS-1" target="http://www.iana.org/assignments/cops-parameters">
   <front>
     <title>Client Types Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="JMS-URI-VARIANTS/JMS-URI-VARIANTS-1" target="http://www.iana.org/assignments/jms-uri-variants">
+<reference anchor="JMS-URI-VARIANTS__JMS-URI-VARIANTS-1" target="http://www.iana.org/assignments/jms-uri-variants">
   <front>
     <title>JMS URI Scheme Variants</title>
     <author>

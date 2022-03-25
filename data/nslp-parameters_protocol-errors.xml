@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/PROTOCOL-ERRORS" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__PROTOCOL-ERRORS" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>Protocol Error Codes</title>
     <author>

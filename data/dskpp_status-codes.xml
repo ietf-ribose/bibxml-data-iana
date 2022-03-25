@@ -1,4 +1,4 @@
-<reference anchor="DSKPP/STATUS-CODES" target="http://www.iana.org/assignments/dskpp">
+<reference anchor="DSKPP__STATUS-CODES" target="http://www.iana.org/assignments/dskpp">
   <front>
     <title>Status Codes</title>
     <author>

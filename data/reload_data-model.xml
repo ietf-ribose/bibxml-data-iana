@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/DATA-MODEL" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__DATA-MODEL" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Data Model</title>
     <author>

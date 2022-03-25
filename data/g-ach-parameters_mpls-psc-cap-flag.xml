@@ -1,4 +1,4 @@
-<reference anchor="G-ACH-PARAMETERS/MPLS-PSC-CAP-FLAG" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS__MPLS-PSC-CAP-FLAG" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS PSC Capability Flag Registry</title>
     <author>

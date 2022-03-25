@@ -1,4 +1,4 @@
-<reference anchor="MILNET-PARAMETERS/MILNET-PARAMETERS-1" target="http://www.iana.org/assignments/milnet-parameters">
+<reference anchor="MILNET-PARAMETERS__MILNET-PARAMETERS-1" target="http://www.iana.org/assignments/milnet-parameters">
   <front>
     <title>Milnet Link Numbers</title>
     <author>

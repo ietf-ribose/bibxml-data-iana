@@ -1,4 +1,4 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/COMMON-HEADER-A" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT__COMMON-HEADER-A" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Routing Metric/Constraint Common Header A field</title>
     <author>

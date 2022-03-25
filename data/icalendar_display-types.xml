@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/DISPLAY-TYPES" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__DISPLAY-TYPES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Display Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ISCSI-PARAMETERS/ISCSI-PARAMETERS-4" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS__ISCSI-PARAMETERS-4" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>SRP_GROUP key values</title>
     <author>

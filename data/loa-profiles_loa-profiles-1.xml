@@ -1,4 +1,4 @@
-<reference anchor="LOA-PROFILES/LOA-PROFILES-1" target="http://www.iana.org/assignments/loa-profiles">
+<reference anchor="LOA-PROFILES__LOA-PROFILES-1" target="http://www.iana.org/assignments/loa-profiles">
   <front>
     <title>Level of Assurance Profiles</title>
     <author>

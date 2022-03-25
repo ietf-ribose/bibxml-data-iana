@@ -1,4 +1,4 @@
-<reference anchor="IGP-PARAMETERS/IGP-MSD-TYPES" target="http://www.iana.org/assignments/igp-parameters">
+<reference anchor="IGP-PARAMETERS__IGP-MSD-TYPES" target="http://www.iana.org/assignments/igp-parameters">
   <front>
     <title>IGP MSD-Types</title>
     <author>

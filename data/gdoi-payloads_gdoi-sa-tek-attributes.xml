@@ -1,4 +1,4 @@
-<reference anchor="GDOI-PAYLOADS/GDOI-SA-TEK-ATTRIBUTES" target="http://www.iana.org/assignments/gdoi-payloads">
+<reference anchor="GDOI-PAYLOADS__GDOI-SA-TEK-ATTRIBUTES" target="http://www.iana.org/assignments/gdoi-payloads">
   <front>
     <title>GDOI SA TEK Attributes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPE-SUB-PARAMETERS/MEDIA-TYPE-SUB-PARAMETERS-8" target="http://www.iana.org/assignments/media-type-sub-parameters">
+<reference anchor="MEDIA-TYPE-SUB-PARAMETERS__MEDIA-TYPE-SUB-PARAMETERS-8" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
     <title>Sub-Parameter Registry for audio/rtp-midi</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RTSPV2-PARAMETERS/RTP-INFO" target="http://www.iana.org/assignments/rtspv2-parameters">
+<reference anchor="RTSPV2-PARAMETERS__RTP-INFO" target="http://www.iana.org/assignments/rtspv2-parameters">
   <front>
     <title>RTP-Info Header Parameters</title>
     <author>

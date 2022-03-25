@@ -1,4 +1,4 @@
-<reference anchor="AUTO-RESPONSE-PARAMETERS/AUTO-RESPONSE-PARAMETERS-2" target="http://www.iana.org/assignments/auto-response-parameters">
+<reference anchor="AUTO-RESPONSE-PARAMETERS__AUTO-RESPONSE-PARAMETERS-2" target="http://www.iana.org/assignments/auto-response-parameters">
   <front>
     <title>Auto-Submitted header field optional parameters</title>
     <author>

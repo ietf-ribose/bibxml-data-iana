@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/METHOD-NAMES" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL__METHOD-NAMES" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Method Names</title>
     <author>

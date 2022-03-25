@@ -1,4 +1,4 @@
-<reference anchor="RSVP-PARAMETERS/RSVP-PARAMETERS-116" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="RSVP-PARAMETERS__RSVP-PARAMETERS-116" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Interface Id Error specification</title>
     <author>

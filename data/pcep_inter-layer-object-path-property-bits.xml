@@ -1,4 +1,4 @@
-<reference anchor="PCEP/INTER-LAYER-OBJECT-PATH-PROPERTY-BITS" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__INTER-LAYER-OBJECT-PATH-PROPERTY-BITS" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Inter-Layer Object Path Property Bits</title>
     <author>

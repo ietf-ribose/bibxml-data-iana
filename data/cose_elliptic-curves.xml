@@ -1,4 +1,4 @@
-<reference anchor="COSE/ELLIPTIC-CURVES" target="http://www.iana.org/assignments/cose">
+<reference anchor="COSE__ELLIPTIC-CURVES" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Elliptic Curves</title>
     <author>

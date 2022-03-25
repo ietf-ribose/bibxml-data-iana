@@ -1,4 +1,4 @@
-<reference anchor="GIST-PARAMETERS/GIST-MA-PROTOCOL-IDS" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="GIST-PARAMETERS__GIST-MA-PROTOCOL-IDS" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>GIST MA-Protocol-IDs</title>
     <author>

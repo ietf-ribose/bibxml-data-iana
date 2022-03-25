@@ -1,4 +1,4 @@
-<reference anchor="ETHERNET-NUMBERS/ETHERNET-NUMBERS-5" target="http://www.iana.org/assignments/ethernet-numbers">
+<reference anchor="ETHERNET-NUMBERS__ETHERNET-NUMBERS-5" target="http://www.iana.org/assignments/ethernet-numbers">
   <front>
     <title>The CFxxxx Series</title>
     <author>

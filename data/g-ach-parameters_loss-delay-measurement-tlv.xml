@@ -1,4 +1,4 @@
-<reference anchor="G-ACH-PARAMETERS/LOSS-DELAY-MEASUREMENT-TLV" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS__LOSS-DELAY-MEASUREMENT-TLV" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>MPLS Loss/Delay Measurement TLV Object</title>
     <author>

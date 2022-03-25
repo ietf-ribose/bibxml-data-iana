@@ -1,4 +1,4 @@
-<reference anchor="PCEP/METRIC-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__METRIC-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>METRIC Object Flag Field</title>
     <author>

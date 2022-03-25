@@ -1,4 +1,4 @@
-<reference anchor="CFM-OAM/TLV-TYPES" target="http://www.iana.org/assignments/cfm-oam">
+<reference anchor="CFM-OAM__TLV-TYPES" target="http://www.iana.org/assignments/cfm-oam">
   <front>
     <title>CFM OAM IETF TLV Types</title>
     <author>

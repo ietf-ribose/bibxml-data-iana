@@ -1,4 +1,4 @@
-<reference anchor="EMAIL-AUTH/PROPERTY-TYPES" target="http://www.iana.org/assignments/email-auth">
+<reference anchor="EMAIL-AUTH__PROPERTY-TYPES" target="http://www.iana.org/assignments/email-auth">
   <front>
     <title>Email Authentication Property Types</title>
     <author>

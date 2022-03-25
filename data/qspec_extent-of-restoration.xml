@@ -1,4 +1,4 @@
-<reference anchor="QSPEC/EXTENT-OF-RESTORATION" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC__EXTENT-OF-RESTORATION" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Extent of Restoration Field</title>
     <author>

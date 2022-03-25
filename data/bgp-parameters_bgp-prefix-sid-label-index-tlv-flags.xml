@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BGP-PREFIX-SID-LABEL-INDEX-TLV-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BGP-PREFIX-SID-LABEL-INDEX-TLV-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Prefix-SID Label-Index TLV Flags</title>
     <author>

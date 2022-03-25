@@ -1,4 +1,4 @@
-<reference anchor="TEAP-PARAMETERS/TRUSTED-SERVER-ROOT" target="http://www.iana.org/assignments/teap-parameters">
+<reference anchor="TEAP-PARAMETERS__TRUSTED-SERVER-ROOT" target="http://www.iana.org/assignments/teap-parameters">
   <front>
     <title>TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes</title>
     <author>

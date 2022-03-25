@@ -1,4 +1,4 @@
-<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-35" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS__L2TP-PARAMETERS-35" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Circuit Status Bits</title>
     <author>

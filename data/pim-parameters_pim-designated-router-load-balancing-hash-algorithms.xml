@@ -1,4 +1,4 @@
-<reference anchor="PIM-PARAMETERS/PIM-DESIGNATED-ROUTER-LOAD-BALANCING-HASH-ALGORITHMS" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="PIM-PARAMETERS__PIM-DESIGNATED-ROUTER-LOAD-BALANCING-HASH-ALGORITHMS" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM Designated Router Load-Balancing Hash Algorithms</title>
     <author>

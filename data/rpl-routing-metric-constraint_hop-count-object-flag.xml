@@ -1,4 +1,4 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/HOP-COUNT-OBJECT-FLAG" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT__HOP-COUNT-OBJECT-FLAG" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Hop-Count Object Flag field</title>
     <author>

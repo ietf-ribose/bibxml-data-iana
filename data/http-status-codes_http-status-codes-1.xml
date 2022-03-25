@@ -1,4 +1,4 @@
-<reference anchor="HTTP-STATUS-CODES/HTTP-STATUS-CODES-1" target="http://www.iana.org/assignments/http-status-codes">
+<reference anchor="HTTP-STATUS-CODES__HTTP-STATUS-CODES-1" target="http://www.iana.org/assignments/http-status-codes">
   <front>
     <title>HTTP Status Codes</title>
     <author>

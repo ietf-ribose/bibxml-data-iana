@@ -1,4 +1,4 @@
-<reference anchor="EAP-PAX/EAP-PAX-3" target="http://www.iana.org/assignments/eap-pax">
+<reference anchor="EAP-PAX__EAP-PAX-3" target="http://www.iana.org/assignments/eap-pax">
   <front>
     <title>Public Key ID Namespace</title>
     <author>

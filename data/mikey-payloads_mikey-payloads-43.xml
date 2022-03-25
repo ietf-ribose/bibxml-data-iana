@@ -1,4 +1,4 @@
-<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-43" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-43" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>ECC Curve</title>
     <author>

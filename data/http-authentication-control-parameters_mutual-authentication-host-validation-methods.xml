@@ -1,4 +1,4 @@
-<reference anchor="HTTP-AUTHENTICATION-CONTROL-PARAMETERS/MUTUAL-AUTHENTICATION-HOST-VALIDATION-METHODS" target="http://www.iana.org/assignments/http-authentication-control-parameters">
+<reference anchor="HTTP-AUTHENTICATION-CONTROL-PARAMETERS__MUTUAL-AUTHENTICATION-HOST-VALIDATION-METHODS" target="http://www.iana.org/assignments/http-authentication-control-parameters">
   <front>
     <title>HTTP Mutual Authentication Host Validation Methods</title>
     <author>

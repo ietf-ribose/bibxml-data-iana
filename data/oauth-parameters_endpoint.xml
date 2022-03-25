@@ -1,4 +1,4 @@
-<reference anchor="OAUTH-PARAMETERS/ENDPOINT" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS__ENDPOINT" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Authorization Endpoint Response Types</title>
     <author>

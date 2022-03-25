@@ -1,4 +1,4 @@
-<reference anchor="OSPF-OPAQUE-TYPES/OSPF-OPAQUE-TYPES-2" target="http://www.iana.org/assignments/ospf-opaque-types">
+<reference anchor="OSPF-OPAQUE-TYPES__OSPF-OPAQUE-TYPES-2" target="http://www.iana.org/assignments/ospf-opaque-types">
   <front>
     <title>Opaque Link-State Advertisements (LSA) Option Types</title>
     <author>

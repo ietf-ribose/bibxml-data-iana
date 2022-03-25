@@ -1,4 +1,4 @@
-<reference anchor="OAUTH-PARAMETERS/TOKEN-INTROSPECTION-RESPONSE" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS__TOKEN-INTROSPECTION-RESPONSE" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth Token Introspection Response</title>
     <author>

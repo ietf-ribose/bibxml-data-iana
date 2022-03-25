@@ -1,4 +1,4 @@
-<reference anchor="EMAIL-AUTH/EMAIL-AUTH-METHODS" target="http://www.iana.org/assignments/email-auth">
+<reference anchor="EMAIL-AUTH__EMAIL-AUTH-METHODS" target="http://www.iana.org/assignments/email-auth">
   <front>
     <title>Email Authentication Methods</title>
     <author>

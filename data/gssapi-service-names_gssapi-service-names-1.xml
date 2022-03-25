@@ -1,4 +1,4 @@
-<reference anchor="GSSAPI-SERVICE-NAMES/GSSAPI-SERVICE-NAMES-1" target="http://www.iana.org/assignments/gssapi-service-names">
+<reference anchor="GSSAPI-SERVICE-NAMES__GSSAPI-SERVICE-NAMES-1" target="http://www.iana.org/assignments/gssapi-service-names">
   <front>
     <title>GSSAPI/Kerberos/SASL Service Names</title>
     <author>

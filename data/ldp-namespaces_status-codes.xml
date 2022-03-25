@@ -1,4 +1,4 @@
-<reference anchor="LDP-NAMESPACES/STATUS-CODES" target="http://www.iana.org/assignments/ldp-namespaces">
+<reference anchor="LDP-NAMESPACES__STATUS-CODES" target="http://www.iana.org/assignments/ldp-namespaces">
   <front>
     <title>Status Code Name Space</title>
     <author>

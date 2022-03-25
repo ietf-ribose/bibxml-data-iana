@@ -1,4 +1,4 @@
-<reference anchor="RSVP-TE-PARAMETERS/WAVELENGTH-ASSIGNMENT-METHOD" target="http://www.iana.org/assignments/rsvp-te-parameters">
+<reference anchor="RSVP-TE-PARAMETERS__WAVELENGTH-ASSIGNMENT-METHOD" target="http://www.iana.org/assignments/rsvp-te-parameters">
   <front>
     <title>Values for Wavelength Assignment Method field in WavelengthSelection Sub-TLV</title>
     <author>

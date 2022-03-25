@@ -1,4 +1,4 @@
-<reference anchor="WEBSOCKET/VERSION-NUMBER" target="http://www.iana.org/assignments/websocket">
+<reference anchor="WEBSOCKET__VERSION-NUMBER" target="http://www.iana.org/assignments/websocket">
   <front>
     <title>WebSocket Version Number Registry</title>
     <author>

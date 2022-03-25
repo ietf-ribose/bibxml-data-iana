@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/MEDIACTRL-INTERACTIVE-VOICE-RESPONSE-CONTROL-PACKAGE-STATUS-CODES" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL__MEDIACTRL-INTERACTIVE-VOICE-RESPONSE-CONTROL-PACKAGE-STATUS-CODES" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>MEDIACTRL Interactive Voice Response Control Package Status Codes</title>
     <author>

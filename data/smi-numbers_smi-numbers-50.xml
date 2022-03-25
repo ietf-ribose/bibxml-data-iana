@@ -1,4 +1,4 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-50" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS__SMI-NUMBERS-50" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI Security for Name System Designators Codes (nametypes)</title>
     <author>

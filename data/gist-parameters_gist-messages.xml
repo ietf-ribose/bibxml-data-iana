@@ -1,4 +1,4 @@
-<reference anchor="GIST-PARAMETERS/GIST-MESSAGES" target="http://www.iana.org/assignments/gist-parameters">
+<reference anchor="GIST-PARAMETERS__GIST-MESSAGES" target="http://www.iana.org/assignments/gist-parameters">
   <front>
     <title>GIST Message Types</title>
     <author>

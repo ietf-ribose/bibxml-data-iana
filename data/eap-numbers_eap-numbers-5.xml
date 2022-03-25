@@ -1,4 +1,4 @@
-<reference anchor="EAP-NUMBERS/EAP-NUMBERS-5" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS__EAP-NUMBERS-5" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP-FAST TLV Types (Value 43)</title>
     <author>

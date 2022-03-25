@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-3" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-3" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>RADIUS Attribute Values</title>
     <author>

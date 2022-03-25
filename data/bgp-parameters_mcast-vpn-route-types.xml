@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/MCAST-VPN-ROUTE-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__MCAST-VPN-ROUTE-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP MCAST-VPN Route Types</title>
     <author>

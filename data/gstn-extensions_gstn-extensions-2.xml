@@ -1,4 +1,4 @@
-<reference anchor="GSTN-EXTENSIONS/GSTN-EXTENSIONS-2" target="http://www.iana.org/assignments/gstn-extensions">
+<reference anchor="GSTN-EXTENSIONS__GSTN-EXTENSIONS-2" target="http://www.iana.org/assignments/gstn-extensions">
   <front>
     <title>Service Selector</title>
     <author>

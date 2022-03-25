@@ -1,4 +1,4 @@
-<reference anchor="CPIM-HEADERS/CPIM-HEADERS-1" target="http://www.iana.org/assignments/cpim-headers">
+<reference anchor="CPIM-HEADERS__CPIM-HEADERS-1" target="http://www.iana.org/assignments/cpim-headers">
   <front>
     <title>CPIM Headers</title>
     <author>

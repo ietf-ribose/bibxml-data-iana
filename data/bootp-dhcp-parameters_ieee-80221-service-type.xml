@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/IEEE-80221-SERVICE-TYPE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__IEEE-80221-SERVICE-TYPE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>IEEE 802.21 Service Type (MoS DHCPv4 Address and FQDN Sub-Options)</title>
     <author>

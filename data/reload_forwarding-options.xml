@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/FORWARDING-OPTIONS" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__FORWARDING-OPTIONS" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Forwarding Option Registry</title>
     <author>

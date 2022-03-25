@@ -1,4 +1,4 @@
-<reference anchor="SIP-PRIV-VALUES/SIP-PRIV-VALUES-1" target="http://www.iana.org/assignments/sip-priv-values">
+<reference anchor="SIP-PRIV-VALUES__SIP-PRIV-VALUES-1" target="http://www.iana.org/assignments/sip-priv-values">
   <front>
     <title>SIP Privacy Header Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/RELATIONSHIP-TYPES" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__RELATIONSHIP-TYPES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Relationship Types</title>
     <author>

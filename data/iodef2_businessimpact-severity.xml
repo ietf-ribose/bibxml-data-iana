@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/BUSINESSIMPACT-SEVERITY" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__BUSINESSIMPACT-SEVERITY" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>BusinessImpact-severity</title>
     <author>

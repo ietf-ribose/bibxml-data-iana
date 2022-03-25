@@ -1,4 +1,4 @@
-<reference anchor="DLEP-PARAMETERS/STATUS-CODE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="DLEP-PARAMETERS__STATUS-CODE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>Status Code Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/DISCOVERY-SOURCE" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__DISCOVERY-SOURCE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Discovery-source</title>
     <author>

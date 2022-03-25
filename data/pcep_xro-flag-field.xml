@@ -1,4 +1,4 @@
-<reference anchor="PCEP/XRO-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__XRO-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>XRO Flag Field</title>
     <author>

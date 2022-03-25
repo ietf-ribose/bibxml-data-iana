@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-MESSAGE-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-MESSAGE-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Message Types</title>
     <author>

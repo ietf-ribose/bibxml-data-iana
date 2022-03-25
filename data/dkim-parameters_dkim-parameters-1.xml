@@ -1,4 +1,4 @@
-<reference anchor="DKIM-PARAMETERS/DKIM-PARAMETERS-1" target="http://www.iana.org/assignments/dkim-parameters">
+<reference anchor="DKIM-PARAMETERS__DKIM-PARAMETERS-1" target="http://www.iana.org/assignments/dkim-parameters">
   <front>
     <title>DKIM Signature Tag Specifications</title>
     <author>

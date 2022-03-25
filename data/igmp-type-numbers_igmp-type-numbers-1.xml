@@ -1,4 +1,4 @@
-<reference anchor="IGMP-TYPE-NUMBERS/IGMP-TYPE-NUMBERS-1" target="http://www.iana.org/assignments/igmp-type-numbers">
+<reference anchor="IGMP-TYPE-NUMBERS__IGMP-TYPE-NUMBERS-1" target="http://www.iana.org/assignments/igmp-type-numbers">
   <front>
     <title>IGMP Type Numbers</title>
     <author>

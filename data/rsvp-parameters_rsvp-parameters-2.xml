@@ -1,4 +1,4 @@
-<reference anchor="RSVP-PARAMETERS/RSVP-PARAMETERS-2" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="RSVP-PARAMETERS__RSVP-PARAMETERS-2" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Message Types</title>
     <author>

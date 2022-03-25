@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/RESOURCE-TYPES" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__RESOURCE-TYPES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Resource Types</title>
     <author>

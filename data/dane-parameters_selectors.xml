@@ -1,4 +1,4 @@
-<reference anchor="DANE-PARAMETERS/SELECTORS" target="http://www.iana.org/assignments/dane-parameters">
+<reference anchor="DANE-PARAMETERS__SELECTORS" target="http://www.iana.org/assignments/dane-parameters">
   <front>
     <title>TLSA Selectors</title>
     <author>

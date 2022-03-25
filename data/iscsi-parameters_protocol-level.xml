@@ -1,4 +1,4 @@
-<reference anchor="ISCSI-PARAMETERS/PROTOCOL-LEVEL" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS__PROTOCOL-LEVEL" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSCSI Protocol Level</title>
     <author>

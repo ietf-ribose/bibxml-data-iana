@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/HANDOVER-INITIATE-FLAGS" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__HANDOVER-INITIATE-FLAGS" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Handover Initiate Flags</title>
     <author>

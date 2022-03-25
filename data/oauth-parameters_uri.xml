@@ -1,4 +1,4 @@
-<reference anchor="OAUTH-PARAMETERS/URI" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS__URI" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>OAuth URI</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PB-TNC-PARAMETERS/PB-TNC-PARAMETERS-4" target="http://www.iana.org/assignments/pb-tnc-parameters">
+<reference anchor="PB-TNC-PARAMETERS__PB-TNC-PARAMETERS-4" target="http://www.iana.org/assignments/pb-tnc-parameters">
   <front>
     <title>PB-TNC Error Codes</title>
     <author>

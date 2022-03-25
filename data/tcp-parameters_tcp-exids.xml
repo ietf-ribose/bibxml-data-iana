@@ -1,4 +1,4 @@
-<reference anchor="TCP-PARAMETERS/TCP-EXIDS" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="TCP-PARAMETERS__TCP-EXIDS" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>TCP Experimental Option Experiment Identifiers (TCP ExIDs)</title>
     <author>

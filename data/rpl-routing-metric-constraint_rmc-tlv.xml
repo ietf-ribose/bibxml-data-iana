@@ -1,4 +1,4 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/RMC-TLV" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT__RMC-TLV" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Routing Metric/Constraint TLVs</title>
     <author>

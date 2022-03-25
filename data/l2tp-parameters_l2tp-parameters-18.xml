@@ -1,4 +1,4 @@
-<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-18" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS__L2TP-PARAMETERS-18" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>PPP Disconnect Cause Code (Attribute Type 46) Values</title>
     <author>

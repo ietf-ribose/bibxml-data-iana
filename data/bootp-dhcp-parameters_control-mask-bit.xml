@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/CONTROL-MASK-BIT" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__CONTROL-MASK-BIT" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>CableLabs Client Configuration Option Ticket Control Mask Bit Definitions</title>
     <author>

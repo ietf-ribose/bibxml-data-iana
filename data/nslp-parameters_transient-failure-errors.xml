@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/TRANSIENT-FAILURE-ERRORS" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__TRANSIENT-FAILURE-ERRORS" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>Transient Failure Codes</title>
     <author>

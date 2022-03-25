@@ -1,4 +1,4 @@
-<reference anchor="SIP-PARAMETERS/SIP-TRANSPORT" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS__SIP-TRANSPORT" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>SIP Transport</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ISAKMP-REGISTRY/ISAKMP-REGISTRY-5" target="http://www.iana.org/assignments/isakmp-registry">
+<reference anchor="ISAKMP-REGISTRY__ISAKMP-REGISTRY-5" target="http://www.iana.org/assignments/isakmp-registry">
   <front>
     <title>IPSEC ISAKMP Transform Identifiers</title>
     <author>

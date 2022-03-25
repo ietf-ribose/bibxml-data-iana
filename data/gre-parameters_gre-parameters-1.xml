@@ -1,4 +1,4 @@
-<reference anchor="GRE-PARAMETERS/GRE-PARAMETERS-1" target="http://www.iana.org/assignments/gre-parameters">
+<reference anchor="GRE-PARAMETERS__GRE-PARAMETERS-1" target="http://www.iana.org/assignments/gre-parameters">
   <front>
     <title>GRE Protocol Types</title>
     <author>

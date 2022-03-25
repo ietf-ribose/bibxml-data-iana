@@ -1,4 +1,4 @@
-<reference anchor="PERFORMANCE-METRICS/PERFORMANCE-METRICS-REGISTRY" target="http://www.iana.org/assignments/performance-metrics">
+<reference anchor="PERFORMANCE-METRICS__PERFORMANCE-METRICS-REGISTRY" target="http://www.iana.org/assignments/performance-metrics">
   <front>
     <title>Performance Metrics Registry</title>
     <author>

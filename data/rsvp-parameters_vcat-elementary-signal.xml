@@ -1,4 +1,4 @@
-<reference anchor="RSVP-PARAMETERS/VCAT-ELEMENTARY-SIGNAL" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="RSVP-PARAMETERS__VCAT-ELEMENTARY-SIGNAL" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>VCAT Elementary Signal Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="BMP-PARAMETERS/MESSAGE-TYPES" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS__MESSAGE-TYPES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Message Types</title>
     <author>

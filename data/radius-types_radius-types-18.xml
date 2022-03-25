@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-18" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-18" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Values for RADIUS Attribute 101, Error-Cause Attribute</title>
     <author>

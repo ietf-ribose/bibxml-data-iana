@@ -1,4 +1,4 @@
-<reference anchor="PCEP/NOTIFICATION-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__NOTIFICATION-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Notification Object Flag Field</title>
     <author>

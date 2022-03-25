@@ -1,4 +1,4 @@
-<reference anchor="RDDP/MPA-ERRORS" target="http://www.iana.org/assignments/rddp">
+<reference anchor="RDDP__MPA-ERRORS" target="http://www.iana.org/assignments/rddp">
   <front>
     <title>MPA Errors</title>
     <author>

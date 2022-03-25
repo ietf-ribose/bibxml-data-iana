@@ -1,4 +1,4 @@
-<reference anchor="NTP-PARAMETERS/NTP-PARAMETERS-3" target="http://www.iana.org/assignments/ntp-parameters">
+<reference anchor="NTP-PARAMETERS__NTP-PARAMETERS-3" target="http://www.iana.org/assignments/ntp-parameters">
   <front>
     <title>NTP Extension Field Types</title>
     <author>

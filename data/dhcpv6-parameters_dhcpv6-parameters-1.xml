@@ -1,4 +1,4 @@
-<reference anchor="DHCPV6-PARAMETERS/DHCPV6-PARAMETERS-1" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS__DHCPV6-PARAMETERS-1" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>Message Types</title>
     <author>

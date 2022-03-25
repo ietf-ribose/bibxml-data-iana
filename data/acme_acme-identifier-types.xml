@@ -1,4 +1,4 @@
-<reference anchor="ACME/ACME-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/acme">
+<reference anchor="ACME__ACME-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/acme">
   <front>
     <title>ACME Identifier Types</title>
     <author>

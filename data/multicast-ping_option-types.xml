@@ -1,4 +1,4 @@
-<reference anchor="MULTICAST-PING/OPTION-TYPES" target="http://www.iana.org/assignments/multicast-ping">
+<reference anchor="MULTICAST-PING__OPTION-TYPES" target="http://www.iana.org/assignments/multicast-ping">
   <front>
     <title>Multicast Ping Protocol Option Types</title>
     <author>

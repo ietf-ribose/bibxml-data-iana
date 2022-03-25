@@ -1,4 +1,4 @@
-<reference anchor="DHCPV6-PARAMETERS/PROCESSOR-ARCHITECTURE" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS__PROCESSOR-ARCHITECTURE" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>Processor Architecture Types</title>
     <author>

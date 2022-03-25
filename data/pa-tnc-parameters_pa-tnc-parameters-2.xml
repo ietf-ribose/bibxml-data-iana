@@ -1,4 +1,4 @@
-<reference anchor="PA-TNC-PARAMETERS/PA-TNC-PARAMETERS-2" target="http://www.iana.org/assignments/pa-tnc-parameters">
+<reference anchor="PA-TNC-PARAMETERS__PA-TNC-PARAMETERS-2" target="http://www.iana.org/assignments/pa-tnc-parameters">
   <front>
     <title>PA-TNC Error Codes</title>
     <author>

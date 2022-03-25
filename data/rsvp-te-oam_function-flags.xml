@@ -1,4 +1,4 @@
-<reference anchor="RSVP-TE-OAM/FUNCTION-FLAGS" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="RSVP-TE-OAM__FUNCTION-FLAGS" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>OAM Function Flags Sub-Registry</title>
     <author>

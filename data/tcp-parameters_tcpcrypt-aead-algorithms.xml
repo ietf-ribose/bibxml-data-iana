@@ -1,4 +1,4 @@
-<reference anchor="TCP-PARAMETERS/TCPCRYPT-AEAD-ALGORITHMS" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="TCP-PARAMETERS__TCPCRYPT-AEAD-ALGORITHMS" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>tcpcrypt AEAD Algorithms</title>
     <author>

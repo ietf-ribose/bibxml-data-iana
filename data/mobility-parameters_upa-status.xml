@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/UPA-STATUS" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__UPA-STATUS" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Update Notification Acknowledgement Status Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="AUTH-NAMESPACES/AUTH-NAMESPACES-1" target="http://www.iana.org/assignments/auth-namespaces">
+<reference anchor="AUTH-NAMESPACES__AUTH-NAMESPACES-1" target="http://www.iana.org/assignments/auth-namespaces">
   <front>
     <title>Protocol Name Space Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ANCP/TECHNOLOGY-TYPES" target="http://www.iana.org/assignments/ancp">
+<reference anchor="ANCP__TECHNOLOGY-TYPES" target="http://www.iana.org/assignments/ancp">
   <front>
     <title>ANCP Technology Types</title>
     <author>

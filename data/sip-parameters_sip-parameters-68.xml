@@ -1,4 +1,4 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-68" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-68" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>Geolocation-Error Codes</title>
     <author>

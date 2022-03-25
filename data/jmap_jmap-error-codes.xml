@@ -1,4 +1,4 @@
-<reference anchor="JMAP/JMAP-ERROR-CODES" target="http://www.iana.org/assignments/jmap">
+<reference anchor="JMAP__JMAP-ERROR-CODES" target="http://www.iana.org/assignments/jmap">
   <front>
     <title>JMAP Error Codes</title>
     <author>

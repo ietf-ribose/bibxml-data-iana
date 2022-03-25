@@ -1,4 +1,4 @@
-<reference anchor="ACME/ACME-ORDER-OBJECT-FIELDS" target="http://www.iana.org/assignments/acme">
+<reference anchor="ACME__ACME-ORDER-OBJECT-FIELDS" target="http://www.iana.org/assignments/acme">
   <front>
     <title>ACME Order Object Fields</title>
     <author>

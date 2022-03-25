@@ -1,4 +1,4 @@
-<reference anchor="GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-6" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="GSAKMP-PARAMETERS__GSAKMP-PARAMETERS-6" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Cryptographic Key Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/CLASSIFICATIONS" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__CLASSIFICATIONS" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Classifications</title>
     <author>

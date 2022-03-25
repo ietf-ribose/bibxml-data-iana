@@ -1,4 +1,4 @@
-<reference anchor="ALERT-URNS/PROVIDERS" target="http://www.iana.org/assignments/alert-urns">
+<reference anchor="ALERT-URNS__PROVIDERS" target="http://www.iana.org/assignments/alert-urns">
   <front>
     <title>Alert URN Providers</title>
     <author>

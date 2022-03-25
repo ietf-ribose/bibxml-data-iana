@@ -1,4 +1,4 @@
-<reference anchor="CBOR-TAGS/TAGS" target="http://www.iana.org/assignments/cbor-tags">
+<reference anchor="CBOR-TAGS__TAGS" target="http://www.iana.org/assignments/cbor-tags">
   <front>
     <title>CBOR Tags</title>
     <author>

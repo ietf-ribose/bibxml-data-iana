@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/NATFW-MESSAGE-TYPES" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__NATFW-MESSAGE-TYPES" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>NATFW NSLP Message Types</title>
     <author>

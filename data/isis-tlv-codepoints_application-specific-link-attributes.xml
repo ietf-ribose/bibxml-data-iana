@@ -1,4 +1,4 @@
-<reference anchor="ISIS-TLV-CODEPOINTS/APPLICATION-SPECIFIC-LINK-ATTRIBUTES" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="ISIS-TLV-CODEPOINTS__APPLICATION-SPECIFIC-LINK-ATTRIBUTES" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Sub-sub-TLV Codepoints for Application-Specific Link Attributes</title>
     <author>

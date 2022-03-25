@@ -1,4 +1,4 @@
-<reference anchor="PCEP/CCI-OBJECT-FLAG-FIELD-MPLS-LABEL" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__CCI-OBJECT-FLAG-FIELD-MPLS-LABEL" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>CCI Object Flag Field for MPLS Label</title>
     <author>

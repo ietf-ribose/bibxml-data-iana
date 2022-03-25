@@ -1,4 +1,4 @@
-<reference anchor="ICMPV6-PARAMETERS/ADDRESS-REGISTRATION" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS__ADDRESS-REGISTRATION" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Address Registration Option Status Values</title>
     <author>

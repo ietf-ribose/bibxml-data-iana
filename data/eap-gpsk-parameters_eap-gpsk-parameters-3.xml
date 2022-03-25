@@ -1,4 +1,4 @@
-<reference anchor="EAP-GPSK-PARAMETERS/EAP-GPSK-PARAMETERS-3" target="http://www.iana.org/assignments/eap-gpsk-parameters">
+<reference anchor="EAP-GPSK-PARAMETERS__EAP-GPSK-PARAMETERS-3" target="http://www.iana.org/assignments/eap-gpsk-parameters">
   <front>
     <title>EAP-GPSK Failure Codes</title>
     <author>

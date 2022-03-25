@@ -1,4 +1,4 @@
-<reference anchor="RDAP-PROVIDER-OBJECT-TAGS/RDAP-PROVIDER-OBJECT-TAGS-1" target="http://www.iana.org/assignments/rdap-provider-object-tags">
+<reference anchor="RDAP-PROVIDER-OBJECT-TAGS__RDAP-PROVIDER-OBJECT-TAGS-1" target="http://www.iana.org/assignments/rdap-provider-object-tags">
   <front>
     <title>RDAP Provider Object Tags</title>
     <author>

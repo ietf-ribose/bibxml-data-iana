@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/RESPONSE-CODES" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__RESPONSE-CODES" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>NATFW Response Codes</title>
     <author>

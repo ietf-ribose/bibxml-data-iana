@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES/APPLICATION" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES__APPLICATION" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>application</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="SCIM/DATA-RESOURCES" target="http://www.iana.org/assignments/scim">
+<reference anchor="SCIM__DATA-RESOURCES" target="http://www.iana.org/assignments/scim">
   <front>
     <title>SCIM Schema URIs for Data Resources</title>
     <author>

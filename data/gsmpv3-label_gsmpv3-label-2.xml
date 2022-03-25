@@ -1,4 +1,4 @@
-<reference anchor="GSMPV3-LABEL/GSMPV3-LABEL-2" target="http://www.iana.org/assignments/gsmpv3-label">
+<reference anchor="GSMPV3-LABEL__GSMPV3-LABEL-2" target="http://www.iana.org/assignments/gsmpv3-label">
   <front>
     <title>Label Type Names</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="CORE-PARAMETERS/SIGNALING-OPTION-NUMBERS" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="CORE-PARAMETERS__SIGNALING-OPTION-NUMBERS" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>CoAP Signaling Option Numbers</title>
     <author>

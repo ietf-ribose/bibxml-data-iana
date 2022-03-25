@@ -1,4 +1,4 @@
-<reference anchor="IPV4-RECOVERED-ADDRESS-SPACE/IPV4-RECOVERED-ADDRESS-SPACE-1" target="http://www.iana.org/assignments/ipv4-recovered-address-space">
+<reference anchor="IPV4-RECOVERED-ADDRESS-SPACE__IPV4-RECOVERED-ADDRESS-SPACE-1" target="http://www.iana.org/assignments/ipv4-recovered-address-space">
   <front>
     <title>Current Recovered IPv4 Pool</title>
     <author>

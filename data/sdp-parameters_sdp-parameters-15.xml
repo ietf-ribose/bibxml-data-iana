@@ -1,4 +1,4 @@
-<reference anchor="SDP-PARAMETERS/SDP-PARAMETERS-15" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS__SDP-PARAMETERS-15" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>"ack" and "nack" Attribute Values</title>
     <author>

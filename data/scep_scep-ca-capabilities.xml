@@ -1,4 +1,4 @@
-<reference anchor="SCEP/SCEP-CA-CAPABILITIES" target="http://www.iana.org/assignments/scep">
+<reference anchor="SCEP__SCEP-CA-CAPABILITIES" target="http://www.iana.org/assignments/scep">
   <front>
     <title>SCEP CA Capabilities</title>
     <author>

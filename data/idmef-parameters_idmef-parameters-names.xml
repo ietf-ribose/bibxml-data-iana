@@ -1,4 +1,4 @@
-<reference anchor="IDMEF-PARAMETERS/IDMEF-PARAMETERS-NAMES" target="http://www.iana.org/assignments/idmef-parameters">
+<reference anchor="IDMEF-PARAMETERS__IDMEF-PARAMETERS-NAMES" target="http://www.iana.org/assignments/idmef-parameters">
   <front>
     <title>Class and Attribute Names</title>
     <author>

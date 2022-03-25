@@ -1,4 +1,4 @@
-<reference anchor="ISCSI-PARAMETERS/MANAGEMENT-FUNCTION-RESPONSE" target="http://www.iana.org/assignments/iscsi-parameters">
+<reference anchor="ISCSI-PARAMETERS__MANAGEMENT-FUNCTION-RESPONSE" target="http://www.iana.org/assignments/iscsi-parameters">
   <front>
     <title>iSCSI Task Management Function Response Codes</title>
     <author>

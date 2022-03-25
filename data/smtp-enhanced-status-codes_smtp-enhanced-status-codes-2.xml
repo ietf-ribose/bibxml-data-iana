@@ -1,4 +1,4 @@
-<reference anchor="SMTP-ENHANCED-STATUS-CODES/SMTP-ENHANCED-STATUS-CODES-2" target="http://www.iana.org/assignments/smtp-enhanced-status-codes">
+<reference anchor="SMTP-ENHANCED-STATUS-CODES__SMTP-ENHANCED-STATUS-CODES-2" target="http://www.iana.org/assignments/smtp-enhanced-status-codes">
   <front>
     <title>Subject Sub-Codes</title>
     <author>

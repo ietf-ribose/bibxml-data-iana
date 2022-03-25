@@ -1,4 +1,4 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES/TRANSITIVE" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES__TRANSITIVE" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>BGP Transitive Extended Community Types</title>
     <author>

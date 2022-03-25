@@ -1,4 +1,4 @@
-<reference anchor="RDAP-EXTENSIONS/RDAP-EXTENSIONS-1" target="http://www.iana.org/assignments/rdap-extensions">
+<reference anchor="RDAP-EXTENSIONS__RDAP-EXTENSIONS-1" target="http://www.iana.org/assignments/rdap-extensions">
   <front>
     <title>RDAP Extensions</title>
     <author>

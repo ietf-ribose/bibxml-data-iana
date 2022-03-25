@@ -1,4 +1,4 @@
-<reference anchor="OSPFV3-PARAMETERS/EXTENDED-LSA-SUB-TLVS" target="http://www.iana.org/assignments/ospfv3-parameters">
+<reference anchor="OSPFV3-PARAMETERS__EXTENDED-LSA-SUB-TLVS" target="http://www.iana.org/assignments/ospfv3-parameters">
   <front>
     <title>OSPFv3 Extended-LSA Sub-TLVs</title>
     <author>

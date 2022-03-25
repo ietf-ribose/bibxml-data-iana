@@ -1,4 +1,4 @@
-<reference anchor="BABEL/FLAGS" target="http://www.iana.org/assignments/babel">
+<reference anchor="BABEL__FLAGS" target="http://www.iana.org/assignments/babel">
   <front>
     <title>Babel Update Flags Values</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/ADDRESS-TLV-HELLO" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__ADDRESS-TLV-HELLO" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>HELLO Message-Type-specific Address Block TLV Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="DSSC/CRYPTOGRAPHIC" target="http://www.iana.org/assignments/dssc">
+<reference anchor="DSSC__CRYPTOGRAPHIC" target="http://www.iana.org/assignments/dssc">
   <front>
     <title>Cryptographic Algorithms</title>
     <author>

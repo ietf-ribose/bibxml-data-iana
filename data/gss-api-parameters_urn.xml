@@ -1,4 +1,4 @@
-<reference anchor="GSS-API-PARAMETERS/URN" target="http://www.iana.org/assignments/gss-api-parameters">
+<reference anchor="GSS-API-PARAMETERS__URN" target="http://www.iana.org/assignments/gss-api-parameters">
   <front>
     <title>GSS-API URN Parameters</title>
     <author>

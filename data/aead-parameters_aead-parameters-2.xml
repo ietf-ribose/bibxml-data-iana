@@ -1,4 +1,4 @@
-<reference anchor="AEAD-PARAMETERS/AEAD-PARAMETERS-2" target="http://www.iana.org/assignments/aead-parameters">
+<reference anchor="AEAD-PARAMETERS__AEAD-PARAMETERS-2" target="http://www.iana.org/assignments/aead-parameters">
   <front>
     <title>AEAD Algorithms</title>
     <author>

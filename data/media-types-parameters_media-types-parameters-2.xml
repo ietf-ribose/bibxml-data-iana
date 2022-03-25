@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES-PARAMETERS/MEDIA-TYPES-PARAMETERS-2" target="http://www.iana.org/assignments/media-types-parameters">
+<reference anchor="MEDIA-TYPES-PARAMETERS__MEDIA-TYPES-PARAMETERS-2" target="http://www.iana.org/assignments/media-types-parameters">
   <front>
     <title>X.400 to MIME Table - Basic Body Parts</title>
     <author>

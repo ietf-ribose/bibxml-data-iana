@@ -1,4 +1,4 @@
-<reference anchor="RID/XML-SCHEMAS" target="http://www.iana.org/assignments/rid">
+<reference anchor="RID__XML-SCHEMAS" target="http://www.iana.org/assignments/rid">
   <front>
     <title>XML Schemas Exchanged via RID</title>
     <author>

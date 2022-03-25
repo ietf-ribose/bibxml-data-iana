@@ -1,4 +1,4 @@
-<reference anchor="DLEP-PARAMETERS/IPV4-ADDRESS-FLAGS" target="http://www.iana.org/assignments/dlep-parameters">
+<reference anchor="DLEP-PARAMETERS__IPV4-ADDRESS-FLAGS" target="http://www.iana.org/assignments/dlep-parameters">
   <front>
     <title>IPv4 Address Flags</title>
     <author>

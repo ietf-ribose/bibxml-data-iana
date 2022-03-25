@@ -1,4 +1,4 @@
-<reference anchor="PWE3-PARAMETERS/GACH-ETHERNET" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS__GACH-ETHERNET" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>G-ACh Advertisement Protocol: Ethernet Interface Parameters</title>
     <author>

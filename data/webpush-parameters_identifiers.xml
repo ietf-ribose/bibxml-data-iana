@@ -1,4 +1,4 @@
-<reference anchor="WEBPUSH-PARAMETERS/IDENTIFIERS" target="http://www.iana.org/assignments/webpush-parameters">
+<reference anchor="WEBPUSH-PARAMETERS__IDENTIFIERS" target="http://www.iana.org/assignments/webpush-parameters">
   <front>
     <title>Web Push Identifiers</title>
     <author>

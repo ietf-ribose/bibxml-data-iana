@@ -1,4 +1,4 @@
-<reference anchor="PGP-PARAMETERS/PGP-PARAMETERS-12" target="http://www.iana.org/assignments/pgp-parameters">
+<reference anchor="PGP-PARAMETERS__PGP-PARAMETERS-12" target="http://www.iana.org/assignments/pgp-parameters">
   <front>
     <title>Public Key Algorithms</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="BGP-LS-PARAMETERS/NLRI-TYPES" target="http://www.iana.org/assignments/bgp-ls-parameters">
+<reference anchor="BGP-LS-PARAMETERS__NLRI-TYPES" target="http://www.iana.org/assignments/bgp-ls-parameters">
   <front>
     <title>BGP-LS NLRI-Types</title>
     <author>

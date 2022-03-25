@@ -1,4 +1,4 @@
-<reference anchor="DNSSEC-NSEC3-PARAMETERS/DNSSEC-NSEC3-PARAMETERS-1" target="http://www.iana.org/assignments/dnssec-nsec3-parameters">
+<reference anchor="DNSSEC-NSEC3-PARAMETERS__DNSSEC-NSEC3-PARAMETERS-1" target="http://www.iana.org/assignments/dnssec-nsec3-parameters">
   <front>
     <title>DNSSEC NSEC3 Flags</title>
     <author>

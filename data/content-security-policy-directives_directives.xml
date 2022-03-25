@@ -1,4 +1,4 @@
-<reference anchor="CONTENT-SECURITY-POLICY-DIRECTIVES/DIRECTIVES" target="http://www.iana.org/assignments/content-security-policy-directives">
+<reference anchor="CONTENT-SECURITY-POLICY-DIRECTIVES__DIRECTIVES" target="http://www.iana.org/assignments/content-security-policy-directives">
   <front>
     <title>Content Security Policy Directives</title>
     <author>

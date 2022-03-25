@@ -1,4 +1,4 @@
-<reference anchor="NHRP-TYPES/NHRP-TYPES-2" target="http://www.iana.org/assignments/nhrp-types">
+<reference anchor="NHRP-TYPES__NHRP-TYPES-2" target="http://www.iana.org/assignments/nhrp-types">
   <front>
     <title>NHRP Extension Types</title>
     <author>

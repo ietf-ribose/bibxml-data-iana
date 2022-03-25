@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/CONTACT-TYPE" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__CONTACT-TYPE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Contact-type</title>
     <author>

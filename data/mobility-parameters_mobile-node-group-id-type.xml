@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/MOBILE-NODE-GROUP-ID-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__MOBILE-NODE-GROUP-ID-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Mobile Node Group Identifier Type Registry</title>
     <author>

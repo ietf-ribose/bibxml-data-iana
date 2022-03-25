@@ -1,4 +1,4 @@
-<reference anchor="MULTICAST-ADDRESSES/UNICAST-PREFIX-BASED" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="MULTICAST-ADDRESSES__UNICAST-PREFIX-BASED" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>Unicast-Prefix-based IPv4 Multicast Addresses</title>
     <author>

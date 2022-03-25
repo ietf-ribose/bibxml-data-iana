@@ -1,4 +1,4 @@
-<reference anchor="CORE-PARAMETERS/IF-LINK-TARGET-ATT-VALUE" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="CORE-PARAMETERS__IF-LINK-TARGET-ATT-VALUE" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>Interface Description (if=) Link Target Attribute Values</title>
     <author>

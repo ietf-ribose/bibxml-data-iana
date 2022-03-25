@@ -1,4 +1,4 @@
-<reference anchor="SIEVE-NOTIFICATION/SIEVE-NOTIFICATION-2" target="http://www.iana.org/assignments/sieve-notification">
+<reference anchor="SIEVE-NOTIFICATION__SIEVE-NOTIFICATION-2" target="http://www.iana.org/assignments/sieve-notification">
   <front>
     <title>Sieve Notification Mechanisms</title>
     <author>

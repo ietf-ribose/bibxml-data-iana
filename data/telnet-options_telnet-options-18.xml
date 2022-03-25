@@ -1,4 +1,4 @@
-<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-18" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-18" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>CAST5_40_OFB64 (Type 9) and CAST128_OFB64 (Type 11) Telnet Encryption Types</title>
     <author>

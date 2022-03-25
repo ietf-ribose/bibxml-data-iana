@@ -1,4 +1,4 @@
-<reference anchor="RTCP-XR-BLOCK-TYPES/MOS-METRIC" target="http://www.iana.org/assignments/rtcp-xr-block-types">
+<reference anchor="RTCP-XR-BLOCK-TYPES__MOS-METRIC" target="http://www.iana.org/assignments/rtcp-xr-block-types">
   <front>
     <title>RTCP XR MOS Metric block - multimedia application Calculation Algorithm</title>
     <author>

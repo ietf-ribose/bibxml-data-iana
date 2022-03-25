@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/LOCAL-IF-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__LOCAL-IF-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>Type 2 Address Block TLV Type Extensions</title>
     <author>

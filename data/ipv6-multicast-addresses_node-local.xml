@@ -1,4 +1,4 @@
-<reference anchor="IPV6-MULTICAST-ADDRESSES/NODE-LOCAL" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
+<reference anchor="IPV6-MULTICAST-ADDRESSES__NODE-LOCAL" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
   <front>
     <title>Node-Local Scope Multicast Addresses</title>
     <author>

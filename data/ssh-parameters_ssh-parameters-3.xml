@@ -1,4 +1,4 @@
-<reference anchor="SSH-PARAMETERS/SSH-PARAMETERS-3" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="SSH-PARAMETERS__SSH-PARAMETERS-3" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Disconnection Messages Reason Codes and Descriptions</title>
     <author>

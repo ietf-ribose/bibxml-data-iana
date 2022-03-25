@@ -1,4 +1,4 @@
-<reference anchor="BUNDLE/STATUS-REPORT" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE__STATUS-REPORT" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Status Report Flags</title>
     <author>

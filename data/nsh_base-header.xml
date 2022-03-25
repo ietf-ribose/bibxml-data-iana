@@ -1,4 +1,4 @@
-<reference anchor="NSH/BASE-HEADER" target="http://www.iana.org/assignments/nsh">
+<reference anchor="NSH__BASE-HEADER" target="http://www.iana.org/assignments/nsh">
   <front>
     <title>NSH Base Header Bits</title>
     <author>

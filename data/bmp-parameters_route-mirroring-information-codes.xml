@@ -1,4 +1,4 @@
-<reference anchor="BMP-PARAMETERS/ROUTE-MIRRORING-INFORMATION-CODES" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS__ROUTE-MIRRORING-INFORMATION-CODES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Route Mirroring Information Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BFD-DISCRIMINATOR-OPTIONAL-TLV-TYPE" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BFD-DISCRIMINATOR-OPTIONAL-TLV-TYPE" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BFD Discriminator Optional TLV Type</title>
     <author>

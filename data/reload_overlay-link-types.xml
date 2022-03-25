@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/OVERLAY-LINK-TYPES" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__OVERLAY-LINK-TYPES" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Overlay Link Registry</title>
     <author>

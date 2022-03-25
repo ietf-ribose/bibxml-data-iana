@@ -1,4 +1,4 @@
-<reference anchor="BABEL/AE" target="http://www.iana.org/assignments/babel">
+<reference anchor="BABEL__AE" target="http://www.iana.org/assignments/babel">
   <front>
     <title>Babel Address Encodings</title>
     <author>

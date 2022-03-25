@@ -1,4 +1,4 @@
-<reference anchor="ROLIE/INFORMATION-TYPE" target="http://www.iana.org/assignments/rolie">
+<reference anchor="ROLIE__INFORMATION-TYPE" target="http://www.iana.org/assignments/rolie">
   <front>
     <title>ROLIE Information Types</title>
     <author>

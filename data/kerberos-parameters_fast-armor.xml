@@ -1,4 +1,4 @@
-<reference anchor="KERBEROS-PARAMETERS/FAST-ARMOR" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="KERBEROS-PARAMETERS__FAST-ARMOR" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>FAST Armor Types</title>
     <author>

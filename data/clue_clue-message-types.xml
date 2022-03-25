@@ -1,4 +1,4 @@
-<reference anchor="CLUE/CLUE-MESSAGE-TYPES" target="http://www.iana.org/assignments/clue">
+<reference anchor="CLUE__CLUE-MESSAGE-TYPES" target="http://www.iana.org/assignments/clue">
   <front>
     <title>CLUE Message Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="C-DNS/C-DNS-ADDRESS-EVENT-TYPES" target="http://www.iana.org/assignments/c-dns">
+<reference anchor="C-DNS__C-DNS-ADDRESS-EVENT-TYPES" target="http://www.iana.org/assignments/c-dns">
   <front>
     <title>C-DNS Address Event Types</title>
     <author>

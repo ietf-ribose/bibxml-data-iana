@@ -1,4 +1,4 @@
-<reference anchor="KERBEROS-PARAMETERS/KERBEROS-PARAMETERS-1" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="KERBEROS-PARAMETERS__KERBEROS-PARAMETERS-1" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Kerberos Encryption Type Numbers</title>
     <author>

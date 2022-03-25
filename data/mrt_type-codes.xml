@@ -1,4 +1,4 @@
-<reference anchor="MRT/TYPE-CODES" target="http://www.iana.org/assignments/mrt">
+<reference anchor="MRT__TYPE-CODES" target="http://www.iana.org/assignments/mrt">
   <front>
     <title>Type Codes</title>
     <author>

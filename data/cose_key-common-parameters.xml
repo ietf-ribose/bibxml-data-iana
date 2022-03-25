@@ -1,4 +1,4 @@
-<reference anchor="COSE/KEY-COMMON-PARAMETERS" target="http://www.iana.org/assignments/cose">
+<reference anchor="COSE__KEY-COMMON-PARAMETERS" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Key Common Parameters</title>
     <author>

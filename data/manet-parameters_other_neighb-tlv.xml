@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/OTHER_NEIGHB-TLV" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__OTHER_NEIGHB-TLV" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>OTHER_NEIGHB TLV Values</title>
     <author>

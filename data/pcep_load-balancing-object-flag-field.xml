@@ -1,4 +1,4 @@
-<reference anchor="PCEP/LOAD-BALANCING-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__LOAD-BALANCING-OBJECT-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>LOAD-BALANCING Object Flag Field</title>
     <author>

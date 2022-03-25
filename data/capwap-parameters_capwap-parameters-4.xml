@@ -1,4 +1,4 @@
-<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-4" target="http://www.iana.org/assignments/capwap-parameters">
+<reference anchor="CAPWAP-PARAMETERS__CAPWAP-PARAMETERS-4" target="http://www.iana.org/assignments/capwap-parameters">
   <front>
     <title>CAPWAP Message Element Type</title>
     <author>

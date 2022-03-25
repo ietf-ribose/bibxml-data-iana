@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/ALTITUDE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__ALTITUDE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>Altitude Type Registry</title>
     <author>

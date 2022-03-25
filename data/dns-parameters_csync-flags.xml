@@ -1,4 +1,4 @@
-<reference anchor="DNS-PARAMETERS/CSYNC-FLAGS" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="DNS-PARAMETERS__CSYNC-FLAGS" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>Child Synchronization (CSYNC) Flags</title>
     <author>

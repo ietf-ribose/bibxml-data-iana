@@ -1,4 +1,4 @@
-<reference anchor="LDAP-PARAMETERS/LDAP-PARAMETERS-4" target="http://www.iana.org/assignments/ldap-parameters">
+<reference anchor="LDAP-PARAMETERS__LDAP-PARAMETERS-4" target="http://www.iana.org/assignments/ldap-parameters">
   <front>
     <title>Attribute Description Options</title>
     <author>

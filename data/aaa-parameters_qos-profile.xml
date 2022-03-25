@@ -1,4 +1,4 @@
-<reference anchor="AAA-PARAMETERS/QOS-PROFILE" target="http://www.iana.org/assignments/aaa-parameters">
+<reference anchor="AAA-PARAMETERS__QOS-PROFILE" target="http://www.iana.org/assignments/aaa-parameters">
   <front>
     <title>QoS Profiles</title>
     <author>

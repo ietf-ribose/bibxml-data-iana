@@ -1,4 +1,4 @@
-<reference anchor="KEYNOTE/KEYNOTE-2" target="http://www.iana.org/assignments/keynote">
+<reference anchor="KEYNOTE__KEYNOTE-2" target="http://www.iana.org/assignments/keynote">
   <front>
     <title>KeyNote Public Key Format Identifiers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BGP-PARAMETERS-10" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BGP-PARAMETERS-10" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Outbound Route Filtering (ORF) Types</title>
     <author>

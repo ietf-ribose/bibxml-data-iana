@@ -1,4 +1,4 @@
-<reference anchor="TRANS/TRANS-SIGNATURE-ALGORITHMS" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS__TRANS-SIGNATURE-ALGORITHMS" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Signature Algorithms</title>
     <author>

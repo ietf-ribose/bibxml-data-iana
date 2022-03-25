@@ -1,4 +1,4 @@
-<reference anchor="IP-PARAMETERS/IP-PARAMETERS-4" target="http://www.iana.org/assignments/ip-parameters">
+<reference anchor="IP-PARAMETERS__IP-PARAMETERS-4" target="http://www.iana.org/assignments/ip-parameters">
   <front>
     <title>Type-of-Service Values</title>
     <author>

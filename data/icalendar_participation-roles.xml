@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/PARTICIPATION-ROLES" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__PARTICIPATION-ROLES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Participation Roles</title>
     <author>

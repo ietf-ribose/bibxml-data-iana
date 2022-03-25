@@ -1,4 +1,4 @@
-<reference anchor="CORE-PARAMETERS/RD-PARAMETERS" target="http://www.iana.org/assignments/core-parameters">
+<reference anchor="CORE-PARAMETERS__RD-PARAMETERS" target="http://www.iana.org/assignments/core-parameters">
   <front>
     <title>RD Parameters</title>
     <author>

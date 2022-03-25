@@ -1,4 +1,4 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-59" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS__SMI-NUMBERS-59" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI SNMPv2 Codes</title>
     <author>

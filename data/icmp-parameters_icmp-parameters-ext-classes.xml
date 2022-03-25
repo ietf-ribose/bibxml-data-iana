@@ -1,4 +1,4 @@
-<reference anchor="ICMP-PARAMETERS/ICMP-PARAMETERS-EXT-CLASSES" target="http://www.iana.org/assignments/icmp-parameters">
+<reference anchor="ICMP-PARAMETERS__ICMP-PARAMETERS-EXT-CLASSES" target="http://www.iana.org/assignments/icmp-parameters">
   <front>
     <title>ICMP Extension Object Classes and Class Sub-types</title>
     <author>

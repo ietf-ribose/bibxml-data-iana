@@ -1,4 +1,4 @@
-<reference anchor="LGR-DISPOSITIONS/STANDARD-DISPOSITIONS" target="http://www.iana.org/assignments/lgr-dispositions">
+<reference anchor="LGR-DISPOSITIONS__STANDARD-DISPOSITIONS" target="http://www.iana.org/assignments/lgr-dispositions">
   <front>
     <title>Standard Dispositions</title>
     <author>

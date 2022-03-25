@@ -1,4 +1,4 @@
-<reference anchor="GSMPV3-FAILURE/GSMPV3-FAILURE-2" target="http://www.iana.org/assignments/gsmpv3-failure">
+<reference anchor="GSMPV3-FAILURE__GSMPV3-FAILURE-2" target="http://www.iana.org/assignments/gsmpv3-failure">
   <front>
     <title>Failure Response Message Names</title>
     <author>

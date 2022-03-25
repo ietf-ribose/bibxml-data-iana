@@ -1,4 +1,4 @@
-<reference anchor="TRANS/TRANS-HASH-ALGORITHMS" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS__TRANS-HASH-ALGORITHMS" target="http://www.iana.org/assignments/trans">
   <front>
     <title>Hash Algorithms</title>
     <author>

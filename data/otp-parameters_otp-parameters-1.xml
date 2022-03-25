@@ -1,4 +1,4 @@
-<reference anchor="OTP-PARAMETERS/OTP-PARAMETERS-1" target="http://www.iana.org/assignments/otp-parameters">
+<reference anchor="OTP-PARAMETERS__OTP-PARAMETERS-1" target="http://www.iana.org/assignments/otp-parameters">
   <front>
     <title>Algorithm Identifier</title>
     <author>

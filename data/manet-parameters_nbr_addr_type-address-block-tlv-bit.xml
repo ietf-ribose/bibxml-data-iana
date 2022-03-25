@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/NBR_ADDR_TYPE-ADDRESS-BLOCK-TLV-BIT" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__NBR_ADDR_TYPE-ADDRESS-BLOCK-TLV-BIT" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>NBR_ADDR_TYPE Address Block TLV Bit Values</title>
     <author>

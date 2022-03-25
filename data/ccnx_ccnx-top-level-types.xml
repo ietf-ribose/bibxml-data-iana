@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-TOP-LEVEL-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-TOP-LEVEL-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Top-Level Types</title>
     <author>

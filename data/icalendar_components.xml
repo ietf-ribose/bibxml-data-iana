@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/COMPONENTS" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__COMPONENTS" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Components</title>
     <author>

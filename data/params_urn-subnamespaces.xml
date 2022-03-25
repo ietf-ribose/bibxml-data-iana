@@ -1,4 +1,4 @@
-<reference anchor="PARAMS/URN-SUBNAMESPACES" target="http://www.iana.org/assignments/params">
+<reference anchor="PARAMS__URN-SUBNAMESPACES" target="http://www.iana.org/assignments/params">
   <front>
     <title>IETF URN Sub-namespaces</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RID/ENUMERATION" target="http://www.iana.org/assignments/rid">
+<reference anchor="RID__ENUMERATION" target="http://www.iana.org/assignments/rid">
   <front>
     <title>RID Enumeration List</title>
     <author>

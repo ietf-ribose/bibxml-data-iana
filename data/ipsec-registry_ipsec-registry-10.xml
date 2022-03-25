@@ -1,4 +1,4 @@
-<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-10" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-10" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Group Description (Value 4)</title>
     <author>

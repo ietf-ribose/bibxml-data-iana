@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES/AUDIO" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES__AUDIO" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>audio</title>
     <author>

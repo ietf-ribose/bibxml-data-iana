@@ -1,4 +1,4 @@
-<reference anchor="IODEF/SCI-SPEC" target="http://www.iana.org/assignments/iodef">
+<reference anchor="IODEF__SCI-SPEC" target="http://www.iana.org/assignments/iodef">
   <front>
     <title>Structured Cybersecurity Information (SCI) Specifications</title>
     <author>

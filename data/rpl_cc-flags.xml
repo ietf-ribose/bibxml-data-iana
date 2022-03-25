@@ -1,4 +1,4 @@
-<reference anchor="RPL/CC-FLAGS" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL__CC-FLAGS" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Consistency Check (CC) Flags</title>
     <author>

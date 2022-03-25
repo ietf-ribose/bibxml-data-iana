@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/ACTIONS" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__ACTIONS" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Actions</title>
     <author>

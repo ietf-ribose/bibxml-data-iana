@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/DIAGNOSTIC-KIND-ID" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__DIAGNOSTIC-KIND-ID" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Diagnostic Kind ID</title>
     <author>

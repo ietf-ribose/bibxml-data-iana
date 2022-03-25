@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/VSS-TYPE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__VSS-TYPE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>VSS Type Options</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="SECURITY-LABEL-FORMAT-SELECTION/SECURITY-LABEL-FORMAT-SELECTION-REGISTRY" target="http://www.iana.org/assignments/security-label-format-selection">
+<reference anchor="SECURITY-LABEL-FORMAT-SELECTION__SECURITY-LABEL-FORMAT-SELECTION-REGISTRY" target="http://www.iana.org/assignments/security-label-format-selection">
   <front>
     <title>Security Label Format Selection Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="WEBSOCKET/SUBPROTOCOL-NAME" target="http://www.iana.org/assignments/websocket">
+<reference anchor="WEBSOCKET__SUBPROTOCOL-NAME" target="http://www.iana.org/assignments/websocket">
   <front>
     <title>WebSocket Subprotocol Name Registry</title>
     <author>

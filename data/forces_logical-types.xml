@@ -1,4 +1,4 @@
-<reference anchor="FORCES/LOGICAL-TYPES" target="http://www.iana.org/assignments/forces">
+<reference anchor="FORCES__LOGICAL-TYPES" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Logical Functional Block (LFB) Class Names and Class Identifiers</title>
     <author>

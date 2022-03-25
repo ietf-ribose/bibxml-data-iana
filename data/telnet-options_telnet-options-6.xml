@@ -1,4 +1,4 @@
-<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-6" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-6" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>KERBEROS_V5 Telnet Authentication Type (Type 2)</title>
     <author>

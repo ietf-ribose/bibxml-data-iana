@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/NTP-TIME-SOURCE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__NTP-TIME-SOURCE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>NTP Time Source Suboptions</title>
     <author>

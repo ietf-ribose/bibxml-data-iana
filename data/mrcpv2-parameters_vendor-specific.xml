@@ -1,4 +1,4 @@
-<reference anchor="MRCPV2-PARAMETERS/VENDOR-SPECIFIC" target="http://www.iana.org/assignments/mrcpv2-parameters">
+<reference anchor="MRCPV2-PARAMETERS__VENDOR-SPECIFIC" target="http://www.iana.org/assignments/mrcpv2-parameters">
   <front>
     <title>MRCPv2 Vendor-Specific Parameters</title>
     <author>

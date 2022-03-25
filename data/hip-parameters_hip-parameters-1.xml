@@ -1,4 +1,4 @@
-<reference anchor="HIP-PARAMETERS/HIP-PARAMETERS-1" target="http://www.iana.org/assignments/hip-parameters">
+<reference anchor="HIP-PARAMETERS__HIP-PARAMETERS-1" target="http://www.iana.org/assignments/hip-parameters">
   <front>
     <title>Packet Types</title>
     <author>

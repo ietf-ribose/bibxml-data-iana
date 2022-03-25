@@ -1,4 +1,4 @@
-<reference anchor="EAP-FAST-PARAMETERS/EAP-FAST-PARAMETERS-7" target="http://www.iana.org/assignments/eap-fast-parameters">
+<reference anchor="EAP-FAST-PARAMETERS__EAP-FAST-PARAMETERS-7" target="http://www.iana.org/assignments/eap-fast-parameters">
   <front>
     <title>EAP-FAST GTC Error Codes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PASSPORT/PASSPORT-RPH-TYPES" target="http://www.iana.org/assignments/passport">
+<reference anchor="PASSPORT__PASSPORT-RPH-TYPES" target="http://www.iana.org/assignments/passport">
   <front>
     <title>PASSporT Resource Priority Header (rph) Types</title>
     <author>

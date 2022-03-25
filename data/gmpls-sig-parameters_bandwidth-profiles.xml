@@ -1,4 +1,4 @@
-<reference anchor="GMPLS-SIG-PARAMETERS/BANDWIDTH-PROFILES" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS__BANDWIDTH-PROFILES" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Ethernet Bandwidth Profiles</title>
     <author>

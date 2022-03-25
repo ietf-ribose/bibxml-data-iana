@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/NODEROLE-CATEGORY" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__NODEROLE-CATEGORY" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>NodeRole-category</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="QSPEC/QSPEC-VERSION" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC__QSPEC-VERSION" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>QSPEC Version</title>
     <author>

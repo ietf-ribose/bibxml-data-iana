@@ -1,4 +1,4 @@
-<reference anchor="RIP-TYPES/RIP-TYPES-6" target="http://www.iana.org/assignments/rip-types">
+<reference anchor="RIP-TYPES__RIP-TYPES-6" target="http://www.iana.org/assignments/rip-types">
   <front>
     <title>RIPNG Update Headers</title>
     <author>

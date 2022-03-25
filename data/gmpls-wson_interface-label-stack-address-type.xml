@@ -1,4 +1,4 @@
-<reference anchor="GMPLS-WSON/INTERFACE-LABEL-STACK-ADDRESS-TYPE" target="http://www.iana.org/assignments/gmpls-wson">
+<reference anchor="GMPLS-WSON__INTERFACE-LABEL-STACK-ADDRESS-TYPE" target="http://www.iana.org/assignments/gmpls-wson">
   <front>
     <title>Types for Subfields of WSON Resource Block Information Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS/MEASUREMENT-TIMESTAMP" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+<reference anchor="MPLS-LSP-PING-PARAMETERS__MEASUREMENT-TIMESTAMP" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
   <front>
     <title>Measurement Timestamp Type</title>
     <author>

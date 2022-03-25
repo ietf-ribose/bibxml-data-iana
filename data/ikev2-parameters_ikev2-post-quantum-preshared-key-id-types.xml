@@ -1,4 +1,4 @@
-<reference anchor="IKEV2-PARAMETERS/IKEV2-POST-QUANTUM-PRESHARED-KEY-ID-TYPES" target="http://www.iana.org/assignments/ikev2-parameters">
+<reference anchor="IKEV2-PARAMETERS__IKEV2-POST-QUANTUM-PRESHARED-KEY-ID-TYPES" target="http://www.iana.org/assignments/ikev2-parameters">
   <front>
     <title>IKEv2 Post-quantum Preshared Key ID Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PPPOE-PARAMETERS/PPPOE-PARAMETERS-2" target="http://www.iana.org/assignments/pppoe-parameters">
+<reference anchor="PPPOE-PARAMETERS__PPPOE-PARAMETERS-2" target="http://www.iana.org/assignments/pppoe-parameters">
   <front>
     <title>PPPoE Active Discovery Code fields (8-bit values)</title>
     <author>

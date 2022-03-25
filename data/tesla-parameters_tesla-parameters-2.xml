@@ -1,4 +1,4 @@
-<reference anchor="TESLA-PARAMETERS/TESLA-PARAMETERS-2" target="http://www.iana.org/assignments/tesla-parameters">
+<reference anchor="TESLA-PARAMETERS__TESLA-PARAMETERS-2" target="http://www.iana.org/assignments/tesla-parameters">
   <front>
     <title>Cryptographic Message Authentication Code (MAC) Function, TESLA-MAC Values</title>
     <author>

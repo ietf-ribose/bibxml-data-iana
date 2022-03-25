@@ -1,4 +1,4 @@
-<reference anchor="CISCO-SLA-PROTOCOL/AUTHENTICATOR-MODES" target="http://www.iana.org/assignments/cisco-sla-protocol">
+<reference anchor="CISCO-SLA-PROTOCOL__AUTHENTICATOR-MODES" target="http://www.iana.org/assignments/cisco-sla-protocol">
   <front>
     <title>Cisco SLA Protocol Authenticator Modes Registry</title>
     <author>

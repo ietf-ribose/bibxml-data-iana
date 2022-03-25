@@ -1,4 +1,4 @@
-<reference anchor="EPP-REPOSITORY-IDS/EPP-REPOSITORY-IDS-1" target="http://www.iana.org/assignments/epp-repository-ids">
+<reference anchor="EPP-REPOSITORY-IDS__EPP-REPOSITORY-IDS-1" target="http://www.iana.org/assignments/epp-repository-ids">
   <front>
     <title>EPP Repository Identifiers</title>
     <author>

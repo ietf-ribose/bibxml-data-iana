@@ -1,4 +1,4 @@
-<reference anchor="ISAKMP-REGISTRY/ISAKMP-REGISTRY-31" target="http://www.iana.org/assignments/isakmp-registry">
+<reference anchor="ISAKMP-REGISTRY__ISAKMP-REGISTRY-31" target="http://www.iana.org/assignments/isakmp-registry">
   <front>
     <title>IPSEC Identification Type</title>
     <author>

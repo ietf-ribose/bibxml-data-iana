@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/DIAGNOSTICS-FLAG" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__DIAGNOSTICS-FLAG" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Diagnostics Flag</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="KERBEROS-PARAMETERS/KERBEROS-PARAMETERS-2" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="KERBEROS-PARAMETERS__KERBEROS-PARAMETERS-2" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Kerberos Checksum Type Numbers</title>
     <author>

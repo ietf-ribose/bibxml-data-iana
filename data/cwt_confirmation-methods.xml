@@ -1,4 +1,4 @@
-<reference anchor="CWT/CONFIRMATION-METHODS" target="http://www.iana.org/assignments/cwt">
+<reference anchor="CWT__CONFIRMATION-METHODS" target="http://www.iana.org/assignments/cwt">
   <front>
     <title>CWT Confirmation Methods</title>
     <author>

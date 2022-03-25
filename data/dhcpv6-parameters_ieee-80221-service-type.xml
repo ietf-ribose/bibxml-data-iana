@@ -1,4 +1,4 @@
-<reference anchor="DHCPV6-PARAMETERS/IEEE-80221-SERVICE-TYPE" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS__IEEE-80221-SERVICE-TYPE" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>IEEE 802.21 Service Type (MoS DHCPv6 Address and FQDN Sub-Options)</title>
     <author>

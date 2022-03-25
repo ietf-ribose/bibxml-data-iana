@@ -1,4 +1,4 @@
-<reference anchor="PSKC/ALG-PROFILES" target="http://www.iana.org/assignments/pskc">
+<reference anchor="PSKC__ALG-PROFILES" target="http://www.iana.org/assignments/pskc">
   <front>
     <title>Algorithm URI Registry and Related PSKC Profiles</title>
     <author>

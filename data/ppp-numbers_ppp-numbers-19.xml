@@ -1,4 +1,4 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-19" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS__PPP-NUMBERS-19" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP (IPXCP) Configuration Options</title>
     <author>

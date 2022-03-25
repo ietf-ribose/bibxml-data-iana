@@ -1,4 +1,4 @@
-<reference anchor="EAP-PAX/EAP-PAX-2" target="http://www.iana.org/assignments/eap-pax">
+<reference anchor="EAP-PAX__EAP-PAX-2" target="http://www.iana.org/assignments/eap-pax">
   <front>
     <title>DH Group ID Namespace</title>
     <author>

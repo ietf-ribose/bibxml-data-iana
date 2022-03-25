@@ -1,4 +1,4 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES/NON-TRANSITIVE" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES__NON-TRANSITIVE" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>BGP Non-Transitive Extended Community Types</title>
     <author>

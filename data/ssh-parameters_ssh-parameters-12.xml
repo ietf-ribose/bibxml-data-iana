@@ -1,4 +1,4 @@
-<reference anchor="SSH-PARAMETERS/SSH-PARAMETERS-12" target="http://www.iana.org/assignments/ssh-parameters">
+<reference anchor="SSH-PARAMETERS__SSH-PARAMETERS-12" target="http://www.iana.org/assignments/ssh-parameters">
   <front>
     <title>Connection Protocol Global Request Names</title>
     <author>

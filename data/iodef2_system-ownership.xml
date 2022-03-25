@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/SYSTEM-OWNERSHIP" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__SYSTEM-OWNERSHIP" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>System-ownership</title>
     <author>

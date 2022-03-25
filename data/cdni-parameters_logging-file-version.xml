@@ -1,4 +1,4 @@
-<reference anchor="CDNI-PARAMETERS/LOGGING-FILE-VERSION" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS__LOGGING-FILE-VERSION" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Logging File version</title>
     <author>

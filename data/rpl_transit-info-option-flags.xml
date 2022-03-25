@@ -1,4 +1,4 @@
-<reference anchor="RPL/TRANSIT-INFO-OPTION-FLAGS" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL__TRANSIT-INFO-OPTION-FLAGS" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Transit Information Option Flags</title>
     <author>

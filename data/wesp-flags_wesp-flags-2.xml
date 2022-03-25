@@ -1,4 +1,4 @@
-<reference anchor="WESP-FLAGS/WESP-FLAGS-2" target="http://www.iana.org/assignments/wesp-flags">
+<reference anchor="WESP-FLAGS__WESP-FLAGS-2" target="http://www.iana.org/assignments/wesp-flags">
   <front>
     <title>WESP Version Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-12" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS__PPP-NUMBERS-12" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP LCP Callback Operation Fields</title>
     <author>

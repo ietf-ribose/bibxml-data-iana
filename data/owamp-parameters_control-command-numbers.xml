@@ -1,4 +1,4 @@
-<reference anchor="OWAMP-PARAMETERS/CONTROL-COMMAND-NUMBERS" target="http://www.iana.org/assignments/owamp-parameters">
+<reference anchor="OWAMP-PARAMETERS__CONTROL-COMMAND-NUMBERS" target="http://www.iana.org/assignments/owamp-parameters">
   <front>
     <title>OWAMP-Control Command Numbers</title>
     <author>

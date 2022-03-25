@@ -1,4 +1,4 @@
-<reference anchor="CDDL/CDDL-CONTROL-OPERATORS" target="http://www.iana.org/assignments/cddl">
+<reference anchor="CDDL__CDDL-CONTROL-OPERATORS" target="http://www.iana.org/assignments/cddl">
   <front>
     <title>CDDL Control Operators</title>
     <author>

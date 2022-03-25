@@ -1,4 +1,4 @@
-<reference anchor="GNSS/TYPES" target="http://www.iana.org/assignments/gnss">
+<reference anchor="GNSS__TYPES" target="http://www.iana.org/assignments/gnss">
   <front>
     <title>Global Navigation Satellite System (GNSS) Types</title>
     <author>

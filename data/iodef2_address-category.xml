@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/ADDRESS-CATEGORY" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__ADDRESS-CATEGORY" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Address-category</title>
     <author>

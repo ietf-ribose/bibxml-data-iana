@@ -1,4 +1,4 @@
-<reference anchor="ICMPV6-PARAMETERS/ICMPV6-ADRESS-REGISTRATION-OPTION-I-FIELD" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS__ICMPV6-ADRESS-REGISTRATION-OPTION-I-FIELD" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Address Registration Option I-Field</title>
     <author>

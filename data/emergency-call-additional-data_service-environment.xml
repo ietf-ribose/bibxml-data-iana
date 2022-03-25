@@ -1,4 +1,4 @@
-<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA/SERVICE-ENVIRONMENT" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA__SERVICE-ENVIRONMENT" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Service Environment</title>
     <author>

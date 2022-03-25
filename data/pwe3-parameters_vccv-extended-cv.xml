@@ -1,4 +1,4 @@
-<reference anchor="PWE3-PARAMETERS/VCCV-EXTENDED-CV" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS__VCCV-EXTENDED-CV" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>VCCV Extended CV Types</title>
     <author>

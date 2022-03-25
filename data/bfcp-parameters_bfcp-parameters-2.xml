@@ -1,4 +1,4 @@
-<reference anchor="BFCP-PARAMETERS/BFCP-PARAMETERS-2" target="http://www.iana.org/assignments/bfcp-parameters">
+<reference anchor="BFCP-PARAMETERS__BFCP-PARAMETERS-2" target="http://www.iana.org/assignments/bfcp-parameters">
   <front>
     <title>Primitives</title>
     <author>

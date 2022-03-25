@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/MESSAGE-CODES" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__MESSAGE-CODES" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Message Codes</title>
     <author>

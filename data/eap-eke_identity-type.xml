@@ -1,4 +1,4 @@
-<reference anchor="EAP-EKE/IDENTITY-TYPE" target="http://www.iana.org/assignments/eap-eke">
+<reference anchor="EAP-EKE__IDENTITY-TYPE" target="http://www.iana.org/assignments/eap-eke">
   <front>
     <title>EAP-EKE Identity Type Registry</title>
     <author>

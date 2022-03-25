@@ -1,4 +1,4 @@
-<reference anchor="DCCP-CCID3-PARAMETERS/DCCP-CCID3-PARAMETERS-2" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
+<reference anchor="DCCP-CCID3-PARAMETERS__DCCP-CCID3-PARAMETERS-2" target="http://www.iana.org/assignments/dccp-ccid3-parameters">
   <front>
     <title>CCID3-specific Option Types (128-255)</title>
     <author>

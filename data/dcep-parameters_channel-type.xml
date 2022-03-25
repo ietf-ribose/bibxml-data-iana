@@ -1,4 +1,4 @@
-<reference anchor="DCEP-PARAMETERS/CHANNEL-TYPE" target="http://www.iana.org/assignments/dcep-parameters">
+<reference anchor="DCEP-PARAMETERS__CHANNEL-TYPE" target="http://www.iana.org/assignments/dcep-parameters">
   <front>
     <title>Channel Types</title>
     <author>

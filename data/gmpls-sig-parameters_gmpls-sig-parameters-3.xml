@@ -1,4 +1,4 @@
-<reference anchor="GMPLS-SIG-PARAMETERS/GMPLS-SIG-PARAMETERS-3" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS__GMPLS-SIG-PARAMETERS-3" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Switching Types</title>
     <author>

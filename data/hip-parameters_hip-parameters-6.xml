@@ -1,4 +1,4 @@
-<reference anchor="HIP-PARAMETERS/HIP-PARAMETERS-6" target="http://www.iana.org/assignments/hip-parameters">
+<reference anchor="HIP-PARAMETERS__HIP-PARAMETERS-6" target="http://www.iana.org/assignments/hip-parameters">
   <front>
     <title>Suite IDs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-10" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-10" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>Envelope Data Payload Field Names</title>
     <author>

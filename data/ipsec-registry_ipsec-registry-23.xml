@@ -1,4 +1,4 @@
-<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-23" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-23" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Notify Messages - Error Types (1-8191)</title>
     <author>

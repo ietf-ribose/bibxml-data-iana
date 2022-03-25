@@ -1,4 +1,4 @@
-<reference anchor="EAP-PAX/EAP-PAX-4" target="http://www.iana.org/assignments/eap-pax">
+<reference anchor="EAP-PAX__EAP-PAX-4" target="http://www.iana.org/assignments/eap-pax">
   <front>
     <title>ADE Type Namespace</title>
     <author>

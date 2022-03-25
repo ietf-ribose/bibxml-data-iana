@@ -1,4 +1,4 @@
-<reference anchor="MSRP-PARAMETERS/MSRP-PARAMETERS-2" target="http://www.iana.org/assignments/msrp-parameters">
+<reference anchor="MSRP-PARAMETERS__MSRP-PARAMETERS-2" target="http://www.iana.org/assignments/msrp-parameters">
   <front>
     <title>Header Fields</title>
     <author>

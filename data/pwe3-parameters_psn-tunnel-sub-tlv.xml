@@ -1,4 +1,4 @@
-<reference anchor="PWE3-PARAMETERS/PSN-TUNNEL-SUB-TLV" target="http://www.iana.org/assignments/pwe3-parameters">
+<reference anchor="PWE3-PARAMETERS__PSN-TUNNEL-SUB-TLV" target="http://www.iana.org/assignments/pwe3-parameters">
   <front>
     <title>PSN Tunnel Sub-TLV Name Space</title>
     <author>

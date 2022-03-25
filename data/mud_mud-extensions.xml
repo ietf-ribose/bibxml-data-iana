@@ -1,4 +1,4 @@
-<reference anchor="MUD/MUD-EXTENSIONS" target="http://www.iana.org/assignments/mud">
+<reference anchor="MUD__MUD-EXTENSIONS" target="http://www.iana.org/assignments/mud">
   <front>
     <title>MUD Extensions</title>
     <author>

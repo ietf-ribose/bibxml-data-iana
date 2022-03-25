@@ -1,4 +1,4 @@
-<reference anchor="SDP-PARAMETERS/MULTIPLEXING-CATEGORIES" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS__MULTIPLEXING-CATEGORIES" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>Multiplexing Categories</title>
     <author>

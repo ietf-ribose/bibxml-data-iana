@@ -1,4 +1,4 @@
-<reference anchor="OSPF-TRAFFIC-ENG-TLVS/WSON-LSC-SCSI-SUB-TLV" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
+<reference anchor="OSPF-TRAFFIC-ENG-TLVS__WSON-LSC-SCSI-SUB-TLV" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
   <front>
     <title>Types for sub-TLVs of WSON-LSC SCSI (Switching Capability Specific Information)</title>
     <author>

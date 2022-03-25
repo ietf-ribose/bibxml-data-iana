@@ -1,4 +1,4 @@
-<reference anchor="HTTP-AUTHSCHEMES/MUTUAL-AUTHENTICATION-ALGORITHMS" target="http://www.iana.org/assignments/http-authschemes">
+<reference anchor="HTTP-AUTHSCHEMES__MUTUAL-AUTHENTICATION-ALGORITHMS" target="http://www.iana.org/assignments/http-authschemes">
   <front>
     <title>HTTP Mutual Authentication Algorithms</title>
     <author>

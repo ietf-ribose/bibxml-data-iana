@@ -1,4 +1,4 @@
-<reference anchor="XML-REGISTRY/PUBLICID" target="http://www.iana.org/assignments/xml-registry">
+<reference anchor="XML-REGISTRY__PUBLICID" target="http://www.iana.org/assignments/xml-registry">
   <front>
     <title>publicid</title>
     <author>

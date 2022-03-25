@@ -1,4 +1,4 @@
-<reference anchor="STRINGPREP-PROFILES/STRINGPREP-PROFILES-1" target="http://www.iana.org/assignments/stringprep-profiles">
+<reference anchor="STRINGPREP-PROFILES__STRINGPREP-PROFILES-1" target="http://www.iana.org/assignments/stringprep-profiles">
   <front>
     <title>Stringprep Profiles</title>
     <author>

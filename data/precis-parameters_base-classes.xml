@@ -1,4 +1,4 @@
-<reference anchor="PRECIS-PARAMETERS/BASE-CLASSES" target="http://www.iana.org/assignments/precis-parameters">
+<reference anchor="PRECIS-PARAMETERS__BASE-CLASSES" target="http://www.iana.org/assignments/precis-parameters">
   <front>
     <title>PRECIS Base Classes</title>
     <author>

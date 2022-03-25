@@ -1,4 +1,4 @@
-<reference anchor="SIP-CLF-PARAMETERS/VERSION" target="http://www.iana.org/assignments/sip-clf-parameters">
+<reference anchor="SIP-CLF-PARAMETERS__VERSION" target="http://www.iana.org/assignments/sip-clf-parameters">
   <front>
     <title>SIP CLF Version Values</title>
     <author>

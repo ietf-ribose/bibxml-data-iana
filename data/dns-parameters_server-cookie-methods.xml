@@ -1,4 +1,4 @@
-<reference anchor="DNS-PARAMETERS/SERVER-COOKIE-METHODS" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="DNS-PARAMETERS__SERVER-COOKIE-METHODS" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>DNS Server Cookie Methods</title>
     <author>

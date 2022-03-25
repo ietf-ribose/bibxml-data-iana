@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-VALIDATION-DEPENDENT-DATA-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-VALIDATION-DEPENDENT-DATA-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Validation-Dependent Data Types</title>
     <author>

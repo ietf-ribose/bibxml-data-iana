@@ -1,4 +1,4 @@
-<reference anchor="ISIS-PDU/LSP-FLOODING-SCOPED-ID" target="http://www.iana.org/assignments/isis-pdu">
+<reference anchor="ISIS-PDU__LSP-FLOODING-SCOPED-ID" target="http://www.iana.org/assignments/isis-pdu">
   <front>
     <title>LSP Flooding Scope Identifier Registry</title>
     <author>

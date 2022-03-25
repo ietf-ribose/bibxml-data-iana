@@ -1,4 +1,4 @@
-<reference anchor="C-DNS/C-DNS-TRANSPORTS" target="http://www.iana.org/assignments/c-dns">
+<reference anchor="C-DNS__C-DNS-TRANSPORTS" target="http://www.iana.org/assignments/c-dns">
   <front>
     <title>C-DNS Transports</title>
     <author>

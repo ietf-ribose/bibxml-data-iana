@@ -1,4 +1,4 @@
-<reference anchor="IGP-PARAMETERS/IGP-ALGORITHM-TYPES" target="http://www.iana.org/assignments/igp-parameters">
+<reference anchor="IGP-PARAMETERS__IGP-ALGORITHM-TYPES" target="http://www.iana.org/assignments/igp-parameters">
   <front>
     <title>IGP Algorithm Types</title>
     <author>

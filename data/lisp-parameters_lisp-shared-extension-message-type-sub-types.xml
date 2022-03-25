@@ -1,4 +1,4 @@
-<reference anchor="LISP-PARAMETERS/LISP-SHARED-EXTENSION-MESSAGE-TYPE-SUB-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS__LISP-SHARED-EXTENSION-MESSAGE-TYPE-SUB-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Shared Extension Message Type Sub-types</title>
     <author>

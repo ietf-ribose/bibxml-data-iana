@@ -1,4 +1,4 @@
-<reference anchor="MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-13" target="http://www.iana.org/assignments/multicast-addresses">
+<reference anchor="MULTICAST-ADDRESSES__MULTICAST-ADDRESSES-13" target="http://www.iana.org/assignments/multicast-addresses">
   <front>
     <title>Relative Addresses used with Scoped Multicast Addresses</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="QSPEC/Y1541" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC__Y1541" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Y.1541 QoS Class Parameter</title>
     <author>

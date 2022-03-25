@@ -1,4 +1,4 @@
-<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-8" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-8" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>IPSEC Authentication Methods (Value 3)</title>
     <author>

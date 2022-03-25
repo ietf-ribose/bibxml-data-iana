@@ -1,4 +1,4 @@
-<reference anchor="PROPHET/PROTOCOL-VERSION" target="http://www.iana.org/assignments/prophet">
+<reference anchor="PROPHET__PROTOCOL-VERSION" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>PRoPHET Protocol Version</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MILNET-PARAMETERS/MILNET-PARAMETERS-2" target="http://www.iana.org/assignments/milnet-parameters">
+<reference anchor="MILNET-PARAMETERS__MILNET-PARAMETERS-2" target="http://www.iana.org/assignments/milnet-parameters">
   <front>
     <title>Milnet Logical Addresses</title>
     <author>

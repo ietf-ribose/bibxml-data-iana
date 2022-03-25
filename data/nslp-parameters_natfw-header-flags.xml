@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/NATFW-HEADER-FLAGS" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__NATFW-HEADER-FLAGS" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>NATFW NSLP Header Flags</title>
     <author>

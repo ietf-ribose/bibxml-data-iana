@@ -1,4 +1,4 @@
-<reference anchor="RSVP-PARAMETERS/VCAT-VGC-OPERATION" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="RSVP-PARAMETERS__VCAT-VGC-OPERATION" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>VCAT VCG Operation Actions</title>
     <author>

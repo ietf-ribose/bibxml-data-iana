@@ -1,4 +1,4 @@
-<reference anchor="MESSAGE-HEADERS/PERM-HEADERS" target="http://www.iana.org/assignments/message-headers">
+<reference anchor="MESSAGE-HEADERS__PERM-HEADERS" target="http://www.iana.org/assignments/message-headers">
   <front>
     <title>Permanent Message Header Field Names</title>
     <author>

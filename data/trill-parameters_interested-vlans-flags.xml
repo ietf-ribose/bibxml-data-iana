@@ -1,4 +1,4 @@
-<reference anchor="TRILL-PARAMETERS/INTERESTED-VLANS-FLAGS" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS__INTERESTED-VLANS-FLAGS" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>Interested VLANs Flag Bits</title>
     <author>

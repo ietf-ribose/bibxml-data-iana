@@ -1,4 +1,4 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-64" target="http://www.iana.org/assignments/sip-parameters">
+<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-64" target="http://www.iana.org/assignments/sip-parameters">
   <front>
     <title>SIP Forum User Agent Configuration Parameters</title>
     <author>

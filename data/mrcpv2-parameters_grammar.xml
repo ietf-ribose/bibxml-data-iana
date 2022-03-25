@@ -1,4 +1,4 @@
-<reference anchor="MRCPV2-PARAMETERS/GRAMMAR" target="http://www.iana.org/assignments/mrcpv2-parameters">
+<reference anchor="MRCPV2-PARAMETERS__GRAMMAR" target="http://www.iana.org/assignments/mrcpv2-parameters">
   <front>
     <title>Grammar Reference List Parameters</title>
     <author>

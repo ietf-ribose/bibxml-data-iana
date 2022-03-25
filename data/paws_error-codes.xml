@@ -1,4 +1,4 @@
-<reference anchor="PAWS/ERROR-CODES" target="http://www.iana.org/assignments/paws">
+<reference anchor="PAWS__ERROR-CODES" target="http://www.iana.org/assignments/paws">
   <front>
     <title>PAWS Error Code Registry</title>
     <author>

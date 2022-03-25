@@ -1,4 +1,4 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-11" target="http://www.iana.org/assignments/ppp-numbers">
+<reference anchor="PPP-NUMBERS__PPP-NUMBERS-11" target="http://www.iana.org/assignments/ppp-numbers">
   <front>
     <title>PPP Multilink Endpoint Discriminator Class</title>
     <author>

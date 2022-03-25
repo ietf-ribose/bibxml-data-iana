@@ -1,4 +1,4 @@
-<reference anchor="PROPHET/RESULT-FIELD" target="http://www.iana.org/assignments/prophet">
+<reference anchor="PROPHET__RESULT-FIELD" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>PRoPHET Result Field</title>
     <author>

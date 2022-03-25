@@ -1,4 +1,4 @@
-<reference anchor="SOCKS-METHODS/SOCKS-METHODS-1" target="http://www.iana.org/assignments/socks-methods">
+<reference anchor="SOCKS-METHODS__SOCKS-METHODS-1" target="http://www.iana.org/assignments/socks-methods">
   <front>
     <title>SOCKS Method Values</title>
     <author>

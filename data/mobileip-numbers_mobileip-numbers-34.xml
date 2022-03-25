@@ -1,4 +1,4 @@
-<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-34" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS__MOBILEIP-NUMBERS-34" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>IPv6 Prefix Reply Extension Codes</title>
     <author>

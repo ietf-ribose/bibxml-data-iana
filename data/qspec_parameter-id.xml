@@ -1,4 +1,4 @@
-<reference anchor="QSPEC/PARAMETER-ID" target="http://www.iana.org/assignments/qspec">
+<reference anchor="QSPEC__PARAMETER-ID" target="http://www.iana.org/assignments/qspec">
   <front>
     <title>Parameter ID</title>
     <author>

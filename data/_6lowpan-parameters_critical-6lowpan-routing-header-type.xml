@@ -1,4 +1,4 @@
-<reference anchor="_6LOWPAN-PARAMETERS/CRITICAL-6LOWPAN-ROUTING-HEADER-TYPE" target="http://www.iana.org/assignments/_6lowpan-parameters">
+<reference anchor="_6LOWPAN-PARAMETERS__CRITICAL-6LOWPAN-ROUTING-HEADER-TYPE" target="http://www.iana.org/assignments/_6lowpan-parameters">
   <front>
     <title>Critical 6LoWPAN Routing Header Type</title>
     <author>

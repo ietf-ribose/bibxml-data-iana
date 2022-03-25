@@ -1,4 +1,4 @@
-<reference anchor="HTTP-AUTHSCHEMES/AUTHSCHEMES" target="http://www.iana.org/assignments/http-authschemes">
+<reference anchor="HTTP-AUTHSCHEMES__AUTHSCHEMES" target="http://www.iana.org/assignments/http-authschemes">
   <front>
     <title>HTTP Authentication Schemes</title>
     <author>

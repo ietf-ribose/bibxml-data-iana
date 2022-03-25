@@ -1,4 +1,4 @@
-<reference anchor="ACME/ACME-DIRECTORY-METADATA-FIELDS" target="http://www.iana.org/assignments/acme">
+<reference anchor="ACME__ACME-DIRECTORY-METADATA-FIELDS" target="http://www.iana.org/assignments/acme">
   <front>
     <title>ACME Directory Metadata Fields</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="SDP-PARAMETERS/RID-ATTRIBUTE" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS__RID-ATTRIBUTE" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>RID Attribute Parameters</title>
     <author>

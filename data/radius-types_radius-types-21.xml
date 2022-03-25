@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-21" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-21" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Entity Types (Attribute 127, Location-Information)</title>
     <author>

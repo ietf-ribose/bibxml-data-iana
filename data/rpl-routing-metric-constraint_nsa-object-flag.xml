@@ -1,4 +1,4 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/NSA-OBJECT-FLAG" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT__NSA-OBJECT-FLAG" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>NSA Object Flag field</title>
     <author>

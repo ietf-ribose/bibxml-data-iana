@@ -1,4 +1,4 @@
-<reference anchor="DCCP-PARAMETERS/DCCP-PARAMETERS-7" target="http://www.iana.org/assignments/dccp-parameters">
+<reference anchor="DCCP-PARAMETERS__DCCP-PARAMETERS-7" target="http://www.iana.org/assignments/dccp-parameters">
   <front>
     <title>Feature Numbers</title>
     <author>

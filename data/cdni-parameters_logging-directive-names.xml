@@ -1,4 +1,4 @@
-<reference anchor="CDNI-PARAMETERS/LOGGING-DIRECTIVE-NAMES" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS__LOGGING-DIRECTIVE-NAMES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Logging Directive Names</title>
     <author>

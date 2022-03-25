@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/X-TYPES" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__X-TYPES" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>SESSION_AUTH X-Types</title>
     <author>

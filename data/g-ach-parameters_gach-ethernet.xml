@@ -1,4 +1,4 @@
-<reference anchor="G-ACH-PARAMETERS/GACH-ETHERNET" target="http://www.iana.org/assignments/g-ach-parameters">
+<reference anchor="G-ACH-PARAMETERS__GACH-ETHERNET" target="http://www.iana.org/assignments/g-ach-parameters">
   <front>
     <title>G-ACh Advertisement Protocol: Ethernet Interface Parameters</title>
     <author>

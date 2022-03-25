@@ -1,4 +1,4 @@
-<reference anchor="AUDIO-TELEPHONE-EVENT-REGISTRY/AUDIO-TELEPHONE-EVENT-REGISTRY-1" target="http://www.iana.org/assignments/audio-telephone-event-registry">
+<reference anchor="AUDIO-TELEPHONE-EVENT-REGISTRY__AUDIO-TELEPHONE-EVENT-REGISTRY-1" target="http://www.iana.org/assignments/audio-telephone-event-registry">
   <front>
     <title>Event Code Registry</title>
     <author>

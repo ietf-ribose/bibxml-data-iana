@@ -1,4 +1,4 @@
-<reference anchor="PIM-PARAMETERS/PIM-PARAMETERS-2" target="http://www.iana.org/assignments/pim-parameters">
+<reference anchor="PIM-PARAMETERS__PIM-PARAMETERS-2" target="http://www.iana.org/assignments/pim-parameters">
   <front>
     <title>PIM Join Attribute Types</title>
     <author>

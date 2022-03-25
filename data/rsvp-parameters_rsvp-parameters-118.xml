@@ -1,4 +1,4 @@
-<reference anchor="RSVP-PARAMETERS/RSVP-PARAMETERS-118" target="http://www.iana.org/assignments/rsvp-parameters">
+<reference anchor="RSVP-PARAMETERS__RSVP-PARAMETERS-118" target="http://www.iana.org/assignments/rsvp-parameters">
   <front>
     <title>Call Attributes TLV</title>
     <author>

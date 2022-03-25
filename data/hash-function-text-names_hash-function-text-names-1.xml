@@ -1,4 +1,4 @@
-<reference anchor="HASH-FUNCTION-TEXT-NAMES/HASH-FUNCTION-TEXT-NAMES-1" target="http://www.iana.org/assignments/hash-function-text-names">
+<reference anchor="HASH-FUNCTION-TEXT-NAMES__HASH-FUNCTION-TEXT-NAMES-1" target="http://www.iana.org/assignments/hash-function-text-names">
   <front>
     <title>Hash Function Textual Names</title>
     <author>

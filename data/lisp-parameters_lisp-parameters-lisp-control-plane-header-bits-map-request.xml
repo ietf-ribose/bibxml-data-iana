@@ -1,4 +1,4 @@
-<reference anchor="LISP-PARAMETERS/LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-MAP-REQUEST" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS__LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-MAP-REQUEST" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Control Plane Header Bits: Map-Request</title>
     <author>

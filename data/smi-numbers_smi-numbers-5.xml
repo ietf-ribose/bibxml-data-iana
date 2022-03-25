@@ -1,4 +1,4 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-5" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS__SMI-NUMBERS-5" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>Interface Types (ifType)</title>
     <author>

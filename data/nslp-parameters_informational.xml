@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/INFORMATIONAL" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__INFORMATIONAL" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>Informational Error Codes</title>
     <author>

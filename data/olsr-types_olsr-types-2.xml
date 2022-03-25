@@ -1,4 +1,4 @@
-<reference anchor="OLSR-TYPES/OLSR-TYPES-2" target="http://www.iana.org/assignments/olsr-types">
+<reference anchor="OLSR-TYPES__OLSR-TYPES-2" target="http://www.iana.org/assignments/olsr-types">
   <front>
     <title>OLSR Protocol Message Types</title>
     <author>

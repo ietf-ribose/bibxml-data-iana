@@ -1,4 +1,4 @@
-<reference anchor="EAP-PSK-PARAMETERS/EAP-PSK-PARAMETERS-1" target="http://www.iana.org/assignments/eap-psk-parameters">
+<reference anchor="EAP-PSK-PARAMETERS__EAP-PSK-PARAMETERS-1" target="http://www.iana.org/assignments/eap-psk-parameters">
   <front>
     <title>EXT_Type Numbers</title>
     <author>

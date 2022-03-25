@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-20" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-20" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Location Profiles (Attribute 127, Location-Information)</title>
     <author>

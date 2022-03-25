@@ -1,4 +1,4 @@
-<reference anchor="CARD-PARAMETERS/CARD-PARAMETERS-1" target="http://www.iana.org/assignments/card-parameters">
+<reference anchor="CARD-PARAMETERS__CARD-PARAMETERS-1" target="http://www.iana.org/assignments/card-parameters">
   <front>
     <title>AVP Type Registry</title>
     <author>

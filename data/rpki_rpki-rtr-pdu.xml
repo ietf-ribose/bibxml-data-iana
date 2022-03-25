@@ -1,4 +1,4 @@
-<reference anchor="RPKI/RPKI-RTR-PDU" target="http://www.iana.org/assignments/rpki">
+<reference anchor="RPKI__RPKI-RTR-PDU" target="http://www.iana.org/assignments/rpki">
   <front>
     <title>rpki-rtr-pdu</title>
     <author>

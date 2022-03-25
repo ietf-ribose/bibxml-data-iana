@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/TIMESTAMP-MESSAGE-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__TIMESTAMP-MESSAGE-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>TIMESTAMP Message TLV Type Extensions</title>
     <author>

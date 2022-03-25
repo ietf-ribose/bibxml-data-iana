@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/CONFIDENCE-RATING" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__CONFIDENCE-RATING" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Confidence-rating</title>
     <author>

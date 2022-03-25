@@ -1,4 +1,4 @@
-<reference anchor="SIP-EVENTS/SIP-EVENTS-2" target="http://www.iana.org/assignments/sip-events">
+<reference anchor="SIP-EVENTS__SIP-EVENTS-2" target="http://www.iana.org/assignments/sip-events">
   <front>
     <title>Event packages and Event template-packages</title>
     <author>

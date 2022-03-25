@@ -1,4 +1,4 @@
-<reference anchor="RTCP-XR-BLOCK-TYPES/RTCP-XR-BLOCK-TYPES-1" target="http://www.iana.org/assignments/rtcp-xr-block-types">
+<reference anchor="RTCP-XR-BLOCK-TYPES__RTCP-XR-BLOCK-TYPES-1" target="http://www.iana.org/assignments/rtcp-xr-block-types">
   <front>
     <title>RTCP XR Block Type</title>
     <author>

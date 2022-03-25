@@ -1,4 +1,4 @@
-<reference anchor="JOSE/WEB-KEY-TYPES" target="http://www.iana.org/assignments/jose">
+<reference anchor="JOSE__WEB-KEY-TYPES" target="http://www.iana.org/assignments/jose">
   <front>
     <title>JSON Web Key Types</title>
     <author>

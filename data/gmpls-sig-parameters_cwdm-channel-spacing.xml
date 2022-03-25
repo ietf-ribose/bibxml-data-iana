@@ -1,4 +1,4 @@
-<reference anchor="GMPLS-SIG-PARAMETERS/CWDM-CHANNEL-SPACING" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS__CWDM-CHANNEL-SPACING" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>CWDM Channel Spacing Subregistry</title>
     <author>

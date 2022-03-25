@@ -1,4 +1,4 @@
-<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-25" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-25" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>MIKEY Security Protocol Parameters</title>
     <author>

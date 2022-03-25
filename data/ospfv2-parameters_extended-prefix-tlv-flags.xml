@@ -1,4 +1,4 @@
-<reference anchor="OSPFV2-PARAMETERS/EXTENDED-PREFIX-TLV-FLAGS" target="http://www.iana.org/assignments/ospfv2-parameters">
+<reference anchor="OSPFV2-PARAMETERS__EXTENDED-PREFIX-TLV-FLAGS" target="http://www.iana.org/assignments/ospfv2-parameters">
   <front>
     <title>OSPFv2 Extended Prefix TLV Flags</title>
     <author>

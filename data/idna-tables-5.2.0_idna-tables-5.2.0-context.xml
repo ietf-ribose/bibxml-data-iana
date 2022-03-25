@@ -1,4 +1,4 @@
-<reference anchor="IDNA-TABLES-5.2.0/IDNA-TABLES-5.2.0-CONTEXT" target="http://www.iana.org/assignments/idna-tables-5.2.0">
+<reference anchor="IDNA-TABLES-5.2.0__IDNA-TABLES-5.2.0-CONTEXT" target="http://www.iana.org/assignments/idna-tables-5.2.0">
   <front>
     <title>IDNA Contextual Rules</title>
     <author>

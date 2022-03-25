@@ -1,4 +1,4 @@
-<reference anchor="OSPF-AUTHENTICATION-CODES/AUTHENTICATION-CODES" target="http://www.iana.org/assignments/ospf-authentication-codes">
+<reference anchor="OSPF-AUTHENTICATION-CODES__AUTHENTICATION-CODES" target="http://www.iana.org/assignments/ospf-authentication-codes">
   <front>
     <title>Authentication Codes</title>
     <author>

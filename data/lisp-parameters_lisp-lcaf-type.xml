@@ -1,4 +1,4 @@
-<reference anchor="LISP-PARAMETERS/LISP-LCAF-TYPE" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS__LISP-LCAF-TYPE" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP LCAF Type</title>
     <author>

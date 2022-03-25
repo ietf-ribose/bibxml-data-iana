@@ -1,4 +1,4 @@
-<reference anchor="EAPPOTP-IDENTIFIERS/EAPPOTP-IDENTIFIERS-4" target="http://www.iana.org/assignments/eappotp-identifiers">
+<reference anchor="EAPPOTP-IDENTIFIERS__EAPPOTP-IDENTIFIERS-4" target="http://www.iana.org/assignments/eappotp-identifiers">
   <front>
     <title>Encryption Algorithms</title>
     <author>

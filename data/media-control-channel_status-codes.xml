@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/STATUS-CODES" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL__STATUS-CODES" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Status Codes</title>
     <author>

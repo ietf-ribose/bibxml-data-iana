@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-PAYLOAD-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-PAYLOAD-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Payload Types</title>
     <author>

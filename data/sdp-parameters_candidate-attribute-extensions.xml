@@ -1,4 +1,4 @@
-<reference anchor="SDP-PARAMETERS/CANDIDATE-ATTRIBUTE-EXTENSIONS" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS__CANDIDATE-ATTRIBUTE-EXTENSIONS" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>Candidate Attribute Extensions</title>
     <author>

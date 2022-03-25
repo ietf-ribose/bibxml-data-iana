@@ -1,4 +1,4 @@
-<reference anchor="PAWS/RULESET-ID" target="http://www.iana.org/assignments/paws">
+<reference anchor="PAWS__RULESET-ID" target="http://www.iana.org/assignments/paws">
   <front>
     <title>PAWS Ruleset ID Registry</title>
     <author>

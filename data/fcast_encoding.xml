@@ -1,4 +1,4 @@
-<reference anchor="FCAST/ENCODING" target="http://www.iana.org/assignments/fcast">
+<reference anchor="FCAST__ENCODING" target="http://www.iana.org/assignments/fcast">
   <front>
     <title>FCAST Object Metadata Encoding</title>
     <author>

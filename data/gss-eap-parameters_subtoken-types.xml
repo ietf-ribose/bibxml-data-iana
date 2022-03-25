@@ -1,4 +1,4 @@
-<reference anchor="GSS-EAP-PARAMETERS/SUBTOKEN-TYPES" target="http://www.iana.org/assignments/gss-eap-parameters">
+<reference anchor="GSS-EAP-PARAMETERS__SUBTOKEN-TYPES" target="http://www.iana.org/assignments/gss-eap-parameters">
   <front>
     <title>GSS-EAP Subtoken Types</title>
     <author>

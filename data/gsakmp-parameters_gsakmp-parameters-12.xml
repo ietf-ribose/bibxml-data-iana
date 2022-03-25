@@ -1,4 +1,4 @@
-<reference anchor="GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-12" target="http://www.iana.org/assignments/gsakmp-parameters">
+<reference anchor="GSAKMP-PARAMETERS__GSAKMP-PARAMETERS-12" target="http://www.iana.org/assignments/gsakmp-parameters">
   <front>
     <title>GSAKMP Notification Types</title>
     <author>

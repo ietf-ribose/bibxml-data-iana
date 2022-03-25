@@ -1,4 +1,4 @@
-<reference anchor="PCEP/NOTIFICATION-OBJECT" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__NOTIFICATION-OBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>Notification Object</title>
     <author>

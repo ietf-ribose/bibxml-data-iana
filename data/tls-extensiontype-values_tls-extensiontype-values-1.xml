@@ -1,4 +1,4 @@
-<reference anchor="TLS-EXTENSIONTYPE-VALUES/TLS-EXTENSIONTYPE-VALUES-1" target="http://www.iana.org/assignments/tls-extensiontype-values">
+<reference anchor="TLS-EXTENSIONTYPE-VALUES__TLS-EXTENSIONTYPE-VALUES-1" target="http://www.iana.org/assignments/tls-extensiontype-values">
   <front>
     <title>TLS ExtensionType Values</title>
     <author>

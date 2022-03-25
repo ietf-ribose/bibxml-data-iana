@@ -1,4 +1,4 @@
-<reference anchor="CDNI-PARAMETERS/RI-ERROR-RESPONSE" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS__RI-ERROR-RESPONSE" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI RI Error response code</title>
     <author>

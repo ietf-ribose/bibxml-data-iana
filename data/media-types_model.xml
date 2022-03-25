@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-TYPES/MODEL" target="http://www.iana.org/assignments/media-types">
+<reference anchor="MEDIA-TYPES__MODEL" target="http://www.iana.org/assignments/media-types">
   <front>
     <title>model</title>
     <author>

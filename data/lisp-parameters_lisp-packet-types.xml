@@ -1,4 +1,4 @@
-<reference anchor="LISP-PARAMETERS/LISP-PACKET-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS__LISP-PACKET-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Packet Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="REPUTATION-PARAMETERS/APPLICATIONS" target="http://www.iana.org/assignments/reputation-parameters">
+<reference anchor="REPUTATION-PARAMETERS__APPLICATIONS" target="http://www.iana.org/assignments/reputation-parameters">
   <front>
     <title>Reputation Applications</title>
     <author>

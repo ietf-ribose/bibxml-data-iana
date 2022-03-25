@@ -1,4 +1,4 @@
-<reference anchor="PCEP/PROC-TIME-OBJECT" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__PROC-TIME-OBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PROC-TIME Object Flag Field</title>
     <author>

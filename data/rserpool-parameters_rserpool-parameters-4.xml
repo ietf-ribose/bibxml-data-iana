@@ -1,4 +1,4 @@
-<reference anchor="RSERPOOL-PARAMETERS/RSERPOOL-PARAMETERS-4" target="http://www.iana.org/assignments/rserpool-parameters">
+<reference anchor="RSERPOOL-PARAMETERS__RSERPOOL-PARAMETERS-4" target="http://www.iana.org/assignments/rserpool-parameters">
   <front>
     <title>RSerPool Parameter Types</title>
     <author>

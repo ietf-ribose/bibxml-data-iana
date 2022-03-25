@@ -1,4 +1,4 @@
-<reference anchor="YANG-MODULE-TAGS/YANG-MODULE-TAG-PREFIXES" target="http://www.iana.org/assignments/yang-module-tags">
+<reference anchor="YANG-MODULE-TAGS__YANG-MODULE-TAG-PREFIXES" target="http://www.iana.org/assignments/yang-module-tags">
   <front>
     <title>YANG Module Tag Prefixes</title>
     <author>

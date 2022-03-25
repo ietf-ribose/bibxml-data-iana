@@ -1,4 +1,4 @@
-<reference anchor="HTTP-FIELDS/FIELD-NAMES" target="http://www.iana.org/assignments/http-fields">
+<reference anchor="HTTP-FIELDS__FIELD-NAMES" target="http://www.iana.org/assignments/http-fields">
   <front>
     <title>Hypertext Transfer Protocol (HTTP) Field Name Registry</title>
     <author>

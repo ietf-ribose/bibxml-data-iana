@@ -1,4 +1,4 @@
-<reference anchor="KERBEROS-PARAMETERS/REALM-NAMES" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="KERBEROS-PARAMETERS__REALM-NAMES" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Well-Known Kerberos Realm Names</title>
     <author>

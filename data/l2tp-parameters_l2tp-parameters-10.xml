@@ -1,4 +1,4 @@
-<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-10" target="http://www.iana.org/assignments/l2tp-parameters">
+<reference anchor="L2TP-PARAMETERS__L2TP-PARAMETERS-10" target="http://www.iana.org/assignments/l2tp-parameters">
   <front>
     <title>Result Code AVP (Attribute Type 1) Values</title>
     <author>

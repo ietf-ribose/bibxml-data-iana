@@ -1,4 +1,4 @@
-<reference anchor="BRSKI-PARAMETERS/BRSKI-WELL-KNOWN-URIS" target="http://www.iana.org/assignments/brski-parameters">
+<reference anchor="BRSKI-PARAMETERS__BRSKI-WELL-KNOWN-URIS" target="http://www.iana.org/assignments/brski-parameters">
   <front>
     <title>BRSKI Well-Known URIs</title>
     <author>

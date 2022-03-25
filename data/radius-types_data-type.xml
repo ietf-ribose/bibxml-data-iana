@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/DATA-TYPE" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__DATA-TYPE" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Data Type</title>
     <author>

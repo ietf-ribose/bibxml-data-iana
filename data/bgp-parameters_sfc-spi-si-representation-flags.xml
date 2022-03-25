@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/SFC-SPI-SI-REPRESENTATION-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__SFC-SPI-SI-REPRESENTATION-FLAGS" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>SFC SPI/SI Representation Flags</title>
     <author>

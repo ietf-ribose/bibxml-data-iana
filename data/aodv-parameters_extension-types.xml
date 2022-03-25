@@ -1,4 +1,4 @@
-<reference anchor="AODV-PARAMETERS/EXTENSION-TYPES" target="http://www.iana.org/assignments/aodv-parameters">
+<reference anchor="AODV-PARAMETERS__EXTENSION-TYPES" target="http://www.iana.org/assignments/aodv-parameters">
   <front>
     <title>AODV Extension Types</title>
     <author>

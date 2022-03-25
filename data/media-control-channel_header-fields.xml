@@ -1,4 +1,4 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/HEADER-FIELDS" target="http://www.iana.org/assignments/media-control-channel">
+<reference anchor="MEDIA-CONTROL-CHANNEL__HEADER-FIELDS" target="http://www.iana.org/assignments/media-control-channel">
   <front>
     <title>Header Fields</title>
     <author>

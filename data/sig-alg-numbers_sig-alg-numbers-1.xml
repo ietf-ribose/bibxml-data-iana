@@ -1,4 +1,4 @@
-<reference anchor="SIG-ALG-NUMBERS/SIG-ALG-NUMBERS-1" target="http://www.iana.org/assignments/sig-alg-numbers">
+<reference anchor="SIG-ALG-NUMBERS__SIG-ALG-NUMBERS-1" target="http://www.iana.org/assignments/sig-alg-numbers">
   <front>
     <title>SIG (0) Algorithm Numbers</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="BMP-PARAMETERS/INITIATION-PEER-UP-TLVS" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS__INITIATION-PEER-UP-TLVS" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Initiation and Peer Up Information TLVs</title>
     <author>

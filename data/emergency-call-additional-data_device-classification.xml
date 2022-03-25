@@ -1,4 +1,4 @@
-<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA/DEVICE-CLASSIFICATION" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA__DEVICE-CLASSIFICATION" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Device Classification</title>
     <author>

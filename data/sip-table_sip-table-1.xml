@@ -1,4 +1,4 @@
-<reference anchor="SIP-TABLE/SIP-TABLE-1" target="http://www.iana.org/assignments/sip-table">
+<reference anchor="SIP-TABLE__SIP-TABLE-1" target="http://www.iana.org/assignments/sip-table">
   <front>
     <title>SIP Table of Mappings From Service Field Values to Transport Protocols</title>
     <author>

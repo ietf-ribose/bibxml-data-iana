@@ -1,4 +1,4 @@
-<reference anchor="TUNNEL-SETUP-PROTOCOL/TUNNEL-TYPES" target="http://www.iana.org/assignments/tunnel-setup-protocol">
+<reference anchor="TUNNEL-SETUP-PROTOCOL__TUNNEL-TYPES" target="http://www.iana.org/assignments/tunnel-setup-protocol">
   <front>
     <title>Tunnel Types</title>
     <author>

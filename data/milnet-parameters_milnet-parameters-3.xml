@@ -1,4 +1,4 @@
-<reference anchor="MILNET-PARAMETERS/MILNET-PARAMETERS-3" target="http://www.iana.org/assignments/milnet-parameters">
+<reference anchor="MILNET-PARAMETERS__MILNET-PARAMETERS-3" target="http://www.iana.org/assignments/milnet-parameters">
   <front>
     <title>Milnet X.25 Address Mappings</title>
     <author>

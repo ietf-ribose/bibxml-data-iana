@@ -1,4 +1,4 @@
-<reference anchor="ULE-NEXT-HEADERS/ULE-NEXT-HEADERS-1" target="http://www.iana.org/assignments/ule-next-headers">
+<reference anchor="ULE-NEXT-HEADERS__ULE-NEXT-HEADERS-1" target="http://www.iana.org/assignments/ule-next-headers">
   <front>
     <title>Mandatory Extension Headers (or link-dependent type fields) for ULE (Range 0-255 decimal)</title>
     <author>

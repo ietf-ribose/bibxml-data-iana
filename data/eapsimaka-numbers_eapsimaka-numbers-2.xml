@@ -1,4 +1,4 @@
-<reference anchor="EAPSIMAKA-NUMBERS/EAPSIMAKA-NUMBERS-2" target="http://www.iana.org/assignments/eapsimaka-numbers">
+<reference anchor="EAPSIMAKA-NUMBERS__EAPSIMAKA-NUMBERS-2" target="http://www.iana.org/assignments/eapsimaka-numbers">
   <front>
     <title>Attribute Types (Non-Skippable Attributes 0-127)</title>
     <author>

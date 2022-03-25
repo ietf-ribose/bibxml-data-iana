@@ -1,4 +1,4 @@
-<reference anchor="CLUE/CLUE-RESPONSE-CODES" target="http://www.iana.org/assignments/clue">
+<reference anchor="CLUE__CLUE-RESPONSE-CODES" target="http://www.iana.org/assignments/clue">
   <front>
     <title>CLUE Response Codes</title>
     <author>

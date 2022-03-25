@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/DATA-KIND-ID" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__DATA-KIND-ID" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Data Kind-ID</title>
     <author>

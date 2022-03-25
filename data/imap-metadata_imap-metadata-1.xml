@@ -1,4 +1,4 @@
-<reference anchor="IMAP-METADATA/IMAP-METADATA-1" target="http://www.iana.org/assignments/imap-metadata">
+<reference anchor="IMAP-METADATA__IMAP-METADATA-1" target="http://www.iana.org/assignments/imap-metadata">
   <front>
     <title>IMAP METADATA Server Entry Registry</title>
     <author>

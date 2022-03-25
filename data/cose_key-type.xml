@@ -1,4 +1,4 @@
-<reference anchor="COSE/KEY-TYPE" target="http://www.iana.org/assignments/cose">
+<reference anchor="COSE__KEY-TYPE" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Key Types</title>
     <author>

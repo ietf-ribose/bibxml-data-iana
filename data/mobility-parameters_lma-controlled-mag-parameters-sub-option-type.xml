@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/LMA-CONTROLLED-MAG-PARAMETERS-SUB-OPTION-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__LMA-CONTROLLED-MAG-PARAMETERS-SUB-OPTION-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>LMA-Controlled MAG Parameters Sub-Option Type Values</title>
     <author>

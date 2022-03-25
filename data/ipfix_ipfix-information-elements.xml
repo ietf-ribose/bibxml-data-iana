@@ -1,4 +1,4 @@
-<reference anchor="IPFIX/IPFIX-INFORMATION-ELEMENTS" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IPFIX__IPFIX-INFORMATION-ELEMENTS" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IPFIX Information Elements</title>
     <author>

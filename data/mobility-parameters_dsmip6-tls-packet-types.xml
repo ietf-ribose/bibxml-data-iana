@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/DSMIP6-TLS-PACKET-TYPES" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__DSMIP6-TLS-PACKET-TYPES" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>DSMIP6-TLS Packet Types Registry</title>
     <author>

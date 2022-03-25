@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/SMF-TYPE-EXTENSIONS" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__SMF-TYPE-EXTENSIONS" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>SMF_TYPE Message TLV Type Extensions</title>
     <author>

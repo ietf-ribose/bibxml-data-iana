@@ -1,4 +1,4 @@
-<reference anchor="PSKC/KEY-USAGE" target="http://www.iana.org/assignments/pskc">
+<reference anchor="PSKC__KEY-USAGE" target="http://www.iana.org/assignments/pskc">
   <front>
     <title>Key Usage Registry</title>
     <author>

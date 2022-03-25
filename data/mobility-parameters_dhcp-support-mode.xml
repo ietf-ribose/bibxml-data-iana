@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/DHCP-SUPPORT-MODE" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__DHCP-SUPPORT-MODE" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>IPv4 DHCP Support Mode Flags</title>
     <author>

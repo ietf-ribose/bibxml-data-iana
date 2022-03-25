@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/PROBE-INFO" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__PROBE-INFO" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Probe Information Type Registry</title>
     <author>

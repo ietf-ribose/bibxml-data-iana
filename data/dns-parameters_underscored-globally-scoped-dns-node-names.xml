@@ -1,4 +1,4 @@
-<reference anchor="DNS-PARAMETERS/UNDERSCORED-GLOBALLY-SCOPED-DNS-NODE-NAMES" target="http://www.iana.org/assignments/dns-parameters">
+<reference anchor="DNS-PARAMETERS__UNDERSCORED-GLOBALLY-SCOPED-DNS-NODE-NAMES" target="http://www.iana.org/assignments/dns-parameters">
   <front>
     <title>Underscored and Globally Scoped DNS Node Names</title>
     <author>

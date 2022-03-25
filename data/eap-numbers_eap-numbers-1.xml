@@ -1,4 +1,4 @@
-<reference anchor="EAP-NUMBERS/EAP-NUMBERS-1" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS__EAP-NUMBERS-1" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>Packet Codes</title>
     <author>

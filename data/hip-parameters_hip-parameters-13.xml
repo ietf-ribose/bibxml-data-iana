@@ -1,4 +1,4 @@
-<reference anchor="HIP-PARAMETERS/HIP-PARAMETERS-13" target="http://www.iana.org/assignments/hip-parameters">
+<reference anchor="HIP-PARAMETERS__HIP-PARAMETERS-13" target="http://www.iana.org/assignments/hip-parameters">
   <front>
     <title>Registration Failure Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="LTP-PARAMETERS/LTP-PARAMETERS-1" target="http://www.iana.org/assignments/ltp-parameters">
+<reference anchor="LTP-PARAMETERS__LTP-PARAMETERS-1" target="http://www.iana.org/assignments/ltp-parameters">
   <front>
     <title>LTP Extension Tags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="SDP-PARAMETERS/TIMESTAMP-REF-CLOCK-SOURCE" target="http://www.iana.org/assignments/sdp-parameters">
+<reference anchor="SDP-PARAMETERS__TIMESTAMP-REF-CLOCK-SOURCE" target="http://www.iana.org/assignments/sdp-parameters">
   <front>
     <title>Timestamp Reference Clock Source Parameters</title>
     <author>

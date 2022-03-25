@@ -1,4 +1,4 @@
-<reference anchor="OSPF-PARAMETERS/TUNNEL-PARAMETER-TLV" target="http://www.iana.org/assignments/ospf-parameters">
+<reference anchor="OSPF-PARAMETERS__TUNNEL-PARAMETER-TLV" target="http://www.iana.org/assignments/ospf-parameters">
   <front>
     <title>OSPF Tunnel Parameter Sub-TLVs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="OAUTH-PARAMETERS/PKCE-CODE-CHALLENGE-METHOD" target="http://www.iana.org/assignments/oauth-parameters">
+<reference anchor="OAUTH-PARAMETERS__PKCE-CODE-CHALLENGE-METHOD" target="http://www.iana.org/assignments/oauth-parameters">
   <front>
     <title>PKCE Code Challenge Methods</title>
     <author>

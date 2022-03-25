@@ -1,4 +1,4 @@
-<reference anchor="ICALENDAR/SCHEDULE-FORCE-SEND-VALUES" target="http://www.iana.org/assignments/icalendar">
+<reference anchor="ICALENDAR__SCHEDULE-FORCE-SEND-VALUES" target="http://www.iana.org/assignments/icalendar">
   <front>
     <title>Schedule Force Send Values Registry</title>
     <author>

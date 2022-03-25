@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BFD-MODE" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BFD-MODE" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BFD Mode</title>
     <author>

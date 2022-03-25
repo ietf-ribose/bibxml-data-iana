@@ -1,4 +1,4 @@
-<reference anchor="ISNS-PARAMETERS/ISNS-PARAMETERS-2" target="http://www.iana.org/assignments/isns-parameters">
+<reference anchor="ISNS-PARAMETERS__ISNS-PARAMETERS-2" target="http://www.iana.org/assignments/isns-parameters">
   <front>
     <title>Standard iSNS Attributes</title>
     <author>

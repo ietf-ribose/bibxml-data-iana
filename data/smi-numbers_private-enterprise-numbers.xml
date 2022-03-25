@@ -1,4 +1,4 @@
-<reference anchor="SMI-NUMBERS/PRIVATE-ENTERPRISE-NUMBERS" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS__PRIVATE-ENTERPRISE-NUMBERS" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>SMI Network Management Private Enterprise Codes (PEN)</title>
     <author>

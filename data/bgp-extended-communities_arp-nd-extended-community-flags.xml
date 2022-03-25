@@ -1,4 +1,4 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES/ARP-ND-EXTENDED-COMMUNITY-FLAGS" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES__ARP-ND-EXTENDED-COMMUNITY-FLAGS" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>ARP/ND Extended Community Flags</title>
     <author>

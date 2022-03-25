@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/ROUTE-REFRESH-SUBCODES" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__ROUTE-REFRESH-SUBCODES" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Route Refresh Subcodes</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="DKIM-PARAMETERS/REPORTING-TAG" target="http://www.iana.org/assignments/dkim-parameters">
+<reference anchor="DKIM-PARAMETERS__REPORTING-TAG" target="http://www.iana.org/assignments/dkim-parameters">
   <front>
     <title>DKIM Reporting Tag Registry</title>
     <author>

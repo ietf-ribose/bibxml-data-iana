@@ -1,4 +1,4 @@
-<reference anchor="LISP-PARAMETERS/LISP-ALGORITHM-ID-NUMBERS" target="http://www.iana.org/assignments/lisp-parameters">
+<reference anchor="LISP-PARAMETERS__LISP-ALGORITHM-ID-NUMBERS" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
     <title>LISP Algorithm ID Numbers</title>
     <author>

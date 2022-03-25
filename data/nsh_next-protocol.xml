@@ -1,4 +1,4 @@
-<reference anchor="NSH/NEXT-PROTOCOL" target="http://www.iana.org/assignments/nsh">
+<reference anchor="NSH__NEXT-PROTOCOL" target="http://www.iana.org/assignments/nsh">
   <front>
     <title>NSH Next Protocol</title>
     <author>

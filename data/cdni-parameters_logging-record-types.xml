@@ -1,4 +1,4 @@
-<reference anchor="CDNI-PARAMETERS/LOGGING-RECORD-TYPES" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS__LOGGING-RECORD-TYPES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Logging record-types</title>
     <author>

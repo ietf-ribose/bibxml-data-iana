@@ -1,4 +1,4 @@
-<reference anchor="BUNDLE/CIPHERSUITE-NUMBERS" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE__CIPHERSUITE-NUMBERS" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Ciphersuite Numbers</title>
     <author>

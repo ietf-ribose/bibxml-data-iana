@@ -1,4 +1,4 @@
-<reference anchor="NVO3/GENEVE-OPTION-CLASS" target="http://www.iana.org/assignments/nvo3">
+<reference anchor="NVO3__GENEVE-OPTION-CLASS" target="http://www.iana.org/assignments/nvo3">
   <front>
     <title>Geneve Option Class</title>
     <author>

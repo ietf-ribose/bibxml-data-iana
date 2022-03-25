@@ -1,4 +1,4 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES/EVPN-LAYER-2-ATTRIBUTES-CONTROL-FLAGS" target="http://www.iana.org/assignments/bgp-extended-communities">
+<reference anchor="BGP-EXTENDED-COMMUNITIES__EVPN-LAYER-2-ATTRIBUTES-CONTROL-FLAGS" target="http://www.iana.org/assignments/bgp-extended-communities">
   <front>
     <title>EVPN Layer 2 Attributes Control Flags</title>
     <author>

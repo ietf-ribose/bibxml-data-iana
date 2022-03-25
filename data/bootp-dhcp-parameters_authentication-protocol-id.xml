@@ -1,4 +1,4 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/AUTHENTICATION-PROTOCOL-ID" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
+<reference anchor="BOOTP-DHCP-PARAMETERS__AUTHENTICATION-PROTOCOL-ID" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
   <front>
     <title>Authentication Suboption (value 8) - Protocol identifier values</title>
     <author>

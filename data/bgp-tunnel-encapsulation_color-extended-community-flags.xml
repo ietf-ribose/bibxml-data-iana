@@ -1,4 +1,4 @@
-<reference anchor="BGP-TUNNEL-ENCAPSULATION/COLOR-EXTENDED-COMMUNITY-FLAGS" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="BGP-TUNNEL-ENCAPSULATION__COLOR-EXTENDED-COMMUNITY-FLAGS" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>Color Extended Community Flags</title>
     <author>

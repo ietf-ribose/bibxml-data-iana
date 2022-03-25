@@ -1,4 +1,4 @@
-<reference anchor="RSIP-PARAMETERS/RSIP-PARAMETERS-7" target="http://www.iana.org/assignments/rsip-parameters">
+<reference anchor="RSIP-PARAMETERS__RSIP-PARAMETERS-7" target="http://www.iana.org/assignments/rsip-parameters">
   <front>
     <title>RSIP Message Types</title>
     <author>

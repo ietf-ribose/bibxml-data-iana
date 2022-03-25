@@ -1,4 +1,4 @@
-<reference anchor="BMP-PARAMETERS/PEER-TYPES" target="http://www.iana.org/assignments/bmp-parameters">
+<reference anchor="BMP-PARAMETERS__PEER-TYPES" target="http://www.iana.org/assignments/bmp-parameters">
   <front>
     <title>BMP Peer Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RTCP-XR-BLOCK-TYPES/IDMS-SPST" target="http://www.iana.org/assignments/rtcp-xr-block-types">
+<reference anchor="RTCP-XR-BLOCK-TYPES__IDMS-SPST" target="http://www.iana.org/assignments/rtcp-xr-block-types">
   <front>
     <title>IDMS XR Block SPST Registry</title>
     <author>

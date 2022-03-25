@@ -1,4 +1,4 @@
-<reference anchor="CLUE/SENSITIVITYPATTERN" target="http://www.iana.org/assignments/clue">
+<reference anchor="CLUE__SENSITIVITYPATTERN" target="http://www.iana.org/assignments/clue">
   <front>
     <title>CLUE Schema &lt;sensitivityPattern&gt;</title>
     <author>

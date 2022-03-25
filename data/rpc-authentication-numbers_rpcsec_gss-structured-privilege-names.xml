@@ -1,4 +1,4 @@
-<reference anchor="RPC-AUTHENTICATION-NUMBERS/RPCSEC_GSS-STRUCTURED-PRIVILEGE-NAMES" target="http://www.iana.org/assignments/rpc-authentication-numbers">
+<reference anchor="RPC-AUTHENTICATION-NUMBERS__RPCSEC_GSS-STRUCTURED-PRIVILEGE-NAMES" target="http://www.iana.org/assignments/rpc-authentication-numbers">
   <front>
     <title>RPCSEC_GSS Structured Privilege Names Registry</title>
     <author>

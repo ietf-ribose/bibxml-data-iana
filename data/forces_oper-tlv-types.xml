@@ -1,4 +1,4 @@
-<reference anchor="FORCES/OPER-TLV-TYPES" target="http://www.iana.org/assignments/forces">
+<reference anchor="FORCES__OPER-TLV-TYPES" target="http://www.iana.org/assignments/forces">
   <front>
     <title>Operation Selection (OPER-TLV) Types</title>
     <author>

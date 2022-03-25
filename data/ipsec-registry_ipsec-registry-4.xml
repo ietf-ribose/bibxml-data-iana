@@ -1,4 +1,4 @@
-<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-4" target="http://www.iana.org/assignments/ipsec-registry">
+<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-4" target="http://www.iana.org/assignments/ipsec-registry">
   <front>
     <title>Encryption Algorithm Class Values (Value 1)</title>
     <author>

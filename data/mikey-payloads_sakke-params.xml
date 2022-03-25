@@ -1,4 +1,4 @@
-<reference anchor="MIKEY-PAYLOADS/SAKKE-PARAMS" target="http://www.iana.org/assignments/mikey-payloads">
+<reference anchor="MIKEY-PAYLOADS__SAKKE-PARAMS" target="http://www.iana.org/assignments/mikey-payloads">
   <front>
     <title>SAKKE params</title>
     <author>

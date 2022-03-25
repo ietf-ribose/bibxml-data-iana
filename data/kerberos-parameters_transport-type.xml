@@ -1,4 +1,4 @@
-<reference anchor="KERBEROS-PARAMETERS/TRANSPORT-TYPE" target="http://www.iana.org/assignments/kerberos-parameters">
+<reference anchor="KERBEROS-PARAMETERS__TRANSPORT-TYPE" target="http://www.iana.org/assignments/kerberos-parameters">
   <front>
     <title>Kerberos Message Transport Types</title>
     <author>

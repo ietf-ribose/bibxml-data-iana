@@ -1,4 +1,4 @@
-<reference anchor="TLS-PARAMETERS/HEARTBEAT-MODES" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="TLS-PARAMETERS__HEARTBEAT-MODES" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS Heartbeat Modes</title>
     <author>

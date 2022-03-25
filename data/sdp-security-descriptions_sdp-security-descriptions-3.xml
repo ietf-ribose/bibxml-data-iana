@@ -1,4 +1,4 @@
-<reference anchor="SDP-SECURITY-DESCRIPTIONS/SDP-SECURITY-DESCRIPTIONS-3" target="http://www.iana.org/assignments/sdp-security-descriptions">
+<reference anchor="SDP-SECURITY-DESCRIPTIONS__SDP-SECURITY-DESCRIPTIONS-3" target="http://www.iana.org/assignments/sdp-security-descriptions">
   <front>
     <title>SRTP Crypto Suite Registrations</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IPFIX/IPFIX-INFORMATION-ELEMENT-DATA-TYPES" target="http://www.iana.org/assignments/ipfix">
+<reference anchor="IPFIX__IPFIX-INFORMATION-ELEMENT-DATA-TYPES" target="http://www.iana.org/assignments/ipfix">
   <front>
     <title>IPFIX Information Element Data Types</title>
     <author>

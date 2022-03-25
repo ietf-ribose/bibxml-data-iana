@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/SYSTEMIMPACT-TYPE" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__SYSTEMIMPACT-TYPE" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>SystemImpact-type</title>
     <author>

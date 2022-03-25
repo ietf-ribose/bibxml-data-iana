@@ -1,4 +1,4 @@
-<reference anchor="TRANS/TRANS-VERSIONEDTRANSTYPE" target="http://www.iana.org/assignments/trans">
+<reference anchor="TRANS__TRANS-VERSIONEDTRANSTYPE" target="http://www.iana.org/assignments/trans">
   <front>
     <title>VersionedTransTypes</title>
     <author>

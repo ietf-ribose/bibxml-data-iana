@@ -1,4 +1,4 @@
-<reference anchor="HTTP-PROXY-STATUS/HTTP-PROXY-ERROR-TYPES" target="http://www.iana.org/assignments/http-proxy-status">
+<reference anchor="HTTP-PROXY-STATUS__HTTP-PROXY-ERROR-TYPES" target="http://www.iana.org/assignments/http-proxy-status">
   <front>
     <title>HTTP Proxy Error Types</title>
     <author>

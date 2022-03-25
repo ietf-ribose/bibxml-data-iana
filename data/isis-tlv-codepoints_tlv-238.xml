@@ -1,4 +1,4 @@
-<reference anchor="ISIS-TLV-CODEPOINTS/TLV-238" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+<reference anchor="ISIS-TLV-CODEPOINTS__TLV-238" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
     <title>Sub-TLVs for TLV 238</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="ALTO-PROTOCOL/ADDRESS-TYPES" target="http://www.iana.org/assignments/alto-protocol">
+<reference anchor="ALTO-PROTOCOL__ADDRESS-TYPES" target="http://www.iana.org/assignments/alto-protocol">
   <front>
     <title>ALTO Address Type Registry</title>
     <author>

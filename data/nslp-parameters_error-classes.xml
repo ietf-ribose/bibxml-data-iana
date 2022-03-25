@@ -1,4 +1,4 @@
-<reference anchor="NSLP-PARAMETERS/ERROR-CLASSES" target="http://www.iana.org/assignments/nslp-parameters">
+<reference anchor="NSLP-PARAMETERS__ERROR-CLASSES" target="http://www.iana.org/assignments/nslp-parameters">
   <front>
     <title>NSLP Error Classes</title>
     <author>

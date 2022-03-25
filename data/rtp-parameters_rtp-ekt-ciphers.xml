@@ -1,4 +1,4 @@
-<reference anchor="RTP-PARAMETERS/RTP-EKT-CIPHERS" target="http://www.iana.org/assignments/rtp-parameters">
+<reference anchor="RTP-PARAMETERS__RTP-EKT-CIPHERS" target="http://www.iana.org/assignments/rtp-parameters">
   <front>
     <title>EKT Ciphers</title>
     <author>

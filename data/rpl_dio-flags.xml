@@ -1,4 +1,4 @@
-<reference anchor="RPL/DIO-FLAGS" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL__DIO-FLAGS" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>DODAG Information Object (DIO) Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="JMAP/JMAP-CAPABILITIES" target="http://www.iana.org/assignments/jmap">
+<reference anchor="JMAP__JMAP-CAPABILITIES" target="http://www.iana.org/assignments/jmap">
   <front>
     <title>JMAP Capabilities</title>
     <author>

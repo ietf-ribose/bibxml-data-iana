@@ -1,4 +1,4 @@
-<reference anchor="BUNDLE/TCP-CONVERGENCE-LAYER-TRANSFER-EXTENSION" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE__TCP-CONVERGENCE-LAYER-TRANSFER-EXTENSION" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol TCP Convergence-Layer Version 4 Transfer Extension Types</title>
     <author>

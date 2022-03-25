@@ -1,4 +1,4 @@
-<reference anchor="ABOUT-URI-TOKENS/ABOUT-URI-TOKENS" target="http://www.iana.org/assignments/about-uri-tokens">
+<reference anchor="ABOUT-URI-TOKENS__ABOUT-URI-TOKENS" target="http://www.iana.org/assignments/about-uri-tokens">
   <front>
     <title>"about" URI Tokens</title>
     <author>

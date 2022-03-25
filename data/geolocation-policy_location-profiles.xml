@@ -1,4 +1,4 @@
-<reference anchor="GEOLOCATION-POLICY/LOCATION-PROFILES" target="http://www.iana.org/assignments/geolocation-policy">
+<reference anchor="GEOLOCATION-POLICY__LOCATION-PROFILES" target="http://www.iana.org/assignments/geolocation-policy">
   <front>
     <title>Geolocation Policy Location Profile Names</title>
     <author>

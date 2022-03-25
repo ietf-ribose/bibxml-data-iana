@@ -1,4 +1,4 @@
-<reference anchor="PSKC/VERSIONS" target="http://www.iana.org/assignments/pskc">
+<reference anchor="PSKC__VERSIONS" target="http://www.iana.org/assignments/pskc">
   <front>
     <title>PSKC Version Registry</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="MTRACE/MTRACE2-FORWARDING-CODES" target="http://www.iana.org/assignments/mtrace">
+<reference anchor="MTRACE__MTRACE2-FORWARDING-CODES" target="http://www.iana.org/assignments/mtrace">
   <front>
     <title>Mtrace2 Forwarding Codes</title>
     <author>

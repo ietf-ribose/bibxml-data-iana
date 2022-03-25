@@ -1,4 +1,4 @@
-<reference anchor="WEBFINGER/PROPERTIES" target="http://www.iana.org/assignments/webfinger">
+<reference anchor="WEBFINGER__PROPERTIES" target="http://www.iana.org/assignments/webfinger">
   <front>
     <title>Webfinger Properties</title>
     <author>

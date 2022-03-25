@@ -1,4 +1,4 @@
-<reference anchor="LEIGHTON-MICALI-SIGNATURES/LEIGHTON-MICALI-SIGNATURES-1" target="http://www.iana.org/assignments/leighton-micali-signatures">
+<reference anchor="LEIGHTON-MICALI-SIGNATURES__LEIGHTON-MICALI-SIGNATURES-1" target="http://www.iana.org/assignments/leighton-micali-signatures">
   <front>
     <title>Leighton-Micali Signatures (LMS)</title>
     <author>

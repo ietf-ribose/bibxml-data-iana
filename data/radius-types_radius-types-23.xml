@@ -1,4 +1,4 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-23" target="http://www.iana.org/assignments/radius-types">
+<reference anchor="RADIUS-TYPES__RADIUS-TYPES-23" target="http://www.iana.org/assignments/radius-types">
   <front>
     <title>Location-Capable Attribute (Attribute 131)</title>
     <author>

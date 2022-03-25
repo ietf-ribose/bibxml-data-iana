@@ -1,4 +1,4 @@
-<reference anchor="GMPLS-SIG-PARAMETERS/SPECIAL-PURPOSE" target="http://www.iana.org/assignments/gmpls-sig-parameters">
+<reference anchor="GMPLS-SIG-PARAMETERS__SPECIAL-PURPOSE" target="http://www.iana.org/assignments/gmpls-sig-parameters">
   <front>
     <title>Special Purpose Generalized Label Values</title>
     <author>

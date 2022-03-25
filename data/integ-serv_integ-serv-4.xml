@@ -1,4 +1,4 @@
-<reference anchor="INTEG-SERV/INTEG-SERV-4" target="http://www.iana.org/assignments/integ-serv">
+<reference anchor="INTEG-SERV__INTEG-SERV-4" target="http://www.iana.org/assignments/integ-serv">
   <front>
     <title>Parameter Names</title>
     <author>

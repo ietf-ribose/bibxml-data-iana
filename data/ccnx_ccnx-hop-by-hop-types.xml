@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-HOP-BY-HOP-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-HOP-BY-HOP-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Hop-by-Hop Types</title>
     <author>

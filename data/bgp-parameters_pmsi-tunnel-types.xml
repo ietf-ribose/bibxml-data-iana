@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/PMSI-TUNNEL-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__PMSI-TUNNEL-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>P-Multicast Service Interface Tunnel (PMSI Tunnel) Tunnel Types</title>
     <author>

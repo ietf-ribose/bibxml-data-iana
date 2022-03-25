@@ -1,4 +1,4 @@
-<reference anchor="GRASP-PARAMETERS/OBJECTIVE-NAMES" target="http://www.iana.org/assignments/grasp-parameters">
+<reference anchor="GRASP-PARAMETERS__OBJECTIVE-NAMES" target="http://www.iana.org/assignments/grasp-parameters">
   <front>
     <title>GRASP Objective Names</title>
     <author>

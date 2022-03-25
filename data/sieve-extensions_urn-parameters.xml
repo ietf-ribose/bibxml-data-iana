@@ -1,4 +1,4 @@
-<reference anchor="SIEVE-EXTENSIONS/URN-PARAMETERS" target="http://www.iana.org/assignments/sieve-extensions">
+<reference anchor="SIEVE-EXTENSIONS__URN-PARAMETERS" target="http://www.iana.org/assignments/sieve-extensions">
   <front>
     <title>Sieve URN Parameters</title>
     <author>

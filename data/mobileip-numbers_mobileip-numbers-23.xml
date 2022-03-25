@@ -1,4 +1,4 @@
-<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-23" target="http://www.iana.org/assignments/mobileip-numbers">
+<reference anchor="MOBILEIP-NUMBERS__MOBILEIP-NUMBERS-23" target="http://www.iana.org/assignments/mobileip-numbers">
   <front>
     <title>Generalized Link Layer Address Registration Extension Subtypes and Generalized Link Layer Address Advertisement Extension Subtypes</title>
     <author>

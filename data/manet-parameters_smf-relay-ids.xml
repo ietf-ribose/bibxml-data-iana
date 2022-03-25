@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/SMF-RELAY-IDS" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__SMF-RELAY-IDS" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>SMF Relay Algorithm IDs</title>
     <author>

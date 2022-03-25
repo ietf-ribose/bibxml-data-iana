@@ -1,4 +1,4 @@
-<reference anchor="SYSLOG-PARAMETERS/SYSLOG-PARAMETERS-2" target="http://www.iana.org/assignments/syslog-parameters">
+<reference anchor="SYSLOG-PARAMETERS__SYSLOG-PARAMETERS-2" target="http://www.iana.org/assignments/syslog-parameters">
   <front>
     <title>syslog Message Severities</title>
     <author>

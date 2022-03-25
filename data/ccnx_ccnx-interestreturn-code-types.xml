@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-INTERESTRETURN-CODE-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-INTERESTRETURN-CODE-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Interest Return Code Types</title>
     <author>

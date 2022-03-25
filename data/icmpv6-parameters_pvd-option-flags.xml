@@ -1,4 +1,4 @@
-<reference anchor="ICMPV6-PARAMETERS/PVD-OPTION-FLAGS" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS__PVD-OPTION-FLAGS" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>PvD Option Flags</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="IPV6-MULTICAST-ADDRESSES/IPV6-SCOPE" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
+<reference anchor="IPV6-MULTICAST-ADDRESSES__IPV6-SCOPE" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
   <front>
     <title>IPv6 Multicast Address Scopes</title>
     <author>

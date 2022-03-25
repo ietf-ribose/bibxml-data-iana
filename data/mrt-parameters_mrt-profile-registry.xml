@@ -1,4 +1,4 @@
-<reference anchor="MRT-PARAMETERS/MRT-PROFILE-REGISTRY" target="http://www.iana.org/assignments/mrt-parameters">
+<reference anchor="MRT-PARAMETERS__MRT-PROFILE-REGISTRY" target="http://www.iana.org/assignments/mrt-parameters">
   <front>
     <title>MRT Profile Identifier Registry</title>
     <author>

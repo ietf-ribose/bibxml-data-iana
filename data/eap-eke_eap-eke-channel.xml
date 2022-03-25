@@ -1,4 +1,4 @@
-<reference anchor="EAP-EKE/EAP-EKE-CHANNEL" target="http://www.iana.org/assignments/eap-eke">
+<reference anchor="EAP-EKE__EAP-EKE-CHANNEL" target="http://www.iana.org/assignments/eap-eke">
   <front>
     <title>EAP-EKE Channel-Binding Type Registry</title>
     <author>

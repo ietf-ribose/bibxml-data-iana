@@ -1,4 +1,4 @@
-<reference anchor="ACE/OSCORE-SECURITY-CONTEXT-PARAMETERS" target="http://www.iana.org/assignments/ace">
+<reference anchor="ACE__OSCORE-SECURITY-CONTEXT-PARAMETERS" target="http://www.iana.org/assignments/ace">
   <front>
     <title>OSCORE Security Context Parameters</title>
     <author>

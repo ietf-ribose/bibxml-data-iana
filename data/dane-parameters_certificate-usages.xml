@@ -1,4 +1,4 @@
-<reference anchor="DANE-PARAMETERS/CERTIFICATE-USAGES" target="http://www.iana.org/assignments/dane-parameters">
+<reference anchor="DANE-PARAMETERS__CERTIFICATE-USAGES" target="http://www.iana.org/assignments/dane-parameters">
   <front>
     <title>TLSA Certificate Usages</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RPL/MOP" target="http://www.iana.org/assignments/rpl">
+<reference anchor="RPL__MOP" target="http://www.iana.org/assignments/rpl">
   <front>
     <title>Mode of Operation</title>
     <author>

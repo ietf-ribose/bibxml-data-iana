@@ -1,4 +1,4 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/RMC-TYPE" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
+<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT__RMC-TYPE" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
   <front>
     <title>Routing Metric/Constraint Type</title>
     <author>

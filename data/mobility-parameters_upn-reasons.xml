@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/UPN-REASONS" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__UPN-REASONS" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Update Notification Reasons Registry</title>
     <author>

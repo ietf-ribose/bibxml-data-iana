@@ -1,4 +1,4 @@
-<reference anchor="COSE/ALGORITHMS" target="http://www.iana.org/assignments/cose">
+<reference anchor="COSE__ALGORITHMS" target="http://www.iana.org/assignments/cose">
   <front>
     <title>COSE Algorithms</title>
     <author>

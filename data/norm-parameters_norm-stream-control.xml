@@ -1,4 +1,4 @@
-<reference anchor="NORM-PARAMETERS/NORM-STREAM-CONTROL" target="http://www.iana.org/assignments/norm-parameters">
+<reference anchor="NORM-PARAMETERS__NORM-STREAM-CONTROL" target="http://www.iana.org/assignments/norm-parameters">
   <front>
     <title>NORM Stream Control Codes</title>
     <author>

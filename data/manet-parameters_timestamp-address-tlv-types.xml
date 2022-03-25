@@ -1,4 +1,4 @@
-<reference anchor="MANET-PARAMETERS/TIMESTAMP-ADDRESS-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
+<reference anchor="MANET-PARAMETERS__TIMESTAMP-ADDRESS-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
   <front>
     <title>TIMESTAMP Address Block TLV Type Extensions</title>
     <author>

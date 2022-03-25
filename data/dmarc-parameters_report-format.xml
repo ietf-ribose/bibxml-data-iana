@@ -1,4 +1,4 @@
-<reference anchor="DMARC-PARAMETERS/REPORT-FORMAT" target="http://www.iana.org/assignments/dmarc-parameters">
+<reference anchor="DMARC-PARAMETERS__REPORT-FORMAT" target="http://www.iana.org/assignments/dmarc-parameters">
   <front>
     <title>DMARC Report Format Registry</title>
     <author>

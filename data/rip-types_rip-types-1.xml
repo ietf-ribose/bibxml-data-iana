@@ -1,4 +1,4 @@
-<reference anchor="RIP-TYPES/RIP-TYPES-1" target="http://www.iana.org/assignments/rip-types">
+<reference anchor="RIP-TYPES__RIP-TYPES-1" target="http://www.iana.org/assignments/rip-types">
   <front>
     <title>RIP Commands</title>
     <author>

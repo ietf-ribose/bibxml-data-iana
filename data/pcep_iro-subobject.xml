@@ -1,4 +1,4 @@
-<reference anchor="PCEP/IRO-SUBOBJECT" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__IRO-SUBOBJECT" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>IRO Subobjects</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-20" target="http://www.iana.org/assignments/smi-numbers">
+<reference anchor="SMI-NUMBERS__SMI-NUMBERS-20" target="http://www.iana.org/assignments/smi-numbers">
   <front>
     <title>IPFIX-SELECTOR-MIB Functions</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PPSPP/CONTENT-INTEGRITY-PROTECTION" target="http://www.iana.org/assignments/ppspp">
+<reference anchor="PPSPP__CONTENT-INTEGRITY-PROTECTION" target="http://www.iana.org/assignments/ppspp">
   <front>
     <title>PPSP Peer Protocol Content Integrity Protection Method Registry</title>
     <author>

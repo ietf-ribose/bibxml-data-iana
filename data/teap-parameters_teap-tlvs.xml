@@ -1,4 +1,4 @@
-<reference anchor="TEAP-PARAMETERS/TEAP-TLVS" target="http://www.iana.org/assignments/teap-parameters">
+<reference anchor="TEAP-PARAMETERS__TEAP-TLVS" target="http://www.iana.org/assignments/teap-parameters">
   <front>
     <title>TEAP TLV Types</title>
     <author>

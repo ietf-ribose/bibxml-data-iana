@@ -1,4 +1,4 @@
-<reference anchor="PROPHET/HELLO-TLV-FLAGS-0-2" target="http://www.iana.org/assignments/prophet">
+<reference anchor="PROPHET__HELLO-TLV-FLAGS-0-2" target="http://www.iana.org/assignments/prophet">
   <front>
     <title>Hello TLV Flags 0, 1, 2</title>
     <author>

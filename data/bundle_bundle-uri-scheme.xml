@@ -1,4 +1,4 @@
-<reference anchor="BUNDLE/BUNDLE-URI-SCHEME" target="http://www.iana.org/assignments/bundle">
+<reference anchor="BUNDLE__BUNDLE-URI-SCHEME" target="http://www.iana.org/assignments/bundle">
   <front>
     <title>Bundle Protocol URI Scheme Type</title>
     <author>

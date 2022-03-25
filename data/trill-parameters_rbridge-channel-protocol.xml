@@ -1,4 +1,4 @@
-<reference anchor="TRILL-PARAMETERS/RBRIDGE-CHANNEL-PROTOCOL" target="http://www.iana.org/assignments/trill-parameters">
+<reference anchor="TRILL-PARAMETERS__RBRIDGE-CHANNEL-PROTOCOL" target="http://www.iana.org/assignments/trill-parameters">
   <front>
     <title>RBridge Channel Protocols</title>
     <author>

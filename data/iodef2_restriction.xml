@@ -1,4 +1,4 @@
-<reference anchor="IODEF2/RESTRICTION" target="http://www.iana.org/assignments/iodef2">
+<reference anchor="IODEF2__RESTRICTION" target="http://www.iana.org/assignments/iodef2">
   <front>
     <title>Restriction</title>
     <author>

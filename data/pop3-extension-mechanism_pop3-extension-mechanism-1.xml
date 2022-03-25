@@ -1,4 +1,4 @@
-<reference anchor="POP3-EXTENSION-MECHANISM/POP3-EXTENSION-MECHANISM-1" target="http://www.iana.org/assignments/pop3-extension-mechanism">
+<reference anchor="POP3-EXTENSION-MECHANISM__POP3-EXTENSION-MECHANISM-1" target="http://www.iana.org/assignments/pop3-extension-mechanism">
   <front>
     <title>POP3 Capabilities</title>
     <author>

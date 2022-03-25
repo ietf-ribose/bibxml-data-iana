@@ -1,4 +1,4 @@
-<reference anchor="MANAGESIEVE/CAPABILITY" target="http://www.iana.org/assignments/managesieve">
+<reference anchor="MANAGESIEVE__CAPABILITY" target="http://www.iana.org/assignments/managesieve">
   <front>
     <title>ManageSieve Capabilities</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RSVP-TE-OAM/ETHERNET-SUB-TLVS" target="http://www.iana.org/assignments/rsvp-te-oam">
+<reference anchor="RSVP-TE-OAM__ETHERNET-SUB-TLVS" target="http://www.iana.org/assignments/rsvp-te-oam">
   <front>
     <title>Ethernet Sub-TLVs Sub-Registry</title>
     <author>

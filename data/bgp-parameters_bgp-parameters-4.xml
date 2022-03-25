@@ -1,4 +1,4 @@
-<reference anchor="BGP-PARAMETERS/BGP-PARAMETERS-4" target="http://www.iana.org/assignments/bgp-parameters">
+<reference anchor="BGP-PARAMETERS__BGP-PARAMETERS-4" target="http://www.iana.org/assignments/bgp-parameters">
   <front>
     <title>BGP Error Subcodes</title>
     <author>

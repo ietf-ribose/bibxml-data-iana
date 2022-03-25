@@ -1,4 +1,4 @@
-<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-15" target="http://www.iana.org/assignments/telnet-options">
+<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-15" target="http://www.iana.org/assignments/telnet-options">
   <front>
     <title>DES3_CFB64 Telnet Encryption Type (Type 3)</title>
     <author>

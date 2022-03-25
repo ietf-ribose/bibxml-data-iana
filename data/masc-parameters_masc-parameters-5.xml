@@ -1,4 +1,4 @@
-<reference anchor="MASC-PARAMETERS/MASC-PARAMETERS-5" target="http://www.iana.org/assignments/masc-parameters">
+<reference anchor="MASC-PARAMETERS__MASC-PARAMETERS-5" target="http://www.iana.org/assignments/masc-parameters">
   <front>
     <title>MASC NOTIFICATION Message Error Codes and Subcodes</title>
     <author>

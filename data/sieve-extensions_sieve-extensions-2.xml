@@ -1,4 +1,4 @@
-<reference anchor="SIEVE-EXTENSIONS/SIEVE-EXTENSIONS-2" target="http://www.iana.org/assignments/sieve-extensions">
+<reference anchor="SIEVE-EXTENSIONS__SIEVE-EXTENSIONS-2" target="http://www.iana.org/assignments/sieve-extensions">
   <front>
     <title>Sieve Extensions</title>
     <author>

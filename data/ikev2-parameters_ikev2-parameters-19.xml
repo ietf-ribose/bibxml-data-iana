@@ -1,4 +1,4 @@
-<reference anchor="IKEV2-PARAMETERS/IKEV2-PARAMETERS-19" target="http://www.iana.org/assignments/ikev2-parameters">
+<reference anchor="IKEV2-PARAMETERS__IKEV2-PARAMETERS-19" target="http://www.iana.org/assignments/ikev2-parameters">
   <front>
     <title>IKEv2 Traffic Selector Types</title>
     <author>

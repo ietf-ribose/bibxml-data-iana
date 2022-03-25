@@ -1,4 +1,4 @@
-<reference anchor="PCEP/PCEP-MESSAGES" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__PCEP-MESSAGES" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP Messages</title>
     <author>

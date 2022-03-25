@@ -1,4 +1,4 @@
-<reference anchor="CDNI-PARAMETERS/LOGGING-FIELD-NAMES" target="http://www.iana.org/assignments/cdni-parameters">
+<reference anchor="CDNI-PARAMETERS__LOGGING-FIELD-NAMES" target="http://www.iana.org/assignments/cdni-parameters">
   <front>
     <title>CDNI Logging Field Names</title>
     <author>

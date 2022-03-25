@@ -1,4 +1,4 @@
-<reference anchor="DCAP-PARAMETERS/FRAME-CODES" target="http://www.iana.org/assignments/dcap-parameters">
+<reference anchor="DCAP-PARAMETERS__FRAME-CODES" target="http://www.iana.org/assignments/dcap-parameters">
   <front>
     <title>Data Link Switching Protocol Frame Codes</title>
     <author>

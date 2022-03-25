@@ -1,4 +1,4 @@
-<reference anchor="TLS-PARAMETERS/TLS-PARAMETERS-9" target="http://www.iana.org/assignments/tls-parameters">
+<reference anchor="TLS-PARAMETERS__TLS-PARAMETERS-9" target="http://www.iana.org/assignments/tls-parameters">
   <front>
     <title>TLS EC Point Formats</title>
     <author>

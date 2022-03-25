@@ -1,4 +1,4 @@
-<reference anchor="TCP-PARAMETERS/MPTCP-MP-TCPRST-REASON-CODES" target="http://www.iana.org/assignments/tcp-parameters">
+<reference anchor="TCP-PARAMETERS__MPTCP-MP-TCPRST-REASON-CODES" target="http://www.iana.org/assignments/tcp-parameters">
   <front>
     <title>MPTCP MP_TCPRST Reason Codes</title>
     <author>

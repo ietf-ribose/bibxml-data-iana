@@ -1,4 +1,4 @@
-<reference anchor="MOBILITY-PARAMETERS/MOBILITY-PARAMETERS-12" target="http://www.iana.org/assignments/mobility-parameters">
+<reference anchor="MOBILITY-PARAMETERS__MOBILITY-PARAMETERS-12" target="http://www.iana.org/assignments/mobility-parameters">
   <front>
     <title>Binding Acknowledgment Flags</title>
     <author>

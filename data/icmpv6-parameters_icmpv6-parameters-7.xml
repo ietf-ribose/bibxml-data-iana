@@ -1,4 +1,4 @@
-<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-7" target="http://www.iana.org/assignments/icmpv6-parameters">
+<reference anchor="ICMPV6-PARAMETERS__ICMPV6-PARAMETERS-7" target="http://www.iana.org/assignments/icmpv6-parameters">
   <front>
     <title>Certificate option  (Type 16) Cert Type field</title>
     <author>

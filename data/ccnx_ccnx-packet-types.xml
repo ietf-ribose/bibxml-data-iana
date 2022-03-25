@@ -1,4 +1,4 @@
-<reference anchor="CCNX/CCNX-PACKET-TYPES" target="http://www.iana.org/assignments/ccnx">
+<reference anchor="CCNX__CCNX-PACKET-TYPES" target="http://www.iana.org/assignments/ccnx">
   <front>
     <title>CCNx Packet Types</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="PCEP/PCEP-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/pcep">
+<reference anchor="PCEP__PCEP-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/pcep">
   <front>
     <title>PCEP TLV Type Indicators</title>
     <author>

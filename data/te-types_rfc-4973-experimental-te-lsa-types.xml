@@ -1,4 +1,4 @@
-<reference anchor="TE-TYPES/RFC-4973-EXPERIMENTAL-TE-LSA-TYPES" target="http://www.iana.org/assignments/te-types">
+<reference anchor="TE-TYPES__RFC-4973-EXPERIMENTAL-TE-LSA-TYPES" target="http://www.iana.org/assignments/te-types">
   <front>
     <title>RFC 4973 Experimental TE LSA Types</title>
     <author>

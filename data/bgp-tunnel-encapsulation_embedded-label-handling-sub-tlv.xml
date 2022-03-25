@@ -1,4 +1,4 @@
-<reference anchor="BGP-TUNNEL-ENCAPSULATION/EMBEDDED-LABEL-HANDLING-SUB-TLV" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
+<reference anchor="BGP-TUNNEL-ENCAPSULATION__EMBEDDED-LABEL-HANDLING-SUB-TLV" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
   <front>
     <title>Embedded Label Handling Sub-TLVs</title>
     <author>

@@ -1,4 +1,4 @@
-<reference anchor="RELOAD/ACCESS-CONTROL" target="http://www.iana.org/assignments/reload">
+<reference anchor="RELOAD__ACCESS-CONTROL" target="http://www.iana.org/assignments/reload">
   <front>
     <title>RELOAD Access Control Policies</title>
     <author>

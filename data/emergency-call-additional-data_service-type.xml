@@ -1,4 +1,4 @@
-<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA/SERVICE-TYPE" target="http://www.iana.org/assignments/emergency-call-additional-data">
+<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA__SERVICE-TYPE" target="http://www.iana.org/assignments/emergency-call-additional-data">
   <front>
     <title>Service Type</title>
     <author>

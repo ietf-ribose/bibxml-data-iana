@@ -1,4 +1,4 @@
-<reference anchor="DHCPV6-PARAMETERS/VSS-TYPE" target="http://www.iana.org/assignments/dhcpv6-parameters">
+<reference anchor="DHCPV6-PARAMETERS__VSS-TYPE" target="http://www.iana.org/assignments/dhcpv6-parameters">
   <front>
     <title>VSS Type Options</title>
     <author>

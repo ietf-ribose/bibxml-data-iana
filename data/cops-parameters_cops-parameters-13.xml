@@ -1,4 +1,4 @@
-<reference anchor="COPS-PARAMETERS/COPS-PARAMETERS-13" target="http://www.iana.org/assignments/cops-parameters">
+<reference anchor="COPS-PARAMETERS__COPS-PARAMETERS-13" target="http://www.iana.org/assignments/cops-parameters">
   <front>
     <title>Client-type = 0 Flags and Error-SubCodes</title>
     <author>

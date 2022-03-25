@@ -1,4 +1,4 @@
-<reference anchor="EAP-NUMBERS/EAP-FINISH-RE-AUTH-FLAGS" target="http://www.iana.org/assignments/eap-numbers">
+<reference anchor="EAP-NUMBERS__EAP-FINISH-RE-AUTH-FLAGS" target="http://www.iana.org/assignments/eap-numbers">
   <front>
     <title>EAP Finish/Re-auth Flags</title>
     <author>
