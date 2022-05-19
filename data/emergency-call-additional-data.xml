@@ -1,8 +1,0 @@
-<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA" target="http://www.iana.org/assignments/emergency-call-additional-data">
-  <front>
-    <title>Emergency Call Additional Data</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
