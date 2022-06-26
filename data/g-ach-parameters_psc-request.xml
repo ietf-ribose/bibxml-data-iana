@@ -1,8 +1,0 @@
-<reference anchor="G-ACH-PARAMETERS__PSC-REQUEST" target="http://www.iana.org/assignments/g-ach-parameters">
-  <front>
-    <title>MPLS PSC Request Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

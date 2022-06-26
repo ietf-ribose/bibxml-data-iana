@@ -1,8 +1,0 @@
-<reference anchor="SCIM__SERVER-RELATED" target="http://www.iana.org/assignments/scim">
-  <front>
-    <title>SCIM Server-Related Schema URIs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

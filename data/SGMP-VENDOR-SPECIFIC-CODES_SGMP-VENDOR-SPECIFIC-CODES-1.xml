@@ -1,0 +1,8 @@
+<reference anchor="SGMP-VENDOR-SPECIFIC-CODES/SGMP-VENDOR-SPECIFIC-CODES-1" target="http://www.iana.org/assignments/sgmp-vendor-specific-codes">
+  <front>
+    <title>SGMP Vendor Specific Codes (Obsolete)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="PCEP/INTER-LAYER-OBJECT-PATH-PROPERTY-BITS" target="http://www.iana.org/assignments/pcep">
+  <front>
+    <title>Inter-Layer Object Path Property Bits</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

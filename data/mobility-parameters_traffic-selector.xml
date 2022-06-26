@@ -1,8 +1,0 @@
-<reference anchor="MOBILITY-PARAMETERS__TRAFFIC-SELECTOR" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Traffic Selector Format</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

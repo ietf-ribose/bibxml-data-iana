@@ -1,0 +1,8 @@
+<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-9" target="http://www.iana.org/assignments/icmpv6-parameters">
+  <front>
+    <title>Option-Code for Mobile Node Identifier Option (Type 30)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

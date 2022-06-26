@@ -1,8 +1,0 @@
-<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-40" target="http://www.iana.org/assignments/mikey-payloads">
-  <front>
-    <title>ID Role</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

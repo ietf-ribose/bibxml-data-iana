@@ -1,0 +1,8 @@
+<reference anchor="RPKI/BGPSEC-CAPABILITY" target="http://www.iana.org/assignments/rpki">
+  <front>
+    <title>BGPsec Capability</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

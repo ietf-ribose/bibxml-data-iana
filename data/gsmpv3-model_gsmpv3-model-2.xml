@@ -1,8 +1,0 @@
-<reference anchor="GSMPV3-MODEL__GSMPV3-MODEL-2" target="http://www.iana.org/assignments/gsmpv3-model">
-  <front>
-    <title>Model Type Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

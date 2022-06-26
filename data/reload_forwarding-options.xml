@@ -1,8 +1,0 @@
-<reference anchor="RELOAD__FORWARDING-OPTIONS" target="http://www.iana.org/assignments/reload">
-  <front>
-    <title>RELOAD Forwarding Option Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

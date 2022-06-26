@@ -1,8 +1,0 @@
-<reference anchor="BABEL__AE" target="http://www.iana.org/assignments/babel">
-  <front>
-    <title>Babel Address Encodings</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="IMDN/IMDN-1" target="http://www.iana.org/assignments/imdn">
+  <front>
+    <title>IMDN Headers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

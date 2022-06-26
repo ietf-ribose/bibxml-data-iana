@@ -1,0 +1,8 @@
+<reference anchor="VOT/VOT-COMPONENTS" target="http://www.iana.org/assignments/vot">
+  <front>
+    <title>Vectors of Trust Components</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

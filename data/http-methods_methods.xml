@@ -1,8 +1,0 @@
-<reference anchor="HTTP-METHODS__METHODS" target="http://www.iana.org/assignments/http-methods">
-  <front>
-    <title>HTTP Method Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

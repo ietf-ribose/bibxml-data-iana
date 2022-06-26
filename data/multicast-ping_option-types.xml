@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-PING__OPTION-TYPES" target="http://www.iana.org/assignments/multicast-ping">
-  <front>
-    <title>Multicast Ping Protocol Option Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="TE-TYPES__RFC-4973-EXPERIMENTAL-TE-TLVS" target="http://www.iana.org/assignments/te-types">
-  <front>
-    <title>RFC 4973 Experimental TE TLVs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

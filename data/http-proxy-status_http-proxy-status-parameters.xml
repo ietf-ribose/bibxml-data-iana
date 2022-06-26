@@ -1,8 +1,0 @@
-<reference anchor="HTTP-PROXY-STATUS__HTTP-PROXY-STATUS-PARAMETERS" target="http://www.iana.org/assignments/http-proxy-status">
-  <front>
-    <title>HTTP Proxy-Status Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

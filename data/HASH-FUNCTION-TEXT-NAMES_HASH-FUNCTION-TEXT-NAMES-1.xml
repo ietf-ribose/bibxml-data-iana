@@ -1,0 +1,8 @@
+<reference anchor="HASH-FUNCTION-TEXT-NAMES/HASH-FUNCTION-TEXT-NAMES-1" target="http://www.iana.org/assignments/hash-function-text-names">
+  <front>
+    <title>Hash Function Textual Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

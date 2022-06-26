@@ -1,0 +1,8 @@
+<reference anchor="MPLS-LSP-PING-PARAMETERS/REPLY-MODES" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+  <front>
+    <title>Reply Modes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

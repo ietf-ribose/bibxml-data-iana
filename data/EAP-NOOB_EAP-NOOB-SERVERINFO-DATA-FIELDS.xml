@@ -1,0 +1,8 @@
+<reference anchor="EAP-NOOB/EAP-NOOB-SERVERINFO-DATA-FIELDS" target="http://www.iana.org/assignments/eap-noob">
+  <front>
+    <title>EAP-NOOB ServerInfo Data Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

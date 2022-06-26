@@ -1,0 +1,8 @@
+<reference anchor="RADIUS-TYPES/RADIUS-TYPES-16" target="http://www.iana.org/assignments/radius-types">
+  <front>
+    <title>Values for RADIUS Attribute 72, ARAP-Zone-Access</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

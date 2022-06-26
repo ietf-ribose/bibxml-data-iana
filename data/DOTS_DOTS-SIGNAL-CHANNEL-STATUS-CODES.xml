@@ -1,0 +1,8 @@
+<reference anchor="DOTS/DOTS-SIGNAL-CHANNEL-STATUS-CODES" target="http://www.iana.org/assignments/dots">
+  <front>
+    <title>DOTS Signal Channel Status Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

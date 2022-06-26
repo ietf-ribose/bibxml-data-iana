@@ -1,8 +1,0 @@
-<reference anchor="BGP-PARAMETERS__BGP-AIGP" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>BGP AIGP Attribute Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

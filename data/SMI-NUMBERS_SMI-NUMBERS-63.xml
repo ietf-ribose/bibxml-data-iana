@@ -1,0 +1,8 @@
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-63" target="http://www.iana.org/assignments/smi-numbers">
+  <front>
+    <title>SNMP Management Architecture - Message Processing Subsystem (SnmpMessageProcessingModel)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

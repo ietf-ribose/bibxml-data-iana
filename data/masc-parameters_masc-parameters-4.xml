@@ -1,8 +1,0 @@
-<reference anchor="MASC-PARAMETERS__MASC-PARAMETERS-4" target="http://www.iana.org/assignments/masc-parameters">
-  <front>
-    <title>MASC UPDATE Message Optional Parameter Types (128-255)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

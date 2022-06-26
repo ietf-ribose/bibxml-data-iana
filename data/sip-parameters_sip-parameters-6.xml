@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-6" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>Methods and Response Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

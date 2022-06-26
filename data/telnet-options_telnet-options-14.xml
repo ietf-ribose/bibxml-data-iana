@@ -1,8 +1,0 @@
-<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-14" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>DES_OFB64 Telnet Encryption Type (Type 2)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

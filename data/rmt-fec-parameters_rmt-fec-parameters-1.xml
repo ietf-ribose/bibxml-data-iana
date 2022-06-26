@@ -1,8 +1,0 @@
-<reference anchor="RMT-FEC-PARAMETERS__RMT-FEC-PARAMETERS-1" target="http://www.iana.org/assignments/rmt-fec-parameters">
-  <front>
-    <title>ietf:rmt:fec:encoding - Fully-Specified FEC schemes (0-127)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

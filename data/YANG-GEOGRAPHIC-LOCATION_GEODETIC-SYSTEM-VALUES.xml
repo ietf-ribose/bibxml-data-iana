@@ -1,0 +1,8 @@
+<reference anchor="YANG-GEOGRAPHIC-LOCATION/GEODETIC-SYSTEM-VALUES" target="http://www.iana.org/assignments/yang-geographic-location">
+  <front>
+    <title>Geodetic System Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

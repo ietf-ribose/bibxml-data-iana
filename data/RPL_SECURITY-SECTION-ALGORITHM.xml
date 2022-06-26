@@ -1,0 +1,8 @@
+<reference anchor="RPL/SECURITY-SECTION-ALGORITHM" target="http://www.iana.org/assignments/rpl">
+  <front>
+    <title>Security Section Algorithm</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

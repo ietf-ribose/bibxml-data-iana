@@ -1,8 +1,0 @@
-<reference anchor="RPCBIND-TRANSPORT-PARAMETERS__RPCBIND-TRANSPORT-PARAMETERS-1" target="http://www.iana.org/assignments/rpcbind-transport-parameters">
-  <front>
-    <title>Transport semantics (r_nc_semantics)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

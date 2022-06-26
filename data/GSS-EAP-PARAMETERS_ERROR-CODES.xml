@@ -1,0 +1,8 @@
+<reference anchor="GSS-EAP-PARAMETERS/ERROR-CODES" target="http://www.iana.org/assignments/gss-eap-parameters">
+  <front>
+    <title>GSS-EAP Error Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

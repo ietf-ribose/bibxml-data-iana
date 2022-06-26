@@ -1,8 +1,0 @@
-<reference anchor="CCNX__CCNX-NAME-SEGMENT-TYPES" target="http://www.iana.org/assignments/ccnx">
-  <front>
-    <title>CCNx Name Segment Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="HTTP2-PARAMETERS__ERROR-CODE" target="http://www.iana.org/assignments/http2-parameters">
-  <front>
-    <title>HTTP/2 Error Code</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

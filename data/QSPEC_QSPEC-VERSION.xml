@@ -1,0 +1,8 @@
+<reference anchor="QSPEC/QSPEC-VERSION" target="http://www.iana.org/assignments/qspec">
+  <front>
+    <title>QSPEC Version</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

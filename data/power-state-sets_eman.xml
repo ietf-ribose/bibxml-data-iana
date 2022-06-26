@@ -1,8 +1,0 @@
-<reference anchor="POWER-STATE-SETS__EMAN" target="http://www.iana.org/assignments/power-state-sets">
-  <front>
-    <title>EMAN Power State Set</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

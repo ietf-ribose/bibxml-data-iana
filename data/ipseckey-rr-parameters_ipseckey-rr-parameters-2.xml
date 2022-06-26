@@ -1,8 +1,0 @@
-<reference anchor="IPSECKEY-RR-PARAMETERS__IPSECKEY-RR-PARAMETERS-2" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
-  <front>
-    <title>Gateway Type Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

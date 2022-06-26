@@ -1,8 +1,0 @@
-<reference anchor="HTTP-DIG-ALG__HTTP-DIG-ALG-1" target="http://www.iana.org/assignments/http-dig-alg">
-  <front>
-    <title>HTTP Digest Algorithm Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

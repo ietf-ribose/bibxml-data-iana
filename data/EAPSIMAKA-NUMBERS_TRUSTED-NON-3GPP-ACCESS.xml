@@ -1,0 +1,8 @@
+<reference anchor="EAPSIMAKA-NUMBERS/TRUSTED-NON-3GPP-ACCESS" target="http://www.iana.org/assignments/eapsimaka-numbers">
+  <front>
+    <title>Trusted Non-3GPP Access EAP Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

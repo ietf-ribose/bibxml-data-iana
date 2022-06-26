@@ -1,0 +1,8 @@
+<reference anchor="IOTP-CODES/IOTP-CODES-5" target="http://www.iana.org/assignments/iotp-codes">
+  <front>
+    <title>DeliveryData/DelivMethod</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="ICMPV6-PARAMETERS__ICMPV6-PARAMETERS-3" target="http://www.iana.org/assignments/icmpv6-parameters">
-  <front>
-    <title>ICMPv6 "Code" Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="LOCALLY-SERVED-DNS-ZONES/IPV6" target="http://www.iana.org/assignments/locally-served-dns-zones">
+  <front>
+    <title>IPv6 Locally-Served DNS Zone Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

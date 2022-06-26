@@ -1,8 +1,0 @@
-<reference anchor="BGP-PARAMETERS__PMSI-TUNNEL-ATTRIBUTES" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>P-Multicast Service Interface (PMSI) Tunnel Attribute Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MOBILITY-PARAMETERS__FLOW-BINDING-ACTION" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Flow Binding Action Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="SNMP-NUMBER-SPACES/SNMP-NUMBER-SPACES-1" target="http://www.iana.org/assignments/snmp-number-spaces">
+  <front>
+    <title>Security Models</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

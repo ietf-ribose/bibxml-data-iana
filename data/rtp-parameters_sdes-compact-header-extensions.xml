@@ -1,8 +1,0 @@
-<reference anchor="RTP-PARAMETERS__SDES-COMPACT-HEADER-EXTENSIONS" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>RTP SDES Compact Header Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

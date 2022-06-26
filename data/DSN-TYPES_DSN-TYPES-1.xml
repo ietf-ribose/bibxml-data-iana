@@ -1,0 +1,8 @@
+<reference anchor="DSN-TYPES/DSN-TYPES-1" target="http://www.iana.org/assignments/dsn-types">
+  <front>
+    <title>Address Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

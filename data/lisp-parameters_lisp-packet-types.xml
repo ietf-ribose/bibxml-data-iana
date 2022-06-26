@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS__LISP-PACKET-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP Packet Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

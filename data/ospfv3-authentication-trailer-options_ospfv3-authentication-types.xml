@@ -1,8 +1,0 @@
-<reference anchor="OSPFV3-AUTHENTICATION-TRAILER-OPTIONS__OSPFV3-AUTHENTICATION-TYPES" target="http://www.iana.org/assignments/ospfv3-authentication-trailer-options">
-  <front>
-    <title>OSPFv3 Authentication Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

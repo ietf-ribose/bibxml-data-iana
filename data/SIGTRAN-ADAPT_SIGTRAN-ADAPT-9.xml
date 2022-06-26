@@ -1,0 +1,8 @@
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-9" target="http://www.iana.org/assignments/sigtran-adapt">
+  <front>
+    <title>Message Types - Connectionless Messages (Value 7)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="RADIUS-TYPES__RADIUS-TYPES-9" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>Values for RADIUS Attribute 29, Termination-Action</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

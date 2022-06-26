@@ -1,0 +1,8 @@
+<reference anchor="RELOAD/DATA-KIND-ID" target="http://www.iana.org/assignments/reload">
+  <front>
+    <title>RELOAD Data Kind-ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

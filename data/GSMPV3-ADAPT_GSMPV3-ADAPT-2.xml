@@ -1,0 +1,8 @@
+<reference anchor="GSMPV3-ADAPT/GSMPV3-ADAPT-2" target="http://www.iana.org/assignments/gsmpv3-adapt">
+  <front>
+    <title>Adaptation Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

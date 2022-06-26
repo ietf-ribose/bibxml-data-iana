@@ -1,8 +1,0 @@
-<reference anchor="CFM-OAM__TLV-TYPES" target="http://www.iana.org/assignments/cfm-oam">
-  <front>
-    <title>CFM OAM IETF TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

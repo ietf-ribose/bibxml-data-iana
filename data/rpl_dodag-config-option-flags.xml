@@ -1,8 +1,0 @@
-<reference anchor="RPL__DODAG-CONFIG-OPTION-FLAGS" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>DODAG Configuration Option Flags for MOP 0..6</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

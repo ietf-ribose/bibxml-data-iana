@@ -1,8 +1,0 @@
-<reference anchor="SECURITY-LABEL-FORMAT-SELECTION__SECURITY-LABEL-FORMAT-SELECTION-REGISTRY" target="http://www.iana.org/assignments/security-label-format-selection">
-  <front>
-    <title>Security Label Format Selection Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

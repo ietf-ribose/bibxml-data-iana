@@ -1,8 +1,0 @@
-<reference anchor="GNSS__TYPES" target="http://www.iana.org/assignments/gnss">
-  <front>
-    <title>Global Navigation Satellite System (GNSS) Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

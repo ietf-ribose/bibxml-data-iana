@@ -1,0 +1,8 @@
+<reference anchor="AAA-PARAMETERS/MIP6-AUTHENTICATION-MODE" target="http://www.iana.org/assignments/aaa-parameters">
+  <front>
+    <title>MIP6 Authentication Mode Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

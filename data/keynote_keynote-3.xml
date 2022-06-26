@@ -1,8 +1,0 @@
-<reference anchor="KEYNOTE__KEYNOTE-3" target="http://www.iana.org/assignments/keynote">
-  <front>
-    <title>KeyNote Signature Algorithm Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

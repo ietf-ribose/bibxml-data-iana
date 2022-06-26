@@ -1,0 +1,8 @@
+<reference anchor="NSLP-PARAMETERS/X-TYPE-6-SUBTYPES" target="http://www.iana.org/assignments/nslp-parameters">
+  <front>
+    <title>END_TIME (X-Type 6) SubType values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

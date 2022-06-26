@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS__TEAP-TLVS" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

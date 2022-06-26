@@ -1,0 +1,8 @@
+<reference anchor="PCIM-OIDS/PCIM-OIDS-1" target="http://www.iana.org/assignments/pcim-oids">
+  <front>
+    <title>pcimSchema LDAP Descriptors</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

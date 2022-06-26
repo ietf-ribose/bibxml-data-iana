@@ -1,0 +1,8 @@
+<reference anchor="IODEF2/INCIDENT-STATUS" target="http://www.iana.org/assignments/iodef2">
+  <front>
+    <title>Incident-status</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

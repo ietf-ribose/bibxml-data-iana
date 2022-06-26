@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS__LOSS-DELAY-MEASUREMENT-TLV" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>MPLS Loss/Delay Measurement TLV Object</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

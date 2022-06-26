@@ -1,8 +1,0 @@
-<reference anchor="BIER__BIER-NEXT-PROTOCOL-IDENTIFIERS" target="http://www.iana.org/assignments/bier">
-  <front>
-    <title>BIER Next Protocol Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS__UUI-PACKAGES" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>UUI Packages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

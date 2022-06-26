@@ -1,8 +1,0 @@
-<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-23" target="http://www.iana.org/assignments/ipsec-registry">
-  <front>
-    <title>Notify Messages - Error Types (1-8191)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

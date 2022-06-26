@@ -1,8 +1,0 @@
-<reference anchor="RPL__DIS-FLAGS" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>DODAG Informational Solicitation (DIS) Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

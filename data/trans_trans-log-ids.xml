@@ -1,8 +1,0 @@
-<reference anchor="TRANS__TRANS-LOG-IDS" target="http://www.iana.org/assignments/trans">
-  <front>
-    <title>Log IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

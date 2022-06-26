@@ -1,8 +1,0 @@
-<reference anchor="IPV6-PARAMETERS__IPV6-PARAMETERS-2" target="http://www.iana.org/assignments/ipv6-parameters">
-  <front>
-    <title>Destination Options and Hop-by-Hop Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

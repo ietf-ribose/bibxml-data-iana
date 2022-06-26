@@ -1,0 +1,8 @@
+<reference anchor="IMAP-ANNOTATE-EXTENSION/IMAP-ANNOTATE-EXTENSION-ATTRIBUTES" target="http://www.iana.org/assignments/imap-annotate-extension">
+  <front>
+    <title>IMAP ANNOTATE Extension Attributes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

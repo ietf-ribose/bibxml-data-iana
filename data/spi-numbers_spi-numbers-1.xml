@@ -1,8 +1,0 @@
-<reference anchor="SPI-NUMBERS__SPI-NUMBERS-1" target="http://www.iana.org/assignments/spi-numbers">
-  <front>
-    <title>Security Parameters Index (SPI)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

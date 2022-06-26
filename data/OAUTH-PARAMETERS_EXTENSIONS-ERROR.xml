@@ -1,0 +1,8 @@
+<reference anchor="OAUTH-PARAMETERS/EXTENSIONS-ERROR" target="http://www.iana.org/assignments/oauth-parameters">
+  <front>
+    <title>OAuth Extensions Error Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

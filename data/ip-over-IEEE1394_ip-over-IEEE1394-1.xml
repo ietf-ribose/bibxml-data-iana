@@ -1,8 +1,0 @@
-<reference anchor="IP-OVER-IEEE1394__IP-OVER-IEEE1394-1" target="http://www.iana.org/assignments/ip-over-IEEE1394">
-  <front>
-    <title>CSR Protocol Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

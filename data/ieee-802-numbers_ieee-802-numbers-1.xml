@@ -1,8 +1,0 @@
-<reference anchor="IEEE-802-NUMBERS__IEEE-802-NUMBERS-1" target="http://www.iana.org/assignments/ieee-802-numbers">
-  <front>
-    <title>Ethertypes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="GDOI-PAYLOADS__GDOI-DOI-EXCHANGE-TYPES" target="http://www.iana.org/assignments/gdoi-payloads">
-  <front>
-    <title>GDOI DOI Exchange Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

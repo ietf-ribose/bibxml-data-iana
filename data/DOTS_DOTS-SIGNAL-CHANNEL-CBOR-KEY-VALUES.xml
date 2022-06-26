@@ -1,0 +1,8 @@
+<reference anchor="DOTS/DOTS-SIGNAL-CHANNEL-CBOR-KEY-VALUES" target="http://www.iana.org/assignments/dots">
+  <front>
+    <title>DOTS Signal Channel CBOR Key Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

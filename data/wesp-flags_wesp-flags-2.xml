@@ -1,8 +1,0 @@
-<reference anchor="WESP-FLAGS__WESP-FLAGS-2" target="http://www.iana.org/assignments/wesp-flags">
-  <front>
-    <title>WESP Version Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

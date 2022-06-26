@@ -1,8 +1,0 @@
-<reference anchor="PCEP__LSP-ERROR-CODE-TLV-ERROR-CODE-FIELD" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>LSP-ERROR-CODE TLV Error Code Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

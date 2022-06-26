@@ -1,8 +1,0 @@
-<reference anchor="URLAUTH-ACCESS-IDS__ACCESS" target="http://www.iana.org/assignments/urlauth-access-ids">
-  <front>
-    <title>IMAP URLAUTH Access Identifiers and Prefixes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

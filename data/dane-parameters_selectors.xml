@@ -1,8 +1,0 @@
-<reference anchor="DANE-PARAMETERS__SELECTORS" target="http://www.iana.org/assignments/dane-parameters">
-  <front>
-    <title>TLSA Selectors</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

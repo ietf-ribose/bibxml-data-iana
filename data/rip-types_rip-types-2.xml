@@ -1,8 +1,0 @@
-<reference anchor="RIP-TYPES__RIP-TYPES-2" target="http://www.iana.org/assignments/rip-types">
-  <front>
-    <title>RIP Update Headers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

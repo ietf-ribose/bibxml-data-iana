@@ -1,0 +1,8 @@
+<reference anchor="QSPEC/EXTENT-OF-RESTORATION" target="http://www.iana.org/assignments/qspec">
+  <front>
+    <title>Extent of Restoration Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

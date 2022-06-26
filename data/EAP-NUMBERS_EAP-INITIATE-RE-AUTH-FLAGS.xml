@@ -1,0 +1,8 @@
+<reference anchor="EAP-NUMBERS/EAP-INITIATE-RE-AUTH-FLAGS" target="http://www.iana.org/assignments/eap-numbers">
+  <front>
+    <title>EAP Initiate/Re-auth Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

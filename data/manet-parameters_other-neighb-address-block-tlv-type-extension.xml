@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS__OTHER-NEIGHB-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>Type 4 Address Block TLV Type Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

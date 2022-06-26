@@ -1,8 +1,0 @@
-<reference anchor="MOBILEIP-NUMBERS__MOBILEIP-NUMBERS-30" target="http://www.iana.org/assignments/mobileip-numbers">
-  <front>
-    <title>PMIPv4 Per-Node Authentication Method Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

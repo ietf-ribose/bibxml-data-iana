@@ -1,0 +1,8 @@
+<reference anchor="AS-NUMBERS/AS-NUMBERS-2" target="http://www.iana.org/assignments/as-numbers">
+  <front>
+    <title>32-bit Autonomous System Numbers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

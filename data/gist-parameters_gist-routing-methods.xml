@@ -1,8 +1,0 @@
-<reference anchor="GIST-PARAMETERS__GIST-ROUTING-METHODS" target="http://www.iana.org/assignments/gist-parameters">
-  <front>
-    <title>GIST Message Routing Methods</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

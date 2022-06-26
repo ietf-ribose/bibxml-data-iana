@@ -1,0 +1,8 @@
+<reference anchor="MOBILITY-PARAMETERS/MOBILITY-PARAMETERS-11" target="http://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>Binding Update Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

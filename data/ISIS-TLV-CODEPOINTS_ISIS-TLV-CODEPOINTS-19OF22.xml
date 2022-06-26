@@ -1,0 +1,8 @@
+<reference anchor="ISIS-TLV-CODEPOINTS/ISIS-TLV-CODEPOINTS-19OF22" target="http://www.iana.org/assignments/isis-tlv-codepoints">
+  <front>
+    <title>link-attribute bit values for sub-TLV 19 of TLV 22 (Extended IS reachability TLV)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

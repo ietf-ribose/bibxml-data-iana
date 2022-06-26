@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS__DS-FLAGS" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>DS Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

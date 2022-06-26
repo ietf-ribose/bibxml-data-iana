@@ -1,0 +1,8 @@
+<reference anchor="OAUTH-PARAMETERS/CLIENT-METADATA" target="http://www.iana.org/assignments/oauth-parameters">
+  <front>
+    <title>OAuth Dynamic Client Registration Metadata</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="BUNDLE/BPSEC-BIB-HMAC-SHA2-INTEGRITY-SCOPE" target="http://www.iana.org/assignments/bundle">
+  <front>
+    <title>BPSec BIB-HMAC-SHA2 Integrity Scope Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

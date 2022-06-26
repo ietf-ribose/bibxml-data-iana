@@ -1,0 +1,8 @@
+<reference anchor="MEDIA-CONTROL-CHANNEL/MIXER-CTRL" target="http://www.iana.org/assignments/media-control-channel">
+  <front>
+    <title>Mixer Control Package Status Code Registration</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

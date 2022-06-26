@@ -1,0 +1,8 @@
+<reference anchor="MEDIA-TYPE-SUB-PARAMETERS/SMIME" target="http://www.iana.org/assignments/media-type-sub-parameters">
+  <front>
+    <title>Parameter Values for the smime-type Parameter</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

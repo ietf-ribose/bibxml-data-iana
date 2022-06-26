@@ -1,8 +1,0 @@
-<reference anchor="XMLERS__CRYPTO-INFO" target="http://www.iana.org/assignments/xmlers">
-  <front>
-    <title>Cryptographic Information Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="RADIUS-TYPES/RADIUS-TYPES-27" target="http://www.iana.org/assignments/radius-types">
+  <front>
+    <title>RADIUS Packet Type Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PREEMPTION-NAMESPACE__PREEMPTION-NAMESPACE-1" target="http://www.iana.org/assignments/preemption-namespace">
-  <front>
-    <title>Preemption Namespaces</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="XML-REGISTRY/PUBLICID" target="http://www.iana.org/assignments/xml-registry">
+  <front>
+    <title>publicid</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

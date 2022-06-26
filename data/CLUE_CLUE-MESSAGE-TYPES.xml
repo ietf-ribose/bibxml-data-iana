@@ -1,0 +1,8 @@
+<reference anchor="CLUE/CLUE-MESSAGE-TYPES" target="http://www.iana.org/assignments/clue">
+  <front>
+    <title>CLUE Message Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

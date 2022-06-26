@@ -1,8 +1,0 @@
-<reference anchor="RADIUS-TYPES__SOFTWIRE46-CONFIGURATION-MULTICAST-ATTRIBUTES" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>RADIUS Softwire46 Configuration and Multicast Attributes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

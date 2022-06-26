@@ -1,8 +1,0 @@
-<reference anchor="ICALENDAR__FREE-BUSY-TIME-TYPES" target="http://www.iana.org/assignments/icalendar">
-  <front>
-    <title>Free/Busy Time Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

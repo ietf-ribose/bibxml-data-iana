@@ -1,0 +1,8 @@
+<reference anchor="GEOLOCATION-POLICY/LOCATION-PROFILES" target="http://www.iana.org/assignments/geolocation-policy">
+  <front>
+    <title>Geolocation Policy Location Profile Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

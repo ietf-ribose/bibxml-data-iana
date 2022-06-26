@@ -1,0 +1,8 @@
+<reference anchor="MANET-PARAMETERS/INTERVAL-TIME-MESSAGE-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
+  <front>
+    <title>Type 0 Message TLV Type Extensions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

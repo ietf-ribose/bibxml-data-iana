@@ -1,8 +1,0 @@
-<reference anchor="TLS-PARAMETERS__EXPORTER-LABELS" target="http://www.iana.org/assignments/tls-parameters">
-  <front>
-    <title>TLS Exporter Labels</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

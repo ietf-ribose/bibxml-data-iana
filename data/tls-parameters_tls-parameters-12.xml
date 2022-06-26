@@ -1,8 +1,0 @@
-<reference anchor="TLS-PARAMETERS__TLS-PARAMETERS-12" target="http://www.iana.org/assignments/tls-parameters">
-  <front>
-    <title>TLS Supplemental Data Formats (SupplementalDataType)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

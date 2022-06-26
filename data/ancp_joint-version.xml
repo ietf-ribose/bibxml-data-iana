@@ -1,8 +1,0 @@
-<reference anchor="ANCP__JOINT-VERSION" target="http://www.iana.org/assignments/ancp">
-  <front>
-    <title>Joint GSMP / ANCP Version Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

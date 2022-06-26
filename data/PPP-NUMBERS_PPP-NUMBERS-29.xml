@@ -1,0 +1,8 @@
+<reference anchor="PPP-NUMBERS/PPP-NUMBERS-29" target="http://www.iana.org/assignments/ppp-numbers">
+  <front>
+    <title>IP-Compression-Protocol Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

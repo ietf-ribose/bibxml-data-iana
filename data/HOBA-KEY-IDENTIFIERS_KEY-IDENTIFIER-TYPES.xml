@@ -1,0 +1,8 @@
+<reference anchor="HOBA-KEY-IDENTIFIERS/KEY-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/hoba-key-identifiers">
+  <front>
+    <title>HOBA Key Identifier Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

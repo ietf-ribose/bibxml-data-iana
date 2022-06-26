@@ -1,0 +1,8 @@
+<reference anchor="PKIX-PARAMETERS/CAA-PROPERTIES" target="http://www.iana.org/assignments/pkix-parameters">
+  <front>
+    <title>Certification Authority Restriction Properties</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PAWS__PARAMETERS" target="http://www.iana.org/assignments/paws">
-  <front>
-    <title>PAWS Parameters Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

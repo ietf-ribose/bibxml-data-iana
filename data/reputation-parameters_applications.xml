@@ -1,8 +1,0 @@
-<reference anchor="REPUTATION-PARAMETERS__APPLICATIONS" target="http://www.iana.org/assignments/reputation-parameters">
-  <front>
-    <title>Reputation Applications</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

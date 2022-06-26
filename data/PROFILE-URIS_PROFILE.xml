@@ -1,0 +1,8 @@
+<reference anchor="PROFILE-URIS/PROFILE" target="http://www.iana.org/assignments/profile-uris">
+  <front>
+    <title>Profile URIs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

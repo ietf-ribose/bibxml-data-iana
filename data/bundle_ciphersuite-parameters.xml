@@ -1,8 +1,0 @@
-<reference anchor="BUNDLE__CIPHERSUITE-PARAMETERS" target="http://www.iana.org/assignments/bundle">
-  <front>
-    <title>Ciphersuite Parameters and Results Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

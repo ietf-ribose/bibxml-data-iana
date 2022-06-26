@@ -1,8 +1,0 @@
-<reference anchor="OSPF-LLS-TLVS__OSPF-LLS-TLVS-2" target="http://www.iana.org/assignments/ospf-lls-tlvs">
-  <front>
-    <title>LLS Type 1 Extended Options and Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

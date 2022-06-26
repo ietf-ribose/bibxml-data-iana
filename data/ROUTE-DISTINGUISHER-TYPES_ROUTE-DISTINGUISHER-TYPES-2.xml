@@ -1,0 +1,8 @@
+<reference anchor="ROUTE-DISTINGUISHER-TYPES/ROUTE-DISTINGUISHER-TYPES-2" target="http://www.iana.org/assignments/route-distinguisher-types">
+  <front>
+    <title>Route Distinguisher Type Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

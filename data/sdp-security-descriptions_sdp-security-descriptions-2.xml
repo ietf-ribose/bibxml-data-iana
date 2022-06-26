@@ -1,8 +1,0 @@
-<reference anchor="SDP-SECURITY-DESCRIPTIONS__SDP-SECURITY-DESCRIPTIONS-2" target="http://www.iana.org/assignments/sdp-security-descriptions">
-  <front>
-    <title>Media Stream Transports</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

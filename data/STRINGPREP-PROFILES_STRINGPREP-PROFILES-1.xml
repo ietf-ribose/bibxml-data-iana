@@ -1,0 +1,8 @@
+<reference anchor="STRINGPREP-PROFILES/STRINGPREP-PROFILES-1" target="http://www.iana.org/assignments/stringprep-profiles">
+  <front>
+    <title>Stringprep Profiles</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

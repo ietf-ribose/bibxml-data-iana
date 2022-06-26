@@ -1,8 +1,0 @@
-<reference anchor="HTTP3-PARAMETERS__HTTP3-PARAMETERS-ERROR-CODES" target="http://www.iana.org/assignments/http3-parameters">
-  <front>
-    <title>HTTP/3 Error Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="RID__ENUMERATION" target="http://www.iana.org/assignments/rid">
-  <front>
-    <title>RID Enumeration List</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

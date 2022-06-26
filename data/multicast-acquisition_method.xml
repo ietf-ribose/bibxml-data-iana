@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ACQUISITION__METHOD" target="http://www.iana.org/assignments/multicast-acquisition">
-  <front>
-    <title>Multicast Acquisition Method Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

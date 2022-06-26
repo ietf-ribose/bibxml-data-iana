@@ -1,8 +1,0 @@
-<reference anchor="POP3-EXTENSION-MECHANISM__POP3-EXTENSION-MECHANISM-2" target="http://www.iana.org/assignments/pop3-extension-mechanism">
-  <front>
-    <title>POP3 Response Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

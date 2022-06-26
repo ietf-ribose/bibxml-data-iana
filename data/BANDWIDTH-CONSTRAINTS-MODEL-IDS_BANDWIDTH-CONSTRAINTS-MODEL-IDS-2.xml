@@ -1,0 +1,8 @@
+<reference anchor="BANDWIDTH-CONSTRAINTS-MODEL-IDS/BANDWIDTH-CONSTRAINTS-MODEL-IDS-2" target="http://www.iana.org/assignments/bandwidth-constraints-model-ids">
+  <front>
+    <title>Bandwidth Constraints Model Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

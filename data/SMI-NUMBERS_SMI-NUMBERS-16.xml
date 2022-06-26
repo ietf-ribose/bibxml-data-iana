@@ -1,0 +1,8 @@
+<reference anchor="SMI-NUMBERS/SMI-NUMBERS-16" target="http://www.iana.org/assignments/smi-numbers">
+  <front>
+    <title>Internet-standard MIB - Mail Monitoring</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

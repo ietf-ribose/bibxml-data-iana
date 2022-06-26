@@ -1,8 +1,0 @@
-<reference anchor="TSIG-ALGORITHM-NAMES__TSIG-ALGORITHM-NAMES-1" target="http://www.iana.org/assignments/tsig-algorithm-names">
-  <front>
-    <title>TSIG Algorithm Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

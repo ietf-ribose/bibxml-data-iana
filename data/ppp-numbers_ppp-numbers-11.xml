@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS__PPP-NUMBERS-11" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>PPP Multilink Endpoint Discriminator Class</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

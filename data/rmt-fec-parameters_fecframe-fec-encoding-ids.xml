@@ -1,8 +1,0 @@
-<reference anchor="RMT-FEC-PARAMETERS__FECFRAME-FEC-ENCODING-IDS" target="http://www.iana.org/assignments/rmt-fec-parameters">
-  <front>
-    <title>FEC Framework (FECFRAME) FEC Encoding IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

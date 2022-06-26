@@ -1,0 +1,8 @@
+<reference anchor="SENML/SENML-LABELS" target="http://www.iana.org/assignments/senml">
+  <front>
+    <title>SenML Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

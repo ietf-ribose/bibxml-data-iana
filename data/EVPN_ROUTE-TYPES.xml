@@ -1,0 +1,8 @@
+<reference anchor="EVPN/ROUTE-TYPES" target="http://www.iana.org/assignments/evpn">
+  <front>
+    <title>EVPN Route Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

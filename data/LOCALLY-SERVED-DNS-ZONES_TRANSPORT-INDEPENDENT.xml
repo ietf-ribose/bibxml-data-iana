@@ -1,0 +1,8 @@
+<reference anchor="LOCALLY-SERVED-DNS-ZONES/TRANSPORT-INDEPENDENT" target="http://www.iana.org/assignments/locally-served-dns-zones">
+  <front>
+    <title>Transport-Independent Locally-Served DNS Zone Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

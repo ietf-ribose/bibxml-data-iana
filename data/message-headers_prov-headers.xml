@@ -1,8 +1,0 @@
-<reference anchor="MESSAGE-HEADERS__PROV-HEADERS" target="http://www.iana.org/assignments/message-headers">
-  <front>
-    <title>Provisional Message Header Field Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

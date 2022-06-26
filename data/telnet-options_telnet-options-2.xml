@@ -1,8 +1,0 @@
-<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-2" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>Telnet Authentication Types (Option 37)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

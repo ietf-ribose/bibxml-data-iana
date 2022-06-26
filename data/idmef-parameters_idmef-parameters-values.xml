@@ -1,8 +1,0 @@
-<reference anchor="IDMEF-PARAMETERS__IDMEF-PARAMETERS-VALUES" target="http://www.iana.org/assignments/idmef-parameters">
-  <front>
-    <title>Attribute Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

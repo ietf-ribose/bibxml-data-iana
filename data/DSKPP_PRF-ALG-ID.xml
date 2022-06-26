@@ -1,0 +1,8 @@
+<reference anchor="DSKPP/PRF-ALG-ID" target="http://www.iana.org/assignments/dskpp">
+  <front>
+    <title>PRF Algorithm ID Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

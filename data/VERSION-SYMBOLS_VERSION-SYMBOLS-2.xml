@@ -1,0 +1,8 @@
+<reference anchor="VERSION-SYMBOLS/VERSION-SYMBOLS-2" target="http://www.iana.org/assignments/version-symbols">
+  <front>
+    <title>application/QSIG symbols</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

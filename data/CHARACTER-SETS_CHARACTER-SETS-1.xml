@@ -1,0 +1,8 @@
+<reference anchor="CHARACTER-SETS/CHARACTER-SETS-1" target="http://www.iana.org/assignments/character-sets">
+  <front>
+    <title>Character Sets</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

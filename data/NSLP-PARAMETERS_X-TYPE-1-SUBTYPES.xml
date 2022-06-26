@@ -1,0 +1,8 @@
+<reference anchor="NSLP-PARAMETERS/X-TYPE-1-SUBTYPES" target="http://www.iana.org/assignments/nslp-parameters">
+  <front>
+    <title>AUTH_ENT_ID (X-Type 1) SubType values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

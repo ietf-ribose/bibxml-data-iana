@@ -1,0 +1,8 @@
+<reference anchor="HTTP-STATUS-CODES/HTTP-STATUS-CODES-1" target="http://www.iana.org/assignments/http-status-codes">
+  <front>
+    <title>HTTP Status Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

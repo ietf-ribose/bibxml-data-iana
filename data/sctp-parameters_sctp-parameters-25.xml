@@ -1,8 +1,0 @@
-<reference anchor="SCTP-PARAMETERS__SCTP-PARAMETERS-25" target="http://www.iana.org/assignments/sctp-parameters">
-  <front>
-    <title>SCTP Payload Protocol Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

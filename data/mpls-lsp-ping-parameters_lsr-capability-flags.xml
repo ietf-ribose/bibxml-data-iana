@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS__LSR-CAPABILITY-FLAGS" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>LSR Capability Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

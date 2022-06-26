@@ -1,8 +1,0 @@
-<reference anchor="CORE-PARAMETERS__RD-PARAMETERS" target="http://www.iana.org/assignments/core-parameters">
-  <front>
-    <title>RD Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

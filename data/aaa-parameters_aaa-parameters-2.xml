@@ -1,8 +1,0 @@
-<reference anchor="AAA-PARAMETERS__AAA-PARAMETERS-2" target="http://www.iana.org/assignments/aaa-parameters">
-  <front>
-    <title>AVP Specific Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

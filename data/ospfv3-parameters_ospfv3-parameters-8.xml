@@ -1,8 +1,0 @@
-<reference anchor="OSPFV3-PARAMETERS__OSPFV3-PARAMETERS-8" target="http://www.iana.org/assignments/ospfv3-parameters">
-  <front>
-    <title>LD Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

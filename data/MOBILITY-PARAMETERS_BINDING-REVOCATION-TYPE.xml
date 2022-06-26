@@ -1,0 +1,8 @@
+<reference anchor="MOBILITY-PARAMETERS/BINDING-REVOCATION-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>Binding Revocation Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

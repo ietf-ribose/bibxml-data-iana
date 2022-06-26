@@ -1,8 +1,0 @@
-<reference anchor="PVDS__PVD-OPTION-FLAGS" target="http://www.iana.org/assignments/pvds">
-  <front>
-    <title>PvD Option Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

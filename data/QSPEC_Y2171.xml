@@ -1,0 +1,8 @@
+<reference anchor="QSPEC/Y2171" target="http://www.iana.org/assignments/qspec">
+  <front>
+    <title>Y.2171 Admission Priority Parameter</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

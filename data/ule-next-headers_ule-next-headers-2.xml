@@ -1,8 +1,0 @@
-<reference anchor="ULE-NEXT-HEADERS__ULE-NEXT-HEADERS-2" target="http://www.iana.org/assignments/ule-next-headers">
-  <front>
-    <title>Optional Extension Headers for ULE (Range 256-511 decimal)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

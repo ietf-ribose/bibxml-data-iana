@@ -1,8 +1,0 @@
-<reference anchor="CCNX__CCNX-PAYLOAD-TYPES" target="http://www.iana.org/assignments/ccnx">
-  <front>
-    <title>CCNx Payload Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

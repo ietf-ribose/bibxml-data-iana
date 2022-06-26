@@ -1,0 +1,8 @@
+<reference anchor="MPLS-LSP-PING-PARAMETERS/PROTOCOL-LABEL-STACK-SUB-TLV-DOWNSTREAM-DETAILED-MAPPING-TLV" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+  <front>
+    <title>Protocol in Label Stack Sub-TLV of Downstream Detailed Mapping TLV</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PPSP-TP__VERSION" target="http://www.iana.org/assignments/ppsp-tp">
-  <front>
-    <title>PPSTP Version Number Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

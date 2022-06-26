@@ -1,8 +1,0 @@
-<reference anchor="IODEF2__DISCOVERY-SOURCE" target="http://www.iana.org/assignments/iodef2">
-  <front>
-    <title>Discovery-source</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

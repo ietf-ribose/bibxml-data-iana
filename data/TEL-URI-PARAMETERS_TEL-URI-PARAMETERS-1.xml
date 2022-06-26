@@ -1,0 +1,8 @@
+<reference anchor="TEL-URI-PARAMETERS/TEL-URI-PARAMETERS-1" target="http://www.iana.org/assignments/tel-uri-parameters">
+  <front>
+    <title>tel URI Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

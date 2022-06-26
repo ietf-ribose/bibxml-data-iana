@@ -1,0 +1,8 @@
+<reference anchor="SIP-PRECOND-TYPES/SIP-PRECOND-TYPES-1" target="http://www.iana.org/assignments/sip-precond-types">
+  <front>
+    <title>Precondition Types Used with SIP</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

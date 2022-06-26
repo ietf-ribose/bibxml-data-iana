@@ -1,0 +1,8 @@
+<reference anchor="GDOI-PAYLOADS/GDOI-PAYLOADS-1" target="http://www.iana.org/assignments/gdoi-payloads">
+  <front>
+    <title>GDOI ID Payload Type Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

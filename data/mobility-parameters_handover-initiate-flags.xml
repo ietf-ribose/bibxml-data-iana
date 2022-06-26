@@ -1,8 +1,0 @@
-<reference anchor="MOBILITY-PARAMETERS__HANDOVER-INITIATE-FLAGS" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Handover Initiate Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

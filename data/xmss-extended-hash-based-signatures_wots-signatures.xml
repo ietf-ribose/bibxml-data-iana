@@ -1,8 +1,0 @@
-<reference anchor="XMSS-EXTENDED-HASH-BASED-SIGNATURES__WOTS-SIGNATURES" target="http://www.iana.org/assignments/xmss-extended-hash-based-signatures">
-  <front>
-    <title>WOTS+ Signatures</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

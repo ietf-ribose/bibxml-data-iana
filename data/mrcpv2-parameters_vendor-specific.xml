@@ -1,8 +1,0 @@
-<reference anchor="MRCPV2-PARAMETERS__VENDOR-SPECIFIC" target="http://www.iana.org/assignments/mrcpv2-parameters">
-  <front>
-    <title>MRCPv2 Vendor-Specific Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

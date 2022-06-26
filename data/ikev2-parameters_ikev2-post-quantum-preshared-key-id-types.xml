@@ -1,8 +1,0 @@
-<reference anchor="IKEV2-PARAMETERS__IKEV2-POST-QUANTUM-PRESHARED-KEY-ID-TYPES" target="http://www.iana.org/assignments/ikev2-parameters">
-  <front>
-    <title>IKEv2 Post-quantum Preshared Key ID Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

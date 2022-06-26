@@ -1,8 +1,0 @@
-<reference anchor="CDNI-PARAMETERS__LOGGING-FIELD-NAMES" target="http://www.iana.org/assignments/cdni-parameters">
-  <front>
-    <title>CDNI Logging Field Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

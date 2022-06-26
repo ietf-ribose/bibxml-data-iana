@@ -1,0 +1,8 @@
+<reference anchor="SIEVE-ENVIRONMENT-ITEMS/SIEVE-ENVIRONMENT-ITEMS-2" target="http://www.iana.org/assignments/sieve-environment-items">
+  <front>
+    <title>Sieve Environment Items</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-21" target="http://www.iana.org/assignments/mobileip-numbers">
+  <front>
+    <title>Security Parameter Index (SPI) Values for the Mobile IP Reserved SPIs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

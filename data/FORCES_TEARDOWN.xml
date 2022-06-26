@@ -1,0 +1,8 @@
+<reference anchor="FORCES/TEARDOWN" target="http://www.iana.org/assignments/forces">
+  <front>
+    <title>Association Teardown Message</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

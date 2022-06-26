@@ -1,8 +1,0 @@
-<reference anchor="COPS-PARAMETERS__COPS-PARAMETERS-15" target="http://www.iana.org/assignments/cops-parameters">
-  <front>
-    <title>COPS-PR Object S-Num, S-Types, and Error-Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

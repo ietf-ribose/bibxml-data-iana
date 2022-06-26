@@ -1,0 +1,8 @@
+<reference anchor="ICMPV6-PARAMETERS/ICMPV6-ADRESS-REGISTRATION-OPTION-FLAGS" target="http://www.iana.org/assignments/icmpv6-parameters">
+  <front>
+    <title>Address Registration Option Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

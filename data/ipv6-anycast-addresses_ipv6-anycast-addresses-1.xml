@@ -1,8 +1,0 @@
-<reference anchor="IPV6-ANYCAST-ADDRESSES__IPV6-ANYCAST-ADDRESSES-1" target="http://www.iana.org/assignments/ipv6-anycast-addresses">
-  <front>
-    <title>IPv6 Anycast Addresses</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

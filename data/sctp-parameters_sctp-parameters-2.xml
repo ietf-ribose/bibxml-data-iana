@@ -1,8 +1,0 @@
-<reference anchor="SCTP-PARAMETERS__SCTP-PARAMETERS-2" target="http://www.iana.org/assignments/sctp-parameters">
-  <front>
-    <title>Chunk Parameter Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PPSPP__CHUNK-ADDRESSING" target="http://www.iana.org/assignments/ppspp">
-  <front>
-    <title>PPSP Peer Protocol Chunk Addressing Method Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

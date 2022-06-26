@@ -1,0 +1,8 @@
+<reference anchor="SYSLOG-PARAMETERS/SYSLOG-PARAMETERS-8" target="http://www.iana.org/assignments/syslog-parameters">
+  <front>
+    <title>syslog-sign SG Field Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

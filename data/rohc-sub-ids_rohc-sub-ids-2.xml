@@ -1,8 +1,0 @@
-<reference anchor="ROHC-SUB-IDS__ROHC-SUB-IDS-2" target="http://www.iana.org/assignments/rohc-sub-ids">
-  <front>
-    <title>ROHC Configuration Option Suboption Identifier Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="CARD-PARAMETERS/CARD-PARAMETERS-2" target="http://www.iana.org/assignments/card-parameters">
+  <front>
+    <title>Layer 2 Access Technology Identifier Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

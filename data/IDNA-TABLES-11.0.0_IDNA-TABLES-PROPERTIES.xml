@@ -1,0 +1,8 @@
+<reference anchor="IDNA-TABLES-11.0.0/IDNA-TABLES-PROPERTIES" target="http://www.iana.org/assignments/idna-tables-11.0.0">
+  <front>
+    <title>IDNA Derived Properties</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

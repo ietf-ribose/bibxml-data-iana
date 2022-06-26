@@ -1,0 +1,8 @@
+<reference anchor="TE-LINK-CAPABILITIES/TE-NODE-CAPABILITIES" target="http://www.iana.org/assignments/te-link-capabilities">
+  <front>
+    <title>TE Node Capabilities</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

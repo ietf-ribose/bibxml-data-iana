@@ -1,8 +1,0 @@
-<reference anchor="IPP-REGISTRATIONS__IPP-REGISTRATIONS-6" target="http://www.iana.org/assignments/ipp-registrations">
-  <front>
-    <title>Enum Attribute Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

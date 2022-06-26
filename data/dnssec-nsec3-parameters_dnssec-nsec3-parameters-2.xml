@@ -1,8 +1,0 @@
-<reference anchor="DNSSEC-NSEC3-PARAMETERS__DNSSEC-NSEC3-PARAMETERS-2" target="http://www.iana.org/assignments/dnssec-nsec3-parameters">
-  <front>
-    <title>DNSSEC NSEC3PARAM Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

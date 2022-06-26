@@ -1,8 +1,0 @@
-<reference anchor="PCEP__CLOSE-OBJECT-REASON-FIELD" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>CLOSE Object Reason Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

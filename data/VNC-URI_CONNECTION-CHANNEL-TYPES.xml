@@ -1,0 +1,8 @@
+<reference anchor="VNC-URI/CONNECTION-CHANNEL-TYPES" target="http://www.iana.org/assignments/vnc-uri">
+  <front>
+    <title>VNC URI Connection Channel Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

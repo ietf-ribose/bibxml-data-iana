@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-12" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>Header Field Parameters and Parameter Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

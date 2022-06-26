@@ -1,0 +1,8 @@
+<reference anchor="PB-TNC-PARAMETERS/PB-TNC-PARAMETERS-3" target="http://www.iana.org/assignments/pb-tnc-parameters">
+  <front>
+    <title>PB-TNC Remediation Parameters Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

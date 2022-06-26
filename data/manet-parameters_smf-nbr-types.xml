@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS__SMF-NBR-TYPES" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>SMF_NBR_TYPE Address Block TLV Type Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

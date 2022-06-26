@@ -1,8 +1,0 @@
-<reference anchor="AUDIO-TELEPHONE-EVENT-REGISTRY__AUDIO-TELEPHONE-EVENT-REGISTRY-1" target="http://www.iana.org/assignments/audio-telephone-event-registry">
-  <front>
-    <title>Event Code Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="MOBILITY-PARAMETERS/MOBILE-NODE-GROUP-ID-TYPE" target="http://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>Mobile Node Group Identifier Type Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

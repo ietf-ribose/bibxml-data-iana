@@ -1,0 +1,8 @@
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-12" target="http://www.iana.org/assignments/capwap-parameters">
+  <front>
+    <title>Discovery Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

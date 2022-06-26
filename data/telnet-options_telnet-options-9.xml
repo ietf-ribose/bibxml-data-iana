@@ -1,8 +1,0 @@
-<reference anchor="TELNET-OPTIONS__TELNET-OPTIONS-9" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>DSS Authentication Type (Type 14)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

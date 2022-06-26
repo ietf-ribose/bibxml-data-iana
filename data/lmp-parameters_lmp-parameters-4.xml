@@ -1,8 +1,0 @@
-<reference anchor="LMP-PARAMETERS__LMP-PARAMETERS-4" target="http://www.iana.org/assignments/lmp-parameters">
-  <front>
-    <title>LMP Object Class name space and Class type (C-Type)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

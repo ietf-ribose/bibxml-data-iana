@@ -1,0 +1,8 @@
+<reference anchor="PGP-PARAMETERS/PGP-PARAMETERS-8" target="http://www.iana.org/assignments/pgp-parameters">
+  <front>
+    <title>Reason for Revocation Extensions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

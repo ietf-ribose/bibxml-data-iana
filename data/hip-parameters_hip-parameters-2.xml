@@ -1,8 +1,0 @@
-<reference anchor="HIP-PARAMETERS__HIP-PARAMETERS-2" target="http://www.iana.org/assignments/hip-parameters">
-  <front>
-    <title>HIP Version</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="BABEL__SUB-TLV-TYPES" target="http://www.iana.org/assignments/babel">
-  <front>
-    <title>Babel Sub-TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

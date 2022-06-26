@@ -1,0 +1,8 @@
+<reference anchor="IOTP-CODES/IOTP-CODES-8" target="http://www.iana.org/assignments/iotp-codes">
+  <front>
+    <title>Status/StatusType</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

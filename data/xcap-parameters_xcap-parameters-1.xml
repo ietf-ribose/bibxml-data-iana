@@ -1,8 +1,0 @@
-<reference anchor="XCAP-PARAMETERS__XCAP-PARAMETERS-1" target="http://www.iana.org/assignments/xcap-parameters">
-  <front>
-    <title>XCAP Application Unique IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

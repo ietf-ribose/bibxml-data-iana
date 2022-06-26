@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS__ERROR" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP Error TLV (value 5) Error Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,0 +1,8 @@
+<reference anchor="SVRLOC-ERROR-NUMBERS/SVRLOC-ERROR-NUMBERS-1" target="http://www.iana.org/assignments/svrloc-error-numbers">
+  <front>
+    <title>Error Numbers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

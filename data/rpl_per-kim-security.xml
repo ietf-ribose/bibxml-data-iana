@@ -1,8 +1,0 @@
-<reference anchor="RPL__PER-KIM-SECURITY" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>Per-KIM Security Levels</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

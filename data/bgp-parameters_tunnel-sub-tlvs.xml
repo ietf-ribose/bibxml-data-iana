@@ -1,8 +1,0 @@
-<reference anchor="BGP-PARAMETERS__TUNNEL-SUB-TLVS" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>BGP Tunnel Encapsulation Attribute Sub-TLVs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

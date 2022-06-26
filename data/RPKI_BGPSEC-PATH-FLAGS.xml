@@ -1,0 +1,8 @@
+<reference anchor="RPKI/BGPSEC-PATH-FLAGS" target="http://www.iana.org/assignments/rpki">
+  <front>
+    <title>BGPsec_Path Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

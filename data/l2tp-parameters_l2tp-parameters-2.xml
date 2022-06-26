@@ -1,8 +1,0 @@
-<reference anchor="L2TP-PARAMETERS__L2TP-PARAMETERS-2" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>Message Type AVP (Attribute Type 0) Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

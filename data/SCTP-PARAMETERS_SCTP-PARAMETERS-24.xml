@@ -1,0 +1,8 @@
+<reference anchor="SCTP-PARAMETERS/SCTP-PARAMETERS-24" target="http://www.iana.org/assignments/sctp-parameters">
+  <front>
+    <title>Error Cause Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

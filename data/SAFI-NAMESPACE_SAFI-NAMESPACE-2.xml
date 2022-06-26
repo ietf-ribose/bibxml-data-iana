@@ -1,0 +1,8 @@
+<reference anchor="SAFI-NAMESPACE/SAFI-NAMESPACE-2" target="http://www.iana.org/assignments/safi-namespace">
+  <front>
+    <title>SAFI Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

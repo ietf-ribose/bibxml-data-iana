@@ -1,0 +1,8 @@
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-2" target="http://www.iana.org/assignments/sigtran-adapt">
+  <front>
+    <title>Message Types - Management (MGMT) Message (Value 0)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,8 +1,0 @@
-<reference anchor="HIP-PARAMETERS__HIT-SUITE-ID" target="http://www.iana.org/assignments/hip-parameters">
-  <front>
-    <title>HIT Suite ID</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

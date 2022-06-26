@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ADDRESSES__MULTICAST-ADDRESSES-12" target="http://www.iana.org/assignments/multicast-addresses">
-  <front>
-    <title>Scoped Multicast Ranges</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

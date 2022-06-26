@@ -1,8 +1,0 @@
-<reference anchor="NVO3__GENEVE-OPTION-CLASS" target="http://www.iana.org/assignments/nvo3">
-  <front>
-    <title>Geneve Option Class</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

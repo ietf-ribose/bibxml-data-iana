@@ -1,8 +1,0 @@
-<reference anchor="HIP-PARAMETERS__TRANSPORT-MODES" target="http://www.iana.org/assignments/hip-parameters">
-  <front>
-    <title>HIP Transport Modes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

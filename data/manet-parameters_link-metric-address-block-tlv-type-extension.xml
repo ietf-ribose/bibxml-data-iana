@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS__LINK-METRIC-ADDRESS-BLOCK-TLV-TYPE-EXTENSION" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>LINK_METRIC Address Block TLV Type Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

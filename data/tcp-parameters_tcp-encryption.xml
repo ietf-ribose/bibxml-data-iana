@@ -1,8 +1,0 @@
-<reference anchor="TCP-PARAMETERS__TCP-ENCRYPTION" target="http://www.iana.org/assignments/tcp-parameters">
-  <front>
-    <title>TCP Encryption Protocol Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

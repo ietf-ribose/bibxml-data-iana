@@ -1,0 +1,8 @@
+<reference anchor="C-DNS/C-DNS-ADDRESS-EVENT-TYPES" target="http://www.iana.org/assignments/c-dns">
+  <front>
+    <title>C-DNS Address Event Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

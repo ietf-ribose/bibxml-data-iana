@@ -1,0 +1,8 @@
+<reference anchor="XML-REGISTRY/RDFSCHEMA" target="http://www.iana.org/assignments/xml-registry">
+  <front>
+    <title>rdfschema</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

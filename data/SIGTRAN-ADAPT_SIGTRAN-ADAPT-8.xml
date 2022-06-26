@@ -1,0 +1,8 @@
+<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-8" target="http://www.iana.org/assignments/sigtran-adapt">
+  <front>
+    <title>Message Types - MTP2 User Adaptation (MAUP) Messages (Value 6)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

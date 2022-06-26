@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS__SIP-PARAMETERS-68" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>Geolocation-Error Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

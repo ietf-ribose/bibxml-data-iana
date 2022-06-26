@@ -1,0 +1,8 @@
+<reference anchor="TRANS/TRANS-LOG-ARTIFACT-EXTENSIONS" target="http://www.iana.org/assignments/trans">
+  <front>
+    <title>Log Artifact Extensions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

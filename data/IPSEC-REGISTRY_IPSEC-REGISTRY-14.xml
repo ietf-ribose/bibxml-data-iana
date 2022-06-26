@@ -1,0 +1,8 @@
+<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-14" target="http://www.iana.org/assignments/ipsec-registry">
+  <front>
+    <title>Life Type (Value 11)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

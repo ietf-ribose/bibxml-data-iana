@@ -1,0 +1,8 @@
+<reference anchor="SIP-EVENTS/SIP-EVENTS-2" target="http://www.iana.org/assignments/sip-events">
+  <front>
+    <title>Event packages and Event template-packages</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

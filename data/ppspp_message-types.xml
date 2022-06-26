@@ -1,8 +1,0 @@
-<reference anchor="PPSPP__MESSAGE-TYPES" target="http://www.iana.org/assignments/ppspp">
-  <front>
-    <title>PPSP Peer Protocol Message Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

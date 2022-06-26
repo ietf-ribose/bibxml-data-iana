@@ -1,8 +1,0 @@
-<reference anchor="MOBILEIP-NUMBERS__MOBILEIP-NUMBERS-15" target="http://www.iana.org/assignments/mobileip-numbers">
-  <front>
-    <title>Code Values for Mobile IP Registration Reply Messages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

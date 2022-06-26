@@ -1,0 +1,8 @@
+<reference anchor="IDNA-TABLES-5.2.0/IDNA-TABLES-5.2.0-CONTEXT" target="http://www.iana.org/assignments/idna-tables-5.2.0">
+  <front>
+    <title>IDNA Contextual Rules</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

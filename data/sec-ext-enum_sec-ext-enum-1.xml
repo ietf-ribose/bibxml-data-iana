@@ -1,8 +1,0 @@
-<reference anchor="SEC-EXT-ENUM__SEC-EXT-ENUM-1" target="http://www.iana.org/assignments/sec-ext-enum">
-  <front>
-    <title>Security External Enumeration Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

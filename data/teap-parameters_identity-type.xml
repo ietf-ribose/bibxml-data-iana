@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS__IDENTITY-TYPE" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP Identity-Type TLV (value 2) Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

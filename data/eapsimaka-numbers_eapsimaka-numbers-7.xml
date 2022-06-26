@@ -1,8 +1,0 @@
-<reference anchor="EAPSIMAKA-NUMBERS__EAPSIMAKA-NUMBERS-7" target="http://www.iana.org/assignments/eapsimaka-numbers">
-  <front>
-    <title>EAP-AKA' AT_KDF Key Derivation Function Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="OTP-PARAMETERS__OTP-PARAMETERS-2" target="http://www.iana.org/assignments/otp-parameters">
-  <front>
-    <title>Extension Set Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

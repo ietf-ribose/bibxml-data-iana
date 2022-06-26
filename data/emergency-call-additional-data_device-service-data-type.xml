@@ -1,8 +1,0 @@
-<reference anchor="EMERGENCY-CALL-ADDITIONAL-DATA__DEVICE-SERVICE-DATA-TYPE" target="http://www.iana.org/assignments/emergency-call-additional-data">
-  <front>
-    <title>Device/Service Data Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

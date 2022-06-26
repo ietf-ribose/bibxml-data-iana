@@ -1,0 +1,8 @@
+<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-3" target="http://www.iana.org/assignments/capwap-parameters">
+  <front>
+    <title>CAPWAP Control Message Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

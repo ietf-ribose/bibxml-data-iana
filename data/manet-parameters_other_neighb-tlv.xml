@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS__OTHER_NEIGHB-TLV" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>OTHER_NEIGHB TLV Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

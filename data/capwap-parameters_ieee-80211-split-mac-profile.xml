@@ -1,8 +1,0 @@
-<reference anchor="CAPWAP-PARAMETERS__IEEE-80211-SPLIT-MAC-PROFILE" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>IEEE 802.11 Split MAC Profile</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

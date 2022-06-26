@@ -1,8 +1,0 @@
-<reference anchor="PCEP__OF" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>Objective Function</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

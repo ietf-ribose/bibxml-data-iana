@@ -1,0 +1,8 @@
+<reference anchor="FORCES/METADATA-ID" target="http://www.iana.org/assignments/forces">
+  <front>
+    <title>Metadata ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

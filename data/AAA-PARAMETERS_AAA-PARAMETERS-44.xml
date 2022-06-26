@@ -1,0 +1,8 @@
+<reference anchor="AAA-PARAMETERS/AAA-PARAMETERS-44" target="http://www.iana.org/assignments/aaa-parameters">
+  <front>
+    <title>AVP Flags Value</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

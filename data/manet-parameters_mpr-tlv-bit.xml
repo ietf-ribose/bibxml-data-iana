@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS__MPR-TLV-BIT" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>MPR TLV BIT Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

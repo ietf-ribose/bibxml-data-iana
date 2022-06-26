@@ -1,8 +1,0 @@
-<reference anchor="TRILL-PARAMETERS__RBRIDGE-CHANNEL-PROTOCOL" target="http://www.iana.org/assignments/trill-parameters">
-  <front>
-    <title>RBridge Channel Protocols</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

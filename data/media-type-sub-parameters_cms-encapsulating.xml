@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-TYPE-SUB-PARAMETERS__CMS-ENCAPSULATING" target="http://www.iana.org/assignments/media-type-sub-parameters">
-  <front>
-    <title>CMS Encapsulating Content Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

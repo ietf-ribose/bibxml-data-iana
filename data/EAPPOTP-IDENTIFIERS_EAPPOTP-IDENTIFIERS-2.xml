@@ -1,0 +1,8 @@
+<reference anchor="EAPPOTP-IDENTIFIERS/EAPPOTP-IDENTIFIERS-2" target="http://www.iana.org/assignments/eappotp-identifiers">
+  <front>
+    <title>Hash Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

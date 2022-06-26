@@ -1,0 +1,8 @@
+<reference anchor="LDAP-PARAMETERS/LDAP-PARAMETERS-8" target="http://www.iana.org/assignments/ldap-parameters">
+  <front>
+    <title>LDAP Syntaxes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

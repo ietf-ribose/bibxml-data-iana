@@ -1,8 +1,0 @@
-<reference anchor="RDDP__RDMAP-MESSAGE-OPERATION" target="http://www.iana.org/assignments/rddp">
-  <front>
-    <title>RDMAP Message Operation Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

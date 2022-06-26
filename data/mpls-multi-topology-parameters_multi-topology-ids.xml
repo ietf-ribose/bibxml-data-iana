@@ -1,8 +1,0 @@
-<reference anchor="MPLS-MULTI-TOPOLOGY-PARAMETERS__MULTI-TOPOLOGY-IDS" target="http://www.iana.org/assignments/mpls-multi-topology-parameters">
-  <front>
-    <title>MPLS Multi-Topology Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

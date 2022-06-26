@@ -1,8 +1,0 @@
-<reference anchor="OAUTH-PARAMETERS__ENDPOINT" target="http://www.iana.org/assignments/oauth-parameters">
-  <front>
-    <title>OAuth Authorization Endpoint Response Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

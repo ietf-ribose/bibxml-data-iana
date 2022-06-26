@@ -1,8 +1,0 @@
-<reference anchor="MIKEY-PAYLOADS__MIKEY-PAYLOADS-21" target="http://www.iana.org/assignments/mikey-payloads">
-  <front>
-    <title>Cert Hash Payload Field Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

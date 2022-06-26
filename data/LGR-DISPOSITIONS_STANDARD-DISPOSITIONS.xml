@@ -1,0 +1,8 @@
+<reference anchor="LGR-DISPOSITIONS/STANDARD-DISPOSITIONS" target="http://www.iana.org/assignments/lgr-dispositions">
+  <front>
+    <title>Standard Dispositions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

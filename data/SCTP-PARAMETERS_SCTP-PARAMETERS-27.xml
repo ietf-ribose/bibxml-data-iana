@@ -1,0 +1,8 @@
+<reference anchor="SCTP-PARAMETERS/SCTP-PARAMETERS-27" target="http://www.iana.org/assignments/sctp-parameters">
+  <front>
+    <title>Adaptation Code Points</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

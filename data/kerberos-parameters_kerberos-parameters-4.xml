@@ -1,8 +1,0 @@
-<reference anchor="KERBEROS-PARAMETERS__KERBEROS-PARAMETERS-4" target="http://www.iana.org/assignments/kerberos-parameters">
-  <front>
-    <title>Kerberos TCP Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

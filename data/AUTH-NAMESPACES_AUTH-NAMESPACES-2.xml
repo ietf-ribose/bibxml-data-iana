@@ -1,0 +1,8 @@
+<reference anchor="AUTH-NAMESPACES/AUTH-NAMESPACES-2" target="http://www.iana.org/assignments/auth-namespaces">
+  <front>
+    <title>Algorithm Name Space Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

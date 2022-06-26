@@ -1,8 +1,0 @@
-<reference anchor="NSH__MD-TYPES" target="http://www.iana.org/assignments/nsh">
-  <front>
-    <title>NSH MD Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

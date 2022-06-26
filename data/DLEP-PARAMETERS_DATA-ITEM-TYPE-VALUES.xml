@@ -1,0 +1,8 @@
+<reference anchor="DLEP-PARAMETERS/DATA-ITEM-TYPE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
+  <front>
+    <title>Data Item Type Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

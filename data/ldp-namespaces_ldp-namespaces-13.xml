@@ -1,8 +1,0 @@
-<reference anchor="LDP-NAMESPACES__LDP-NAMESPACES-13" target="http://www.iana.org/assignments/ldp-namespaces">
-  <front>
-    <title>LDP MP Opaque Value Element extended type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

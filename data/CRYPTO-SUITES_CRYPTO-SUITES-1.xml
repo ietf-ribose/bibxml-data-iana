@@ -1,0 +1,8 @@
+<reference anchor="CRYPTO-SUITES/CRYPTO-SUITES-1" target="http://www.iana.org/assignments/crypto-suites">
+  <front>
+    <title>Cryptographic Suites for IKEv1, IKEv2, and IPsec</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

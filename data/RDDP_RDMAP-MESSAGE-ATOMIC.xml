@@ -1,0 +1,8 @@
+<reference anchor="RDDP/RDMAP-MESSAGE-ATOMIC" target="http://www.iana.org/assignments/rddp">
+  <front>
+    <title>RDMAP Message Atomic Operation Subcodes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

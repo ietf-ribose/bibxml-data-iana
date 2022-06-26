@@ -1,0 +1,8 @@
+<reference anchor="DNS-SSHFP-RR-PARAMETERS/DNS-SSHFP-RR-PARAMETERS-2" target="http://www.iana.org/assignments/dns-sshfp-rr-parameters">
+  <front>
+    <title>SSHFP RR types for fingerprint types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

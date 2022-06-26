@@ -1,8 +1,0 @@
-<reference anchor="MESSAGE-HEADER-TYPES__MESSAGE-HEADER-TYPES-1" target="http://www.iana.org/assignments/message-header-types">
-  <front>
-    <title>Internet Message Content Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

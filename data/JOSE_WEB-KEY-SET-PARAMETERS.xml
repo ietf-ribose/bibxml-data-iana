@@ -1,0 +1,8 @@
+<reference anchor="JOSE/WEB-KEY-SET-PARAMETERS" target="http://www.iana.org/assignments/jose">
+  <front>
+    <title>JSON Web Key Set Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

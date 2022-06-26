@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS__SIP-TRANSPORT" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>SIP Transport</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

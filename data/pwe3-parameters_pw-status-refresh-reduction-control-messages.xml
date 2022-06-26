@@ -1,8 +1,0 @@
-<reference anchor="PWE3-PARAMETERS__PW-STATUS-REFRESH-REDUCTION-CONTROL-MESSAGES" target="http://www.iana.org/assignments/pwe3-parameters">
-  <front>
-    <title>PW Status Refresh Reduction Control Messages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

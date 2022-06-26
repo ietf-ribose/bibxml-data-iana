@@ -1,8 +1,0 @@
-<reference anchor="IANA-AS-NUMBERS-SPECIAL-REGISTRY__SPECIAL-PURPOSE-AS-NUMBERS" target="http://www.iana.org/assignments/iana-as-numbers-special-registry">
-  <front>
-    <title>Special-Purpose AS Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

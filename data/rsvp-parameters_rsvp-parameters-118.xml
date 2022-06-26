@@ -1,8 +1,0 @@
-<reference anchor="RSVP-PARAMETERS__RSVP-PARAMETERS-118" target="http://www.iana.org/assignments/rsvp-parameters">
-  <front>
-    <title>Call Attributes TLV</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

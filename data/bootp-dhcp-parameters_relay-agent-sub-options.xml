@@ -1,8 +1,0 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS__RELAY-AGENT-SUB-OPTIONS" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
-  <front>
-    <title>DHCP Relay Agent Sub-Option Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

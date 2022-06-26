@@ -1,8 +1,0 @@
-<reference anchor="GDOI-PAYLOADS__GDOI-SA-TEK-ATTRIBUTES" target="http://www.iana.org/assignments/gdoi-payloads">
-  <front>
-    <title>GDOI SA TEK Attributes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

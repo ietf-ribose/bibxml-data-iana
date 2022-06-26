@@ -1,8 +1,0 @@
-<reference anchor="IMAP-LIST-EXTENDED__IMAP-LIST-EXTENDED-1" target="http://www.iana.org/assignments/imap-list-extended">
-  <front>
-    <title>LIST-EXTENDED options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

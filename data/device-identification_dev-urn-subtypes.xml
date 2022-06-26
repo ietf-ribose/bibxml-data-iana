@@ -1,8 +1,0 @@
-<reference anchor="DEVICE-IDENTIFICATION__DEV-URN-SUBTYPES" target="http://www.iana.org/assignments/device-identification">
-  <front>
-    <title>DEV URN Subtypes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

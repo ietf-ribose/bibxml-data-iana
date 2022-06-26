@@ -1,8 +1,0 @@
-<reference anchor="HTTP-PARAMETERS__TRANSFER-CODING" target="http://www.iana.org/assignments/http-parameters">
-  <front>
-    <title>HTTP Transfer Coding Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

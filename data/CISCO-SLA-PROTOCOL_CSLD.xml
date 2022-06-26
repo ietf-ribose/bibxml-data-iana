@@ -1,0 +1,8 @@
+<reference anchor="CISCO-SLA-PROTOCOL/CSLD" target="http://www.iana.org/assignments/cisco-sla-protocol">
+  <front>
+    <title>Cisco SLA Protocol CSLD Command Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

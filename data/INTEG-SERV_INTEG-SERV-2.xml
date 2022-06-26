@@ -1,0 +1,8 @@
+<reference anchor="INTEG-SERV/INTEG-SERV-2" target="http://www.iana.org/assignments/integ-serv">
+  <front>
+    <title>Service Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

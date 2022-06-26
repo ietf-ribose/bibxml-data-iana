@@ -1,8 +1,0 @@
-<reference anchor="SSH-PARAMETERS__SSH-PARAMETERS-23" target="http://www.iana.org/assignments/ssh-parameters">
-  <front>
-    <title>Publickey Subsystem Response Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

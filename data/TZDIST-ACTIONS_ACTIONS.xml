@@ -1,0 +1,8 @@
+<reference anchor="TZDIST-ACTIONS/ACTIONS" target="http://www.iana.org/assignments/tzdist-actions">
+  <front>
+    <title>TZDIST Service Actions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

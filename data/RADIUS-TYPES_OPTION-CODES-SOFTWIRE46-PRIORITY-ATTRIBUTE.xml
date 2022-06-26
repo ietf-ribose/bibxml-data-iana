@@ -1,0 +1,8 @@
+<reference anchor="RADIUS-TYPES/OPTION-CODES-SOFTWIRE46-PRIORITY-ATTRIBUTE" target="http://www.iana.org/assignments/radius-types">
+  <front>
+    <title>Option Codes Permitted in the Softwire46-Priority Attribute</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

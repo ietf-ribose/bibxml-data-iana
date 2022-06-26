@@ -1,0 +1,8 @@
+<reference anchor="DSKPP/VERSIONS" target="http://www.iana.org/assignments/dskpp">
+  <front>
+    <title>DSKPP Version Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

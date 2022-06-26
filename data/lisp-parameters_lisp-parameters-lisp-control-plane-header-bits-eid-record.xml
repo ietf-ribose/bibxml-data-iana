@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS__LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-EID-RECORD" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP Control Plane Header Bits: EID-Record</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="OPES__OCP" target="http://www.iana.org/assignments/opes">
-  <front>
-    <title>OPES Callout Protocol (OCP) Core</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

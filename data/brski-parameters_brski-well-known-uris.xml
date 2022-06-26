@@ -1,8 +1,0 @@
-<reference anchor="BRSKI-PARAMETERS__BRSKI-WELL-KNOWN-URIS" target="http://www.iana.org/assignments/brski-parameters">
-  <front>
-    <title>BRSKI Well-Known URIs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MOBILITY-PARAMETERS__FLOW-BINDING-ACK-STATUS" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Flow Binding Acknowledgement Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

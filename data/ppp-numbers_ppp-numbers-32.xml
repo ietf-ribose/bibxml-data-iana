@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS__PPP-NUMBERS-32" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>ROHC Configuration Option Suboption Identifier Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

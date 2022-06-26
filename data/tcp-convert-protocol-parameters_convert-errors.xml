@@ -1,8 +1,0 @@
-<reference anchor="TCP-CONVERT-PROTOCOL-PARAMETERS__CONVERT-ERRORS" target="http://www.iana.org/assignments/tcp-convert-protocol-parameters">
-  <front>
-    <title>Convert Errors</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

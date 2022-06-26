@@ -1,8 +1,0 @@
-<reference anchor="IPFIX__IPFIX-INFORMATION-ELEMENT-DATA-TYPES" target="http://www.iana.org/assignments/ipfix">
-  <front>
-    <title>IPFIX Information Element Data Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

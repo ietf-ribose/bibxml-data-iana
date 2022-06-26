@@ -1,8 +1,0 @@
-<reference anchor="IPSEC-REGISTRY__IPSEC-REGISTRY-12" target="http://www.iana.org/assignments/ipsec-registry">
-  <front>
-    <title>Group Type (Value 5)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

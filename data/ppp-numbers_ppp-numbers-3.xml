@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS__PPP-NUMBERS-3" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>PPP Link Control Protocol (LCP) and Internet Protocol Control Protocol (IPCP) Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SSH-PARAMETERS__EXTENSION-NAMES" target="http://www.iana.org/assignments/ssh-parameters">
-  <front>
-    <title>Extension Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

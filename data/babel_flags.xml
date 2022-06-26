@@ -1,8 +1,0 @@
-<reference anchor="BABEL__FLAGS" target="http://www.iana.org/assignments/babel">
-  <front>
-    <title>Babel Update Flags Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

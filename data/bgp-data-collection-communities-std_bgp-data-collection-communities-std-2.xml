@@ -1,8 +1,0 @@
-<reference anchor="BGP-DATA-COLLECTION-COMMUNITIES-STD__BGP-DATA-COLLECTION-COMMUNITIES-STD-2" target="http://www.iana.org/assignments/bgp-data-collection-communities-std">
-  <front>
-    <title>Region Identifiers (&lt;R&gt;)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

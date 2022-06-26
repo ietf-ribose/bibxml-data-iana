@@ -1,0 +1,8 @@
+<reference anchor="BMP-PARAMETERS/ROUTE-MIRRORING-INFORMATION-CODES" target="http://www.iana.org/assignments/bmp-parameters">
+  <front>
+    <title>BMP Route Mirroring Information Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

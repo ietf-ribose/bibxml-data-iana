@@ -1,8 +1,0 @@
-<reference anchor="BGP-EXTENDED-COMMUNITIES__TRAFFIC-ACTION-FIELDS" target="http://www.iana.org/assignments/bgp-extended-communities">
-  <front>
-    <title>Traffic Action Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

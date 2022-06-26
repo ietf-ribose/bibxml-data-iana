@@ -1,0 +1,8 @@
+<reference anchor="PROPHET/CODES-FOR-FAILURE" target="http://www.iana.org/assignments/prophet">
+  <front>
+    <title>PRoPHET Codes for Failure</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

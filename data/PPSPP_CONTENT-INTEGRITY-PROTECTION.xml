@@ -1,0 +1,8 @@
+<reference anchor="PPSPP/CONTENT-INTEGRITY-PROTECTION" target="http://www.iana.org/assignments/ppspp">
+  <front>
+    <title>PPSP Peer Protocol Content Integrity Protection Method Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

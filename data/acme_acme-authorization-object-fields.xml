@@ -1,8 +1,0 @@
-<reference anchor="ACME__ACME-AUTHORIZATION-OBJECT-FIELDS" target="http://www.iana.org/assignments/acme">
-  <front>
-    <title>ACME Authorization Object Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

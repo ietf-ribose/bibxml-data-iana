@@ -1,8 +1,0 @@
-<reference anchor="GSMPV3-SERVICE__GSMPV3-SERVICE-2" target="http://www.iana.org/assignments/gsmpv3-service">
-  <front>
-    <title>Service ID Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

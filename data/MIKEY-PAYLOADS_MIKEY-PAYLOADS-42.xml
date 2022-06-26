@@ -1,0 +1,8 @@
+<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-42" target="http://www.iana.org/assignments/mikey-payloads">
+  <front>
+    <title>Ticket Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

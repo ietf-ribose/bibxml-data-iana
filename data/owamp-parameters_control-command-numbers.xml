@@ -1,8 +1,0 @@
-<reference anchor="OWAMP-PARAMETERS__CONTROL-COMMAND-NUMBERS" target="http://www.iana.org/assignments/owamp-parameters">
-  <front>
-    <title>OWAMP-Control Command Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

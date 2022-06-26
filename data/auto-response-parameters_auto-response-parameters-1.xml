@@ -1,8 +1,0 @@
-<reference anchor="AUTO-RESPONSE-PARAMETERS__AUTO-RESPONSE-PARAMETERS-1" target="http://www.iana.org/assignments/auto-response-parameters">
-  <front>
-    <title>Auto-Submitted header field keywords</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="RDDP__MPA-ERRORS" target="http://www.iana.org/assignments/rddp">
-  <front>
-    <title>MPA Errors</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

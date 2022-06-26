@@ -1,0 +1,8 @@
+<reference anchor="SSH-PARAMETERS/SSH-PARAMETERS-3" target="http://www.iana.org/assignments/ssh-parameters">
+  <front>
+    <title>Disconnection Messages Reason Codes and Descriptions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

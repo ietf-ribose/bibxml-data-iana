@@ -1,0 +1,8 @@
+<reference anchor="STAMP-TLV-TYPES/STAMP-SUB-TLV-TYPES" target="http://www.iana.org/assignments/stamp-tlv-types">
+  <front>
+    <title>STAMP Sub-TLV Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

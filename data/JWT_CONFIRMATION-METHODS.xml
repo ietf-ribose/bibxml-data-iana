@@ -1,0 +1,8 @@
+<reference anchor="JWT/CONFIRMATION-METHODS" target="http://www.iana.org/assignments/jwt">
+  <front>
+    <title>JWT Confirmation Methods</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

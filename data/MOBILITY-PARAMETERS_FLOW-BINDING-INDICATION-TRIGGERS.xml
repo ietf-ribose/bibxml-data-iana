@@ -1,0 +1,8 @@
+<reference anchor="MOBILITY-PARAMETERS/FLOW-BINDING-INDICATION-TRIGGERS" target="http://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>Flow Binding Indication Triggers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

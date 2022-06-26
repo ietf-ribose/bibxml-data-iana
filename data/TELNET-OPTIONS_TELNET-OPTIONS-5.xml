@@ -1,0 +1,8 @@
+<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-5" target="http://www.iana.org/assignments/telnet-options">
+  <front>
+    <title>KERBEROS_V4 Telnet Authentication Type (Type 1)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
