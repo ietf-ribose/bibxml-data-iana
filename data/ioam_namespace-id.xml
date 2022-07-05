@@ -1,0 +1,8 @@
+<reference anchor="IOAM/NAMESPACE-ID" target="http://www.iana.org/assignments/ioam">
+  <front>
+    <title>IOAM Namespace-ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="ALTO-PROTOCOL/ALTO-ENTITY-DOMAIN-TYPE" target="http://www.iana.org/assignments/alto-protocol">
+  <front>
+    <title>ALTO Entity Domain Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

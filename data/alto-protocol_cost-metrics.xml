@@ -1,6 +1,6 @@
 <reference anchor="ALTO-PROTOCOL/COST-METRICS" target="http://www.iana.org/assignments/alto-protocol">
   <front>
-    <title>ALTO Cost Metric Registry</title>
+    <title>ALTO Cost Metrics</title>
     <author>
       <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
     </author>

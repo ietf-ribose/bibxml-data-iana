@@ -1,6 +1,6 @@
 <reference anchor="ISIS-TLV-CODEPOINTS/TLV-143" target="http://www.iana.org/assignments/isis-tlv-codepoints">
   <front>
-    <title>Sub-TLVs for TLV 143 (MT-Port-Cap-TLV)</title>
+    <title>IS-IS Sub-TLVs for MT-Port-Cap-TLV</title>
     <author>
       <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
     </author>

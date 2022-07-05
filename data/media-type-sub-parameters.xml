@@ -1,6 +1,6 @@
 <reference anchor="MEDIA-TYPE-SUB-PARAMETERS" target="http://www.iana.org/assignments/media-type-sub-parameters">
   <front>
-    <title>MIME Media Type Sub-Parameter Registries</title>
+    <title>Media Type Sub-Parameter Registries</title>
     <author>
       <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
     </author>

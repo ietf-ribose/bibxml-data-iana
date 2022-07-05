@@ -1,0 +1,8 @@
+<reference anchor="IOAM/POT-TYPE" target="http://www.iana.org/assignments/ioam">
+  <front>
+    <title>IOAM POT-Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

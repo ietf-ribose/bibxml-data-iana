@@ -1,8 +1,0 @@
-<reference anchor="PCEP/L2-FLOW-SPECIFICATION-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>PCEP L2 Flow Specification TLV Type Indicators</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
