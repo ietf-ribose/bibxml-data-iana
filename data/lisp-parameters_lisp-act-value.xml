@@ -1,6 +1,6 @@
 <reference anchor="LISP-PARAMETERS/LISP-ACT-VALUE" target="http://www.iana.org/assignments/lisp-parameters">
   <front>
-    <title>LISP ACT values</title>
+    <title>LISP ACT Values</title>
     <author>
       <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
     </author>
