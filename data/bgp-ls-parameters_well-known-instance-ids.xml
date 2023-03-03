@@ -1,6 +1,6 @@
 <reference anchor="BGP-LS-PARAMETERS/WELL-KNOWN-INSTANCE-IDS" target="http://www.iana.org/assignments/bgp-ls-parameters">
   <front>
-    <title>BGP-LS Well-Known Instance-IDs</title>
+    <title>BGP-LS Well-Known Instance-IDs (OBSOLETE)</title>
     <author>
       <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
     </author>
