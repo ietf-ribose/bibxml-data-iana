@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ADDRESSES" target="http://www.iana.org/assignments/multicast-addresses">
-  <front>
-    <title>IPv4 Multicast Address Space Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

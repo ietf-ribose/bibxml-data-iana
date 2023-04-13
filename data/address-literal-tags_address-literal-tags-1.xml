@@ -1,8 +1,0 @@
-<reference anchor="ADDRESS-LITERAL-TAGS/ADDRESS-LITERAL-TAGS-1" target="http://www.iana.org/assignments/address-literal-tags">
-  <front>
-    <title>Address Literal Tags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

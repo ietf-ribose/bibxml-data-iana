@@ -1,8 +1,0 @@
-<reference anchor="BEEP-PARAMETERS/BEEP-PARAMETERS-1" target="http://www.iana.org/assignments/beep-parameters">
-  <front>
-    <title>BEEP Profiles</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

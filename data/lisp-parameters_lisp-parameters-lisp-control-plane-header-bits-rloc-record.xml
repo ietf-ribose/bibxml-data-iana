@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS/LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-RLOC-RECORD" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP Control Plane Header Bits: RLOC-Record</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

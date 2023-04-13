@@ -1,8 +1,0 @@
-<reference anchor="SIEVE-EXTENSIONS/SIEVE-ACTIONS" target="http://www.iana.org/assignments/sieve-extensions">
-  <front>
-    <title>Sieve Actions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SIEVE-EXTENSIONS/URN-PARAMETERS" target="http://www.iana.org/assignments/sieve-extensions">
-  <front>
-    <title>Sieve URN Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANAMALLOC-MIB" target="http://www.iana.org/assignments/ianamalloc-mib">
-  <front>
-    <title>IANA-MALLOC-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

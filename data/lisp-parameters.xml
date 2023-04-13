@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>Locator/ID Separation Protocol (LISP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

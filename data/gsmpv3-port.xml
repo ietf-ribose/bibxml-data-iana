@@ -1,8 +1,0 @@
-<reference anchor="GSMPV3-PORT" target="http://www.iana.org/assignments/gsmpv3-port">
-  <front>
-    <title>Global Switch Management Protocol version 3 (GSMPv3) Port Type Name Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

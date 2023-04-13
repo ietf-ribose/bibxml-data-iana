@@ -1,8 +1,0 @@
-<reference anchor="DNS-PARAMETERS/DHCID-RR-DIGEST-TYPE-CODES" target="http://www.iana.org/assignments/dns-parameters">
-  <front>
-    <title>DHCID RR Digest Type Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

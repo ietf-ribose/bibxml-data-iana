@@ -1,8 +1,0 @@
-<reference anchor="TLS-EXTENSIONTYPE-VALUES/TLS-CERTIFICATE-COMPRESSION-ALGORITHM-IDS" target="http://www.iana.org/assignments/tls-extensiontype-values">
-  <front>
-    <title>TLS Certificate Compression Algorithm IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

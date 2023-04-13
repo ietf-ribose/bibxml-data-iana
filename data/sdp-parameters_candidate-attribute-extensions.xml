@@ -1,8 +1,0 @@
-<reference anchor="SDP-PARAMETERS/CANDIDATE-ATTRIBUTE-EXTENSIONS" target="http://www.iana.org/assignments/sdp-parameters">
-  <front>
-    <title>Candidate Attribute Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="REGISTRAR-IDS/REGISTRAR-IDS-1" target="http://www.iana.org/assignments/registrar-ids">
-  <front>
-    <title>Registrar IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

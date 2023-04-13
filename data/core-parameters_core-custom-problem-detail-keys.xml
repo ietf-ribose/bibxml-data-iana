@@ -1,8 +1,0 @@
-<reference anchor="CORE-PARAMETERS/CORE-CUSTOM-PROBLEM-DETAIL-KEYS" target="http://www.iana.org/assignments/core-parameters">
-  <front>
-    <title>Custom Problem Detail Keys</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

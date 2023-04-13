@@ -1,8 +1,0 @@
-<reference anchor="STUN-PARAMETERS" target="http://www.iana.org/assignments/stun-parameters">
-  <front>
-    <title>Session Traversal Utilities for NAT (STUN) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS/LISP-GPE-NEXT-PROTOCOL" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP-GPE Next Protocol</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

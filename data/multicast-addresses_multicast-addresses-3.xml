@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-3" target="http://www.iana.org/assignments/multicast-addresses">
-  <front>
-    <title>AD-HOC Block I (224.0.2.0 - 224.0.255.255)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

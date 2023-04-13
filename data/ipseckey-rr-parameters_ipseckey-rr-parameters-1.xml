@@ -1,8 +1,0 @@
-<reference anchor="IPSECKEY-RR-PARAMETERS/IPSECKEY-RR-PARAMETERS-1" target="http://www.iana.org/assignments/ipseckey-rr-parameters">
-  <front>
-    <title>Algorithm Type Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

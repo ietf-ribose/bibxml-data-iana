@@ -1,8 +1,0 @@
-<reference anchor="AKA-VERSION-NAMESPACE" target="http://www.iana.org/assignments/aka-version-namespace">
-  <front>
-    <title>AKA-Version Namespace</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

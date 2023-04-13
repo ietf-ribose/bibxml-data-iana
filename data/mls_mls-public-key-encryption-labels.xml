@@ -1,8 +1,0 @@
-<reference anchor="MLS/MLS-PUBLIC-KEY-ENCRYPTION-LABELS" target="http://www.iana.org/assignments/mls">
-  <front>
-    <title>MLS Public Key Encryption Labels</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

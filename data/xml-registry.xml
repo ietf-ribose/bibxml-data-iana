@@ -1,8 +1,0 @@
-<reference anchor="XML-REGISTRY" target="http://www.iana.org/assignments/xml-registry">
-  <front>
-    <title>IETF XML Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANAPRINTER-MIB" target="http://www.iana.org/assignments/ianaprinter-mib">
-  <front>
-    <title>IANA-PRINTER-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

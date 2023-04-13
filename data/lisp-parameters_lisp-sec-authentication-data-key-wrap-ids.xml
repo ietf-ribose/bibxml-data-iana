@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS/LISP-SEC-AUTHENTICATION-DATA-KEY-WRAP-IDS" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP-SEC Authentication Data Key Wrap IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS/NEXT-HOP-ADDRESS-TYPE" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>Next Hop Address Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

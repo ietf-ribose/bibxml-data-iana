@@ -1,8 +1,0 @@
-<reference anchor="LISP-PARAMETERS/LISP-ADDRESS-TYPE-CODES-REGISTRY" target="http://www.iana.org/assignments/lisp-parameters">
-  <front>
-    <title>LISP Address Type Codes (CLOSED)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
