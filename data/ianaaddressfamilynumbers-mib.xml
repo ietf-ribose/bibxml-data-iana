@@ -1,0 +1,8 @@
+<reference anchor="IANAADDRESSFAMILYNUMBERS-MIB" target="http://www.iana.org/assignments/ianaaddressfamilynumbers-mib">
+  <front>
+    <title>IANA-ADDRESS-FAMILY-NUMBERS-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

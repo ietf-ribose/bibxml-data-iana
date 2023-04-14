@@ -1,0 +1,8 @@
+<reference anchor="GEO-URI-PARAMETERS/GEO-URI-PARAMETERS-2" target="http://www.iana.org/assignments/geo-uri-parameters">
+  <front>
+    <title>'geo' URI 'crs' Parameter Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

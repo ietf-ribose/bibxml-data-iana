@@ -1,0 +1,8 @@
+<reference anchor="EX-MOBILITY-SUBTYPES" target="http://www.iana.org/assignments/ex-mobility-subtypes">
+  <front>
+    <title>Experimental Mobility Protocol Subtype Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

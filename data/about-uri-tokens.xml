@@ -1,0 +1,8 @@
+<reference anchor="ABOUT-URI-TOKENS" target="http://www.iana.org/assignments/about-uri-tokens">
+  <front>
+    <title>"about" URI Tokens</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

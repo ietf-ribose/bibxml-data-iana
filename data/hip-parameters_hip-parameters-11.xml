@@ -1,0 +1,8 @@
+<reference anchor="HIP-PARAMETERS/HIP-PARAMETERS-11" target="http://www.iana.org/assignments/hip-parameters">
+  <front>
+    <title>Registration Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

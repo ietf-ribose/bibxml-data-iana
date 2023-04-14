@@ -1,0 +1,8 @@
+<reference anchor="EAP-SAKE-PARAMETERS/EAP-SAKE-PARAMETERS-2" target="http://www.iana.org/assignments/eap-sake-parameters">
+  <front>
+    <title>non-skippable attributes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

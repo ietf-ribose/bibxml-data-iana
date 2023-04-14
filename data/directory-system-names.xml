@@ -1,0 +1,8 @@
+<reference anchor="DIRECTORY-SYSTEM-NAMES" target="http://www.iana.org/assignments/directory-system-names">
+  <front>
+    <title>Directory System Names</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

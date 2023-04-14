@@ -1,0 +1,8 @@
+<reference anchor="CORE-PARAMETERS/OSCORE-FLAG-BITS" target="http://www.iana.org/assignments/core-parameters">
+  <front>
+    <title>OSCORE Flag Bits</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

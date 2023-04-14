@@ -1,0 +1,8 @@
+<reference anchor="IM-SRV-LABELS" target="http://www.iana.org/assignments/im-srv-labels">
+  <front>
+    <title>Instant Messaging SRV Protocol Label Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

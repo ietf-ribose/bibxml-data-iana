@@ -1,0 +1,8 @@
+<reference anchor="BGP-LS-PARAMETERS/NODE-DESCRIPTOR-LINK-DESCRIPTOR-PREFIX-DESCRIPTOR-ATTRIBUTE-TLV" target="http://www.iana.org/assignments/bgp-ls-parameters">
+  <front>
+    <title>BGP-LS NLRI and Attribute TLVs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="ACCESS-TYPES/ACCESS-TYPES-1" target="http://www.iana.org/assignments/access-types">
+  <front>
+    <title>Access Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

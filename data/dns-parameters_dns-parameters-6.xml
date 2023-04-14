@@ -1,0 +1,8 @@
+<reference anchor="DNS-PARAMETERS/DNS-PARAMETERS-6" target="http://www.iana.org/assignments/dns-parameters">
+  <front>
+    <title>DNS RCODEs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

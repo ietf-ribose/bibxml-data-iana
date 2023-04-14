@@ -1,0 +1,8 @@
+<reference anchor="HIP-PARAMETERS/HIP-PARAMETERS-9" target="http://www.iana.org/assignments/hip-parameters">
+  <front>
+    <title>Notify Message Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

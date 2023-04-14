@@ -1,0 +1,8 @@
+<reference anchor="BGP-LS-PARAMETERS/NLRI-TYPES" target="http://www.iana.org/assignments/bgp-ls-parameters">
+  <front>
+    <title>BGP-LS NLRI Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
