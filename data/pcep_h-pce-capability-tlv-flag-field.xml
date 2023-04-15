@@ -1,8 +1,0 @@
-<reference anchor="PCEP/H-PCE-CAPABILITY-TLV-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>H-PCE-CAPABILITY TLV Flag Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

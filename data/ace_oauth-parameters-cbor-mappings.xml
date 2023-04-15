@@ -1,8 +1,0 @@
-<reference anchor="ACE/OAUTH-PARAMETERS-CBOR-MAPPINGS" target="http://www.iana.org/assignments/ace">
-  <front>
-    <title>OAuth Parameters CBOR Mappings</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

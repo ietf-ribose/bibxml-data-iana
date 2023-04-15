@@ -1,8 +1,0 @@
-<reference anchor="OSPFV2-PARAMETERS/EXTENDED-PREFIX-OPAQUE-LSA-TLVS" target="http://www.iana.org/assignments/ospfv2-parameters">
-  <front>
-    <title>OSPFv2 Extended Prefix Opaque LSA TLVs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

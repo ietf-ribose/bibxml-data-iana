@@ -1,8 +1,0 @@
-<reference anchor="MEGACO-H248/MEGACO-H248-5" target="http://www.iana.org/assignments/megaco-h248">
-  <front>
-    <title>ServiceChange Reasons</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-8" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>SIP Privacy Header Field Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

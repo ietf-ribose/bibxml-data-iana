@@ -1,8 +1,0 @@
-<reference anchor="WEBSOCKET/VERSION-NUMBER" target="http://www.iana.org/assignments/websocket">
-  <front>
-    <title>WebSocket Version Number Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

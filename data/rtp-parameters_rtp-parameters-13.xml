@@ -1,8 +1,0 @@
-<reference anchor="RTP-PARAMETERS/RTP-PARAMETERS-13" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>RAMS TLV Space Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

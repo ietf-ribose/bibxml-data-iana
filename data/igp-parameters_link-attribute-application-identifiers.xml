@@ -1,8 +1,0 @@
-<reference anchor="IGP-PARAMETERS/LINK-ATTRIBUTE-APPLICATION-IDENTIFIERS" target="http://www.iana.org/assignments/igp-parameters">
-  <front>
-    <title>Link Attribute Application Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PCEP/ASSOCIATION-TYPE-FIELD" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>ASSOCIATION Type Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

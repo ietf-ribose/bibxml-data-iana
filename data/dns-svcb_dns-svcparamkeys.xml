@@ -1,8 +1,0 @@
-<reference anchor="DNS-SVCB/DNS-SVCPARAMKEYS" target="http://www.iana.org/assignments/dns-svcb">
-  <front>
-    <title>Service Parameter Keys (SvcParamKeys)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

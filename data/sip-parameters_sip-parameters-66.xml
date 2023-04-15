@@ -1,8 +1,0 @@
-<reference anchor="SIP-PARAMETERS/SIP-PARAMETERS-66" target="http://www.iana.org/assignments/sip-parameters">
-  <front>
-    <title>Info Packages Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

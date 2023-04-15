@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-10" target="http://www.iana.org/assignments/multicast-addresses">
-  <front>
-    <title>Source-Specific Multicast Block (232.0.0.0-232.255.255.255 (232/8))</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

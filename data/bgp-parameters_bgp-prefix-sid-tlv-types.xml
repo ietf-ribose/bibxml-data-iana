@@ -1,8 +1,0 @@
-<reference anchor="BGP-PARAMETERS/BGP-PREFIX-SID-TLV-TYPES" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>BGP Prefix-SID TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

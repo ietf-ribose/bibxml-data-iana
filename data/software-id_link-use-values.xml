@@ -1,8 +1,0 @@
-<reference anchor="SOFTWARE-ID/LINK-USE-VALUES" target="http://www.iana.org/assignments/software-id">
-  <front>
-    <title>Software ID Link Use Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

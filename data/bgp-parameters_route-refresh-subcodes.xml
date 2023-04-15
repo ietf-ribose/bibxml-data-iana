@@ -1,8 +1,0 @@
-<reference anchor="BGP-PARAMETERS/ROUTE-REFRESH-SUBCODES" target="http://www.iana.org/assignments/bgp-parameters">
-  <front>
-    <title>BGP Route Refresh Subcodes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

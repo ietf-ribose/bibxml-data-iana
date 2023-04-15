@@ -1,8 +1,0 @@
-<reference anchor="MLS/MLS-WIRE-FORMATS" target="http://www.iana.org/assignments/mls">
-  <front>
-    <title>MLS Wire Formats</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

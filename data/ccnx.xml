@@ -1,8 +1,0 @@
-<reference anchor="CCNX" target="http://www.iana.org/assignments/ccnx">
-  <front>
-    <title>Content-Centric Networking (CCNx)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

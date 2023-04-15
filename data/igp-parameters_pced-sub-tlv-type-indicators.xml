@@ -1,8 +1,0 @@
-<reference anchor="IGP-PARAMETERS/PCED-SUB-TLV-TYPE-INDICATORS" target="http://www.iana.org/assignments/igp-parameters">
-  <front>
-    <title>PCE Discovery (PCED) Sub-TLV Type Indicators</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

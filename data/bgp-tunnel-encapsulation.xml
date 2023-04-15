@@ -1,8 +1,0 @@
-<reference anchor="BGP-TUNNEL-ENCAPSULATION" target="http://www.iana.org/assignments/bgp-tunnel-encapsulation">
-  <front>
-    <title>Border Gateway Protocol (BGP) Tunnel Encapsulation</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

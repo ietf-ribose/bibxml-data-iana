@@ -1,8 +1,0 @@
-<reference anchor="HIP-PARAMETERS/NAT-TRAVERSAL" target="http://www.iana.org/assignments/hip-parameters">
-  <front>
-    <title>HIP NAT Traversal Modes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MESSAGE-STORE-EVENTS/MESSAGE-STORE-EVENTS-4" target="http://www.iana.org/assignments/message-store-events">
-  <front>
-    <title>Event Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

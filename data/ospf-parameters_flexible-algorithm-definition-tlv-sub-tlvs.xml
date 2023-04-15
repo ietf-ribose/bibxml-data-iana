@@ -1,8 +1,0 @@
-<reference anchor="OSPF-PARAMETERS/FLEXIBLE-ALGORITHM-DEFINITION-TLV-SUB-TLVS" target="http://www.iana.org/assignments/ospf-parameters">
-  <front>
-    <title>OSPF Flexible Algorithm Definition TLV Sub-TLVs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

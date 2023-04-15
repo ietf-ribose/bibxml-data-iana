@@ -1,8 +1,0 @@
-<reference anchor="OSPFV3-PARAMETERS/OSPFV3-PARAMETERS-9" target="http://www.iana.org/assignments/ospfv3-parameters">
-  <front>
-    <title>OSPFv3 Instance ID Address Family Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

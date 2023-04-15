@@ -1,8 +1,0 @@
-<reference anchor="IPV6-PARAMETERS/IPV6-PARAMETERS-3" target="http://www.iana.org/assignments/ipv6-parameters">
-  <front>
-    <title>Routing Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

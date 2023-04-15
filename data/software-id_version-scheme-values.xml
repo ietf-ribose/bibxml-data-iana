@@ -1,8 +1,0 @@
-<reference anchor="SOFTWARE-ID/VERSION-SCHEME-VALUES" target="http://www.iana.org/assignments/software-id">
-  <front>
-    <title>Software ID Version Scheme Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

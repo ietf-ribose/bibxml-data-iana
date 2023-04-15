@@ -1,8 +1,0 @@
-<reference anchor="SDP-PARAMETERS/SDP-PARAMETERS-21" target="http://www.iana.org/assignments/sdp-parameters">
-  <front>
-    <title>SDP Capability Negotiation Option Tags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

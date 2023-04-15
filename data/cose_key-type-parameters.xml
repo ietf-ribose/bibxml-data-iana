@@ -1,8 +1,0 @@
-<reference anchor="COSE/KEY-TYPE-PARAMETERS" target="http://www.iana.org/assignments/cose">
-  <front>
-    <title>COSE Key Type Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

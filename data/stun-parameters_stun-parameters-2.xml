@@ -1,8 +1,0 @@
-<reference anchor="STUN-PARAMETERS/STUN-PARAMETERS-2" target="http://www.iana.org/assignments/stun-parameters">
-  <front>
-    <title>STUN Methods</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
