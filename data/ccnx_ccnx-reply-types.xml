@@ -1,0 +1,8 @@
+<reference anchor="CCNX/CCNX-REPLY-TYPES" target="http://www.iana.org/assignments/ccnx">
+  <front>
+    <title>CCNx Reply Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

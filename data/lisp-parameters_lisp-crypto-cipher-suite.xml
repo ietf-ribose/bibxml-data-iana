@@ -1,0 +1,8 @@
+<reference anchor="LISP-PARAMETERS/LISP-CRYPTO-CIPHER-SUITE" target="http://www.iana.org/assignments/lisp-parameters">
+  <front>
+    <title>LISP Crypto Cipher Suite</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="MPLS-LSP-PING-PARAMETERS/ADJACENCY-TYPE-IGP-ADJACENCY-SEGMENT-ID" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
+  <front>
+    <title>Adjacency Type in the IGP-Adjacency Segment ID</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

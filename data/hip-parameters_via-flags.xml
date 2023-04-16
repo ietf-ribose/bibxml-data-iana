@@ -1,0 +1,8 @@
+<reference anchor="HIP-PARAMETERS/VIA-FLAGS" target="http://www.iana.org/assignments/hip-parameters">
+  <front>
+    <title>HIP Via Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

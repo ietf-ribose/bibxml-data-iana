@@ -1,0 +1,8 @@
+<reference anchor="COSE" target="http://www.iana.org/assignments/cose">
+  <front>
+    <title>CBOR Object Signing and Encryption (COSE)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

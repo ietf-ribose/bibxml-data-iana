@@ -1,0 +1,8 @@
+<reference anchor="COSWID" target="http://www.iana.org/assignments/coswid">
+  <front>
+    <title>Concise Software Identifier (CoSWID)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

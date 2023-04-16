@@ -1,0 +1,8 @@
+<reference anchor="PA-TNC-PARAMETERS" target="http://www.iana.org/assignments/pa-tnc-parameters">
+  <front>
+    <title>Posture Attribute (PA) Protocol Compatible with Trusted Network Connect (TNC) Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

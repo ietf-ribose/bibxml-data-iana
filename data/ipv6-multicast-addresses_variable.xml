@@ -1,0 +1,8 @@
+<reference anchor="IPV6-MULTICAST-ADDRESSES/VARIABLE" target="http://www.iana.org/assignments/ipv6-multicast-addresses">
+  <front>
+    <title>Variable Scope Multicast Addresses</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

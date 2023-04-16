@@ -1,0 +1,8 @@
+<reference anchor="CORE-PARAMETERS/OPTION-NUMBERS" target="http://www.iana.org/assignments/core-parameters">
+  <front>
+    <title>CoAP Option Numbers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

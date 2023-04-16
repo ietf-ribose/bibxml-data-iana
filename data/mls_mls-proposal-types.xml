@@ -1,0 +1,8 @@
+<reference anchor="MLS/MLS-PROPOSAL-TYPES" target="http://www.iana.org/assignments/mls">
+  <front>
+    <title>MLS Proposal Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

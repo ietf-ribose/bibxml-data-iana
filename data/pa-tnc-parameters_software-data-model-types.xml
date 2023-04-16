@@ -1,0 +1,8 @@
+<reference anchor="PA-TNC-PARAMETERS/SOFTWARE-DATA-MODEL-TYPES" target="http://www.iana.org/assignments/pa-tnc-parameters">
+  <front>
+    <title>Software Data Model Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

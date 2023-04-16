@@ -1,0 +1,8 @@
+<reference anchor="DRIP" target="http://www.iana.org/assignments/drip">
+  <front>
+    <title>Drone Remote ID Protocol</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

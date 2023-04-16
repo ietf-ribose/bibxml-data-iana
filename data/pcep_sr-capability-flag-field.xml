@@ -1,0 +1,8 @@
+<reference anchor="PCEP/SR-CAPABILITY-FLAG-FIELD" target="http://www.iana.org/assignments/pcep">
+  <front>
+    <title>SR Capability Flag Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

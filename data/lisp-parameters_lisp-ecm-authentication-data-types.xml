@@ -1,0 +1,8 @@
+<reference anchor="LISP-PARAMETERS/LISP-ECM-AUTHENTICATION-DATA-TYPES" target="http://www.iana.org/assignments/lisp-parameters">
+  <front>
+    <title>LISP ECM Authentication Data Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="PCEP/TE-PATH-BINDING-TLV-BT" target="http://www.iana.org/assignments/pcep">
+  <front>
+    <title>TE-PATH-BINDING TLV BT Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
