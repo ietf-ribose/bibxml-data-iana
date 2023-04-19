@@ -1,8 +1,0 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-26" target="http://www.iana.org/assignments/smi-numbers">
-  <front>
-    <title>SMI Security Codes (including S/MIME, PKIX and LTANS)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IDNA-TABLES-6.1.0" target="http://www.iana.org/assignments/idna-tables-6.1.0">
-  <front>
-    <title>IDNA Rules and Derived Property Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

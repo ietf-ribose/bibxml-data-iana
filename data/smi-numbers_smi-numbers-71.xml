@@ -1,8 +1,0 @@
-<reference anchor="SMI-NUMBERS/SMI-NUMBERS-71" target="http://www.iana.org/assignments/smi-numbers">
-  <front>
-    <title>SMI Features</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

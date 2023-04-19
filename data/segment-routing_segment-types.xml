@@ -1,0 +1,8 @@
+<reference anchor="SEGMENT-ROUTING/SEGMENT-TYPES" target="http://www.iana.org/assignments/segment-routing">
+  <front>
+    <title>Segment Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
