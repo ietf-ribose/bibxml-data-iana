@@ -1,0 +1,8 @@
+<reference anchor="MASQUE" target="http://www.iana.org/assignments/masque">
+  <front>
+    <title>Multiplexed Application Substrate over QUIC Encryption (MASQUE)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
