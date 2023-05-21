@@ -1,8 +1,0 @@
-<reference anchor="MGCP-LOCALCONNECTIONOPTIONS/MGCP-LOCALCONNECTIONOPTIONS-1" target="http://www.iana.org/assignments/mgcp-localconnectionoptions">
-  <front>
-    <title>LocalConnectionOptions Sub-registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

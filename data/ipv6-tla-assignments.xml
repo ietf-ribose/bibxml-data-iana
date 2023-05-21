@@ -1,8 +1,0 @@
-<reference anchor="IPV6-TLA-ASSIGNMENTS" target="http://www.iana.org/assignments/ipv6-tla-assignments">
-  <front>
-    <title>IPv6 Top Level Aggregation Identifier Assignments</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="NAMED-INFORMATION/HASH-ALG" target="http://www.iana.org/assignments/named-information">
-  <front>
-    <title>Named Information Hash Algorithm Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

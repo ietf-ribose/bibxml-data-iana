@@ -1,8 +1,0 @@
-<reference anchor="PCEP/PCEP-OBJECTS" target="http://www.iana.org/assignments/pcep">
-  <front>
-    <title>PCEP Objects</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

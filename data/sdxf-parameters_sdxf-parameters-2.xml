@@ -1,8 +1,0 @@
-<reference anchor="SDXF-PARAMETERS/SDXF-PARAMETERS-2" target="http://www.iana.org/assignments/sdxf-parameters">
-  <front>
-    <title>Encryption Methods for SDXF</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

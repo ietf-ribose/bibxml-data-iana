@@ -1,8 +1,0 @@
-<reference anchor="TCP-PARAMETERS/MPTCP-OPTION-SUBTYPES" target="http://www.iana.org/assignments/tcp-parameters">
-  <front>
-    <title>MPTCP Option Subtypes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

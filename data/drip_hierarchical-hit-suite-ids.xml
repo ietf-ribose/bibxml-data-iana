@@ -1,8 +1,0 @@
-<reference anchor="DRIP/HIERARCHICAL-HIT-SUITE-IDS" target="http://www.iana.org/assignments/drip">
-  <front>
-    <title>Hierarchical a HIT (HHIT) Suite IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

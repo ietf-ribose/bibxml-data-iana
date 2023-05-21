@@ -1,8 +1,0 @@
-<reference anchor="RPKI/BGPSEC-ALGORITHM-SUITE" target="http://www.iana.org/assignments/rpki">
-  <front>
-    <title>BGPsec Algorithm Suites</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

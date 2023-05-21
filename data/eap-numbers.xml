@@ -1,8 +1,0 @@
-<reference anchor="EAP-NUMBERS" target="http://www.iana.org/assignments/eap-numbers">
-  <front>
-    <title>Extensible Authentication Protocol (EAP) Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

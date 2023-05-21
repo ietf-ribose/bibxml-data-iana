@@ -1,8 +1,0 @@
-<reference anchor="SMTP-ENHANCED-STATUS-CODES" target="http://www.iana.org/assignments/smtp-enhanced-status-codes">
-  <front>
-    <title>Simple Mail Transfer Protocol (SMTP) Enhanced Status Codes Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

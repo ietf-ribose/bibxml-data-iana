@@ -1,8 +1,0 @@
-<reference anchor="G-ACH-PARAMETERS/CC-CV-MEP-ID" target="http://www.iana.org/assignments/g-ach-parameters">
-  <front>
-    <title>CC/CV MEP-ID TLV Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

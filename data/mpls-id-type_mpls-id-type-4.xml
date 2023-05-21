@@ -1,8 +1,0 @@
-<reference anchor="MPLS-ID-TYPE/MPLS-ID-TYPE-4" target="http://www.iana.org/assignments/mpls-id-type">
-  <front>
-    <title>Q.2957 User-to-user Signaling for the Internet Protocol</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="AUTH-NAMESPACES" target="http://www.iana.org/assignments/auth-namespaces">
-  <front>
-    <title>Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

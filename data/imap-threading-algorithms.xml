@@ -1,8 +1,0 @@
-<reference anchor="IMAP-THREADING-ALGORITHMS" target="http://www.iana.org/assignments/imap-threading-algorithms">
-  <front>
-    <title>Internet Message Access Protocol (IMAP) Threading Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

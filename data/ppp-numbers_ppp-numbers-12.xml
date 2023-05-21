@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-12" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>PPP LCP Callback Operation Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

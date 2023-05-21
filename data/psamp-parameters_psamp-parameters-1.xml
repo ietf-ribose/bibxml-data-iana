@@ -1,8 +1,0 @@
-<reference anchor="PSAMP-PARAMETERS/PSAMP-PARAMETERS-1" target="http://www.iana.org/assignments/psamp-parameters">
-  <front>
-    <title>PSAMP selectorAlgorithm Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

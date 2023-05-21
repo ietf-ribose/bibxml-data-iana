@@ -1,8 +1,0 @@
-<reference anchor="VERSION-SYMBOLS" target="http://www.iana.org/assignments/version-symbols">
-  <front>
-    <title>'version' symbols used within the ISUP and QSIG</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

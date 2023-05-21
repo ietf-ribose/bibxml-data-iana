@@ -1,8 +1,0 @@
-<reference anchor="RELOAD/DIAGNOSTICS-FLAG" target="http://www.iana.org/assignments/reload">
-  <front>
-    <title>RELOAD Diagnostics Flag</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

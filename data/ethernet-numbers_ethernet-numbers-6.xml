@@ -1,8 +1,0 @@
-<reference anchor="ETHERNET-NUMBERS/ETHERNET-NUMBERS-6" target="http://www.iana.org/assignments/ethernet-numbers">
-  <front>
-    <title>SNAP Protocol Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

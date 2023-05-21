@@ -1,8 +1,0 @@
-<reference anchor="TWAMP-PARAMETERS/TWAMP-PARAMETERS-1" target="http://www.iana.org/assignments/twamp-parameters">
-  <front>
-    <title>TWAMP-Control Command Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

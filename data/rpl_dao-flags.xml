@@ -1,8 +1,0 @@
-<reference anchor="RPL/DAO-FLAGS" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>Destination Advertisement Object (DAO) Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

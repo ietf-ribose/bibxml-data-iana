@@ -1,8 +1,0 @@
-<reference anchor="FORCES/RESULT-TLV" target="http://www.iana.org/assignments/forces">
-  <front>
-    <title>RESULT-TLV Result Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

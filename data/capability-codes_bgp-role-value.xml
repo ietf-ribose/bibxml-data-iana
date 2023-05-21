@@ -1,8 +1,0 @@
-<reference anchor="CAPABILITY-CODES/BGP-ROLE-VALUE" target="http://www.iana.org/assignments/capability-codes">
-  <front>
-    <title>BGP Role Value</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

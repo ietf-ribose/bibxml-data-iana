@@ -1,8 +1,0 @@
-<reference anchor="OSPF-MT-ROUTING/OSPF-MT-ROUTING-2" target="http://www.iana.org/assignments/ospf-mt-routing">
-  <front>
-    <title>Multi-Topology ID Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

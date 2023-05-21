@@ -1,8 +1,0 @@
-<reference anchor="HTTP-PROBLEM-TYPES" target="http://www.iana.org/assignments/http-problem-types">
-  <front>
-    <title>Hypertext Transfer Protocol (HTTP) Problem Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

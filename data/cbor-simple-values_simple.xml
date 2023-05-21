@@ -1,8 +1,0 @@
-<reference anchor="CBOR-SIMPLE-VALUES/SIMPLE" target="http://www.iana.org/assignments/cbor-simple-values">
-  <front>
-    <title>CBOR Simple Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

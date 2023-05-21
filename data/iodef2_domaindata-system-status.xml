@@ -1,8 +1,0 @@
-<reference anchor="IODEF2/DOMAINDATA-SYSTEM-STATUS" target="http://www.iana.org/assignments/iodef2">
-  <front>
-    <title>DomainData-system-status</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

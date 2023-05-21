@@ -1,8 +1,0 @@
-<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-38" target="http://www.iana.org/assignments/mobileip-numbers">
-  <front>
-    <title>Route Optimization Data Extension (Value 50)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

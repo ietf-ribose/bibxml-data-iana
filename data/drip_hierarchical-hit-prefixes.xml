@@ -1,8 +1,0 @@
-<reference anchor="DRIP/HIERARCHICAL-HIT-PREFIXES" target="http://www.iana.org/assignments/drip">
-  <front>
-    <title>Hierarchical HIT (HHIT) Prefixes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

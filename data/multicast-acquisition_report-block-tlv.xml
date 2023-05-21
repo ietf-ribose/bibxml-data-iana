@@ -1,8 +1,0 @@
-<reference anchor="MULTICAST-ACQUISITION/REPORT-BLOCK-TLV" target="http://www.iana.org/assignments/multicast-acquisition">
-  <front>
-    <title>Multicast Acquisition Report Block TLV Space Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

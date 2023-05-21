@@ -1,8 +1,0 @@
-<reference anchor="MIKEY-PAYLOADS" target="http://www.iana.org/assignments/mikey-payloads">
-  <front>
-    <title>Multimedia Internet KEYing (MIKEY) Payload Name Spaces</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

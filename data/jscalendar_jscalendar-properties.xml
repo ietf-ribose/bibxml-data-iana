@@ -1,8 +1,0 @@
-<reference anchor="JSCALENDAR/JSCALENDAR-PROPERTIES" target="http://www.iana.org/assignments/jscalendar">
-  <front>
-    <title>JSCalendar Properties</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

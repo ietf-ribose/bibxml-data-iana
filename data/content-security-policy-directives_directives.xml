@@ -1,8 +1,0 @@
-<reference anchor="CONTENT-SECURITY-POLICY-DIRECTIVES/DIRECTIVES" target="http://www.iana.org/assignments/content-security-policy-directives">
-  <front>
-    <title>Content Security Policy Directives</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

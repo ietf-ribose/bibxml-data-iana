@@ -1,8 +1,0 @@
-<reference anchor="MSDP-TLV-VALUES" target="http://www.iana.org/assignments/msdp-tlv-values">
-  <front>
-    <title>Multicast Source Discovery Protocol (MSDP) TLV Values Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

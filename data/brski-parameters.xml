@@ -1,8 +1,0 @@
-<reference anchor="BRSKI-PARAMETERS" target="http://www.iana.org/assignments/brski-parameters">
-  <front>
-    <title>Bootstrapping Remote Secure Key Infrastructures (BRSKI) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

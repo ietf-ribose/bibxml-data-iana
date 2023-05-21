@@ -1,8 +1,0 @@
-<reference anchor="OSPF-SIG-ALG/OSPF-SIG-ALG-1" target="http://www.iana.org/assignments/ospf-sig-alg">
-  <front>
-    <title>Signature Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

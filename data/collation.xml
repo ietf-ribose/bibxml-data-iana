@@ -1,8 +1,0 @@
-<reference anchor="COLLATION" target="http://www.iana.org/assignments/collation">
-  <front>
-    <title>Collation Registry for Internet Application Protocols</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

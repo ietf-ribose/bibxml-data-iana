@@ -1,8 +1,0 @@
-<reference anchor="ULE-NEXT-HEADERS" target="http://www.iana.org/assignments/ule-next-headers">
-  <front>
-    <title>Unidirectional Lightweight Encapsulation (ULE) Next-Header Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PKIX-PARAMETERS" target="http://www.iana.org/assignments/pkix-parameters">
-  <front>
-    <title>Public Key Infrastructure using X.509 (PKIX) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

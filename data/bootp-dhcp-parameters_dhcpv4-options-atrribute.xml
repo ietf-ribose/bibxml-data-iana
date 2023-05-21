@@ -1,8 +1,0 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/DHCPV4-OPTIONS-ATRRIBUTE" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
-  <front>
-    <title>DHCP Options Permitted in the RADIUS DHCPv4-Options Attribute</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

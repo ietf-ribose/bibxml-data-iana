@@ -1,8 +1,0 @@
-<reference anchor="TZDIST-ACTIONS" target="http://www.iana.org/assignments/tzdist-actions">
-  <front>
-    <title>Time Zone Data Distribution Service (TZDIST) Service Actions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

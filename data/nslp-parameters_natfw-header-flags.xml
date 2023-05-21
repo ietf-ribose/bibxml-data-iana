@@ -1,8 +1,0 @@
-<reference anchor="NSLP-PARAMETERS/NATFW-HEADER-FLAGS" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>NATFW NSLP Header Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

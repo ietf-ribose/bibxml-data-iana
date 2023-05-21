@@ -1,8 +1,0 @@
-<reference anchor="NNTP-PARAMETERS/COMPRESSION-ALGORITHMS" target="http://www.iana.org/assignments/nntp-parameters">
-  <front>
-    <title>NNTP Compression Algorithms</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="PROPHET/DTN-ROUTING-PROTOCOL-NUMBER" target="http://www.iana.org/assignments/prophet">
-  <front>
-    <title>DTN Routing Protocol Number</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

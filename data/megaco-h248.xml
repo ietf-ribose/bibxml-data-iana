@@ -1,8 +1,0 @@
-<reference anchor="MEGACO-H248" target="http://www.iana.org/assignments/megaco-h248">
-  <front>
-    <title>Megaco/H.248 Packages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

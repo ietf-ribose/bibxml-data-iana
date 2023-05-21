@@ -1,8 +1,0 @@
-<reference anchor="PARAMS" target="http://www.iana.org/assignments/params">
-  <front>
-    <title>Uniform Resource Name (URN) Namespace for IETF Use</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

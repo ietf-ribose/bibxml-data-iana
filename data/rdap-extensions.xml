@@ -1,8 +1,0 @@
-<reference anchor="RDAP-EXTENSIONS" target="http://www.iana.org/assignments/rdap-extensions">
-  <front>
-    <title>RDAP Extensions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

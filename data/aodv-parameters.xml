@@ -1,8 +1,0 @@
-<reference anchor="AODV-PARAMETERS" target="http://www.iana.org/assignments/aodv-parameters">
-  <front>
-    <title>Ad Hoc On Demand Distance Vector (AODV) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

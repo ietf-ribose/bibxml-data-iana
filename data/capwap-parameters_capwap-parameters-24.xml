@@ -1,8 +1,0 @@
-<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-24" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>WTP Radio Stats Failure Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="RFB/RFB-1" target="http://www.iana.org/assignments/rfb">
-  <front>
-    <title>Remote Framebuffer Security Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

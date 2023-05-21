@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-TYPE-SUB-PARAMETERS/MEDIA-TYPE-SUB-PARAMETERS-18" target="http://www.iana.org/assignments/media-type-sub-parameters">
-  <front>
-    <title>Sub-Parameter Registry for application/aif+cbor and application/aif+json</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

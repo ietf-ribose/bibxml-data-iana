@@ -1,8 +1,0 @@
-<reference anchor="IKEV2-PARAMETERS/IKEV2-PARAMETERS-16" target="http://www.iana.org/assignments/ikev2-parameters">
-  <front>
-    <title>IKEv2 Notify Message Types - Status Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="S-NAPTR-PARAMETERS/S-NAPTR-PARAMETERS-1" target="http://www.iana.org/assignments/s-naptr-parameters">
-  <front>
-    <title>S-NAPTR Application Service Tags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

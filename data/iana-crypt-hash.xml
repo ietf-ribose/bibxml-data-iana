@@ -1,8 +1,0 @@
-<reference anchor="IANA-CRYPT-HASH" target="http://www.iana.org/assignments/iana-crypt-hash">
-  <front>
-    <title>iana-crypt-hash YANG Module</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

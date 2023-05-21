@@ -1,8 +1,0 @@
-<reference anchor="RTP-PARAMETERS/RTP-PARAMETERS-8" target="http://www.iana.org/assignments/rtp-parameters">
-  <front>
-    <title>FMT Values for RTPFB Payload Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

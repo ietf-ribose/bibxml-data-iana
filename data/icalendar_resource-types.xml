@@ -1,8 +1,0 @@
-<reference anchor="ICALENDAR/RESOURCE-TYPES" target="http://www.iana.org/assignments/icalendar">
-  <front>
-    <title>Resource Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

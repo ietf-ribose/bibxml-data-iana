@@ -1,8 +1,0 @@
-<reference anchor="TLS-PARAMETERS/TLS-PARAMETERS-18" target="http://www.iana.org/assignments/tls-parameters">
-  <front>
-    <title>TLS HashAlgorithm</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

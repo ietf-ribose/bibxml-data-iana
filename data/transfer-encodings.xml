@@ -1,8 +1,0 @@
-<reference anchor="TRANSFER-ENCODINGS" target="http://www.iana.org/assignments/transfer-encodings">
-  <front>
-    <title>Transfer Encodings</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="POSH-SERVICE-NAMES/SERVICE-NAMES" target="http://www.iana.org/assignments/posh-service-names">
-  <front>
-    <title>POSH Service Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

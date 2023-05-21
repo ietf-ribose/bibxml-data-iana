@@ -1,8 +1,0 @@
-<reference anchor="ESP-AGGFRAG-PAYLOAD/AGGFRAG-PAYLOAD-SUB-TYPES" target="http://www.iana.org/assignments/esp-aggfrag-payload">
-  <front>
-    <title>AGGFRAG_PAYLOAD Sub-Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

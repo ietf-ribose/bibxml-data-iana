@@ -1,8 +1,0 @@
-<reference anchor="PAWS/RULESET-ID" target="http://www.iana.org/assignments/paws">
-  <front>
-    <title>PAWS Ruleset ID Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

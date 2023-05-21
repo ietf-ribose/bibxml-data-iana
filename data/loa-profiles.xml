@@ -1,8 +1,0 @@
-<reference anchor="LOA-PROFILES" target="http://www.iana.org/assignments/loa-profiles">
-  <front>
-    <title>Level of Assurance (LoA) Profiles</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

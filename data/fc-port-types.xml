@@ -1,8 +1,0 @@
-<reference anchor="FC-PORT-TYPES" target="http://www.iana.org/assignments/fc-port-types">
-  <front>
-    <title>Fibre Channel Port Types Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

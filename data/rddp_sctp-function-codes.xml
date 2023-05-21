@@ -1,8 +1,0 @@
-<reference anchor="RDDP/SCTP-FUNCTION-CODES" target="http://www.iana.org/assignments/rddp">
-  <front>
-    <title>SCTP Function Codes for DDP Stream Session Control</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

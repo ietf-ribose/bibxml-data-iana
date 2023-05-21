@@ -1,8 +1,0 @@
-<reference anchor="DLEP-PARAMETERS/MESSAGE-TYPE-VALUES" target="http://www.iana.org/assignments/dlep-parameters">
-  <front>
-    <title>Message Type Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

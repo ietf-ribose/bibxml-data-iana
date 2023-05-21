@@ -1,8 +1,0 @@
-<reference anchor="BOOTP-DHCP-PARAMETERS/TYPE-63-SUB-OPTIONS" target="http://www.iana.org/assignments/bootp-dhcp-parameters">
-  <front>
-    <title>NetWare/IP Option Type 63 Sub-Option Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

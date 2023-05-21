@@ -1,8 +1,0 @@
-<reference anchor="NSLP-PARAMETERS/NATFW-MESSAGE-TYPES" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>NATFW NSLP Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

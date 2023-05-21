@@ -1,8 +1,0 @@
-<reference anchor="IODEF2/POSTALADDRESS-TYPE" target="http://www.iana.org/assignments/iodef2">
-  <front>
-    <title>PostalAddress-type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

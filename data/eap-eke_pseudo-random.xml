@@ -1,8 +1,0 @@
-<reference anchor="EAP-EKE/PSEUDO-RANDOM" target="http://www.iana.org/assignments/eap-eke">
-  <front>
-    <title>EAP-EKE Pseudo Random Function Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

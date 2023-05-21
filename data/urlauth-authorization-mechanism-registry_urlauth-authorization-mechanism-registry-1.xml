@@ -1,8 +1,0 @@
-<reference anchor="URLAUTH-AUTHORIZATION-MECHANISM-REGISTRY/URLAUTH-AUTHORIZATION-MECHANISM-REGISTRY-1" target="http://www.iana.org/assignments/urlauth-authorization-mechanism-registry">
-  <front>
-    <title>IMAP URLAUTH Authorization Mechanism Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

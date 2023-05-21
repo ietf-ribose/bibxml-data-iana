@@ -1,8 +1,0 @@
-<reference anchor="POWER-STATE-SETS" target="http://www.iana.org/assignments/power-state-sets">
-  <front>
-    <title>Power State Sets</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

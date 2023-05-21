@@ -1,8 +1,0 @@
-<reference anchor="HTTP-CACHE-STATUS/HTTP-CACHE-STATUS" target="http://www.iana.org/assignments/http-cache-status">
-  <front>
-    <title>HTTP Cache-Status</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

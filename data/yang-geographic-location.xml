@@ -1,8 +1,0 @@
-<reference anchor="YANG-GEOGRAPHIC-LOCATION" target="http://www.iana.org/assignments/yang-geographic-location">
-  <front>
-    <title>YANG Geographic Location Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

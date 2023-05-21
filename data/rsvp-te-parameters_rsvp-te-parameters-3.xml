@@ -1,8 +1,0 @@
-<reference anchor="RSVP-TE-PARAMETERS/RSVP-TE-PARAMETERS-3" target="http://www.iana.org/assignments/rsvp-te-parameters">
-  <front>
-    <title>Session Attribute Object Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

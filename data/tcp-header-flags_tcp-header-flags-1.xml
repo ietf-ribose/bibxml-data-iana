@@ -1,8 +1,0 @@
-<reference anchor="TCP-HEADER-FLAGS/TCP-HEADER-FLAGS-1" target="http://www.iana.org/assignments/tcp-header-flags">
-  <front>
-    <title>TCP Header Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

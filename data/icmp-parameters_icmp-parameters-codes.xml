@@ -1,8 +1,0 @@
-<reference anchor="ICMP-PARAMETERS/ICMP-PARAMETERS-CODES" target="http://www.iana.org/assignments/icmp-parameters">
-  <front>
-    <title>Code Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

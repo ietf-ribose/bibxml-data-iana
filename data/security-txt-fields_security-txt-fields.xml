@@ -1,8 +1,0 @@
-<reference anchor="SECURITY-TXT-FIELDS/SECURITY-TXT-FIELDS" target="http://www.iana.org/assignments/security-txt-fields">
-  <front>
-    <title>security.txt Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

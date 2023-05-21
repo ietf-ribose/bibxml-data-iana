@@ -1,8 +1,0 @@
-<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-15" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - DPNSS/DASS2 Boundary Primitives Transport Messages (Value 13)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-18" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>Returned Message Element Reason</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="OSI-NSAPA-NUMBERS" target="http://www.iana.org/assignments/osi-nsapa-numbers">
-  <front>
-    <title>Open Systems Interconnection (OSI) Network Service Access Point Addresses (NSAPA) Internet Code Point Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

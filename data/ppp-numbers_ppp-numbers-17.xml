@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-17" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>PPP Bridging MAC Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

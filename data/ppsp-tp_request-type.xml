@@ -1,8 +1,0 @@
-<reference anchor="PPSP-TP/REQUEST-TYPE" target="http://www.iana.org/assignments/ppsp-tp">
-  <front>
-    <title>PPSTP Request Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

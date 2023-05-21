@@ -1,8 +1,0 @@
-<reference anchor="NORM-PARAMETERS/NORM-HEADERS" target="http://www.iana.org/assignments/norm-parameters">
-  <front>
-    <title>NORM Header Extension Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

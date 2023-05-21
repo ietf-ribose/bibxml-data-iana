@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-TYPES-PARAMETERS/MEDIA-TYPES-PARAMETERS-1" target="http://www.iana.org/assignments/media-types-parameters">
-  <front>
-    <title>MIME to X.400 Table</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

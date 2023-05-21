@@ -1,8 +1,0 @@
-<reference anchor="DNS-SVCB" target="http://www.iana.org/assignments/dns-svcb">
-  <front>
-    <title>DNS Service Bindings (SVCB)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IPV4-ADDRESS-SPACE" target="http://www.iana.org/assignments/ipv4-address-space">
-  <front>
-    <title>IANA IPv4 Address Space Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

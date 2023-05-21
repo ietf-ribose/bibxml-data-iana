@@ -1,8 +1,0 @@
-<reference anchor="PROPHET" target="http://www.iana.org/assignments/prophet">
-  <front>
-    <title>Probabilistic Routing Protocol using History of Encounters and Transitivity (PRoPHET)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

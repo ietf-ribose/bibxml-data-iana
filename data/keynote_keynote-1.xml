@@ -1,8 +1,0 @@
-<reference anchor="KEYNOTE/KEYNOTE-1" target="http://www.iana.org/assignments/keynote">
-  <front>
-    <title>KeyNote app_domain Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

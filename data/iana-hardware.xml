@@ -1,8 +1,0 @@
-<reference anchor="IANA-HARDWARE" target="http://www.iana.org/assignments/iana-hardware">
-  <front>
-    <title>iana-hardware YANG Module</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="TE-TYPES" target="http://www.iana.org/assignments/te-types">
-  <front>
-    <title>Traffic Engineering (TE) LSA Types and Traffic Engineering (TE) TLVs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

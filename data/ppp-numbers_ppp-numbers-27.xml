@@ -1,8 +1,0 @@
-<reference anchor="PPP-NUMBERS/PPP-NUMBERS-27" target="http://www.iana.org/assignments/ppp-numbers">
-  <front>
-    <title>PPP IPCP Configuration Option Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

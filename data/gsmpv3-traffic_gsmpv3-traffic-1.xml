@@ -1,8 +1,0 @@
-<reference anchor="GSMPV3-TRAFFIC/GSMPV3-TRAFFIC-1" target="http://www.iana.org/assignments/gsmpv3-traffic">
-  <front>
-    <title>Traffic Control Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

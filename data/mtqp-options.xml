@@ -1,8 +1,0 @@
-<reference anchor="MTQP-OPTIONS" target="http://www.iana.org/assignments/mtqp-options">
-  <front>
-    <title>Message Tracking Query Protocol (MTQP) Options Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="LCT-HEADER-EXTENSIONS/LCT-HEADER-EXTENSIONS-2" target="http://www.iana.org/assignments/lct-header-extensions">
-  <front>
-    <title>LCT Header Extension Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

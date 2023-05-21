@@ -1,8 +1,0 @@
-<reference anchor="IDMEF-PARAMETERS" target="http://www.iana.org/assignments/idmef-parameters">
-  <front>
-    <title>Intrusion Detection Message Exchange Format (IDMEF) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

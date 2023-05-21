@@ -1,8 +1,0 @@
-<reference anchor="NSLP-PARAMETERS/ERROR-CODES" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>QoS Model Error Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

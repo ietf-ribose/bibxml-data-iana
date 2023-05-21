@@ -1,8 +1,0 @@
-<reference anchor="HPKE/HPKE-KDF-IDS" target="http://www.iana.org/assignments/hpke">
-  <front>
-    <title>HPKE KDF Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

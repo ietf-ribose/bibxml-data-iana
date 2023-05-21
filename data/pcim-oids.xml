@@ -1,8 +1,0 @@
-<reference anchor="PCIM-OIDS" target="http://www.iana.org/assignments/pcim-oids">
-  <front>
-    <title>Lightweight Directory Access Protocol (LDAP) - pcimSchema Descriptors</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

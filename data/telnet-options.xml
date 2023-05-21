@@ -1,8 +1,0 @@
-<reference anchor="TELNET-OPTIONS" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>Telnet Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

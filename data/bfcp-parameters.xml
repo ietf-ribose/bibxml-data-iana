@@ -1,8 +1,0 @@
-<reference anchor="BFCP-PARAMETERS" target="http://www.iana.org/assignments/bfcp-parameters">
-  <front>
-    <title>The Binary Floor Control Protocol (BFCP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

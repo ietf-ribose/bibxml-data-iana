@@ -1,8 +1,0 @@
-<reference anchor="BGP-LS-PARAMETERS/BGP-LS-MPLS-PROTOCOL-MASK" target="http://www.iana.org/assignments/bgp-ls-parameters">
-  <front>
-    <title>BGP-LS MPLS Protocol Mask</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

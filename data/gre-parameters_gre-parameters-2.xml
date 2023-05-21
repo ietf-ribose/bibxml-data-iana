@@ -1,8 +1,0 @@
-<reference anchor="GRE-PARAMETERS/GRE-PARAMETERS-2" target="http://www.iana.org/assignments/gre-parameters">
-  <front>
-    <title>GRE Version Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

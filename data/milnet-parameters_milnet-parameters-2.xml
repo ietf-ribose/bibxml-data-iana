@@ -1,8 +1,0 @@
-<reference anchor="MILNET-PARAMETERS/MILNET-PARAMETERS-2" target="http://www.iana.org/assignments/milnet-parameters">
-  <front>
-    <title>Milnet Logical Addresses</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LABEL-VALUES" target="http://www.iana.org/assignments/mpls-label-values">
-  <front>
-    <title>Special-Purpose Multiprotocol Label Switching (MPLS) Label Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

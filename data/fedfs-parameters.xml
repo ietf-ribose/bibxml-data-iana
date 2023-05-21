@@ -1,8 +1,0 @@
-<reference anchor="FEDFS-PARAMETERS" target="http://www.iana.org/assignments/fedfs-parameters">
-  <front>
-    <title>Federated File System (FedFS) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

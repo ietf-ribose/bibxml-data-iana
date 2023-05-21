@@ -1,8 +1,0 @@
-<reference anchor="GIST-PARAMETERS/ADDITIONAL-INFO" target="http://www.iana.org/assignments/gist-parameters">
-  <front>
-    <title>Additional Information Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

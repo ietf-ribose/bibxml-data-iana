@@ -1,8 +1,0 @@
-<reference anchor="EMSK-PARAMETERS/EMSK-PARAMETERS-3" target="http://www.iana.org/assignments/emsk-parameters">
-  <front>
-    <title>EMSK PRF Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

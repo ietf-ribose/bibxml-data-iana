@@ -1,8 +1,0 @@
-<reference anchor="LGR-DISPOSITIONS" target="http://www.iana.org/assignments/lgr-dispositions">
-  <front>
-    <title>Label Generation Ruleset (LGR) Dispositions</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

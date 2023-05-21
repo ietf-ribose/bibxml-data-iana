@@ -1,8 +1,0 @@
-<reference anchor="RSVP-TE-OAM/ETHERNET-SUB-TLVS" target="http://www.iana.org/assignments/rsvp-te-oam">
-  <front>
-    <title>Ethernet Sub-TLVs Sub-Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

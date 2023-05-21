@@ -1,8 +1,0 @@
-<reference anchor="RTSPV2-PARAMETERS/RTP-INFO" target="http://www.iana.org/assignments/rtspv2-parameters">
-  <front>
-    <title>RTP-Info Header Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

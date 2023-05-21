@@ -1,8 +1,0 @@
-<reference anchor="SVRLOC-EXTENSIONS" target="http://www.iana.org/assignments/svrloc-extensions">
-  <front>
-    <title>Service Location Protocol Extensions, Version 2 (SLPv2)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

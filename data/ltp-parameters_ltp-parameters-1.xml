@@ -1,8 +1,0 @@
-<reference anchor="LTP-PARAMETERS/LTP-PARAMETERS-1" target="http://www.iana.org/assignments/ltp-parameters">
-  <front>
-    <title>LTP Extension Tags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

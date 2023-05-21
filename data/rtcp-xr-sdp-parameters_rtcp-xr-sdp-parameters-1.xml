@@ -1,8 +1,0 @@
-<reference anchor="RTCP-XR-SDP-PARAMETERS/RTCP-XR-SDP-PARAMETERS-1" target="http://www.iana.org/assignments/rtcp-xr-sdp-parameters">
-  <front>
-    <title>RTCP XR SDP Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

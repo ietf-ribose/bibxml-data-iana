@@ -1,8 +1,0 @@
-<reference anchor="CISCO-SLA-PROTOCOL/ROLES" target="http://www.iana.org/assignments/cisco-sla-protocol">
-  <front>
-    <title>Cisco SLA Protocol Roles Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

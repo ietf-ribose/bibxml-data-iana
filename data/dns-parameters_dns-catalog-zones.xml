@@ -1,8 +1,0 @@
-<reference anchor="DNS-PARAMETERS/DNS-CATALOG-ZONES" target="http://www.iana.org/assignments/dns-parameters">
-  <front>
-    <title>DNS Catalog Zones Properties</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

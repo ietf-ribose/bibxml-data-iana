@@ -1,8 +1,0 @@
-<reference anchor="IPSEC-REGISTRY/IPSEC-REGISTRY-21" target="http://www.iana.org/assignments/ipsec-registry">
-  <front>
-    <title>Next Payload Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

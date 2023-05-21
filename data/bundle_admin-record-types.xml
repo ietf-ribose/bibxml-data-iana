@@ -1,8 +1,0 @@
-<reference anchor="BUNDLE/ADMIN-RECORD-TYPES" target="http://www.iana.org/assignments/bundle">
-  <front>
-    <title>Bundle Administrative Record Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

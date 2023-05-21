@@ -1,8 +1,0 @@
-<reference anchor="RPL-ROUTING-METRIC-CONSTRAINT/NODE-TYPE" target="http://www.iana.org/assignments/rpl-routing-metric-constraint">
-  <front>
-    <title>Node Type Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

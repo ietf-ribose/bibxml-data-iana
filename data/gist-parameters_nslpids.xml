@@ -1,8 +1,0 @@
-<reference anchor="GIST-PARAMETERS/NSLPIDS" target="http://www.iana.org/assignments/gist-parameters">
-  <front>
-    <title>NSIS Signaling Layer Protocol (NSLP) Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

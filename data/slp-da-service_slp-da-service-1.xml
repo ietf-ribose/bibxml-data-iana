@@ -1,8 +1,0 @@
-<reference anchor="SLP-DA-SERVICE/SLP-DA-SERVICE-1" target="http://www.iana.org/assignments/slp-da-service">
-  <front>
-    <title>SLP Remote Service Discovery</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

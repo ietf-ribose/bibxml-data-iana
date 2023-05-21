@@ -1,8 +1,0 @@
-<reference anchor="PPSPP" target="http://www.iana.org/assignments/ppspp">
-  <front>
-    <title>Peer-to-Peer Streaming Peer Protocol (PPSPP)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

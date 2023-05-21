@@ -1,8 +1,0 @@
-<reference anchor="_6LOWPAN-PARAMETERS/ELECTIVE-6LOWPAN-ROUTING-HEADER-TYPE" target="http://www.iana.org/assignments/_6lowpan-parameters">
-  <front>
-    <title>Elective 6LoWPAN Routing Header Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

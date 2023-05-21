@@ -1,8 +1,0 @@
-<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-16" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - V5 Boundary Primitives Transport (V5PTM) Messages (Value 14)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

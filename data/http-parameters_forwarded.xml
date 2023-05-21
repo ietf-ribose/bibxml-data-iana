@@ -1,8 +1,0 @@
-<reference anchor="HTTP-PARAMETERS/FORWARDED" target="http://www.iana.org/assignments/http-parameters">
-  <front>
-    <title>HTTP Forwarded Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

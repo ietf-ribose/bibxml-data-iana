@@ -1,8 +1,0 @@
-<reference anchor="IEEE-802-NUMBERS/IEEE-802-NUMBERS-3" target="http://www.iana.org/assignments/ieee-802-numbers">
-  <front>
-    <title>Logical Link Control (LLC) Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/MEDIACTRL-INTERACTIVE-VOICE-RESPONSE-CONTROL-PACKAGE-STATUS-CODES" target="http://www.iana.org/assignments/media-control-channel">
-  <front>
-    <title>MEDIACTRL Interactive Voice Response Control Package Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="ALTO-PROTOCOL/COST-MODES" target="http://www.iana.org/assignments/alto-protocol">
-  <front>
-    <title>ALTO Cost Modes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="S-NAPTR-PARAMETERS" target="http://www.iana.org/assignments/s-naptr-parameters">
-  <front>
-    <title>Straightforward-NAPTR (S-NAPTR) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="APEX/APEX-2" target="http://www.iana.org/assignments/apex">
-  <front>
-    <title>Applicable Exchange Core (APEX) Options</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

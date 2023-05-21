@@ -1,8 +1,0 @@
-<reference anchor="MACHINE-NAMES/MACHINE-NAMES-1" target="http://www.iana.org/assignments/machine-names">
-  <front>
-    <title>Machine Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

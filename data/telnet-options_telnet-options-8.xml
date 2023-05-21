@@ -1,8 +1,0 @@
-<reference anchor="TELNET-OPTIONS/TELNET-OPTIONS-8" target="http://www.iana.org/assignments/telnet-options">
-  <front>
-    <title>KEA_SJ (Type 12) and KEA_SJ_INTEG (Type 13) Authentication Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

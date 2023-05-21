@@ -1,8 +1,0 @@
-<reference anchor="GSS-API-PARAMETERS" target="http://www.iana.org/assignments/gss-api-parameters">
-  <front>
-    <title>Generic Security Service Application Program Interface Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

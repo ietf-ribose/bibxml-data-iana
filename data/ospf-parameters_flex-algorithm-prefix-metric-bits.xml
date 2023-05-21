@@ -1,8 +1,0 @@
-<reference anchor="OSPF-PARAMETERS/FLEX-ALGORITHM-PREFIX-METRIC-BITS" target="http://www.iana.org/assignments/ospf-parameters">
-  <front>
-    <title>OSPF Flex-Algorithm Prefix Metric Bits</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

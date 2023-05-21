@@ -1,8 +1,0 @@
-<reference anchor="MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-39" target="http://www.iana.org/assignments/mobileip-numbers">
-  <front>
-    <title>Mobile Router Route Optimization Capability Extension (Value 153)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

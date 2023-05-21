@@ -1,8 +1,0 @@
-<reference anchor="MOBILITY-PARAMETERS/HANDOVER-INITIATE-STATUS" target="http://www.iana.org/assignments/mobility-parameters">
-  <front>
-    <title>Handover Initiate Status Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

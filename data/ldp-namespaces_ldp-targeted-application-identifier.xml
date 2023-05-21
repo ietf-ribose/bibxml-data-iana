@@ -1,8 +1,0 @@
-<reference anchor="LDP-NAMESPACES/LDP-TARGETED-APPLICATION-IDENTIFIER" target="http://www.iana.org/assignments/ldp-namespaces">
-  <front>
-    <title>LDP Targeted Application Identifier</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

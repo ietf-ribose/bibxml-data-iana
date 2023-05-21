@@ -1,8 +1,0 @@
-<reference anchor="NSLP-PARAMETERS/RESPONSE-CODES" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>NATFW Response Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

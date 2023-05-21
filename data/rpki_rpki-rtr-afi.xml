@@ -1,8 +1,0 @@
-<reference anchor="RPKI/RPKI-RTR-AFI" target="http://www.iana.org/assignments/rpki">
-  <front>
-    <title>rpki-rtr-afi</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SSH-PARAMETERS/SSH-PARAMETERS-15" target="http://www.iana.org/assignments/ssh-parameters">
-  <front>
-    <title>Connection Protocol Subsystem Names</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

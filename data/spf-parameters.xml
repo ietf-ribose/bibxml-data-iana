@@ -1,8 +1,0 @@
-<reference anchor="SPF-PARAMETERS" target="http://www.iana.org/assignments/spf-parameters">
-  <front>
-    <title>Sender Policy Framework (SPF) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

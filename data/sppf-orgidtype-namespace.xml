@@ -1,8 +1,0 @@
-<reference anchor="SPPF-ORGIDTYPE-NAMESPACE" target="http://www.iana.org/assignments/sppf-orgidtype-namespace">
-  <front>
-    <title>SPPF OrgIdType Namespaces</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-TYPE-SUB-PARAMETERS/MEDIA-TYPE-SUB-PARAMETERS-14" target="http://www.iana.org/assignments/media-type-sub-parameters">
-  <front>
-    <title>Sub-Parameter Registry for video/raw</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

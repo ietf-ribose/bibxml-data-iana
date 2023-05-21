@@ -1,8 +1,0 @@
-<reference anchor="PERM-MCAST-GROUPIDS" target="http://www.iana.org/assignments/perm-mcast-groupids">
-  <front>
-    <title>Permanent IPv6 Multicast Group Identifiers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

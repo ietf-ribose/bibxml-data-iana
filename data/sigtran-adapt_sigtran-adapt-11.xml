@@ -1,8 +1,0 @@
-<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-11" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - Routing Key Management (RKM) Messages (Value 9)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MEDIA-CONTROL-CHANNEL/IVR-PROMPT" target="http://www.iana.org/assignments/media-control-channel">
-  <front>
-    <title>IVR Prompt Variable Type for Control Packages</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

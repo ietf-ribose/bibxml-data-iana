@@ -1,8 +1,0 @@
-<reference anchor="IOAM-CAPABILITIES" target="http://www.iana.org/assignments/ioam-capabilities">
-  <front>
-    <title>In Situ OAM (IOAM) Capabilities</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

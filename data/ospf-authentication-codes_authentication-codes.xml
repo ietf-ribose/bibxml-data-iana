@@ -1,8 +1,0 @@
-<reference anchor="OSPF-AUTHENTICATION-CODES/AUTHENTICATION-CODES" target="http://www.iana.org/assignments/ospf-authentication-codes">
-  <front>
-    <title>Authentication Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

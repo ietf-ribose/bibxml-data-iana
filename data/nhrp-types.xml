@@ -1,8 +1,0 @@
-<reference anchor="NHRP-TYPES" target="http://www.iana.org/assignments/nhrp-types">
-  <front>
-    <title>Next Hop Resolution Protocol (NHRP) Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="DOTS/DOTS-SIGNAL-CHANNEL-CONFLICT-CAUSE-CODES" target="http://www.iana.org/assignments/dots">
-  <front>
-    <title>DOTS Signal Channel Conflict Cause Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

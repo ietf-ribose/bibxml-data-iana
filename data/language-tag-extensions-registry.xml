@@ -1,8 +1,0 @@
-<reference anchor="LANGUAGE-TAG-EXTENSIONS-REGISTRY" target="http://www.iana.org/assignments/language-tag-extensions-registry">
-  <front>
-    <title>Language Tag Extensions Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

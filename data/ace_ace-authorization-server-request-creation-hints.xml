@@ -1,8 +1,0 @@
-<reference anchor="ACE/ACE-AUTHORIZATION-SERVER-REQUEST-CREATION-HINTS" target="http://www.iana.org/assignments/ace">
-  <front>
-    <title>ACE Authorization Server Request Creation Hints</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

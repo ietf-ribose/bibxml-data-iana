@@ -1,8 +1,0 @@
-<reference anchor="GSS-EAP-PARAMETERS/SUBTOKEN-TYPES" target="http://www.iana.org/assignments/gss-eap-parameters">
-  <front>
-    <title>GSS-EAP Subtoken Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

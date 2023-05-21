@@ -1,8 +1,0 @@
-<reference anchor="CALIPSO/CALIPSO-2" target="http://www.iana.org/assignments/calipso">
-  <front>
-    <title>CALIPSO Domain of Interpretation (DOI)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SIGTRAN-ADAPT/SIGTRAN-ADAPT-5" target="http://www.iana.org/assignments/sigtran-adapt">
-  <front>
-    <title>Message Types - ASP State Maintenance (ASPSM) Messages (Value 3)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

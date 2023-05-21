@@ -1,8 +1,0 @@
-<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-8" target="http://www.iana.org/assignments/icmpv6-parameters">
-  <front>
-    <title>Option-Code for Handover Assist Information Option (Type 29)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

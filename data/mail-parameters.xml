@@ -1,8 +1,0 @@
-<reference anchor="MAIL-PARAMETERS" target="http://www.iana.org/assignments/mail-parameters">
-  <front>
-    <title>MAIL Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

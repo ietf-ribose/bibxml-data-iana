@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS/TRUSTED-SERVER-ROOT" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

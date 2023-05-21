@@ -1,8 +1,0 @@
-<reference anchor="RID" target="http://www.iana.org/assignments/rid">
-  <front>
-    <title>Real-time Inter-network Defense (RID)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="OSPF-TRAFFIC-ENG-TLVS/SUBTLV6" target="http://www.iana.org/assignments/ospf-traffic-eng-tlvs">
-  <front>
-    <title>Types for sub-TLVs of Optical Node Property (Value 6)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

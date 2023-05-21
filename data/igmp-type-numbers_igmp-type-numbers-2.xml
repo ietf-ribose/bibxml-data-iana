@@ -1,8 +1,0 @@
-<reference anchor="IGMP-TYPE-NUMBERS/IGMP-TYPE-NUMBERS-2" target="http://www.iana.org/assignments/igmp-type-numbers">
-  <front>
-    <title>"Code" Fields</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

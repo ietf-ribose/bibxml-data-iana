@@ -1,8 +1,0 @@
-<reference anchor="IANA-BGP-L2-ENCAPS" target="http://www.iana.org/assignments/iana-bgp-l2-encaps">
-  <front>
-    <title>iana-bgp-l2-encaps YANG Module</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

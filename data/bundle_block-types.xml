@@ -1,8 +1,0 @@
-<reference anchor="BUNDLE/BLOCK-TYPES" target="http://www.iana.org/assignments/bundle">
-  <front>
-    <title>Bundle Block Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

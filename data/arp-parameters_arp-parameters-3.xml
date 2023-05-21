@@ -1,8 +1,0 @@
-<reference anchor="ARP-PARAMETERS/ARP-PARAMETERS-3" target="http://www.iana.org/assignments/arp-parameters">
-  <front>
-    <title>Protocol Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

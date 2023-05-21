@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS/PACKET-TLV-TYPES" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>Packet TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

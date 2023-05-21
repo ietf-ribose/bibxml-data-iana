@@ -1,8 +1,0 @@
-<reference anchor="RFB/RFB-3" target="http://www.iana.org/assignments/rfb">
-  <front>
-    <title>Remote Framebuffer Server-to-Client Message Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

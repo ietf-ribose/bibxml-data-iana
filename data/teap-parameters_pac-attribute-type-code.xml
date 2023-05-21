@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS/PAC-ATTRIBUTE-TYPE-CODE" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP PAC TLV (value 11) PAC Attribute Type Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

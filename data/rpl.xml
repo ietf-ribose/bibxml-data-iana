@@ -1,8 +1,0 @@
-<reference anchor="RPL" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>Routing Protocol for Low Power and Lossy Networks (RPL)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="HTTP-WARN-CODES/WARN-CODES" target="http://www.iana.org/assignments/http-warn-codes">
-  <front>
-    <title>HTTP Warn Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

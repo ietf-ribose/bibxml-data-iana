@@ -1,8 +1,0 @@
-<reference anchor="HOBA-DEVICE-IDENTIFIERS/DEVICE-IDENTIFIER-TYPES" target="http://www.iana.org/assignments/hoba-device-identifiers">
-  <front>
-    <title>HOBA Device Identifier Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

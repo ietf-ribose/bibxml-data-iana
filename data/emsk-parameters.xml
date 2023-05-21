@@ -1,8 +1,0 @@
-<reference anchor="EMSK-PARAMETERS" target="http://www.iana.org/assignments/emsk-parameters">
-  <front>
-    <title>Extended Master Session Key (EMSK) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SECEVENT/SECEVENT-ERROR-CODES" target="http://www.iana.org/assignments/secevent">
-  <front>
-    <title>Security Event Token Error Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

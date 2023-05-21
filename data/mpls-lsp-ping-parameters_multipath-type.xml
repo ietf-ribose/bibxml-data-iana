@@ -1,8 +1,0 @@
-<reference anchor="MPLS-LSP-PING-PARAMETERS/MULTIPATH-TYPE" target="http://www.iana.org/assignments/mpls-lsp-ping-parameters">
-  <front>
-    <title>Multipath Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

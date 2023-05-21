@@ -1,8 +1,0 @@
-<reference anchor="CDNI-PARAMETERS/METADATA-FOOTPRINT-TYPES" target="http://www.iana.org/assignments/cdni-parameters">
-  <front>
-    <title>CDNI Metadata Footprint Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

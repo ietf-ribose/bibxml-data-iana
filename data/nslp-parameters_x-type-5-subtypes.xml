@@ -1,8 +1,0 @@
-<reference anchor="NSLP-PARAMETERS/X-TYPE-5-SUBTYPES" target="http://www.iana.org/assignments/nslp-parameters">
-  <front>
-    <title>START_TIME (X-Type 5) SubType values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

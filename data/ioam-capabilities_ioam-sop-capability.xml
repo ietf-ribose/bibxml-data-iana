@@ -1,8 +1,0 @@
-<reference anchor="IOAM-CAPABILITIES/IOAM-SOP-CAPABILITY" target="http://www.iana.org/assignments/ioam-capabilities">
-  <front>
-    <title>IOAM SoP Capability</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

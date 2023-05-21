@@ -1,8 +1,0 @@
-<reference anchor="CISCO-SLA-PROTOCOL/MEASUREMENT" target="http://www.iana.org/assignments/cisco-sla-protocol">
-  <front>
-    <title>Cisco SLA Protocol Measurement-Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

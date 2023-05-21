@@ -1,8 +1,0 @@
-<reference anchor="RADIUS-TYPES/RADIUS-TYPES-25" target="http://www.iana.org/assignments/radius-types">
-  <front>
-    <title>Values for RADIUS Attribute 133, Framed-Management-Protocol Attribute</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

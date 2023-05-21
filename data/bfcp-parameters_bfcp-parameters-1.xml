@@ -1,8 +1,0 @@
-<reference anchor="BFCP-PARAMETERS/BFCP-PARAMETERS-1" target="http://www.iana.org/assignments/bfcp-parameters">
-  <front>
-    <title>Attributes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="RSVP-PARAMETERS" target="http://www.iana.org/assignments/rsvp-parameters">
-  <front>
-    <title>Resource Reservation Protocol (RSVP) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

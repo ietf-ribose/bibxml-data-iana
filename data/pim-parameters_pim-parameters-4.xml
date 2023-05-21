@@ -1,8 +1,0 @@
-<reference anchor="PIM-PARAMETERS/PIM-PARAMETERS-4" target="http://www.iana.org/assignments/pim-parameters">
-  <front>
-    <title>PIM Address Encoding Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

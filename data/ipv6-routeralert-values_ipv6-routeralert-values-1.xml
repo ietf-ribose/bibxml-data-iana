@@ -1,8 +1,0 @@
-<reference anchor="IPV6-ROUTERALERT-VALUES/IPV6-ROUTERALERT-VALUES-1" target="http://www.iana.org/assignments/ipv6-routeralert-values">
-  <front>
-    <title>IPv6 Router Alert Option Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="NFSV4-RECALLABLE-OBJECT-TYPES" target="http://www.iana.org/assignments/nfsv4-recallable-object-types">
-  <front>
-    <title>NFSv4 Recallable Object Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

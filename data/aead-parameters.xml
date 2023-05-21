@@ -1,8 +1,0 @@
-<reference anchor="AEAD-PARAMETERS" target="http://www.iana.org/assignments/aead-parameters">
-  <front>
-    <title>Authenticated Encryption with Associated Data (AEAD) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

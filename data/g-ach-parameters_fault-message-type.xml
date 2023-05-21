@@ -1,8 +1,0 @@
-<reference anchor="G-ACH-PARAMETERS/FAULT-MESSAGE-TYPE" target="http://www.iana.org/assignments/g-ach-parameters">
-  <front>
-    <title>MPLS Fault OAM Message Type Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

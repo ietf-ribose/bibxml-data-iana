@@ -1,8 +1,0 @@
-<reference anchor="L2TP-PARAMETERS/L2TP-PARAMETERS-26" target="http://www.iana.org/assignments/l2tp-parameters">
-  <front>
-    <title>VCCV Capability AVP (Attribute Type 96) Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

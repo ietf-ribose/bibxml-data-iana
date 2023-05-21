@@ -1,8 +1,0 @@
-<reference anchor="ACAP-REGISTRATIONS/ACAP-REGISTRATIONS-4" target="http://www.iana.org/assignments/acap-registrations">
-  <front>
-    <title>Vendor Subtrees</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

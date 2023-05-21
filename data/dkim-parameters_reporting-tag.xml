@@ -1,8 +1,0 @@
-<reference anchor="DKIM-PARAMETERS/REPORTING-TAG" target="http://www.iana.org/assignments/dkim-parameters">
-  <front>
-    <title>DKIM Reporting Tag Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

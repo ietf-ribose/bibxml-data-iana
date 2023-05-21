@@ -1,8 +1,0 @@
-<reference anchor="GMPLS-SIG-PARAMETERS/CWDM-CHANNEL-SPACING" target="http://www.iana.org/assignments/gmpls-sig-parameters">
-  <front>
-    <title>CWDM Channel Spacing Subregistry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

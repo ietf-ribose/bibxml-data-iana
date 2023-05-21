@@ -1,8 +1,0 @@
-<reference anchor="HTTP-PARAMETERS/PREFERENCES" target="http://www.iana.org/assignments/http-parameters">
-  <front>
-    <title>HTTP Preferences</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="MRT" target="http://www.iana.org/assignments/mrt">
-  <front>
-    <title> Multi-threaded Routing Toolkit (MRT)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

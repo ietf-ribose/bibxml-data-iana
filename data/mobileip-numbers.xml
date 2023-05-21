@@ -1,8 +1,0 @@
-<reference anchor="MOBILEIP-NUMBERS" target="http://www.iana.org/assignments/mobileip-numbers">
-  <front>
-    <title>Mobile IPv4 Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

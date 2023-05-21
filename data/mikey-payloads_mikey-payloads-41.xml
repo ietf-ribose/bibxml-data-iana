@@ -1,8 +1,0 @@
-<reference anchor="MIKEY-PAYLOADS/MIKEY-PAYLOADS-41" target="http://www.iana.org/assignments/mikey-payloads">
-  <front>
-    <title>RAND Role</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

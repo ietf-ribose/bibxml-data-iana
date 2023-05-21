@@ -1,8 +1,0 @@
-<reference anchor="XML-NS-PROVIDED-BY/XML-NS-PROVIDED-BY-1" target="http://www.iana.org/assignments/xml-ns-provided-by">
-  <front>
-    <title>XML Namespaces for 'provided-by' elements for use with PIDF-LO objects</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

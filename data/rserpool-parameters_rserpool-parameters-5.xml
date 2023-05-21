@@ -1,8 +1,0 @@
-<reference anchor="RSERPOOL-PARAMETERS/RSERPOOL-PARAMETERS-5" target="http://www.iana.org/assignments/rserpool-parameters">
-  <front>
-    <title>RSerPool Error Causes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

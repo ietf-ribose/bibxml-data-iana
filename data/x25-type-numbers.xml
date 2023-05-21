@@ -1,8 +1,0 @@
-<reference anchor="X25-TYPE-NUMBERS" target="http://www.iana.org/assignments/x25-type-numbers">
-  <front>
-    <title>X.25 Type Numbers</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

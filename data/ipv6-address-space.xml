@@ -1,8 +1,0 @@
-<reference anchor="IPV6-ADDRESS-SPACE" target="http://www.iana.org/assignments/ipv6-address-space">
-  <front>
-    <title>Internet Protocol Version 6 Address Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

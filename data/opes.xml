@@ -1,8 +1,0 @@
-<reference anchor="OPES" target="http://www.iana.org/assignments/opes">
-  <front>
-    <title>Open Pluggable Edge Services (OPES)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-6" target="http://www.iana.org/assignments/icmpv6-parameters">
-  <front>
-    <title>Trust Anchor option (Type 15) Name Type field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

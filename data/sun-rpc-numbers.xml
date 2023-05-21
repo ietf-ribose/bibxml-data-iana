@@ -1,8 +1,0 @@
-<reference anchor="SUN-RPC-NUMBERS" target="http://www.iana.org/assignments/sun-rpc-numbers">
-  <front>
-    <title>SUN Remote Procedure Call (RPC) Numbers - Obsolete</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

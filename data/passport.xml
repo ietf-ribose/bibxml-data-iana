@@ -1,8 +1,0 @@
-<reference anchor="PASSPORT" target="http://www.iana.org/assignments/passport">
-  <front>
-    <title>Personal Assertion Token (PASSporT)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

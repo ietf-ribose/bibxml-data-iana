@@ -1,8 +1,0 @@
-<reference anchor="RSIP-PARAMETERS/RSIP-PARAMETERS-6" target="http://www.iana.org/assignments/rsip-parameters">
-  <front>
-    <title>RSIP Vendor IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

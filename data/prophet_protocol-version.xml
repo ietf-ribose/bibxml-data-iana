@@ -1,8 +1,0 @@
-<reference anchor="PROPHET/PROTOCOL-VERSION" target="http://www.iana.org/assignments/prophet">
-  <front>
-    <title>PRoPHET Protocol Version</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

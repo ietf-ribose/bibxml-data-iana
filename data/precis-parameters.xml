@@ -1,8 +1,0 @@
-<reference anchor="PRECIS-PARAMETERS" target="http://www.iana.org/assignments/precis-parameters">
-  <front>
-    <title>Preparation and Comparison of Internationalized Strings (PRECIS) Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

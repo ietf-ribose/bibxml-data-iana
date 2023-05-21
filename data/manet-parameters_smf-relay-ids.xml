@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS/SMF-RELAY-IDS" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>SMF Relay Algorithm IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

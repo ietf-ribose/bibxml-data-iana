@@ -1,8 +1,0 @@
-<reference anchor="BMP-PARAMETERS/TERMINATION-MESSAGE-REASON-CODES" target="http://www.iana.org/assignments/bmp-parameters">
-  <front>
-    <title>BMP Termination Message Reason Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

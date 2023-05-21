@@ -1,8 +1,0 @@
-<reference anchor="CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-20" target="http://www.iana.org/assignments/capwap-parameters">
-  <front>
-    <title>WTP Descriptor Type</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="BUNDLE/BUNDLE-URI-SCHEME" target="http://www.iana.org/assignments/bundle">
-  <front>
-    <title>Bundle Protocol URI Scheme Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

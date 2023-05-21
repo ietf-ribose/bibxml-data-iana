@@ -1,8 +1,0 @@
-<reference anchor="CFM-OAM" target="http://www.iana.org/assignments/cfm-oam">
-  <front>
-    <title>Connectivity Fault Management (CFM) OAM IETF Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

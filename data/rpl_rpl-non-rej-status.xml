@@ -1,8 +1,0 @@
-<reference anchor="RPL/RPL-NON-REJ-STATUS" target="http://www.iana.org/assignments/rpl">
-  <front>
-    <title>RPL Non-Rejection Status</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

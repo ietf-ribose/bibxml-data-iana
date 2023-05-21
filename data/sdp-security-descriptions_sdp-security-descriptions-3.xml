@@ -1,8 +1,0 @@
-<reference anchor="SDP-SECURITY-DESCRIPTIONS/SDP-SECURITY-DESCRIPTIONS-3" target="http://www.iana.org/assignments/sdp-security-descriptions">
-  <front>
-    <title>SRTP Crypto Suite Registrations</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

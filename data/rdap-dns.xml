@@ -1,8 +1,0 @@
-<reference anchor="RDAP-DNS" target="http://www.iana.org/assignments/rdap-dns">
-  <front>
-    <title>Bootstrap Service Registry for Domain Name Space</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

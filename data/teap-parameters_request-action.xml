@@ -1,8 +1,0 @@
-<reference anchor="TEAP-PARAMETERS/REQUEST-ACTION" target="http://www.iana.org/assignments/teap-parameters">
-  <front>
-    <title>TEAP Request-Action TLV (value 8) Registry</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

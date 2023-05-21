@@ -1,8 +1,0 @@
-<reference anchor="OS-SPECIFIC-PARAMETERS" target="http://www.iana.org/assignments/os-specific-parameters">
-  <front>
-    <title>Operating System Specific Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

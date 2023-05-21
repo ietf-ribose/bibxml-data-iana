@@ -1,8 +1,0 @@
-<reference anchor="BUNDLE/CUSTODY-SIGNAL-REASON" target="http://www.iana.org/assignments/bundle">
-  <front>
-    <title>Bundle Custody Signal Reason Codes</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

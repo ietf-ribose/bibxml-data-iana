@@ -1,8 +1,0 @@
-<reference anchor="DSKPP" target="http://www.iana.org/assignments/dskpp">
-  <front>
-    <title>Dynamic Symmetric Key Provisioning Protocol (DSKPP)</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IANATN3270ETC-MIB" target="http://www.iana.org/assignments/ianatn3270etc-mib">
-  <front>
-    <title>IANATn3270eTC-MIB</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

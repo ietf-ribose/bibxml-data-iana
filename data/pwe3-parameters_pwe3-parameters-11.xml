@@ -1,8 +1,0 @@
-<reference anchor="PWE3-PARAMETERS/PWE3-PARAMETERS-11" target="http://www.iana.org/assignments/pwe3-parameters">
-  <front>
-    <title>Pseudowire Associated Channel Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

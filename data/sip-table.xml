@@ -1,8 +1,0 @@
-<reference anchor="SIP-TABLE" target="http://www.iana.org/assignments/sip-table">
-  <front>
-    <title>Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record Services Field</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

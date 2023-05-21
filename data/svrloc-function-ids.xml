@@ -1,8 +1,0 @@
-<reference anchor="SVRLOC-FUNCTION-IDS" target="http://www.iana.org/assignments/svrloc-function-ids">
-  <front>
-    <title>Service Location Protocol, Version 2 (SLPv2) Function IDs</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

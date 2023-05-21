@@ -1,8 +1,0 @@
-<reference anchor="WEBPUSH-PARAMETERS/VAPID-AUTHENTICATION-SCHEME-PARAMETERS" target="http://www.iana.org/assignments/webpush-parameters">
-  <front>
-    <title>VAPID Authentication Scheme Parameters</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

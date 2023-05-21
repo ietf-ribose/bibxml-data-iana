@@ -1,8 +1,0 @@
-<reference anchor="MANET-PARAMETERS/TC-MESSAGE-TYPE-SPECIFIC-MESSAGE" target="http://www.iana.org/assignments/manet-parameters">
-  <front>
-    <title>TC Message-Type-specific Message TLV Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

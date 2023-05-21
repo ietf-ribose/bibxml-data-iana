@@ -1,8 +1,0 @@
-<reference anchor="RSIP-PARAMETERS/RSIP-PARAMETERS-2" target="http://www.iana.org/assignments/rsip-parameters">
-  <front>
-    <title>RSIP Address Types</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="SOFTWARE-ID/LINK-OWNERSHIP-VALUES" target="http://www.iana.org/assignments/software-id">
-  <front>
-    <title>Software ID Link Ownership Values</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="IGP-PARAMETERS/PCE-CAPABILITY-FLAGS" target="http://www.iana.org/assignments/igp-parameters">
-  <front>
-    <title>Path Computation Element (PCE) Capability Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

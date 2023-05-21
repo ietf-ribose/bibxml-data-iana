@@ -1,8 +1,0 @@
-<reference anchor="JOSE/WEB-KEY-USE" target="http://www.iana.org/assignments/jose">
-  <front>
-    <title>JSON Web Key Use</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>

@@ -1,8 +1,0 @@
-<reference anchor="DNSKEY-FLAGS/DNSKEY-FLAGS-1" target="http://www.iana.org/assignments/dnskey-flags">
-  <front>
-    <title>DNSKEY RR Flags</title>
-    <author>
-      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
-    </author>
-  </front>
-</reference>
