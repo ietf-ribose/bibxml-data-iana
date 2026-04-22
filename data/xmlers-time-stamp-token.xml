@@ -1,0 +1,8 @@
+<reference anchor="xmlers/time-stamp-token" target="https://www.iana.org/assignments/xmlers">
+  <front>
+    <title>Time-Stamp Token Type</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

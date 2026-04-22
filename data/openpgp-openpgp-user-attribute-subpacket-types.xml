@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-user-attribute-subpacket-types" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP User Attribute Subpacket Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

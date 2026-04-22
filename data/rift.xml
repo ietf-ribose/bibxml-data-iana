@@ -1,0 +1,8 @@
+<reference anchor="rift" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>Routing in Fat Trees (RIFT)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

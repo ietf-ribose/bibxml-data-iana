@@ -1,0 +1,8 @@
+<reference anchor="ospf-parameters/link-attributes-sub-tlv" target="https://www.iana.org/assignments/ospf-parameters">
+  <front>
+    <title>OSPF Link Attributes Sub-TLV Bit Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

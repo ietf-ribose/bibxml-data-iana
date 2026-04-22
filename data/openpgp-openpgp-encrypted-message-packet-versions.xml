@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-encrypted-message-packet-versions" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Encrypted Message Packet Versions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

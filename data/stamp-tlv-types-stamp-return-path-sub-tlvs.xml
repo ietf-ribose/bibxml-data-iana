@@ -1,0 +1,8 @@
+<reference anchor="stamp-tlv-types/stamp-return-path-sub-tlvs" target="https://www.iana.org/assignments/stamp-tlv-types">
+  <front>
+    <title>Return Path Sub-TLV Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="epp-extension-role-values" target="https://www.iana.org/assignments/epp-extension-role-values">
+  <front>
+    <title>Extensible Provisioning Protocol (EPP) Organization Role Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="icmp-parameters/icmp-parameters-types" target="https://www.iana.org/assignments/icmp-parameters">
+  <front>
+    <title>ICMP Type Numbers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

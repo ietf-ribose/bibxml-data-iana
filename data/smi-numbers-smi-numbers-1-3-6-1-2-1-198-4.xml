@@ -1,0 +1,8 @@
+<reference anchor="smi-numbers/smi-numbers-1.3.6.1.2.1.198.4" target="https://www.iana.org/assignments/smi-numbers">
+  <front>
+    <title>SNMP-TLSTM HashAlgorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

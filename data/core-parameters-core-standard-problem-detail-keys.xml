@@ -1,0 +1,8 @@
+<reference anchor="core-parameters/core-standard-problem-detail-keys" target="https://www.iana.org/assignments/core-parameters">
+  <front>
+    <title>Standard Problem Detail Keys</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

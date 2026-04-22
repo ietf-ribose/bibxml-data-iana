@@ -1,0 +1,8 @@
+<reference anchor="reload/probe-info" target="https://www.iana.org/assignments/reload">
+  <front>
+    <title>RELOAD Probe Information Type Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="edhoc/edhoc-ead" target="https://www.iana.org/assignments/edhoc">
+  <front>
+    <title>EDHOC External Authorization Data</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

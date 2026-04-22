@@ -1,0 +1,8 @@
+<reference anchor="netnews-parameters/cancel-lock-hash-algorithms" target="https://www.iana.org/assignments/netnews-parameters">
+  <front>
+    <title>Netnews Cancel-Lock Hash Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

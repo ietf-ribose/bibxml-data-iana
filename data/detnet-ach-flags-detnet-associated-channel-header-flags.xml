@@ -1,0 +1,8 @@
+<reference anchor="detnet-ach-flags/detnet-associated-channel-header-flags" target="https://www.iana.org/assignments/detnet-ach-flags">
+  <front>
+    <title>DetNet Associated Channel Header (d-ACH) Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

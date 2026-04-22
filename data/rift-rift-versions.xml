@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-versions" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTVersions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

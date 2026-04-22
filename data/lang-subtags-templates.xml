@@ -1,0 +1,8 @@
+<reference anchor="lang-subtags-templates" target="https://www.iana.org/assignments/lang-subtags-templates">
+  <front>
+    <title>Language Subtag Registration Form Archive</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

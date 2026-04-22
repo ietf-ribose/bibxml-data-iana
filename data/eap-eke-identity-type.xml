@@ -1,0 +1,8 @@
+<reference anchor="eap-eke/identity-type" target="https://www.iana.org/assignments/eap-eke">
+  <front>
+    <title>EAP-EKE Identity Type Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

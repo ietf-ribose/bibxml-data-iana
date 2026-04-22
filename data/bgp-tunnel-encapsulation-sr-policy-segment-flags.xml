@@ -1,0 +1,8 @@
+<reference anchor="bgp-tunnel-encapsulation/sr-policy-segment-flags" target="https://www.iana.org/assignments/bgp-tunnel-encapsulation">
+  <front>
+    <title>SR Policy Segment Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="ospfv3-parameters/srv6-locator-lsa" target="https://www.iana.org/assignments/ospfv3-parameters">
+  <front>
+    <title>OSPFv3 SRv6 Locator LSA TLVs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

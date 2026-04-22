@@ -1,0 +1,8 @@
+<reference anchor="http-digest-hash-alg" target="https://www.iana.org/assignments/http-digest-hash-alg">
+  <front>
+    <title>Hash Algorithms for HTTP Digest Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

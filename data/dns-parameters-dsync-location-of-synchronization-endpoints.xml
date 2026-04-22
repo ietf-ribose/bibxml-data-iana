@@ -1,0 +1,8 @@
+<reference anchor="dns-parameters/dsync-location-of-synchronization-endpoints" target="https://www.iana.org/assignments/dns-parameters">
+  <front>
+    <title>DSYNC: Location of Synchronization Endpoints</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

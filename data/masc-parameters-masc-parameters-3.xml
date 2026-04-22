@@ -1,0 +1,8 @@
+<reference anchor="masc-parameters/masc-parameters-3" target="https://www.iana.org/assignments/masc-parameters">
+  <front>
+    <title>MASC UPDATE Message Attribute Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

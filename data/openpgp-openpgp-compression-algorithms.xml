@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-compression-algorithms" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Compression Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

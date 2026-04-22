@@ -1,0 +1,8 @@
+<reference anchor="jsonpath/function-extensions" target="https://www.iana.org/assignments/jsonpath">
+  <front>
+    <title>Function Extensions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

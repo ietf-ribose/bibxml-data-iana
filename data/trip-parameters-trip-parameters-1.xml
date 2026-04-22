@@ -1,0 +1,8 @@
+<reference anchor="trip-parameters/trip-parameters-1" target="https://www.iana.org/assignments/trip-parameters">
+  <front>
+    <title>TRIP Capabilities</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

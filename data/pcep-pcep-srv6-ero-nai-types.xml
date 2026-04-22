@@ -1,0 +1,8 @@
+<reference anchor="pcep/pcep-srv6-ero-nai-types" target="https://www.iana.org/assignments/pcep">
+  <front>
+    <title>PCEP SRv6-ERO NAI Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

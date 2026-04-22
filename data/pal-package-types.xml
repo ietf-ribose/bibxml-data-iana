@@ -1,0 +1,8 @@
+<reference anchor="pal-package-types" target="https://www.iana.org/assignments/pal-package-types">
+  <front>
+    <title>PAL Package Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

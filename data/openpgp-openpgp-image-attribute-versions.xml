@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-image-attribute-versions" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Image Attribute Versions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

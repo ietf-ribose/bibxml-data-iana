@@ -1,0 +1,8 @@
+<reference anchor="yang-parameters" target="https://www.iana.org/assignments/yang-parameters">
+  <front>
+    <title>YANG Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

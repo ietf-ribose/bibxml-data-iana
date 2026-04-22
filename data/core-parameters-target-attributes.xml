@@ -1,0 +1,8 @@
+<reference anchor="core-parameters/target-attributes" target="https://www.iana.org/assignments/core-parameters">
+  <front>
+    <title>Target Attributes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

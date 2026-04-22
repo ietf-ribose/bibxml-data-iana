@@ -1,0 +1,8 @@
+<reference anchor="nslp-parameters/x-types" target="https://www.iana.org/assignments/nslp-parameters">
+  <front>
+    <title>SESSION_AUTH X-Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

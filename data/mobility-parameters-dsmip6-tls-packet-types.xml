@@ -1,0 +1,8 @@
+<reference anchor="mobility-parameters/dsmip6-tls-packet-types" target="https://www.iana.org/assignments/mobility-parameters">
+  <front>
+    <title>DSMIP6-TLS Packet Types Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

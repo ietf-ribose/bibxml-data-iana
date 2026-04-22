@@ -1,0 +1,8 @@
+<reference anchor="segment-routing/sr-policy-enlp-values" target="https://www.iana.org/assignments/segment-routing">
+  <front>
+    <title>SR Policy ENLP Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

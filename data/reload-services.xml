@@ -1,0 +1,8 @@
+<reference anchor="reload/services" target="https://www.iana.org/assignments/reload">
+  <front>
+    <title>RELOAD Services Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

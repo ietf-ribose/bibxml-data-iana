@@ -1,0 +1,8 @@
+<reference anchor="uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7" target="https://www.iana.org/assignments/uri-schemes">
+  <front>
+    <title>'ipn' Scheme URI Well-known Service Numbers for BPv7</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

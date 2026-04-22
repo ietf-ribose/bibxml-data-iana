@@ -1,0 +1,8 @@
+<reference anchor="mail-parameters/smtp-service-extensions" target="https://www.iana.org/assignments/mail-parameters">
+  <front>
+    <title>SMTP Server Limits</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

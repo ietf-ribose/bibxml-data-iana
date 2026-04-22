@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Hash Algorithm Identifiers for RSA Signatures' Use of EMSA-PKCS1-v1_5 Padding</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

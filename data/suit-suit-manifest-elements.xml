@@ -1,0 +1,8 @@
+<reference anchor="suit/suit-manifest-elements" target="https://www.iana.org/assignments/suit">
+  <front>
+    <title>SUIT Manifest Elements</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

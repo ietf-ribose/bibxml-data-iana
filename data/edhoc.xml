@@ -1,0 +1,8 @@
+<reference anchor="edhoc" target="https://www.iana.org/assignments/edhoc">
+  <front>
+    <title>Ephemeral Diffie-Hellman Over COSE (EDHOC)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="lang-tag-apps/lang-tag-registration-forms" target="https://www.iana.org/assignments/lang-tag-apps">
+  <front>
+    <title> Language Tag Registration Form Archive (OBSOLETE)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

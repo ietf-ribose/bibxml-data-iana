@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+      - name: Checkout iana-registries
+        uses: actions/checkout@v4
+        with:
+          repository: ietf-ribose/iana-registries
+          path: iana-registries
       - name: Use Ruby
         uses: ruby/setup-ruby@v1
         with:

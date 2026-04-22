@@ -1,0 +1,8 @@
+<reference anchor="otp-parameters" target="https://www.iana.org/assignments/otp-parameters">
+  <front>
+    <title>One Time Password (OTP) Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

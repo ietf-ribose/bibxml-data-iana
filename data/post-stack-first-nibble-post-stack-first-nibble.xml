@@ -1,0 +1,8 @@
+<reference anchor="post-stack-first-nibble/post-stack-first-nibble" target="https://www.iana.org/assignments/post-stack-first-nibble">
+  <front>
+    <title>Post-Stack First Nibble</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

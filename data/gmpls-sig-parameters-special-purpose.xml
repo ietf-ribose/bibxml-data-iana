@@ -1,0 +1,8 @@
+<reference anchor="gmpls-sig-parameters/special-purpose" target="https://www.iana.org/assignments/gmpls-sig-parameters">
+  <front>
+    <title>Special Purpose Generalized Label Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

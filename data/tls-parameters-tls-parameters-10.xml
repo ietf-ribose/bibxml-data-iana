@@ -1,0 +1,8 @@
+<reference anchor="tls-parameters/tls-parameters-10" target="https://www.iana.org/assignments/tls-parameters">
+  <front>
+    <title>TLS EC Curve Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

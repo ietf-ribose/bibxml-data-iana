@@ -1,0 +1,8 @@
+<reference anchor="snmp-number-spaces/snmp-number-spaces-2" target="https://www.iana.org/assignments/snmp-number-spaces">
+  <front>
+    <title>Message Processing Models</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

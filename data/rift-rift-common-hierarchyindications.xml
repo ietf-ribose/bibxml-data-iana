@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-common-hierarchyindications" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTCommonHierarchyIndications</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="comp-meth-ids/comp-meth-ids-2" target="https://www.iana.org/assignments/comp-meth-ids">
+  <front>
+    <title>TLS Compression Method Identifiers</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

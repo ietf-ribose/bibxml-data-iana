@@ -1,0 +1,8 @@
+<reference anchor="ccnx/ccnx-echo-reply-codes" target="https://www.iana.org/assignments/ccnx">
+  <front>
+    <title>CCNx Echo Reply Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

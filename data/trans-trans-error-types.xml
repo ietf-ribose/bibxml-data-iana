@@ -1,0 +1,8 @@
+<reference anchor="trans/trans-error-types" target="https://www.iana.org/assignments/trans">
+  <front>
+    <title>Error Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

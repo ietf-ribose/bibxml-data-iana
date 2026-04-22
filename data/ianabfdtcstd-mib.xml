@@ -1,0 +1,8 @@
+<reference anchor="ianabfdtcstd-mib" target="https://www.iana.org/assignments/ianabfdtcstd-mib">
+  <front>
+    <title>IANA-BFD-TC-STD-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

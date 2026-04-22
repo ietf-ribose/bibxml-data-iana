@@ -1,0 +1,8 @@
+<reference anchor="jscontact/jscontact-enum-values" target="https://www.iana.org/assignments/jscontact">
+  <front>
+    <title>JSContact Enum Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

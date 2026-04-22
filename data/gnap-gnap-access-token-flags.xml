@@ -1,0 +1,8 @@
+<reference anchor="gnap/gnap-access-token-flags" target="https://www.iana.org/assignments/gnap">
+  <front>
+    <title>GNAP Access Token Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

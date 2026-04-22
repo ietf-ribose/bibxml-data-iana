@@ -1,0 +1,8 @@
+<reference anchor="gnap/gnap-subject-information-response-fields" target="https://www.iana.org/assignments/gnap">
+  <front>
+    <title>GNAP Subject Information Response Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

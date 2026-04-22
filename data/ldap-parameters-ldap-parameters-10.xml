@@ -1,0 +1,8 @@
+<reference anchor="ldap-parameters/ldap-parameters-10" target="https://www.iana.org/assignments/ldap-parameters">
+  <front>
+    <title>LDAP Filter Choices</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

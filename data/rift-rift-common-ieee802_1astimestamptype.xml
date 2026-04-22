@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-common-ieee802_1astimestamptype" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTCommonIEEE8021ASTimeStampType</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

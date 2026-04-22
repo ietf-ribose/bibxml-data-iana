@@ -1,0 +1,8 @@
+<reference anchor="rats" target="https://www.iana.org/assignments/rats">
+  <front>
+    <title>Remote Attestation Procedures (RATS)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

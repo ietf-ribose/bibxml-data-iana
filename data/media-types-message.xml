@@ -1,0 +1,8 @@
+<reference anchor="media-types/message" target="https://www.iana.org/assignments/media-types">
+  <front>
+    <title>message</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

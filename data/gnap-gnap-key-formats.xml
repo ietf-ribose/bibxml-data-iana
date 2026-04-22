@@ -1,0 +1,8 @@
+<reference anchor="gnap/gnap-key-formats" target="https://www.iana.org/assignments/gnap">
+  <front>
+    <title>GNAP Key Formats</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

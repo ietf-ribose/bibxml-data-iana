@@ -1,0 +1,8 @@
+<reference anchor="cmp" target="https://www.iana.org/assignments/cmp">
+  <front>
+    <title>Certificate Management Protocol (CMP)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

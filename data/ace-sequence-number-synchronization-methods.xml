@@ -1,0 +1,8 @@
+<reference anchor="ace/sequence-number-synchronization-methods" target="https://www.iana.org/assignments/ace">
+  <front>
+    <title>Sequence Number Synchronization Methods</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

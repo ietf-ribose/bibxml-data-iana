@@ -1,0 +1,8 @@
+<reference anchor="bgp-extended-communities/bgp-extended-communities-10" target="https://www.iana.org/assignments/bgp-extended-communities">
+  <front>
+    <title>Generic Transitive Extended Community Sub-Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

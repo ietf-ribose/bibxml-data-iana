@@ -1,0 +1,8 @@
+<reference anchor="ppp-numbers/ppp-numbers-7" target="https://www.iana.org/assignments/ppp-numbers">
+  <front>
+    <title>PPP CCP Configuration Option Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="email-auth/property-types" target="https://www.iana.org/assignments/email-auth">
+  <front>
+    <title>Email Authentication Property Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

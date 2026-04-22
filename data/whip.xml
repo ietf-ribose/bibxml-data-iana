@@ -1,0 +1,8 @@
+<reference anchor="whip" target="https://www.iana.org/assignments/whip">
+  <front>
+    <title>WebRTC-HTTP Ingestion Protocol (WHIP)</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

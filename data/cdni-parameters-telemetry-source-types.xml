@@ -1,0 +1,8 @@
+<reference anchor="cdni-parameters/telemetry-source-types" target="https://www.iana.org/assignments/cdni-parameters">
+  <front>
+    <title>CDNI Telemetry Source Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

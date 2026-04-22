@@ -1,0 +1,8 @@
+<reference anchor="http-message-signature" target="https://www.iana.org/assignments/http-message-signature">
+  <front>
+    <title>HTTP Message Signature</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-encoding-keyvaluetieelementcontent" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTEncodingKeyValueTIEElementContent</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
