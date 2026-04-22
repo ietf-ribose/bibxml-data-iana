@@ -1,0 +1,8 @@
+<reference anchor="sdf/sdftype-values" target="https://www.iana.org/assignments/sdf">
+  <front>
+    <title>sdfType Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

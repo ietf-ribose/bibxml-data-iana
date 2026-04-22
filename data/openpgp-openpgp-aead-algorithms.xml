@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-aead-algorithms" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP AEAD Algorithms</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

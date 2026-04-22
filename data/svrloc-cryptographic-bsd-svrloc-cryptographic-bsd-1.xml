@@ -1,0 +1,8 @@
+<reference anchor="svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1" target="https://www.iana.org/assignments/svrloc-cryptographic-bsd">
+  <front>
+    <title>Cryptographic BSD Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

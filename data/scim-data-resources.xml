@@ -1,0 +1,8 @@
+<reference anchor="scim/data-resources" target="https://www.iana.org/assignments/scim">
+  <front>
+    <title>SCIM Schema URIs for Data Resources</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="sip-parameters/uui-encoding" target="https://www.iana.org/assignments/sip-parameters">
+  <front>
+    <title>UUI Encoding Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="dns-parameters/dns-resolver-information-keys" target="https://www.iana.org/assignments/dns-parameters">
+  <front>
+    <title>DNS Resolver Information Keys</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

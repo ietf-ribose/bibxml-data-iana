@@ -1,0 +1,8 @@
+<reference anchor="ancp/command-codes" target="https://www.iana.org/assignments/ancp">
+  <front>
+    <title>ANCP Command Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

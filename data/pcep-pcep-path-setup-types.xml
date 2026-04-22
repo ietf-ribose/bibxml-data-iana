@@ -1,0 +1,8 @@
+<reference anchor="pcep/pcep-path-setup-types" target="https://www.iana.org/assignments/pcep">
+  <front>
+    <title>PCEP Path Setup Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

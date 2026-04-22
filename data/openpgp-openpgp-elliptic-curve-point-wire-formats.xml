@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-elliptic-curve-point-wire-formats" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Elliptic Curve Point Wire Formats</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

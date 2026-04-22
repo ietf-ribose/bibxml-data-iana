@@ -1,0 +1,8 @@
+<reference anchor="hip-parameters/hi-algorithm" target="https://www.iana.org/assignments/hip-parameters">
+  <front>
+    <title>HI Algorithm</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

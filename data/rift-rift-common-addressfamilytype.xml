@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-common-addressfamilytype" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTCommonAddressFamilyType</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

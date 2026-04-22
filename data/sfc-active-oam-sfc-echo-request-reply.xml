@@ -1,0 +1,8 @@
+<reference anchor="sfc-active-oam/sfc-echo-request-reply" target="https://www.iana.org/assignments/sfc-active-oam">
+  <front>
+    <title>SFC Echo Request Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

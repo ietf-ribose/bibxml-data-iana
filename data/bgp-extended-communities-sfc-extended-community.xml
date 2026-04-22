@@ -1,0 +1,8 @@
+<reference anchor="bgp-extended-communities/sfc-extended-community" target="https://www.iana.org/assignments/bgp-extended-communities">
+  <front>
+    <title>SFC Extended Community Sub-Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

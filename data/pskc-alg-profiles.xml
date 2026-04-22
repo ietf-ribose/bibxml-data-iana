@@ -1,0 +1,8 @@
+<reference anchor="pskc/alg-profiles" target="https://www.iana.org/assignments/pskc">
+  <front>
+    <title>Algorithm URI Registry and Related PSKC Profiles</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

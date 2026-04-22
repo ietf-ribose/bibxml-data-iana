@@ -1,0 +1,8 @@
+<reference anchor="bgp-ls-parameters/bgp-ls-sr-segment-descriptor-types" target="https://www.iana.org/assignments/bgp-ls-parameters">
+  <front>
+    <title>BGP-LS SR Segment Descriptor Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

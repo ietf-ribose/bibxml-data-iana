@@ -1,0 +1,8 @@
+<reference anchor="bootp-dhcp-parameters/geoloc-option-version" target="https://www.iana.org/assignments/bootp-dhcp-parameters">
+  <front>
+    <title>GeoLoc Option Version Registry</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

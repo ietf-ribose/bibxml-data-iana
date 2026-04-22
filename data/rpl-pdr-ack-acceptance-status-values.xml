@@ -1,0 +1,8 @@
+<reference anchor="rpl/pdr-ack-acceptance-status-values" target="https://www.iana.org/assignments/rpl">
+  <front>
+    <title>PDR-ACK Acceptance Status Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

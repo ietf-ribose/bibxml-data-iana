@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-signature-notation-data-subpacket-notation-flags" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Signature Notation Data Subpacket Notation Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

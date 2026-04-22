@@ -1,0 +1,8 @@
+<reference anchor="webfinger/properties" target="https://www.iana.org/assignments/webfinger">
+  <front>
+    <title>Webfinger Properties</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="gnap/gnap-rs-facing-discovery-document-fields" target="https://www.iana.org/assignments/gnap">
+  <front>
+    <title>GNAP RS-Facing Discovery Document Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="bgp-spf/bgp-ls-spf-node-nlri-attribute" target="https://www.iana.org/assignments/bgp-spf">
+  <front>
+    <title>BGP-LS-SPF Node NLRI Attribute SPF Status TLV Status</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

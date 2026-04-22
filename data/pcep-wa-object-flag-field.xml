@@ -1,0 +1,8 @@
+<reference anchor="pcep/wa-object-flag-field" target="https://www.iana.org/assignments/pcep">
+  <front>
+    <title>WA Object Flag Field</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

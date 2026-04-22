@@ -1,0 +1,8 @@
+<reference anchor="bootp-dhcp-parameters/radius-attributes-dhcp-suboption" target="https://www.iana.org/assignments/bootp-dhcp-parameters">
+  <front>
+    <title>RADIUS Attributes Permitted in RADIUS Attributes DHCP Suboption</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="cbor-tags/time-tag-map-keys" target="https://www.iana.org/assignments/cbor-tags">
+  <front>
+    <title>Time Tag Map Keys</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

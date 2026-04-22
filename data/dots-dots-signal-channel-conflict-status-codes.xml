@@ -1,0 +1,8 @@
+<reference anchor="dots/dots-signal-channel-conflict-status-codes" target="https://www.iana.org/assignments/dots">
+  <front>
+    <title>DOTS Signal Channel Conflict Status Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

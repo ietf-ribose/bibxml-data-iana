@@ -1,0 +1,8 @@
+<reference anchor="privacy-pass/token-type" target="https://www.iana.org/assignments/privacy-pass">
+  <front>
+    <title>Privacy Pass Token Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

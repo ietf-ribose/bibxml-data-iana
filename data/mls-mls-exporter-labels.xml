@@ -1,0 +1,8 @@
+<reference anchor="mls/mls-exporter-labels" target="https://www.iana.org/assignments/mls">
+  <front>
+    <title>MLS Exporter Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

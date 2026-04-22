@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-encoding-neighbor" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTEncodingNeighbor</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

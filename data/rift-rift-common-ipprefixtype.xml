@@ -1,0 +1,8 @@
+<reference anchor="rift/rift-common-ipprefixtype" target="https://www.iana.org/assignments/rift">
+  <front>
+    <title>RIFTCommonIPPrefixType</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

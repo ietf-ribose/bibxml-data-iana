@@ -1,0 +1,8 @@
+<reference anchor="emsk-parameters/emsk-parameters-1" target="https://www.iana.org/assignments/emsk-parameters">
+  <front>
+    <title>User Specific Root Keys (USRK) Key Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

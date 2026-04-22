@@ -1,0 +1,8 @@
+<reference anchor="coap-eap" target="https://www.iana.org/assignments/coap-eap">
+  <front>
+    <title>CoAP-EAP Protocol</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

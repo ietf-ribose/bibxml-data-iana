@@ -1,0 +1,8 @@
+<reference anchor="gnap/gnap-token-introspection-request" target="https://www.iana.org/assignments/gnap">
+  <front>
+    <title>GNAP Token Introspection Request</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-signature-notation-data-subpacket-types" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Signature Notation Data Subpacket Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

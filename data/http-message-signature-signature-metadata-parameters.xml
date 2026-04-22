@@ -1,0 +1,8 @@
+<reference anchor="http-message-signature/signature-metadata-parameters" target="https://www.iana.org/assignments/http-message-signature">
+  <front>
+    <title>HTTP Signature Metadata Parameters</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

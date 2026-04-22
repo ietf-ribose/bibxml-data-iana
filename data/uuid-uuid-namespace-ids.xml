@@ -1,0 +1,8 @@
+<reference anchor="uuid/uuid-namespace-ids" target="https://www.iana.org/assignments/uuid">
+  <front>
+    <title>UUID Namespace IDs</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

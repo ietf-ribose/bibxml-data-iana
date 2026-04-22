@@ -1,0 +1,8 @@
+<reference anchor="bgp-tunnel-encapsulation/color-extended-community-color-only-types" target="https://www.iana.org/assignments/bgp-tunnel-encapsulation">
+  <front>
+    <title>Color Extended Community Color-Only Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

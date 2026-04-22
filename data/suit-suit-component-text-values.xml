@@ -1,0 +1,8 @@
+<reference anchor="suit/suit-component-text-values" target="https://www.iana.org/assignments/suit">
+  <front>
+    <title>SUIT Component Text Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

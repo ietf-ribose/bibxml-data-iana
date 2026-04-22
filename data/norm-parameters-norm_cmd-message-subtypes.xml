@@ -1,0 +1,8 @@
+<reference anchor="norm-parameters/norm_cmd-message-subtypes" target="https://www.iana.org/assignments/norm-parameters">
+  <front>
+    <title>NORM_CMD Message Sub-types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

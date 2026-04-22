@@ -1,0 +1,8 @@
+<reference anchor="mpls-id-type" target="https://www.iana.org/assignments/mpls-id-type">
+  <front>
+    <title>Multiprotocol Label Switching Architecture (MPLS) Identifier Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="ianaiftype-mib" target="https://www.iana.org/assignments/ianaiftype-mib">
+  <front>
+    <title>IANAifType-MIB</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

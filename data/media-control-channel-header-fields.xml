@@ -1,0 +1,8 @@
+<reference anchor="media-control-channel/header-fields" target="https://www.iana.org/assignments/media-control-channel">
+  <front>
+    <title>Header Fields</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

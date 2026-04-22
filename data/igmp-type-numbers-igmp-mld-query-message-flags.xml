@@ -1,0 +1,8 @@
+<reference anchor="igmp-type-numbers/igmp-mld-query-message-flags" target="https://www.iana.org/assignments/igmp-type-numbers">
+  <front>
+    <title>IGMP/MLD Query Message Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="rpl/projected-dao-request-flags" target="https://www.iana.org/assignments/rpl">
+  <front>
+    <title>Projected DAO Request (PDR) Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

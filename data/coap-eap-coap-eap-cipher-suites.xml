@@ -1,0 +1,8 @@
+<reference anchor="coap-eap/coap-eap-cipher-suites" target="https://www.iana.org/assignments/coap-eap">
+  <front>
+    <title>CoAP-EAP Cipher Suites</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

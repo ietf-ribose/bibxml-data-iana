@@ -1,0 +1,8 @@
+<reference anchor="smtp-enhanced-status-codes/smtp-enhanced-status-codes-1" target="https://www.iana.org/assignments/smtp-enhanced-status-codes">
+  <front>
+    <title>Class Sub-Codes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

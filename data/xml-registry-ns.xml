@@ -1,0 +1,8 @@
+<reference anchor="xml-registry/ns" target="https://www.iana.org/assignments/xml-registry">
+  <front>
+    <title>ns</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

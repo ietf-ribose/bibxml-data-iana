@@ -1,0 +1,8 @@
+<reference anchor="drip/drip-frame-types" target="https://www.iana.org/assignments/drip">
+  <front>
+    <title>DRIP Frame Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

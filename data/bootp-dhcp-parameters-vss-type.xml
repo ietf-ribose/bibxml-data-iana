@@ -1,0 +1,8 @@
+<reference anchor="bootp-dhcp-parameters/vss-type" target="https://www.iana.org/assignments/bootp-dhcp-parameters">
+  <front>
+    <title>VSS Type Options</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

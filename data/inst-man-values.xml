@@ -1,0 +1,8 @@
+<reference anchor="inst-man-values" target="https://www.iana.org/assignments/inst-man-values">
+  <front>
+    <title>Instance Manipulation Values</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

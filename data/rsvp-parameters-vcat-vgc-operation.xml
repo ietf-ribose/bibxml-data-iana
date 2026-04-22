@@ -1,0 +1,8 @@
+<reference anchor="rsvp-parameters/vcat-vgc-operation" target="https://www.iana.org/assignments/rsvp-parameters">
+  <front>
+    <title>VCAT VCG Operation Actions</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

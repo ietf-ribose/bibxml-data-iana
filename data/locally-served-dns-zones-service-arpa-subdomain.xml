@@ -1,0 +1,8 @@
+<reference anchor="locally-served-dns-zones/service-arpa-subdomain" target="https://www.iana.org/assignments/locally-served-dns-zones">
+  <front>
+    <title>service.arpa Subdomain</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

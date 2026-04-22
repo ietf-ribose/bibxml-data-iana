@@ -1,0 +1,8 @@
+<reference anchor="kerberos-parameters/second-factor-types" target="https://www.iana.org/assignments/kerberos-parameters">
+  <front>
+    <title>Kerberos Second Factor Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

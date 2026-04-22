@@ -1,0 +1,8 @@
+<reference anchor="ioam/pot-flags" target="https://www.iana.org/assignments/ioam">
+  <front>
+    <title>IOAM POT-Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

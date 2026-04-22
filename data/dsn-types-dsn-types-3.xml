@@ -1,0 +1,8 @@
+<reference anchor="dsn-types/dsn-types-3" target="https://www.iana.org/assignments/dsn-types">
+  <front>
+    <title>MTA Name Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

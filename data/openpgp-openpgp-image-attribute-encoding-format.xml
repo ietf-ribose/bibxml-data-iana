@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-image-attribute-encoding-format" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Image Attribute Encoding Format</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

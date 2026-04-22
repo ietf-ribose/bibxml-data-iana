@@ -1,0 +1,8 @@
+<reference anchor="lisp-parameters/map-reply-authentication-data-types" target="https://www.iana.org/assignments/lisp-parameters">
+  <front>
+    <title>LISP Map-Reply Authentication Data Types</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

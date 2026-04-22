@@ -1,0 +1,8 @@
+<reference anchor="openpgp/openpgp-features-flags" target="https://www.iana.org/assignments/openpgp">
+  <front>
+    <title>OpenPGP Features Flags</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

@@ -1,0 +1,8 @@
+<reference anchor="rddp/rdmap-errors" target="https://www.iana.org/assignments/rddp">
+  <front>
+    <title>RDMAP Errors</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

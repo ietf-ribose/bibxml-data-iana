@@ -1,0 +1,8 @@
+<reference anchor="pkix-parameters/srv-protocol-labels" target="https://www.iana.org/assignments/pkix-parameters">
+  <front>
+    <title>PKIX SRV Protocol Labels</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

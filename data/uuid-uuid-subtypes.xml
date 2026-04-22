@@ -1,0 +1,8 @@
+<reference anchor="uuid/uuid-subtypes" target="https://www.iana.org/assignments/uuid">
+  <front>
+    <title>UUID Subtypes</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>

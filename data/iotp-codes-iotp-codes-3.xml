@@ -1,0 +1,8 @@
+<reference anchor="iotp-codes/iotp-codes-3" target="https://www.iana.org/assignments/iotp-codes">
+  <front>
+    <title>CurrencyAmount/CurrCode</title>
+    <author>
+      <organization abbrev="IANA">Internet Assigned Numbers Authority</organization>
+    </author>
+  </front>
+</reference>
